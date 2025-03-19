@@ -1,0 +1,6320 @@
+[
+    {
+        "input": "242679-input.png",
+        "mask": "242679-mask1.png",
+        "output": "242679-output1.png",
+        "instruction": "Put a cat on the seat."
+    },
+    {
+        "input": "368667-input.png",
+        "mask": "368667-mask1.png",
+        "output": "368667-output1.png",
+        "instruction": "Have there be a stream running through the field"
+    },
+    {
+        "input": "368667-output1.png",
+        "mask": "368667-mask2.png",
+        "output": "368667-output2.png",
+        "instruction": "Add a giraffe in the field"
+    },
+    {
+        "input": "368667-output2.png",
+        "mask": "368667-mask3.png",
+        "output": "368667-output3.png",
+        "instruction": "Add a supernova explosion in the sky"
+    },
+    {
+        "input": "385042-input.png",
+        "mask": "385042-mask1.png",
+        "output": "385042-output1.png",
+        "instruction": "Make the hydrant all white."
+    },
+    {
+        "input": "385042-output1.png",
+        "mask": "385042-mask2.png",
+        "output": "385042-output2.png",
+        "instruction": "Put the hydrant on asphalt."
+    },
+    {
+        "input": "385042-output2.png",
+        "mask": "385042-mask3.png",
+        "output": "385042-output3.png",
+        "instruction": "Add a leashed dog to the hydrant."
+    },
+    {
+        "input": "483348-input.png",
+        "mask": "483348-mask1.png",
+        "output": "483348-output1.png",
+        "instruction": "Put down the seat."
+    },
+    {
+        "input": "483348-output1.png",
+        "mask": "483348-mask2.png",
+        "output": "483348-output2.png",
+        "instruction": "Put a frog in the toilet."
+    },
+    {
+        "input": "483348-output2.png",
+        "mask": "483348-mask3.png",
+        "output": "483348-output3.png",
+        "instruction": "Repair the floor."
+    },
+    {
+        "input": "141946-input.png",
+        "mask": "141946-mask1.png",
+        "output": "141946-output1.png",
+        "instruction": "let the laptop screen be blank"
+    },
+    {
+        "input": "141946-output1.png",
+        "mask": "141946-mask2.png",
+        "output": "141946-output2.png",
+        "instruction": "let the chair be red"
+    },
+    {
+        "input": "141946-output2.png",
+        "mask": "141946-mask3.png",
+        "output": "141946-output3.png",
+        "instruction": "let the desktop be black"
+    },
+    {
+        "input": "408425-input.png",
+        "mask": "408425-mask1.png",
+        "output": "408425-output1.png",
+        "instruction": "change the bright lime green curtains to white curtains"
+    },
+    {
+        "input": "408425-output1.png",
+        "mask": "408425-mask2.png",
+        "output": "408425-output2.png",
+        "instruction": "change the bed to a bean bag"
+    },
+    {
+        "input": "408425-output2.png",
+        "mask": "408425-mask3.png",
+        "output": "408425-output3.png",
+        "instruction": "let the table be wooden"
+    },
+    {
+        "input": "352290-input.png",
+        "mask": "352290-mask1.png",
+        "output": "352290-output1.png",
+        "instruction": "What if the horse was using a hat?"
+    },
+    {
+        "input": "352290-output1.png",
+        "mask": "352290-mask2.png",
+        "output": "352290-output2.png",
+        "instruction": "Let's add birds to the sky"
+    },
+    {
+        "input": "385037-input.png",
+        "mask": "385037-mask1.png",
+        "output": "385037-output1.png",
+        "instruction": "Remove the man."
+    },
+    {
+        "input": "385037-output1.png",
+        "mask": "385037-mask2.png",
+        "output": "385037-output2.png",
+        "instruction": "Make the woman obese."
+    },
+    {
+        "input": "385037-output2.png",
+        "mask": "385037-mask3.png",
+        "output": "385037-output3.png",
+        "instruction": "Give the woman a helmet."
+    },
+    {
+        "input": "464144-input.png",
+        "mask": "464144-mask1.png",
+        "output": "464144-output1.png",
+        "instruction": "Let a boy ski."
+    },
+    {
+        "input": "578213-input.png",
+        "mask": "578213-mask1.png",
+        "output": "578213-output1.png",
+        "instruction": "put banana shaped candles in the candle holder"
+    },
+    {
+        "input": "127515-input.png",
+        "mask": "127515-mask1.png",
+        "output": "127515-output1.png",
+        "instruction": "let the player catch a ball"
+    },
+    {
+        "input": "308332-input.png",
+        "mask": "308332-mask1.png",
+        "output": "308332-output1.png",
+        "instruction": "Have there be a mermaid in the picture on the wall"
+    },
+    {
+        "input": "308332-output1.png",
+        "mask": "308332-mask2.png",
+        "output": "308332-output2.png",
+        "instruction": "Have the mermaid be reading a book"
+    },
+    {
+        "input": "308332-output2.png",
+        "mask": "308332-mask3.png",
+        "output": "308332-output3.png",
+        "instruction": "Have there be a lobster on the bed"
+    },
+    {
+        "input": "284725-input.png",
+        "mask": "284725-mask1.png",
+        "output": "284725-output1.png",
+        "instruction": "Remove the car in front of the bus."
+    },
+    {
+        "input": "284725-output1.png",
+        "mask": "284725-mask2.png",
+        "output": "284725-output2.png",
+        "instruction": "Put a small cat on top of the bus."
+    },
+    {
+        "input": "560472-input.png",
+        "mask": "560472-mask1.png",
+        "output": "560472-output1.png",
+        "instruction": "let there be patties in the pan"
+    },
+    {
+        "input": "560472-output1.png",
+        "mask": "560472-mask2.png",
+        "output": "560472-output2.png",
+        "instruction": "let there be pancakes on the pan"
+    },
+    {
+        "input": "560472-output2.png",
+        "mask": "560472-mask3.png",
+        "output": "560472-output3.png",
+        "instruction": "let there be a bottle of wine"
+    },
+    {
+        "input": "441483-input.png",
+        "mask": "441483-mask1.png",
+        "output": "441483-output1.png",
+        "instruction": "Let the toilet bowl have a lid."
+    },
+    {
+        "input": "116518-input.png",
+        "mask": "116518-mask1.png",
+        "output": "116518-output1.png",
+        "instruction": "Make the teddy bear black."
+    },
+    {
+        "input": "116518-output1.png",
+        "mask": "116518-mask2.png",
+        "output": "116518-output2.png",
+        "instruction": "Have the dog lick the teddy bear."
+    },
+    {
+        "input": "116518-output2.png",
+        "mask": "116518-mask3.png",
+        "output": "116518-output3.png",
+        "instruction": "Put a dragonfly on the dog's ear."
+    },
+    {
+        "input": "103966-input.png",
+        "mask": "103966-mask1.png",
+        "output": "103966-output1.png",
+        "instruction": "replace the tennis rackets with a shovel"
+    },
+    {
+        "input": "103966-output1.png",
+        "mask": "103966-mask2.png",
+        "output": "103966-output2.png",
+        "instruction": "change the bench into a wooden pew"
+    },
+    {
+        "input": "103966-output2.png",
+        "mask": "103966-mask3.png",
+        "output": "103966-output3.png",
+        "instruction": "let there be a bucket of the dirt"
+    },
+    {
+        "input": "258155-input.png",
+        "mask": "258155-mask1.png",
+        "output": "258155-output1.png",
+        "instruction": "Let the blanket be longer and hang over the bed."
+    },
+    {
+        "input": "495146-input.png",
+        "mask": "495146-mask1.png",
+        "output": "495146-output1.png",
+        "instruction": "Add a helicopter."
+    },
+    {
+        "input": "70491-input.png",
+        "mask": "70491-mask1.png",
+        "output": "70491-output1.png",
+        "instruction": "let the remote turn into a VR headset"
+    },
+    {
+        "input": "70491-output1.png",
+        "mask": "70491-mask2.png",
+        "output": "70491-output2.png",
+        "instruction": "let there be a movie poster on the wall"
+    },
+    {
+        "input": "70491-output2.png",
+        "mask": "70491-mask3.png",
+        "output": "70491-output3.png",
+        "instruction": "let there be a credit card on the table"
+    },
+    {
+        "input": "296012-input.png",
+        "mask": "296012-mask1.png",
+        "output": "296012-output1.png",
+        "instruction": "transform the car into a red sports car"
+    },
+    {
+        "input": "221187-input.png",
+        "mask": "221187-mask1.png",
+        "output": "221187-output1.png",
+        "instruction": "Change the banana to a microphone."
+    },
+    {
+        "input": "160864-input.png",
+        "mask": "160864-mask1.png",
+        "output": "160864-output1.png",
+        "instruction": "make the baseball players hold swords"
+    },
+    {
+        "input": "160864-output1.png",
+        "mask": "160864-mask2.png",
+        "output": "160864-output2.png",
+        "instruction": "make the catcher laugh"
+    },
+    {
+        "input": "160864-output2.png",
+        "mask": "160864-mask3.png",
+        "output": "160864-output3.png",
+        "instruction": "let the catcher wear a clown costume"
+    },
+    {
+        "input": "51746-input.png",
+        "mask": "51746-mask1.png",
+        "output": "51746-output1.png",
+        "instruction": "change the white couch to a brown couch"
+    },
+    {
+        "input": "51746-output1.png",
+        "mask": "51746-mask2.png",
+        "output": "51746-output2.png",
+        "instruction": "let the TV have a blank screen"
+    },
+    {
+        "input": "51746-output2.png",
+        "mask": "51746-mask3.png",
+        "output": "51746-output3.png",
+        "instruction": "add a puppy near the couch"
+    },
+    {
+        "input": "171328-input.png",
+        "mask": "171328-mask1.png",
+        "output": "171328-output1.png",
+        "instruction": "change the brick wall into a tower"
+    },
+    {
+        "input": "171328-output1.png",
+        "mask": "171328-mask2.png",
+        "output": "171328-output2.png",
+        "instruction": "change the oranges into berries"
+    },
+    {
+        "input": "171328-output2.png",
+        "mask": "171328-mask3.png",
+        "output": "171328-output3.png",
+        "instruction": "let the leaves be ripe and yellowed"
+    },
+    {
+        "input": "398772-input.png",
+        "mask": "398772-mask1.png",
+        "output": "398772-output1.png",
+        "instruction": "change the chair into a wheel chair."
+    },
+    {
+        "input": "398772-output1.png",
+        "mask": "398772-mask2.png",
+        "output": "398772-output2.png",
+        "instruction": "make the bed look like a hospital bed"
+    },
+    {
+        "input": "118246-input.png",
+        "mask": "118246-mask1.png",
+        "output": "118246-output1.png",
+        "instruction": "Make the peanuts have shells"
+    },
+    {
+        "input": "114697-input.png",
+        "mask": "114697-mask1.png",
+        "output": "114697-output1.png",
+        "instruction": "Add a baseball coach."
+    },
+    {
+        "input": "3259-input.png",
+        "mask": "3259-mask1.png",
+        "output": "3259-output1.png",
+        "instruction": "replace the phone with a table lamp"
+    },
+    {
+        "input": "3259-output1.png",
+        "mask": "3259-mask2.png",
+        "output": "3259-output2.png",
+        "instruction": "let the laptop have a red webpage"
+    },
+    {
+        "input": "3259-output2.png",
+        "mask": "3259-mask3.png",
+        "output": "3259-output3.png",
+        "instruction": "change the black laptop to white laptop"
+    },
+    {
+        "input": "519688-input.png",
+        "mask": "519688-mask1.png",
+        "output": "519688-output1.png",
+        "instruction": "Give the women scars on her face."
+    },
+    {
+        "input": "554145-input.png",
+        "mask": "554145-mask1.png",
+        "output": "554145-output1.png",
+        "instruction": "Fix an orange sticky note to some brushes."
+    },
+    {
+        "input": "296724-input.png",
+        "mask": "296724-mask1.png",
+        "output": "296724-output1.png",
+        "instruction": "Add a grandma."
+    },
+    {
+        "input": "417043-input.png",
+        "mask": "417043-mask1.png",
+        "output": "417043-output1.png",
+        "instruction": "Put a clown on the bench."
+    },
+    {
+        "input": "65135-input.png",
+        "mask": "65135-mask1.png",
+        "output": "65135-output1.png",
+        "instruction": "Let the plane be parked on the runway."
+    },
+    {
+        "input": "5253-input.png",
+        "mask": "5253-mask1.png",
+        "output": "5253-output1.png",
+        "instruction": "Change the stop sign to say \"GO\""
+    },
+    {
+        "input": "335874-input.png",
+        "mask": "335874-mask1.png",
+        "output": "335874-output1.png",
+        "instruction": "Give the polar bear zebra stripes"
+    },
+    {
+        "input": "335874-output1.png",
+        "mask": "335874-mask2.png",
+        "output": "335874-output2.png",
+        "instruction": "Have the polar bear be holding a whole pizza in its mouth"
+    },
+    {
+        "input": "335874-output2.png",
+        "mask": "335874-mask3.png",
+        "output": "335874-output3.png",
+        "instruction": "Have the polar bear be wearing a top hat"
+    },
+    {
+        "input": "169365-input.png",
+        "mask": "169365-mask1.png",
+        "output": "169365-output1.png",
+        "instruction": "let the cat meow"
+    },
+    {
+        "input": "440336-input.png",
+        "mask": "440336-mask1.png",
+        "output": "440336-output1.png",
+        "instruction": "Make a fireball."
+    },
+    {
+        "input": "440336-output1.png",
+        "mask": "440336-mask2.png",
+        "output": "440336-output2.png",
+        "instruction": "Insert a bird."
+    },
+    {
+        "input": "330790-input.png",
+        "mask": "330790-mask1.png",
+        "output": "330790-output1.png",
+        "instruction": "put a red bow on the elephant's head"
+    },
+    {
+        "input": "237587-input.png",
+        "mask": "237587-mask1.png",
+        "output": "237587-output1.png",
+        "instruction": "Have there be a bald eagle perched on the fire hydrant"
+    },
+    {
+        "input": "25485-input.png",
+        "mask": "25485-mask1.png",
+        "output": "25485-output1.png",
+        "instruction": "Replace the dove with an owl."
+    },
+    {
+        "input": "25485-output1.png",
+        "mask": "25485-mask2.png",
+        "output": "25485-output2.png",
+        "instruction": "There should be a kitten on the floor."
+    },
+    {
+        "input": "495312-input.png",
+        "mask": "495312-mask1.png",
+        "output": "495312-output1.png",
+        "instruction": "What if he was holding a laptop?"
+    },
+    {
+        "input": "495312-output1.png",
+        "mask": "495312-mask2.png",
+        "output": "495312-output2.png",
+        "instruction": "What if he has glasses?"
+    },
+    {
+        "input": "331816-input.png",
+        "mask": "331816-mask1.png",
+        "output": "331816-output1.png",
+        "instruction": "Take away the trees."
+    },
+    {
+        "input": "115037-input.png",
+        "mask": "115037-mask1.png",
+        "output": "115037-output1.png",
+        "instruction": "Let the scissors be made of plastic."
+    },
+    {
+        "input": "376843-input.png",
+        "mask": "376843-mask1.png",
+        "output": "376843-output1.png",
+        "instruction": "Let the man wear brown pants."
+    },
+    {
+        "input": "54464-input.png",
+        "mask": "54464-mask1.png",
+        "output": "54464-output1.png",
+        "instruction": "put a heart pillow next to the laptop"
+    },
+    {
+        "input": "54464-output1.png",
+        "mask": "54464-mask2.png",
+        "output": "54464-output2.png",
+        "instruction": "remove the laptop and leave a heart pillow"
+    },
+    {
+        "input": "54464-output2.png",
+        "mask": "54464-mask3.png",
+        "output": "54464-output3.png",
+        "instruction": "remove the other items from the bed"
+    },
+    {
+        "input": "151050-input.png",
+        "mask": "151050-mask1.png",
+        "output": "151050-output1.png",
+        "instruction": "change the stop sign into a no entry sign"
+    },
+    {
+        "input": "151050-output1.png",
+        "mask": "151050-mask2.png",
+        "output": "151050-output2.png",
+        "instruction": "add a carved pumpkin next to the sign"
+    },
+    {
+        "input": "151050-output2.png",
+        "mask": "151050-mask3.png",
+        "output": "151050-output3.png",
+        "instruction": "add a woman jogging in the back"
+    },
+    {
+        "input": "222015-input.png",
+        "mask": "222015-mask1.png",
+        "output": "222015-output1.png",
+        "instruction": "turn the clock into an eye"
+    },
+    {
+        "input": "491098-input.png",
+        "mask": "491098-mask1.png",
+        "output": "491098-output1.png",
+        "instruction": "What if there is a bottle of wine on the table?"
+    },
+    {
+        "input": "491098-output1.png",
+        "mask": "491098-mask2.png",
+        "output": "491098-output2.png",
+        "instruction": "Let's add a drawing of a girl to the wall."
+    },
+    {
+        "input": "461252-input.png",
+        "mask": "461252-mask1.png",
+        "output": "461252-output1.png",
+        "instruction": "let the bowl contain broccoli and bell peppers"
+    },
+    {
+        "input": "461252-output1.png",
+        "mask": "461252-mask2.png",
+        "output": "461252-output2.png",
+        "instruction": "let there be empty bun instead of the sandwich"
+    },
+    {
+        "input": "461252-output2.png",
+        "mask": "461252-mask3.png",
+        "output": "461252-output3.png",
+        "instruction": "let the food be on a transparent glass plate"
+    },
+    {
+        "input": "294330-input.png",
+        "mask": "294330-mask1.png",
+        "output": "294330-output1.png",
+        "instruction": "let the books be leather bound"
+    },
+    {
+        "input": "294330-output1.png",
+        "mask": "294330-mask2.png",
+        "output": "294330-output2.png",
+        "instruction": "let the computer screens have code"
+    },
+    {
+        "input": "294330-output2.png",
+        "mask": "294330-mask3.png",
+        "output": "294330-output3.png",
+        "instruction": "remove the chairs"
+    },
+    {
+        "input": "65307-input.png",
+        "mask": "65307-mask1.png",
+        "output": "65307-output1.png",
+        "instruction": "Have the woman wear a hat."
+    },
+    {
+        "input": "373776-input.png",
+        "mask": "373776-mask1.png",
+        "output": "373776-output1.png",
+        "instruction": "Change the teardrop cutouts to be a star-shaped hole"
+    },
+    {
+        "input": "163866-input.png",
+        "mask": "163866-mask1.png",
+        "output": "163866-output1.png",
+        "instruction": "Let's add a dog to the left side of the woman."
+    },
+    {
+        "input": "393403-input.png",
+        "mask": "393403-mask1.png",
+        "output": "393403-output1.png",
+        "instruction": "change the bus into a train"
+    },
+    {
+        "input": "459898-input.png",
+        "mask": "459898-mask1.png",
+        "output": "459898-output1.png",
+        "instruction": "change a zebra into a wolf"
+    },
+    {
+        "input": "459898-output1.png",
+        "mask": "459898-mask2.png",
+        "output": "459898-output2.png",
+        "instruction": "add a bird on the zebra"
+    },
+    {
+        "input": "161062-input.png",
+        "mask": "161062-mask1.png",
+        "output": "161062-output1.png",
+        "instruction": "There should be no plane."
+    },
+    {
+        "input": "246924-input.png",
+        "mask": "246924-mask1.png",
+        "output": "246924-output1.png",
+        "instruction": "Remove the hand hairs."
+    },
+    {
+        "input": "246924-output1.png",
+        "mask": "246924-mask2.png",
+        "output": "246924-output2.png",
+        "instruction": "Get rid of the green peppers."
+    },
+    {
+        "input": "482545-input.png",
+        "mask": "482545-mask1.png",
+        "output": "482545-output1.png",
+        "instruction": "Change the cat to an iguana"
+    },
+    {
+        "input": "32818-input.png",
+        "mask": "32818-mask1.png",
+        "output": "32818-output1.png",
+        "instruction": "have one person fly a kite"
+    },
+    {
+        "input": "32818-output1.png",
+        "mask": "32818-mask2.png",
+        "output": "32818-output2.png",
+        "instruction": "make one bench wood"
+    },
+    {
+        "input": "32818-output2.png",
+        "mask": "32818-mask3.png",
+        "output": "32818-output3.png",
+        "instruction": "add a bag of popcorn and a group of ducks"
+    },
+    {
+        "input": "534041-input.png",
+        "mask": "534041-mask1.png",
+        "output": "534041-output1.png",
+        "instruction": "Have the boy be wearing sunglasses"
+    },
+    {
+        "input": "536595-input.png",
+        "mask": "536595-mask1.png",
+        "output": "536595-output1.png",
+        "instruction": "change the white and blue hydrant into red"
+    },
+    {
+        "input": "536595-output1.png",
+        "mask": "536595-mask2.png",
+        "output": "536595-output2.png",
+        "instruction": "add a mascot"
+    },
+    {
+        "input": "536595-output2.png",
+        "mask": "536595-mask3.png",
+        "output": "536595-output3.png",
+        "instruction": "add a roadblock near the hydrant"
+    },
+    {
+        "input": "279939-input.png",
+        "mask": "279939-mask1.png",
+        "output": "279939-output1.png",
+        "instruction": "What if the lid was closed?"
+    },
+    {
+        "input": "358653-input.png",
+        "mask": "358653-mask1.png",
+        "output": "358653-output1.png",
+        "instruction": "add drawing to the refrigerator"
+    },
+    {
+        "input": "358653-output1.png",
+        "mask": "358653-mask2.png",
+        "output": "358653-output2.png",
+        "instruction": "put a cat on top of the freezer"
+    },
+    {
+        "input": "348966-input.png",
+        "mask": "348966-mask1.png",
+        "output": "348966-output1.png",
+        "instruction": "Make the drinks blue."
+    },
+    {
+        "input": "338924-input.png",
+        "mask": "338924-mask1.png",
+        "output": "338924-output1.png",
+        "instruction": "change the basil plant into a geranium plant"
+    },
+    {
+        "input": "338924-output1.png",
+        "mask": "338924-mask2.png",
+        "output": "338924-output2.png",
+        "instruction": "turn the vegetable pizza into meat pizza"
+    },
+    {
+        "input": "338924-output2.png",
+        "mask": "338924-mask3.png",
+        "output": "338924-output3.png",
+        "instruction": "let the wooden tray be a round white plate"
+    },
+    {
+        "input": "286724-input.png",
+        "mask": "286724-mask1.png",
+        "output": "286724-output1.png",
+        "instruction": "What if the elephants were walking in the woods with no trees?"
+    },
+    {
+        "input": "88759-input.png",
+        "mask": "88759-mask1.png",
+        "output": "88759-output1.png",
+        "instruction": "put a oven on the kitchen"
+    },
+    {
+        "input": "88759-output1.png",
+        "mask": "88759-mask2.png",
+        "output": "88759-output2.png",
+        "instruction": "put a watermelon on the kitchen"
+    },
+    {
+        "input": "360510-input.png",
+        "mask": "360510-mask1.png",
+        "output": "360510-output1.png",
+        "instruction": "change the car to a truck"
+    },
+    {
+        "input": "360510-output1.png",
+        "mask": "360510-mask2.png",
+        "output": "360510-output2.png",
+        "instruction": "have the sun shine on the building"
+    },
+    {
+        "input": "360510-output2.png",
+        "mask": "360510-mask3.png",
+        "output": "360510-output3.png",
+        "instruction": "add fishing poles"
+    },
+    {
+        "input": "208469-input.png",
+        "mask": "208469-mask1.png",
+        "output": "208469-output1.png",
+        "instruction": "make the pizza round"
+    },
+    {
+        "input": "208469-output1.png",
+        "mask": "208469-mask2.png",
+        "output": "208469-output2.png",
+        "instruction": "put a glass close to the pizza"
+    },
+    {
+        "input": "8238-input.png",
+        "mask": "8238-mask1.png",
+        "output": "8238-output1.png",
+        "instruction": "Let the man wear a red tie."
+    },
+    {
+        "input": "543833-input.png",
+        "mask": "543833-mask1.png",
+        "output": "543833-output1.png",
+        "instruction": "let the glass vase be blue"
+    },
+    {
+        "input": "543833-output1.png",
+        "mask": "543833-mask2.png",
+        "output": "543833-output2.png",
+        "instruction": "let the pot next to the vase be blue"
+    },
+    {
+        "input": "543833-output2.png",
+        "mask": "543833-mask3.png",
+        "output": "543833-output3.png",
+        "instruction": "add a candle near the pot"
+    },
+    {
+        "input": "262710-input.png",
+        "mask": "262710-mask1.png",
+        "output": "262710-output1.png",
+        "instruction": "replace the cap with a cowboy hat"
+    },
+    {
+        "input": "104081-input.png",
+        "mask": "104081-mask1.png",
+        "output": "104081-output1.png",
+        "instruction": "let there be a tractor"
+    },
+    {
+        "input": "104081-output1.png",
+        "mask": "104081-mask2.png",
+        "output": "104081-output2.png",
+        "instruction": "let there be a log cabin in the back"
+    },
+    {
+        "input": "156195-input.png",
+        "mask": "156195-mask1.png",
+        "output": "156195-output1.png",
+        "instruction": "Change the trees to have red leaves"
+    },
+    {
+        "input": "156195-output1.png",
+        "mask": "156195-mask2.png",
+        "output": "156195-output2.png",
+        "instruction": "Have there be a model posing next to the sheep"
+    },
+    {
+        "input": "161128-input.png",
+        "mask": "161128-mask1.png",
+        "output": "161128-output1.png",
+        "instruction": "change the no cursing sign to a parking sign"
+    },
+    {
+        "input": "161128-output1.png",
+        "mask": "161128-mask2.png",
+        "output": "161128-output2.png",
+        "instruction": "add a lightning bolt in the sky"
+    },
+    {
+        "input": "161128-output2.png",
+        "mask": "161128-mask3.png",
+        "output": "161128-output3.png",
+        "instruction": "add a cop car"
+    },
+    {
+        "input": "376839-input.png",
+        "mask": "376839-mask1.png",
+        "output": "376839-output1.png",
+        "instruction": "Let's add a dog to it."
+    },
+    {
+        "input": "376839-output1.png",
+        "mask": "376839-mask2.png",
+        "output": "376839-output2.png",
+        "instruction": "What if the woman had a cowboy hat."
+    },
+    {
+        "input": "475425-input.png",
+        "mask": "475425-mask1.png",
+        "output": "475425-output1.png",
+        "instruction": "remove all the food from the plate"
+    },
+    {
+        "input": "475425-output1.png",
+        "mask": "475425-mask2.png",
+        "output": "475425-output2.png",
+        "instruction": "remove the milk glass and put a soda can in place"
+    },
+    {
+        "input": "446522-input.png",
+        "mask": "446522-mask1.png",
+        "output": "446522-output1.png",
+        "instruction": "add the dinning room in the background"
+    },
+    {
+        "input": "446522-output1.png",
+        "mask": "446522-mask2.png",
+        "output": "446522-output2.png",
+        "instruction": "Add a cat beside the dog."
+    },
+    {
+        "input": "446522-output2.png",
+        "mask": "446522-mask3.png",
+        "output": "446522-output3.png",
+        "instruction": "Place a floor lamp next to the chair."
+    },
+    {
+        "input": "32777-input.png",
+        "mask": "32777-mask1.png",
+        "output": "32777-output1.png",
+        "instruction": "Let's add a hat to the man with the backpack"
+    },
+    {
+        "input": "383220-input.png",
+        "mask": "383220-mask1.png",
+        "output": "383220-output1.png",
+        "instruction": "remove the snowmen and add squirrels"
+    },
+    {
+        "input": "383220-output1.png",
+        "mask": "383220-mask2.png",
+        "output": "383220-output2.png",
+        "instruction": "make it night and add the moon"
+    },
+    {
+        "input": "385190-input.png",
+        "mask": "385190-mask1.png",
+        "output": "385190-output1.png",
+        "instruction": "The painting should be of flowers."
+    },
+    {
+        "input": "319522-input.png",
+        "mask": "319522-mask1.png",
+        "output": "319522-output1.png",
+        "instruction": "Let the horses turn white."
+    },
+    {
+        "input": "67616-input.png",
+        "mask": "67616-mask1.png",
+        "output": "67616-output1.png",
+        "instruction": "Have a red Lamborghini parked in front"
+    },
+    {
+        "input": "71409-input.png",
+        "mask": "71409-mask1.png",
+        "output": "71409-output1.png",
+        "instruction": "Put a new car on the street."
+    },
+    {
+        "input": "71409-output1.png",
+        "mask": "71409-mask2.png",
+        "output": "71409-output2.png",
+        "instruction": "Put a fire hydrant on the side walk."
+    },
+    {
+        "input": "125109-input.png",
+        "mask": "125109-mask1.png",
+        "output": "125109-output1.png",
+        "instruction": "change the wooden floor into a red tile floor"
+    },
+    {
+        "input": "125109-output1.png",
+        "mask": "125109-mask2.png",
+        "output": "125109-output2.png",
+        "instruction": "let the flowers in the vase be blue"
+    },
+    {
+        "input": "125109-output2.png",
+        "mask": "125109-mask3.png",
+        "output": "125109-output3.png",
+        "instruction": "let there be a big chimney over the stove"
+    },
+    {
+        "input": "248403-input.png",
+        "mask": "248403-mask1.png",
+        "output": "248403-output1.png",
+        "instruction": "Open her mouth."
+    },
+    {
+        "input": "248403-output1.png",
+        "mask": "248403-mask2.png",
+        "output": "248403-output2.png",
+        "instruction": "Blindfold her."
+    },
+    {
+        "input": "318657-input.png",
+        "mask": "318657-mask1.png",
+        "output": "318657-output1.png",
+        "instruction": "Have there be a spaceship in the sky"
+    },
+    {
+        "input": "89648-input.png",
+        "mask": "89648-mask1.png",
+        "output": "89648-output1.png",
+        "instruction": "Remove the woman using the laptop."
+    },
+    {
+        "input": "323789-input.png",
+        "mask": "323789-mask1.png",
+        "output": "323789-output1.png",
+        "instruction": "make the man laugh"
+    },
+    {
+        "input": "323789-output1.png",
+        "mask": "323789-mask2.png",
+        "output": "323789-output2.png",
+        "instruction": "let there be a world map on the wall"
+    },
+    {
+        "input": "323789-output2.png",
+        "mask": "323789-mask3.png",
+        "output": "323789-output3.png",
+        "instruction": "let the man have curly blonde hair"
+    },
+    {
+        "input": "278555-input.png",
+        "mask": "278555-mask1.png",
+        "output": "278555-output1.png",
+        "instruction": "What if he was with a backpack?"
+    },
+    {
+        "input": "528266-input.png",
+        "mask": "528266-mask1.png",
+        "output": "528266-output1.png",
+        "instruction": "make the man cover his mouth with his hand"
+    },
+    {
+        "input": "528266-output1.png",
+        "mask": "528266-mask2.png",
+        "output": "528266-output2.png",
+        "instruction": "let the pizza box be open"
+    },
+    {
+        "input": "528266-output2.png",
+        "mask": "528266-mask3.png",
+        "output": "528266-output3.png",
+        "instruction": "let the man have crew cut hair"
+    },
+    {
+        "input": "376990-input.png",
+        "mask": "376990-mask1.png",
+        "output": "376990-output1.png",
+        "instruction": "Replace the hot dog with a sandwich."
+    },
+    {
+        "input": "376990-output1.png",
+        "mask": "376990-mask2.png",
+        "output": "376990-output2.png",
+        "instruction": "Replace the girl's beanie with a helmet."
+    },
+    {
+        "input": "60892-input.png",
+        "mask": "60892-mask1.png",
+        "output": "60892-output1.png",
+        "instruction": "Add a dog."
+    },
+    {
+        "input": "60892-output1.png",
+        "mask": "60892-mask2.png",
+        "output": "60892-output2.png",
+        "instruction": "Remove the phone."
+    },
+    {
+        "input": "532482-input.png",
+        "mask": "532482-mask1.png",
+        "output": "532482-output1.png",
+        "instruction": "Make the hydrant red."
+    },
+    {
+        "input": "532482-output1.png",
+        "mask": "532482-mask2.png",
+        "output": "532482-output2.png",
+        "instruction": "Add a Dalmatian dog."
+    },
+    {
+        "input": "532482-output2.png",
+        "mask": "532482-mask3.png",
+        "output": "532482-output3.png",
+        "instruction": "Make the bus a fire truck."
+    },
+    {
+        "input": "494413-input.png",
+        "mask": "494413-mask1.png",
+        "output": "494413-output1.png",
+        "instruction": "Have there be with a fork sticking out of the hot dog"
+    },
+    {
+        "input": "75216-input.png",
+        "mask": "75216-mask1.png",
+        "output": "75216-output1.png",
+        "instruction": "let a cow moo"
+    },
+    {
+        "input": "75216-output1.png",
+        "mask": "75216-mask2.png",
+        "output": "75216-output2.png",
+        "instruction": "let there be a duck"
+    },
+    {
+        "input": "75216-output2.png",
+        "mask": "75216-mask3.png",
+        "output": "75216-output3.png",
+        "instruction": "let there be a hut at the back"
+    },
+    {
+        "input": "328802-input.png",
+        "mask": "328802-mask1.png",
+        "output": "328802-output1.png",
+        "instruction": "make the zebra drink from a bucket"
+    },
+    {
+        "input": "328802-output1.png",
+        "mask": "328802-mask2.png",
+        "output": "328802-output2.png",
+        "instruction": "let the tree have dense green leaves"
+    },
+    {
+        "input": "328802-output2.png",
+        "mask": "328802-mask3.png",
+        "output": "328802-output3.png",
+        "instruction": "let the zebra be thin and lanky"
+    },
+    {
+        "input": "324104-input.png",
+        "mask": "324104-mask1.png",
+        "output": "324104-output1.png",
+        "instruction": "Can we put a river next to the field?"
+    },
+    {
+        "input": "324104-output1.png",
+        "mask": "324104-mask2.png",
+        "output": "324104-output2.png",
+        "instruction": "Can we have mountains on the background?"
+    },
+    {
+        "input": "324104-output2.png",
+        "mask": "324104-mask3.png",
+        "output": "324104-output3.png",
+        "instruction": "It should be a horse on the field."
+    },
+    {
+        "input": "137100-input.png",
+        "mask": "137100-mask1.png",
+        "output": "137100-output1.png",
+        "instruction": "Get rid of the fork."
+    },
+    {
+        "input": "137100-output1.png",
+        "mask": "137100-mask2.png",
+        "output": "137100-output2.png",
+        "instruction": "Clear the rest of the table."
+    },
+    {
+        "input": "137100-output2.png",
+        "mask": "137100-mask3.png",
+        "output": "137100-output3.png",
+        "instruction": "Replace the pizza with a sandwich."
+    },
+    {
+        "input": "229419-input.png",
+        "mask": "229419-mask1.png",
+        "output": "229419-output1.png",
+        "instruction": "add a tractor."
+    },
+    {
+        "input": "229419-output1.png",
+        "mask": "229419-mask2.png",
+        "output": "229419-output2.png",
+        "instruction": "change the cows to horses"
+    },
+    {
+        "input": "229419-output2.png",
+        "mask": "229419-mask3.png",
+        "output": "229419-output3.png",
+        "instruction": "make the field a cornfield."
+    },
+    {
+        "input": "188148-input.png",
+        "mask": "188148-mask1.png",
+        "output": "188148-output1.png",
+        "instruction": "Let's add glasses to the man."
+    },
+    {
+        "input": "188148-output1.png",
+        "mask": "188148-mask2.png",
+        "output": "188148-output2.png",
+        "instruction": "What if it was another laptop?"
+    },
+    {
+        "input": "402802-input.png",
+        "mask": "402802-mask1.png",
+        "output": "402802-output1.png",
+        "instruction": "let the girl cry"
+    },
+    {
+        "input": "402802-output1.png",
+        "mask": "402802-mask2.png",
+        "output": "402802-output2.png",
+        "instruction": "let the vase contain a tulip"
+    },
+    {
+        "input": "402802-output2.png",
+        "mask": "402802-mask3.png",
+        "output": "402802-output3.png",
+        "instruction": "let a man sit next to the girl"
+    },
+    {
+        "input": "396260-input.png",
+        "mask": "396260-mask1.png",
+        "output": "396260-output1.png",
+        "instruction": "change the backpack into a trash can"
+    },
+    {
+        "input": "396260-output1.png",
+        "mask": "396260-mask2.png",
+        "output": "396260-output2.png",
+        "instruction": "add soda cans inside the suitcase"
+    },
+    {
+        "input": "396260-output2.png",
+        "mask": "396260-mask3.png",
+        "output": "396260-output3.png",
+        "instruction": "let it be tile floor"
+    },
+    {
+        "input": "197658-input.png",
+        "mask": "197658-mask1.png",
+        "output": "197658-output1.png",
+        "instruction": "Add a ball coming towards the player."
+    },
+    {
+        "input": "102174-input.png",
+        "mask": "102174-mask1.png",
+        "output": "102174-output1.png",
+        "instruction": "make the cockatiel open its mouth"
+    },
+    {
+        "input": "102174-output1.png",
+        "mask": "102174-mask2.png",
+        "output": "102174-output2.png",
+        "instruction": "make the screen show a video webpage"
+    },
+    {
+        "input": "102174-output2.png",
+        "mask": "102174-mask3.png",
+        "output": "102174-output3.png",
+        "instruction": "let the computer be black"
+    },
+    {
+        "input": "550000-input.png",
+        "mask": "550000-mask1.png",
+        "output": "550000-output1.png",
+        "instruction": "swap the boys for a girl"
+    },
+    {
+        "input": "483357-input.png",
+        "mask": "483357-mask1.png",
+        "output": "483357-output1.png",
+        "instruction": "Le'ts add a vase of flowers on the sink."
+    },
+    {
+        "input": "326408-input.png",
+        "mask": "326408-mask1.png",
+        "output": "326408-output1.png",
+        "instruction": "Put a rat near the sandwiches."
+    },
+    {
+        "input": "257558-input.png",
+        "mask": "257558-mask1.png",
+        "output": "257558-output1.png",
+        "instruction": "add a grizzly bear near the stuffed bear"
+    },
+    {
+        "input": "257558-output1.png",
+        "mask": "257558-mask2.png",
+        "output": "257558-output2.png",
+        "instruction": "add a big star on the xmas tree"
+    },
+    {
+        "input": "257558-output2.png",
+        "mask": "257558-mask3.png",
+        "output": "257558-output3.png",
+        "instruction": "add gift boxes near the bears"
+    },
+    {
+        "input": "377056-input.png",
+        "mask": "377056-mask1.png",
+        "output": "377056-output1.png",
+        "instruction": "Add a flamingo."
+    },
+    {
+        "input": "45071-input.png",
+        "mask": "45071-mask1.png",
+        "output": "45071-output1.png",
+        "instruction": "let the cat looked shocked"
+    },
+    {
+        "input": "45071-output1.png",
+        "mask": "45071-mask2.png",
+        "output": "45071-output2.png",
+        "instruction": "add cat food next to the bag"
+    },
+    {
+        "input": "45071-output2.png",
+        "mask": "45071-mask3.png",
+        "output": "45071-output3.png",
+        "instruction": "let the ball be white"
+    },
+    {
+        "input": "106172-input.png",
+        "mask": "106172-mask1.png",
+        "output": "106172-output1.png",
+        "instruction": "Remove the computer."
+    },
+    {
+        "input": "106172-output1.png",
+        "mask": "106172-mask2.png",
+        "output": "106172-output2.png",
+        "instruction": "He should be wearing sunglasses."
+    },
+    {
+        "input": "106172-output2.png",
+        "mask": "106172-mask3.png",
+        "output": "106172-output3.png",
+        "instruction": "There should be a party hat on his head."
+    },
+    {
+        "input": "517548-input.png",
+        "mask": "517548-mask1.png",
+        "output": "517548-output1.png",
+        "instruction": "Can we open the lid of the toilet?"
+    },
+    {
+        "input": "517548-output1.png",
+        "mask": "517548-mask2.png",
+        "output": "517548-output2.png",
+        "instruction": "add a mirror to the wall."
+    },
+    {
+        "input": "517548-output2.png",
+        "mask": "517548-mask3.png",
+        "output": "517548-output3.png",
+        "instruction": "the sink should be white."
+    },
+    {
+        "input": "297154-input.png",
+        "mask": "297154-mask1.png",
+        "output": "297154-output1.png",
+        "instruction": "change the blue and yellow to red and white plane"
+    },
+    {
+        "input": "297154-output1.png",
+        "mask": "297154-mask2.png",
+        "output": "297154-output2.png",
+        "instruction": "add birds flying in the sky"
+    },
+    {
+        "input": "297154-output2.png",
+        "mask": "297154-mask3.png",
+        "output": "297154-output3.png",
+        "instruction": "remove the words"
+    },
+    {
+        "input": "134689-input.png",
+        "mask": "134689-mask1.png",
+        "output": "134689-output1.png",
+        "instruction": "Add a zebra."
+    },
+    {
+        "input": "232025-input.png",
+        "mask": "232025-mask1.png",
+        "output": "232025-output1.png",
+        "instruction": "make the pitcher jump"
+    },
+    {
+        "input": "232025-output1.png",
+        "mask": "232025-mask2.png",
+        "output": "232025-output2.png",
+        "instruction": "put a motorcycle behind the pitcher"
+    },
+    {
+        "input": "232025-output2.png",
+        "mask": "232025-mask3.png",
+        "output": "232025-output3.png",
+        "instruction": "put a car in the background"
+    },
+    {
+        "input": "276552-input.png",
+        "mask": "276552-mask1.png",
+        "output": "276552-output1.png",
+        "instruction": "make the man look to the camera"
+    },
+    {
+        "input": "528488-input.png",
+        "mask": "528488-mask1.png",
+        "output": "528488-output1.png",
+        "instruction": "Change the frisbee to a bone"
+    },
+    {
+        "input": "528488-output1.png",
+        "mask": "528488-mask2.png",
+        "output": "528488-output2.png",
+        "instruction": "Have the dog be wearing boots"
+    },
+    {
+        "input": "401433-input.png",
+        "mask": "401433-mask1.png",
+        "output": "401433-output1.png",
+        "instruction": "change the elephant into a leopard"
+    },
+    {
+        "input": "401433-output1.png",
+        "mask": "401433-mask2.png",
+        "output": "401433-output2.png",
+        "instruction": "let the woman cry"
+    },
+    {
+        "input": "401433-output2.png",
+        "mask": "401433-mask3.png",
+        "output": "401433-output3.png",
+        "instruction": "let the man wear a cowboy hat"
+    },
+    {
+        "input": "246184-input.png",
+        "mask": "246184-mask1.png",
+        "output": "246184-output1.png",
+        "instruction": "let an old man look at surf boards"
+    },
+    {
+        "input": "246184-output1.png",
+        "mask": "246184-mask2.png",
+        "output": "246184-output2.png",
+        "instruction": "let there be an earthworm on the surfboard"
+    },
+    {
+        "input": "246184-output2.png",
+        "mask": "246184-mask3.png",
+        "output": "246184-output3.png",
+        "instruction": "let a surfboard have a face painted on it"
+    },
+    {
+        "input": "55241-input.png",
+        "mask": "55241-mask1.png",
+        "output": "55241-output1.png",
+        "instruction": "Have the cow wear a hat."
+    },
+    {
+        "input": "170908-input.png",
+        "mask": "170908-mask1.png",
+        "output": "170908-output1.png",
+        "instruction": "make the ceilings low"
+    },
+    {
+        "input": "170908-output1.png",
+        "mask": "170908-mask2.png",
+        "output": "170908-output2.png",
+        "instruction": "Remove the window"
+    },
+    {
+        "input": "276703-input.png",
+        "mask": "276703-mask1.png",
+        "output": "276703-output1.png",
+        "instruction": "Change the text on the car to say \"CAR\""
+    },
+    {
+        "input": "276703-output1.png",
+        "mask": "276703-mask2.png",
+        "output": "276703-output2.png",
+        "instruction": "Have there be a bunch of flowers by the car"
+    },
+    {
+        "input": "227117-input.png",
+        "mask": "227117-mask1.png",
+        "output": "227117-output1.png",
+        "instruction": "Put a bottle of wine on the counter."
+    },
+    {
+        "input": "67373-input.png",
+        "mask": "67373-mask1.png",
+        "output": "67373-output1.png",
+        "instruction": "change city view to sea view"
+    },
+    {
+        "input": "67373-output1.png",
+        "mask": "67373-mask2.png",
+        "output": "67373-output2.png",
+        "instruction": "replace the cup of coffee with a bottle of wine"
+    },
+    {
+        "input": "223154-input.png",
+        "mask": "223154-mask1.png",
+        "output": "223154-output1.png",
+        "instruction": "Shut off the green lights."
+    },
+    {
+        "input": "223154-output1.png",
+        "mask": "223154-mask2.png",
+        "output": "223154-output2.png",
+        "instruction": "Put a deer in the road."
+    },
+    {
+        "input": "253538-input.png",
+        "mask": "253538-mask1.png",
+        "output": "253538-output1.png",
+        "instruction": "change the frisbee into a volley ball"
+    },
+    {
+        "input": "253538-output1.png",
+        "mask": "253538-mask2.png",
+        "output": "253538-output2.png",
+        "instruction": "let there be a mosque in the background"
+    },
+    {
+        "input": "253538-output2.png",
+        "mask": "253538-mask3.png",
+        "output": "253538-output3.png",
+        "instruction": "let there be a mascot"
+    },
+    {
+        "input": "53423-input.png",
+        "mask": "53423-mask1.png",
+        "output": "53423-output1.png",
+        "instruction": "Let's add a boat in the ocean."
+    },
+    {
+        "input": "53423-output1.png",
+        "mask": "53423-mask2.png",
+        "output": "53423-output2.png",
+        "instruction": "Let's add a turtle on the beach."
+    },
+    {
+        "input": "532501-input.png",
+        "mask": "532501-mask1.png",
+        "output": "532501-output1.png",
+        "instruction": "put a man in front of the sink"
+    },
+    {
+        "input": "532501-output1.png",
+        "mask": "532501-mask2.png",
+        "output": "532501-output2.png",
+        "instruction": "put a clown face on the mirror"
+    },
+    {
+        "input": "151761-input.png",
+        "mask": "151761-mask1.png",
+        "output": "151761-output1.png",
+        "instruction": "Let the baby elephant hold up its trunk."
+    },
+    {
+        "input": "43917-input.png",
+        "mask": "43917-mask1.png",
+        "output": "43917-output1.png",
+        "instruction": "Put just the beef on the plate."
+    },
+    {
+        "input": "43917-output1.png",
+        "mask": "43917-mask2.png",
+        "output": "43917-output2.png",
+        "instruction": "It should have french fries on the plate."
+    },
+    {
+        "input": "207932-input.png",
+        "mask": "207932-mask1.png",
+        "output": "207932-output1.png",
+        "instruction": "Let's add a horse next to the train."
+    },
+    {
+        "input": "360535-input.png",
+        "mask": "360535-mask1.png",
+        "output": "360535-output1.png",
+        "instruction": "change flowers to television"
+    },
+    {
+        "input": "360535-output1.png",
+        "mask": "360535-mask2.png",
+        "output": "360535-output2.png",
+        "instruction": "add a clock on the wall"
+    },
+    {
+        "input": "360535-output2.png",
+        "mask": "360535-mask3.png",
+        "output": "360535-output3.png",
+        "instruction": "add a ceiling fan"
+    },
+    {
+        "input": "429227-input.png",
+        "mask": "429227-mask1.png",
+        "output": "429227-output1.png",
+        "instruction": "replace a zebra with a tiger"
+    },
+    {
+        "input": "429227-output1.png",
+        "mask": "429227-mask2.png",
+        "output": "429227-output2.png",
+        "instruction": "add a bird on the back of the zebra"
+    },
+    {
+        "input": "429227-output2.png",
+        "mask": "429227-mask3.png",
+        "output": "429227-output3.png",
+        "instruction": "add a bed of flowers"
+    },
+    {
+        "input": "174896-input.png",
+        "mask": "174896-mask1.png",
+        "output": "174896-output1.png",
+        "instruction": "replace the laptop with a microwave"
+    },
+    {
+        "input": "174896-output1.png",
+        "mask": "174896-mask2.png",
+        "output": "174896-output2.png",
+        "instruction": "add a bowl of tomato soup"
+    },
+    {
+        "input": "174896-output2.png",
+        "mask": "174896-mask3.png",
+        "output": "174896-output3.png",
+        "instruction": "add an orchid"
+    },
+    {
+        "input": "473420-input.png",
+        "mask": "473420-mask1.png",
+        "output": "473420-output1.png",
+        "instruction": "let the traffic light show green"
+    },
+    {
+        "input": "389986-input.png",
+        "mask": "389986-mask1.png",
+        "output": "389986-output1.png",
+        "instruction": "make a woman hold the racket"
+    },
+    {
+        "input": "389986-output1.png",
+        "mask": "389986-mask2.png",
+        "output": "389986-output2.png",
+        "instruction": "let the strings be striped"
+    },
+    {
+        "input": "389986-output2.png",
+        "mask": "389986-mask3.png",
+        "output": "389986-output3.png",
+        "instruction": "let a dog sit under the racket and look up at the camera"
+    },
+    {
+        "input": "292991-input.png",
+        "mask": "292991-mask1.png",
+        "output": "292991-output1.png",
+        "instruction": "What if the there is a drawing on the wall?"
+    },
+    {
+        "input": "318189-input.png",
+        "mask": "318189-mask1.png",
+        "output": "318189-output1.png",
+        "instruction": "change the American flag into a Canadian flag"
+    },
+    {
+        "input": "318189-output1.png",
+        "mask": "318189-mask2.png",
+        "output": "318189-output2.png",
+        "instruction": "change the surfboard into a person"
+    },
+    {
+        "input": "318189-output2.png",
+        "mask": "318189-mask3.png",
+        "output": "318189-output3.png",
+        "instruction": "let the car be a sports car"
+    },
+    {
+        "input": "273808-input.png",
+        "mask": "273808-mask1.png",
+        "output": "273808-output1.png",
+        "instruction": "remove the things from the floor"
+    },
+    {
+        "input": "221213-input.png",
+        "mask": "221213-mask1.png",
+        "output": "221213-output1.png",
+        "instruction": "Have a railroad crossing by the train."
+    },
+    {
+        "input": "221213-output1.png",
+        "mask": "221213-mask2.png",
+        "output": "221213-output2.png",
+        "instruction": "Have a mountain behind the train."
+    },
+    {
+        "input": "312334-input.png",
+        "mask": "312334-mask1.png",
+        "output": "312334-output1.png",
+        "instruction": "Have the palm trees be on fire"
+    },
+    {
+        "input": "313880-input.png",
+        "mask": "313880-mask1.png",
+        "output": "313880-output1.png",
+        "instruction": "Add a menu."
+    },
+    {
+        "input": "232489-input.png",
+        "mask": "232489-mask1.png",
+        "output": "232489-output1.png",
+        "instruction": "Make the plate ceramic."
+    },
+    {
+        "input": "232489-output1.png",
+        "mask": "232489-mask2.png",
+        "output": "232489-output2.png",
+        "instruction": "Replace the pizza with a sandwich."
+    },
+    {
+        "input": "555495-input.png",
+        "mask": "555495-mask1.png",
+        "output": "555495-output1.png",
+        "instruction": "Let's add some flowers in the field."
+    },
+    {
+        "input": "478407-input.png",
+        "mask": "478407-mask1.png",
+        "output": "478407-output1.png",
+        "instruction": "let the man bite into the pizza"
+    },
+    {
+        "input": "478407-output1.png",
+        "mask": "478407-mask2.png",
+        "output": "478407-output2.png",
+        "instruction": "let the man have ginger curly hair"
+    },
+    {
+        "input": "478407-output2.png",
+        "mask": "478407-mask3.png",
+        "output": "478407-output3.png",
+        "instruction": "let the man wear sunglasses"
+    },
+    {
+        "input": "553735-input.png",
+        "mask": "553735-mask1.png",
+        "output": "553735-output1.png",
+        "instruction": "Put a truck on the street."
+    },
+    {
+        "input": "419312-input.png",
+        "mask": "419312-mask1.png",
+        "output": "419312-output1.png",
+        "instruction": "remove the place a put a cereal bowl on it's place"
+    },
+    {
+        "input": "419312-output1.png",
+        "mask": "419312-mask2.png",
+        "output": "419312-output2.png",
+        "instruction": "erase the drink and edit a cereal box on it's place"
+    },
+    {
+        "input": "27616-input.png",
+        "mask": "27616-mask1.png",
+        "output": "27616-output1.png",
+        "instruction": "Let the bag be replaced by a brown leather luggage bag."
+    },
+    {
+        "input": "459058-input.png",
+        "mask": "459058-mask1.png",
+        "output": "459058-output1.png",
+        "instruction": "let the license plate have graffiti on it"
+    },
+    {
+        "input": "459058-output1.png",
+        "mask": "459058-mask2.png",
+        "output": "459058-output2.png",
+        "instruction": "let the red light be on"
+    },
+    {
+        "input": "459058-output2.png",
+        "mask": "459058-mask3.png",
+        "output": "459058-output3.png",
+        "instruction": "make a woman sit on the scooter"
+    },
+    {
+        "input": "376891-input.png",
+        "mask": "376891-mask1.png",
+        "output": "376891-output1.png",
+        "instruction": "Make the sign neon."
+    },
+    {
+        "input": "376891-output1.png",
+        "mask": "376891-mask2.png",
+        "output": "376891-output2.png",
+        "instruction": "have the person look towards the doughnuts."
+    },
+    {
+        "input": "376891-output2.png",
+        "mask": "376891-mask3.png",
+        "output": "376891-output3.png",
+        "instruction": "add more people"
+    },
+    {
+        "input": "476119-input.png",
+        "mask": "476119-mask1.png",
+        "output": "476119-output1.png",
+        "instruction": "make the man wear a paperbag"
+    },
+    {
+        "input": "476119-output1.png",
+        "mask": "476119-mask2.png",
+        "output": "476119-output2.png",
+        "instruction": "let there be a range rover"
+    },
+    {
+        "input": "476119-output2.png",
+        "mask": "476119-mask3.png",
+        "output": "476119-output3.png",
+        "instruction": "let there be a cafe behind him"
+    },
+    {
+        "input": "542147-input.png",
+        "mask": "542147-mask1.png",
+        "output": "542147-output1.png",
+        "instruction": "remove the cows"
+    },
+    {
+        "input": "542147-output1.png",
+        "mask": "542147-mask2.png",
+        "output": "542147-output2.png",
+        "instruction": "add a UFO in the sky"
+    },
+    {
+        "input": "542147-output2.png",
+        "mask": "542147-mask3.png",
+        "output": "542147-output3.png",
+        "instruction": "add a lighthouse"
+    },
+    {
+        "input": "274629-input.png",
+        "mask": "274629-mask1.png",
+        "output": "274629-output1.png",
+        "instruction": "change the stop sign to a parking sign"
+    },
+    {
+        "input": "274629-output1.png",
+        "mask": "274629-mask2.png",
+        "output": "274629-output2.png",
+        "instruction": "change the Time magazine to a Vogue magazine"
+    },
+    {
+        "input": "274629-output2.png",
+        "mask": "274629-mask3.png",
+        "output": "274629-output3.png",
+        "instruction": "add a tank on the street"
+    },
+    {
+        "input": "534555-input.png",
+        "mask": "534555-mask1.png",
+        "output": "534555-output1.png",
+        "instruction": "Change the number on the batter's back to 15"
+    },
+    {
+        "input": "534555-output1.png",
+        "mask": "534555-mask2.png",
+        "output": "534555-output2.png",
+        "instruction": "Change the batter's helmet to be red"
+    },
+    {
+        "input": "534555-output2.png",
+        "mask": "534555-mask3.png",
+        "output": "534555-output3.png",
+        "instruction": "Have there be stripes on the batter's pants"
+    },
+    {
+        "input": "350054-input.png",
+        "mask": "350054-mask1.png",
+        "output": "350054-output1.png",
+        "instruction": "change the cat to a raccoon"
+    },
+    {
+        "input": "350054-output1.png",
+        "mask": "350054-mask2.png",
+        "output": "350054-output2.png",
+        "instruction": "let there be sports on TV"
+    },
+    {
+        "input": "350054-output2.png",
+        "mask": "350054-mask3.png",
+        "output": "350054-output3.png",
+        "instruction": "let the floor be wooden"
+    },
+    {
+        "input": "131015-input.png",
+        "mask": "131015-mask1.png",
+        "output": "131015-output1.png",
+        "instruction": "let meat hang from a clothespin"
+    },
+    {
+        "input": "131015-output1.png",
+        "mask": "131015-mask2.png",
+        "output": "131015-output2.png",
+        "instruction": "let a regular tie hang"
+    },
+    {
+        "input": "120874-input.png",
+        "mask": "120874-mask1.png",
+        "output": "120874-output1.png",
+        "instruction": "make the dog howl"
+    },
+    {
+        "input": "120874-output1.png",
+        "mask": "120874-mask2.png",
+        "output": "120874-output2.png",
+        "instruction": "let another dog peer through the window"
+    },
+    {
+        "input": "120874-output2.png",
+        "mask": "120874-mask3.png",
+        "output": "120874-output3.png",
+        "instruction": "let there be a lighthouse at a distance"
+    },
+    {
+        "input": "353221-input.png",
+        "mask": "353221-mask1.png",
+        "output": "353221-output1.png",
+        "instruction": "Let the middle image be changed to apples."
+    },
+    {
+        "input": "208963-input.png",
+        "mask": "208963-mask1.png",
+        "output": "208963-output1.png",
+        "instruction": "Let the umbrella turn blue."
+    },
+    {
+        "input": "340971-input.png",
+        "mask": "340971-mask1.png",
+        "output": "340971-output1.png",
+        "instruction": "put a gaming pc in place of the television"
+    },
+    {
+        "input": "196876-input.png",
+        "mask": "196876-mask1.png",
+        "output": "196876-output1.png",
+        "instruction": "swap the beans for milk"
+    },
+    {
+        "input": "196876-output1.png",
+        "mask": "196876-mask2.png",
+        "output": "196876-output2.png",
+        "instruction": "replace the food with fruits"
+    },
+    {
+        "input": "282238-input.png",
+        "mask": "282238-mask1.png",
+        "output": "282238-output1.png",
+        "instruction": "If the was just one large tree?"
+    },
+    {
+        "input": "282238-output1.png",
+        "mask": "282238-mask2.png",
+        "output": "282238-output2.png",
+        "instruction": "Put a bird on the traffic light."
+    },
+    {
+        "input": "282238-output2.png",
+        "mask": "282238-mask3.png",
+        "output": "282238-output3.png",
+        "instruction": "Have a train coming on the left."
+    },
+    {
+        "input": "300994-input.png",
+        "mask": "300994-mask1.png",
+        "output": "300994-output1.png",
+        "instruction": "let the number be 5"
+    },
+    {
+        "input": "300994-output1.png",
+        "mask": "300994-mask2.png",
+        "output": "300994-output2.png",
+        "instruction": "light up the candles"
+    },
+    {
+        "input": "300994-output2.png",
+        "mask": "300994-mask3.png",
+        "output": "300994-output3.png",
+        "instruction": "add a cat eating the cake"
+    },
+    {
+        "input": "294353-input.png",
+        "mask": "294353-mask1.png",
+        "output": "294353-output1.png",
+        "instruction": "put a piece of meat on the fork"
+    },
+    {
+        "input": "294353-output1.png",
+        "mask": "294353-mask2.png",
+        "output": "294353-output2.png",
+        "instruction": "replace the vase with a small vase with a rose"
+    },
+    {
+        "input": "376269-input.png",
+        "mask": "376269-mask1.png",
+        "output": "376269-output1.png",
+        "instruction": "make the ears bigger"
+    },
+    {
+        "input": "376269-output1.png",
+        "mask": "376269-mask2.png",
+        "output": "376269-output2.png",
+        "instruction": "give the giraffe big googly eyes"
+    },
+    {
+        "input": "242543-input.png",
+        "mask": "242543-mask1.png",
+        "output": "242543-output1.png",
+        "instruction": "What if the refrigerator was closed?"
+    },
+    {
+        "input": "78468-input.png",
+        "mask": "78468-mask1.png",
+        "output": "78468-output1.png",
+        "instruction": "Replace the truck with a tractor."
+    },
+    {
+        "input": "78468-output1.png",
+        "mask": "78468-mask2.png",
+        "output": "78468-output2.png",
+        "instruction": "A bear cub should be near the tractor."
+    },
+    {
+        "input": "78468-output2.png",
+        "mask": "78468-mask3.png",
+        "output": "78468-output3.png",
+        "instruction": "Remove the bags from the trailer."
+    },
+    {
+        "input": "457986-input.png",
+        "mask": "457986-mask1.png",
+        "output": "457986-output1.png",
+        "instruction": "Have there be a potted plant on the table"
+    },
+    {
+        "input": "457986-output1.png",
+        "mask": "457986-mask2.png",
+        "output": "457986-output2.png",
+        "instruction": "Have there be a cat on the sofa"
+    },
+    {
+        "input": "315702-input.png",
+        "mask": "315702-mask1.png",
+        "output": "315702-output1.png",
+        "instruction": "let there be folded towels under the counter"
+    },
+    {
+        "input": "315702-output1.png",
+        "mask": "315702-mask2.png",
+        "output": "315702-output2.png",
+        "instruction": "let the sink be rectangle in shape"
+    },
+    {
+        "input": "315702-output2.png",
+        "mask": "315702-mask3.png",
+        "output": "315702-output3.png",
+        "instruction": "let there be a rubber ducky"
+    },
+    {
+        "input": "159791-input.png",
+        "mask": "159791-mask1.png",
+        "output": "159791-output1.png",
+        "instruction": "Remove all the magnets and stickers."
+    },
+    {
+        "input": "309753-input.png",
+        "mask": "309753-mask1.png",
+        "output": "309753-output1.png",
+        "instruction": "swap the bananas for unripe bananas"
+    },
+    {
+        "input": "354306-input.png",
+        "mask": "354306-mask1.png",
+        "output": "354306-output1.png",
+        "instruction": "put a bottle of poison on the shelf"
+    },
+    {
+        "input": "330084-input.png",
+        "mask": "330084-mask1.png",
+        "output": "330084-output1.png",
+        "instruction": "make the bear stick out its tongue"
+    },
+    {
+        "input": "330084-output1.png",
+        "mask": "330084-mask2.png",
+        "output": "330084-output2.png",
+        "instruction": "add a cat"
+    },
+    {
+        "input": "47916-input.png",
+        "mask": "47916-mask1.png",
+        "output": "47916-output1.png",
+        "instruction": "Put a forest next to the dogs."
+    },
+    {
+        "input": "47916-output1.png",
+        "mask": "47916-mask2.png",
+        "output": "47916-output2.png",
+        "instruction": "The dog should have a bone with him."
+    },
+    {
+        "input": "47916-output2.png",
+        "mask": "47916-mask3.png",
+        "output": "47916-output3.png",
+        "instruction": "Could we have a pond next to the forest?"
+    },
+    {
+        "input": "286753-input.png",
+        "mask": "286753-mask1.png",
+        "output": "286753-output1.png",
+        "instruction": "Have the baseball player be wearing a skirt"
+    },
+    {
+        "input": "229139-input.png",
+        "mask": "229139-mask1.png",
+        "output": "229139-output1.png",
+        "instruction": "remove the cat"
+    },
+    {
+        "input": "229139-output1.png",
+        "mask": "229139-mask2.png",
+        "output": "229139-output2.png",
+        "instruction": "put a cat next to the suitcase"
+    },
+    {
+        "input": "99645-input.png",
+        "mask": "99645-mask1.png",
+        "output": "99645-output1.png",
+        "instruction": "Change the text on the television to \"TV\""
+    },
+    {
+        "input": "99645-output1.png",
+        "mask": "99645-mask2.png",
+        "output": "99645-output2.png",
+        "instruction": "Change the birds to a helicopter"
+    },
+    {
+        "input": "99645-output2.png",
+        "mask": "99645-mask3.png",
+        "output": "99645-output3.png",
+        "instruction": "Have there be a person falling out of the helicopter"
+    },
+    {
+        "input": "502808-input.png",
+        "mask": "502808-mask1.png",
+        "output": "502808-output1.png",
+        "instruction": "Let the shower curtain close the bathtub."
+    },
+    {
+        "input": "63866-input.png",
+        "mask": "63866-mask1.png",
+        "output": "63866-output1.png",
+        "instruction": "add cake to the table"
+    },
+    {
+        "input": "63866-output1.png",
+        "mask": "63866-mask2.png",
+        "output": "63866-output2.png",
+        "instruction": "place dogs instead of people"
+    },
+    {
+        "input": "104669-input.png",
+        "mask": "104669-mask1.png",
+        "output": "104669-output1.png",
+        "instruction": "A glass of juice would complete the meal."
+    },
+    {
+        "input": "581632-input.png",
+        "mask": "581632-mask1.png",
+        "output": "581632-output1.png",
+        "instruction": "change from a bar to a laboratory"
+    },
+    {
+        "input": "581632-output1.png",
+        "mask": "581632-mask2.png",
+        "output": "581632-output2.png",
+        "instruction": "put a chalkboard by the clock"
+    },
+    {
+        "input": "163431-input.png",
+        "mask": "163431-mask1.png",
+        "output": "163431-output1.png",
+        "instruction": "change the shoes into stilettos"
+    },
+    {
+        "input": "163431-output1.png",
+        "mask": "163431-mask2.png",
+        "output": "163431-output2.png",
+        "instruction": "let the bed contain pillows"
+    },
+    {
+        "input": "163431-output2.png",
+        "mask": "163431-mask3.png",
+        "output": "163431-output3.png",
+        "instruction": "let the bag contain a loaf of bread"
+    },
+    {
+        "input": "343849-input.png",
+        "mask": "343849-mask1.png",
+        "output": "343849-output1.png",
+        "instruction": "let the laptop have a green web page"
+    },
+    {
+        "input": "343849-output1.png",
+        "mask": "343849-mask2.png",
+        "output": "343849-output2.png",
+        "instruction": "replace the notebook with a binder"
+    },
+    {
+        "input": "343849-output2.png",
+        "mask": "343849-mask3.png",
+        "output": "343849-output3.png",
+        "instruction": "add a wine bottle"
+    },
+    {
+        "input": "24207-input.png",
+        "mask": "24207-mask1.png",
+        "output": "24207-output1.png",
+        "instruction": "Make one of the sheep a black sheep."
+    },
+    {
+        "input": "139-input.png",
+        "mask": "139-mask1.png",
+        "output": "139-output1.png",
+        "instruction": "Close the window shades."
+    },
+    {
+        "input": "139-output1.png",
+        "mask": "139-mask2.png",
+        "output": "139-output2.png",
+        "instruction": "Make the woman sit in a chair."
+    },
+    {
+        "input": "139-output2.png",
+        "mask": "139-mask3.png",
+        "output": "139-output3.png",
+        "instruction": "Have a cat sleep on the floor by the table."
+    },
+    {
+        "input": "113857-input.png",
+        "mask": "113857-mask1.png",
+        "output": "113857-output1.png",
+        "instruction": "make the women hold a trophy instead of shaking hands"
+    },
+    {
+        "input": "113857-output1.png",
+        "mask": "113857-mask2.png",
+        "output": "113857-output2.png",
+        "instruction": "let the women have red and blonde hair"
+    },
+    {
+        "input": "113857-output2.png",
+        "mask": "113857-mask3.png",
+        "output": "113857-output3.png",
+        "instruction": "add a coach watching them"
+    },
+    {
+        "input": "122913-input.png",
+        "mask": "122913-mask1.png",
+        "output": "122913-output1.png",
+        "instruction": "A racoon is sitting inside of a suitcase."
+    },
+    {
+        "input": "272953-input.png",
+        "mask": "272953-mask1.png",
+        "output": "272953-output1.png",
+        "instruction": "Let's add a white goat on the grass."
+    },
+    {
+        "input": "377368-input.png",
+        "mask": "377368-mask1.png",
+        "output": "377368-output1.png",
+        "instruction": "Make the cake for a 4th birthday instead of 30th."
+    },
+    {
+        "input": "377368-output1.png",
+        "mask": "377368-mask2.png",
+        "output": "377368-output2.png",
+        "instruction": "Remove the candles from the cake."
+    },
+    {
+        "input": "377368-output2.png",
+        "mask": "377368-mask3.png",
+        "output": "377368-output3.png",
+        "instruction": "Make the frosting on the bear's nose red."
+    },
+    {
+        "input": "163897-input.png",
+        "mask": "163897-mask1.png",
+        "output": "163897-output1.png",
+        "instruction": "Fix the fender."
+    },
+    {
+        "input": "163897-output1.png",
+        "mask": "163897-mask2.png",
+        "output": "163897-output2.png",
+        "instruction": "Smash the headlights."
+    },
+    {
+        "input": "163897-output2.png",
+        "mask": "163897-mask3.png",
+        "output": "163897-output3.png",
+        "instruction": "Make the field dirt."
+    },
+    {
+        "input": "465335-input.png",
+        "mask": "465335-mask1.png",
+        "output": "465335-output1.png",
+        "instruction": "Replace the ball with a tennis ball."
+    },
+    {
+        "input": "357941-input.png",
+        "mask": "357941-mask1.png",
+        "output": "357941-output1.png",
+        "instruction": "Make the cat hang from the TV"
+    },
+    {
+        "input": "357941-output1.png",
+        "mask": "357941-mask2.png",
+        "output": "357941-output2.png",
+        "instruction": "Let a mouse sit on the tv set by the cat."
+    },
+    {
+        "input": "357941-output2.png",
+        "mask": "357941-mask3.png",
+        "output": "357941-output3.png",
+        "instruction": "Make a bird fly by the window in front of the cat."
+    },
+    {
+        "input": "494056-input.png",
+        "mask": "494056-mask1.png",
+        "output": "494056-output1.png",
+        "instruction": "If the vase had flowers?"
+    },
+    {
+        "input": "384346-input.png",
+        "mask": "384346-mask1.png",
+        "output": "384346-output1.png",
+        "instruction": "change hat color to blue"
+    },
+    {
+        "input": "456610-input.png",
+        "mask": "456610-mask1.png",
+        "output": "456610-output1.png",
+        "instruction": "replace the salad with hotdogs"
+    },
+    {
+        "input": "335913-input.png",
+        "mask": "335913-mask1.png",
+        "output": "335913-output1.png",
+        "instruction": "What if there was a picture of a girl in that frame?"
+    },
+    {
+        "input": "25551-input.png",
+        "mask": "25551-mask1.png",
+        "output": "25551-output1.png",
+        "instruction": "change the ambulance into a food truck"
+    },
+    {
+        "input": "25551-output1.png",
+        "mask": "25551-mask2.png",
+        "output": "25551-output2.png",
+        "instruction": "let the man be dressed in a police uniform"
+    },
+    {
+        "input": "25551-output2.png",
+        "mask": "25551-mask3.png",
+        "output": "25551-output3.png",
+        "instruction": "let there be buildings in the back"
+    },
+    {
+        "input": "262686-input.png",
+        "mask": "262686-mask1.png",
+        "output": "262686-output1.png",
+        "instruction": "let the man point to another man"
+    },
+    {
+        "input": "262686-output1.png",
+        "mask": "262686-mask2.png",
+        "output": "262686-output2.png",
+        "instruction": "let the man look at the camera"
+    },
+    {
+        "input": "262686-output2.png",
+        "mask": "262686-mask3.png",
+        "output": "262686-output3.png",
+        "instruction": "let the sitting man smile"
+    },
+    {
+        "input": "221190-input.png",
+        "mask": "221190-mask1.png",
+        "output": "221190-output1.png",
+        "instruction": "Let the sign turn yellow."
+    },
+    {
+        "input": "200003-input.png",
+        "mask": "200003-mask1.png",
+        "output": "200003-output1.png",
+        "instruction": "What if they are carrying a log?"
+    },
+    {
+        "input": "360805-input.png",
+        "mask": "360805-mask1.png",
+        "output": "360805-output1.png",
+        "instruction": "make the cat look at the camera"
+    },
+    {
+        "input": "360805-output1.png",
+        "mask": "360805-mask2.png",
+        "output": "360805-output2.png",
+        "instruction": "let the laptop have a blue screen"
+    },
+    {
+        "input": "360805-output2.png",
+        "mask": "360805-mask3.png",
+        "output": "360805-output3.png",
+        "instruction": "let there be cat food and cat treats"
+    },
+    {
+        "input": "478184-input.png",
+        "mask": "478184-mask1.png",
+        "output": "478184-output1.png",
+        "instruction": "Let the giraffe sit."
+    },
+    {
+        "input": "418726-input.png",
+        "mask": "418726-mask1.png",
+        "output": "418726-output1.png",
+        "instruction": "Let the floor be made of wood."
+    },
+    {
+        "input": "62740-input.png",
+        "mask": "62740-mask1.png",
+        "output": "62740-output1.png",
+        "instruction": "Let the car turn blue."
+    },
+    {
+        "input": "298318-input.png",
+        "mask": "298318-mask1.png",
+        "output": "298318-output1.png",
+        "instruction": "change the rubber boat into a galley"
+    },
+    {
+        "input": "298318-output1.png",
+        "mask": "298318-mask2.png",
+        "output": "298318-output2.png",
+        "instruction": "let a dolphin jump into the galley"
+    },
+    {
+        "input": "298318-output2.png",
+        "mask": "298318-mask3.png",
+        "output": "298318-output3.png",
+        "instruction": "let there be skyscrapers at the back"
+    },
+    {
+        "input": "1401-input.png",
+        "mask": "1401-mask1.png",
+        "output": "1401-output1.png",
+        "instruction": "Let the lemon be replaced by an orange."
+    },
+    {
+        "input": "74583-input.png",
+        "mask": "74583-mask1.png",
+        "output": "74583-output1.png",
+        "instruction": "Swap the cat for a parrot."
+    },
+    {
+        "input": "74583-output1.png",
+        "mask": "74583-mask2.png",
+        "output": "74583-output2.png",
+        "instruction": "The bicycle should be removed."
+    },
+    {
+        "input": "74583-output2.png",
+        "mask": "74583-mask3.png",
+        "output": "74583-output3.png",
+        "instruction": "Add just one floating balloon."
+    },
+    {
+        "input": "294974-input.png",
+        "mask": "294974-mask1.png",
+        "output": "294974-output1.png",
+        "instruction": "Give the plane a pig logo."
+    },
+    {
+        "input": "291004-input.png",
+        "mask": "291004-mask1.png",
+        "output": "291004-output1.png",
+        "instruction": "remove the iPhone"
+    },
+    {
+        "input": "291004-output1.png",
+        "mask": "291004-mask2.png",
+        "output": "291004-output2.png",
+        "instruction": "let the blue covers have geometrical patterns"
+    },
+    {
+        "input": "291004-output2.png",
+        "mask": "291004-mask3.png",
+        "output": "291004-output3.png",
+        "instruction": "let the remote control have an LCD display"
+    },
+    {
+        "input": "403028-input.png",
+        "mask": "403028-mask1.png",
+        "output": "403028-output1.png",
+        "instruction": "Have there be a pizza on the counter"
+    },
+    {
+        "input": "403028-output1.png",
+        "mask": "403028-mask2.png",
+        "output": "403028-output2.png",
+        "instruction": "Have there be a bottle of soda on the counter"
+    },
+    {
+        "input": "167863-input.png",
+        "mask": "167863-mask1.png",
+        "output": "167863-output1.png",
+        "instruction": "remove the cheese"
+    },
+    {
+        "input": "407083-input.png",
+        "mask": "407083-mask1.png",
+        "output": "407083-output1.png",
+        "instruction": "What if the dog had a tennis ball on his mouth?"
+    },
+    {
+        "input": "407083-output1.png",
+        "mask": "407083-mask2.png",
+        "output": "407083-output2.png",
+        "instruction": "What if the man had shades?"
+    },
+    {
+        "input": "322829-input.png",
+        "mask": "322829-mask1.png",
+        "output": "322829-output1.png",
+        "instruction": "put a dog under the bench"
+    },
+    {
+        "input": "322829-output1.png",
+        "mask": "322829-mask2.png",
+        "output": "322829-output2.png",
+        "instruction": "put a flower vase on the bench"
+    },
+    {
+        "input": "393286-input.png",
+        "mask": "393286-mask1.png",
+        "output": "393286-output1.png",
+        "instruction": "A apple and a partially peeled banana sits near other items on a desk."
+    },
+    {
+        "input": "262283-input.png",
+        "mask": "262283-mask1.png",
+        "output": "262283-output1.png",
+        "instruction": "make the flowers into red roses"
+    },
+    {
+        "input": "490443-input.png",
+        "mask": "490443-mask1.png",
+        "output": "490443-output1.png",
+        "instruction": "Can we have the ocean on the background?"
+    },
+    {
+        "input": "490443-output1.png",
+        "mask": "490443-mask2.png",
+        "output": "490443-output2.png",
+        "instruction": "Put a car on the beach."
+    },
+    {
+        "input": "513712-input.png",
+        "mask": "513712-mask1.png",
+        "output": "513712-output1.png",
+        "instruction": "put the food on a plate"
+    },
+    {
+        "input": "513712-output1.png",
+        "mask": "513712-mask2.png",
+        "output": "513712-output2.png",
+        "instruction": "substitute tomatoes for oranges"
+    },
+    {
+        "input": "498463-input.png",
+        "mask": "498463-mask1.png",
+        "output": "498463-output1.png",
+        "instruction": "The refrigerator could be white."
+    },
+    {
+        "input": "498463-output1.png",
+        "mask": "498463-mask2.png",
+        "output": "498463-output2.png",
+        "instruction": "We could add some stickers to the refrigerator."
+    },
+    {
+        "input": "498463-output2.png",
+        "mask": "498463-mask3.png",
+        "output": "498463-output3.png",
+        "instruction": "Could we have a dispenser behind the refrigerator?"
+    },
+    {
+        "input": "488132-input.png",
+        "mask": "488132-mask1.png",
+        "output": "488132-output1.png",
+        "instruction": "Have there be a tiger looking at the sheep"
+    },
+    {
+        "input": "401822-input.png",
+        "mask": "401822-mask1.png",
+        "output": "401822-output1.png",
+        "instruction": "change the wooden flooring into tile flooring"
+    },
+    {
+        "input": "401822-output1.png",
+        "mask": "401822-mask2.png",
+        "output": "401822-output2.png",
+        "instruction": "add bowl on the stove"
+    },
+    {
+        "input": "557067-input.png",
+        "mask": "557067-mask1.png",
+        "output": "557067-output1.png",
+        "instruction": "Have there be a bunch of fruit on the bed"
+    },
+    {
+        "input": "445397-input.png",
+        "mask": "445397-mask1.png",
+        "output": "445397-output1.png",
+        "instruction": "let the lady gasp"
+    },
+    {
+        "input": "445397-output1.png",
+        "mask": "445397-mask2.png",
+        "output": "445397-output2.png",
+        "instruction": "let the lady wear vintage clothes"
+    },
+    {
+        "input": "445397-output2.png",
+        "mask": "445397-mask3.png",
+        "output": "445397-output3.png",
+        "instruction": "let there be television on the wall"
+    },
+    {
+        "input": "448177-input.png",
+        "mask": "448177-mask1.png",
+        "output": "448177-output1.png",
+        "instruction": "Let the water tank have a lid."
+    },
+    {
+        "input": "212834-input.png",
+        "mask": "212834-mask1.png",
+        "output": "212834-output1.png",
+        "instruction": "Place a chair under the umbrella."
+    },
+    {
+        "input": "45596-input.png",
+        "mask": "45596-mask1.png",
+        "output": "45596-output1.png",
+        "instruction": "What if there was no plant life along the building"
+    },
+    {
+        "input": "182673-input.png",
+        "mask": "182673-mask1.png",
+        "output": "182673-output1.png",
+        "instruction": "Replace the gray chairs with an upright piano"
+    },
+    {
+        "input": "182673-output1.png",
+        "mask": "182673-mask2.png",
+        "output": "182673-output2.png",
+        "instruction": "Have there be someone playing the piano"
+    },
+    {
+        "input": "182673-output2.png",
+        "mask": "182673-mask3.png",
+        "output": "182673-output3.png",
+        "instruction": "Have the person be wearing a red shirt"
+    },
+    {
+        "input": "367107-input.png",
+        "mask": "367107-mask1.png",
+        "output": "367107-output1.png",
+        "instruction": "replace the stop sign with a painting"
+    },
+    {
+        "input": "501864-input.png",
+        "mask": "501864-mask1.png",
+        "output": "501864-output1.png",
+        "instruction": "remove the men"
+    },
+    {
+        "input": "501864-output1.png",
+        "mask": "501864-mask2.png",
+        "output": "501864-output2.png",
+        "instruction": "remove the text"
+    },
+    {
+        "input": "501864-output2.png",
+        "mask": "501864-mask3.png",
+        "output": "501864-output3.png",
+        "instruction": "let a zeppelin float in the sky"
+    },
+    {
+        "input": "492489-input.png",
+        "mask": "492489-mask1.png",
+        "output": "492489-output1.png",
+        "instruction": "What if the baseball bat was made of wood?"
+    },
+    {
+        "input": "110327-input.png",
+        "mask": "110327-mask1.png",
+        "output": "110327-output1.png",
+        "instruction": "put carrots on the styrofoam tray"
+    },
+    {
+        "input": "110327-output1.png",
+        "mask": "110327-mask2.png",
+        "output": "110327-output2.png",
+        "instruction": "put money in the styrofoam tray"
+    },
+    {
+        "input": "110327-output2.png",
+        "mask": "110327-mask3.png",
+        "output": "110327-output3.png",
+        "instruction": "get rid of the hot dog"
+    },
+    {
+        "input": "531277-input.png",
+        "mask": "531277-mask1.png",
+        "output": "531277-output1.png",
+        "instruction": "Can it be a cake on the plate?"
+    },
+    {
+        "input": "531277-output1.png",
+        "mask": "531277-mask2.png",
+        "output": "531277-output2.png",
+        "instruction": "The plate could be blue?"
+    },
+    {
+        "input": "531277-output2.png",
+        "mask": "531277-mask3.png",
+        "output": "531277-output3.png",
+        "instruction": "Put a glass of soda next to the plate."
+    },
+    {
+        "input": "126182-input.png",
+        "mask": "126182-mask1.png",
+        "output": "126182-output1.png",
+        "instruction": "Can the refrigerator be blue?"
+    },
+    {
+        "input": "126182-output1.png",
+        "mask": "126182-mask2.png",
+        "output": "126182-output2.png",
+        "instruction": "Put a microwave next to the freezer."
+    },
+    {
+        "input": "126182-output2.png",
+        "mask": "126182-mask3.png",
+        "output": "126182-output3.png",
+        "instruction": "Can it have a oven?"
+    },
+    {
+        "input": "195715-input.png",
+        "mask": "195715-mask1.png",
+        "output": "195715-output1.png",
+        "instruction": "What if there was a tennis ball in the glove?"
+    },
+    {
+        "input": "196878-input.png",
+        "mask": "196878-mask1.png",
+        "output": "196878-output1.png",
+        "instruction": "change the flower for another glass of wine"
+    },
+    {
+        "input": "196878-output1.png",
+        "mask": "196878-mask2.png",
+        "output": "196878-output2.png",
+        "instruction": "remove the candle stick"
+    },
+    {
+        "input": "303257-input.png",
+        "mask": "303257-mask1.png",
+        "output": "303257-output1.png",
+        "instruction": "Curl its trunk."
+    },
+    {
+        "input": "303257-output1.png",
+        "mask": "303257-mask2.png",
+        "output": "303257-output2.png",
+        "instruction": "Paint a smiley face on it."
+    },
+    {
+        "input": "303257-output2.png",
+        "mask": "303257-mask3.png",
+        "output": "303257-output3.png",
+        "instruction": "Get rid of the rock."
+    },
+    {
+        "input": "516000-input.png",
+        "mask": "516000-mask1.png",
+        "output": "516000-output1.png",
+        "instruction": "Replace the noodles with rice."
+    },
+    {
+        "input": "516000-output1.png",
+        "mask": "516000-mask2.png",
+        "output": "516000-output2.png",
+        "instruction": "Add a bit of sauce on the side."
+    },
+    {
+        "input": "516000-output2.png",
+        "mask": "516000-mask3.png",
+        "output": "516000-output3.png",
+        "instruction": "Replace those non-seaweed veggies with chicken."
+    },
+    {
+        "input": "536798-input.png",
+        "mask": "536798-mask1.png",
+        "output": "536798-output1.png",
+        "instruction": "Let the boy cry."
+    },
+    {
+        "input": "377212-input.png",
+        "mask": "377212-mask1.png",
+        "output": "377212-output1.png",
+        "instruction": "Have the dog be wearing a backwards baseball cap"
+    },
+    {
+        "input": "377212-output1.png",
+        "mask": "377212-mask2.png",
+        "output": "377212-output2.png",
+        "instruction": "Have the baseball cap have the letter \"A\" on it"
+    },
+    {
+        "input": "377212-output2.png",
+        "mask": "377212-mask3.png",
+        "output": "377212-output3.png",
+        "instruction": "Have the dog be smoking a pipe"
+    },
+    {
+        "input": "87017-input.png",
+        "mask": "87017-mask1.png",
+        "output": "87017-output1.png",
+        "instruction": "remove the woman from the picture"
+    },
+    {
+        "input": "87017-output1.png",
+        "mask": "87017-mask2.png",
+        "output": "87017-output2.png",
+        "instruction": "give the horse a horn"
+    },
+    {
+        "input": "87135-input.png",
+        "mask": "87135-mask1.png",
+        "output": "87135-output1.png",
+        "instruction": "let there be a stop sign and only one road sign"
+    },
+    {
+        "input": "87135-output1.png",
+        "mask": "87135-mask2.png",
+        "output": "87135-output2.png",
+        "instruction": "let a herd of sheep walk near the road signs"
+    },
+    {
+        "input": "458763-input.png",
+        "mask": "458763-mask1.png",
+        "output": "458763-output1.png",
+        "instruction": "Have there be a painting of Santa Claus"
+    },
+    {
+        "input": "538116-input.png",
+        "mask": "538116-mask1.png",
+        "output": "538116-output1.png",
+        "instruction": "Let the water be replaced by a soda can."
+    },
+    {
+        "input": "286656-input.png",
+        "mask": "286656-mask1.png",
+        "output": "286656-output1.png",
+        "instruction": "turn the bottle into a syringe"
+    },
+    {
+        "input": "286656-output1.png",
+        "mask": "286656-mask2.png",
+        "output": "286656-output2.png",
+        "instruction": "make the bucket blue"
+    },
+    {
+        "input": "355677-input.png",
+        "mask": "355677-mask1.png",
+        "output": "355677-output1.png",
+        "instruction": "Build a sandcastle on the beach."
+    },
+    {
+        "input": "342387-input.png",
+        "mask": "342387-mask1.png",
+        "output": "342387-output1.png",
+        "instruction": "change the hats into chef hats"
+    },
+    {
+        "input": "554364-input.png",
+        "mask": "554364-mask1.png",
+        "output": "554364-output1.png",
+        "instruction": "Add a ninja."
+    },
+    {
+        "input": "188439-input.png",
+        "mask": "188439-mask1.png",
+        "output": "188439-output1.png",
+        "instruction": "The truck is driving on a dirt road"
+    },
+    {
+        "input": "407574-input.png",
+        "mask": "407574-mask1.png",
+        "output": "407574-output1.png",
+        "instruction": "Add a person to the left of the bananas."
+    },
+    {
+        "input": "407574-output1.png",
+        "mask": "407574-mask2.png",
+        "output": "407574-output2.png",
+        "instruction": "Change the unripe bananas on the top to ripe."
+    },
+    {
+        "input": "407574-output2.png",
+        "mask": "407574-mask3.png",
+        "output": "407574-output3.png",
+        "instruction": "Change the wooden pole to a metal pole."
+    },
+    {
+        "input": "97579-input.png",
+        "mask": "97579-mask1.png",
+        "output": "97579-output1.png",
+        "instruction": "make the man look at the camera"
+    },
+    {
+        "input": "97579-output1.png",
+        "mask": "97579-mask2.png",
+        "output": "97579-output2.png",
+        "instruction": "make the woman hold a banana"
+    },
+    {
+        "input": "97579-output2.png",
+        "mask": "97579-mask3.png",
+        "output": "97579-output3.png",
+        "instruction": "make the woman look at the camera"
+    },
+    {
+        "input": "556775-input.png",
+        "mask": "556775-mask1.png",
+        "output": "556775-output1.png",
+        "instruction": "remove the lap top"
+    },
+    {
+        "input": "556775-output1.png",
+        "mask": "556775-mask2.png",
+        "output": "556775-output2.png",
+        "instruction": "put a dog on the couch"
+    },
+    {
+        "input": "229171-input.png",
+        "mask": "229171-mask1.png",
+        "output": "229171-output1.png",
+        "instruction": "Have one of the laptops be showing a picture of an elephant"
+    },
+    {
+        "input": "229171-output1.png",
+        "mask": "229171-mask2.png",
+        "output": "229171-output2.png",
+        "instruction": "Have the other laptop also be showing a picture of an elephant"
+    },
+    {
+        "input": "191193-input.png",
+        "mask": "191193-mask1.png",
+        "output": "191193-output1.png",
+        "instruction": "Let the dog be brown."
+    },
+    {
+        "input": "442414-input.png",
+        "mask": "442414-mask1.png",
+        "output": "442414-output1.png",
+        "instruction": "change the horse to a lion"
+    },
+    {
+        "input": "442414-output1.png",
+        "mask": "442414-mask2.png",
+        "output": "442414-output2.png",
+        "instruction": "change the woman to a little boy"
+    },
+    {
+        "input": "442414-output2.png",
+        "mask": "442414-mask3.png",
+        "output": "442414-output3.png",
+        "instruction": "add a train"
+    },
+    {
+        "input": "513484-input.png",
+        "mask": "513484-mask1.png",
+        "output": "513484-output1.png",
+        "instruction": "Have the bear wear a shirt."
+    },
+    {
+        "input": "513484-output1.png",
+        "mask": "513484-mask2.png",
+        "output": "513484-output2.png",
+        "instruction": "Put a hat on the bear."
+    },
+    {
+        "input": "507918-input.png",
+        "mask": "507918-mask1.png",
+        "output": "507918-output1.png",
+        "instruction": "Have someone be taking pictures of the goats"
+    },
+    {
+        "input": "62398-input.png",
+        "mask": "62398-mask1.png",
+        "output": "62398-output1.png",
+        "instruction": "make the cat stand"
+    },
+    {
+        "input": "62398-output1.png",
+        "mask": "62398-mask2.png",
+        "output": "62398-output2.png",
+        "instruction": "leave only the white cat"
+    },
+    {
+        "input": "540100-input.png",
+        "mask": "540100-mask1.png",
+        "output": "540100-output1.png",
+        "instruction": "change the chicken, broccoli and cheese into rice"
+    },
+    {
+        "input": "540100-output1.png",
+        "mask": "540100-mask2.png",
+        "output": "540100-output2.png",
+        "instruction": "let the bowl be yellow"
+    },
+    {
+        "input": "540100-output2.png",
+        "mask": "540100-mask3.png",
+        "output": "540100-output3.png",
+        "instruction": "add some salt next to the bowl"
+    },
+    {
+        "input": "500207-input.png",
+        "mask": "500207-mask1.png",
+        "output": "500207-output1.png",
+        "instruction": "make the plane white and colored"
+    },
+    {
+        "input": "108649-input.png",
+        "mask": "108649-mask1.png",
+        "output": "108649-output1.png",
+        "instruction": "Remove the sunglasses."
+    },
+    {
+        "input": "108649-output1.png",
+        "mask": "108649-mask2.png",
+        "output": "108649-output2.png",
+        "instruction": "Replace the glove with a wooden block."
+    },
+    {
+        "input": "108649-output2.png",
+        "mask": "108649-mask3.png",
+        "output": "108649-output3.png",
+        "instruction": "Place a small action figure next to the block."
+    },
+    {
+        "input": "377772-input.png",
+        "mask": "377772-mask1.png",
+        "output": "377772-output1.png",
+        "instruction": "replace the bunk bed with a single bed"
+    },
+    {
+        "input": "377772-output1.png",
+        "mask": "377772-mask2.png",
+        "output": "377772-output2.png",
+        "instruction": "put some red flowers on the vase"
+    },
+    {
+        "input": "482775-input.png",
+        "mask": "482775-mask1.png",
+        "output": "482775-output1.png",
+        "instruction": "Put a cake on the plate."
+    },
+    {
+        "input": "482775-output1.png",
+        "mask": "482775-mask2.png",
+        "output": "482775-output2.png",
+        "instruction": "Can we have a glass of juice next to the plate?"
+    },
+    {
+        "input": "482775-output2.png",
+        "mask": "482775-mask3.png",
+        "output": "482775-output3.png",
+        "instruction": "Put a jar of juice next to the plate."
+    },
+    {
+        "input": "499730-input.png",
+        "mask": "499730-mask1.png",
+        "output": "499730-output1.png",
+        "instruction": "Make the stop sign a go sign."
+    },
+    {
+        "input": "499730-output1.png",
+        "mask": "499730-mask2.png",
+        "output": "499730-output2.png",
+        "instruction": "Make the bottom sign a clock."
+    },
+    {
+        "input": "499730-output2.png",
+        "mask": "499730-mask3.png",
+        "output": "499730-output3.png",
+        "instruction": "Put a parrot on top of the go sign."
+    },
+    {
+        "input": "509028-input.png",
+        "mask": "509028-mask1.png",
+        "output": "509028-output1.png",
+        "instruction": "have the people face the building"
+    },
+    {
+        "input": "509028-output1.png",
+        "mask": "509028-mask2.png",
+        "output": "509028-output2.png",
+        "instruction": "give the building a balcony"
+    },
+    {
+        "input": "433605-input.png",
+        "mask": "433605-mask1.png",
+        "output": "433605-output1.png",
+        "instruction": "make the bananas dark"
+    },
+    {
+        "input": "433605-output1.png",
+        "mask": "433605-mask2.png",
+        "output": "433605-output2.png",
+        "instruction": "the laptop is now showing some fruits"
+    },
+    {
+        "input": "433605-output2.png",
+        "mask": "433605-mask3.png",
+        "output": "433605-output3.png",
+        "instruction": "get rid of the mouse"
+    },
+    {
+        "input": "558538-input.png",
+        "mask": "558538-mask1.png",
+        "output": "558538-output1.png",
+        "instruction": "change the stop sign into an exit sign"
+    },
+    {
+        "input": "558538-output1.png",
+        "mask": "558538-mask2.png",
+        "output": "558538-output2.png",
+        "instruction": "add a car driving out of the garage"
+    },
+    {
+        "input": "558538-output2.png",
+        "mask": "558538-mask3.png",
+        "output": "558538-output3.png",
+        "instruction": "add kids playing in front of the two houses"
+    },
+    {
+        "input": "204804-input.png",
+        "mask": "204804-mask1.png",
+        "output": "204804-output1.png",
+        "instruction": "Add a king sitting on the chair."
+    },
+    {
+        "input": "449125-input.png",
+        "mask": "449125-mask1.png",
+        "output": "449125-output1.png",
+        "instruction": "Let the frisbee be changed to beach ball."
+    },
+    {
+        "input": "139306-input.png",
+        "mask": "139306-mask1.png",
+        "output": "139306-output1.png",
+        "instruction": "Dull the knife."
+    },
+    {
+        "input": "139306-output1.png",
+        "mask": "139306-mask2.png",
+        "output": "139306-output2.png",
+        "instruction": "Make the sandwich a hot dog."
+    },
+    {
+        "input": "507958-input.png",
+        "mask": "507958-mask1.png",
+        "output": "507958-output1.png",
+        "instruction": "paint the cabinets"
+    },
+    {
+        "input": "507958-output1.png",
+        "mask": "507958-mask2.png",
+        "output": "507958-output2.png",
+        "instruction": "add butterflies"
+    },
+    {
+        "input": "507958-output2.png",
+        "mask": "507958-mask3.png",
+        "output": "507958-output3.png",
+        "instruction": "add flower wall paper"
+    },
+    {
+        "input": "78689-input.png",
+        "mask": "78689-mask1.png",
+        "output": "78689-output1.png",
+        "instruction": "make the dog pant"
+    },
+    {
+        "input": "78689-output1.png",
+        "mask": "78689-mask2.png",
+        "output": "78689-output2.png",
+        "instruction": "let the laptop show an error message"
+    },
+    {
+        "input": "78689-output2.png",
+        "mask": "78689-mask3.png",
+        "output": "78689-output3.png",
+        "instruction": "remove a laptop"
+    },
+    {
+        "input": "115146-input.png",
+        "mask": "115146-mask1.png",
+        "output": "115146-output1.png",
+        "instruction": "What if there is a drawing of a girl next to the people on the wall?"
+    },
+    {
+        "input": "359687-input.png",
+        "mask": "359687-mask1.png",
+        "output": "359687-output1.png",
+        "instruction": "let a man sit in a boat"
+    },
+    {
+        "input": "359687-output1.png",
+        "mask": "359687-mask2.png",
+        "output": "359687-output2.png",
+        "instruction": "add a dog on the wooden dock"
+    },
+    {
+        "input": "359687-output2.png",
+        "mask": "359687-mask3.png",
+        "output": "359687-output3.png",
+        "instruction": "add fireworks in the sky"
+    },
+    {
+        "input": "436284-input.png",
+        "mask": "436284-mask1.png",
+        "output": "436284-output1.png",
+        "instruction": "Turn the wood into a volcano."
+    },
+    {
+        "input": "436284-output1.png",
+        "mask": "436284-mask2.png",
+        "output": "436284-output2.png",
+        "instruction": "add a lava flow"
+    },
+    {
+        "input": "436284-output2.png",
+        "mask": "436284-mask3.png",
+        "output": "436284-output3.png",
+        "instruction": "add smoke"
+    },
+    {
+        "input": "455879-input.png",
+        "mask": "455879-mask1.png",
+        "output": "455879-output1.png",
+        "instruction": "change the military hats into sombrero hats"
+    },
+    {
+        "input": "455879-output1.png",
+        "mask": "455879-mask2.png",
+        "output": "455879-output2.png",
+        "instruction": "remove the blood"
+    },
+    {
+        "input": "448409-input.png",
+        "mask": "448409-mask1.png",
+        "output": "448409-output1.png",
+        "instruction": "Let the chair be made by black leather."
+    },
+    {
+        "input": "204777-input.png",
+        "mask": "204777-mask1.png",
+        "output": "204777-output1.png",
+        "instruction": "make the man put a sandwich in his mouth"
+    },
+    {
+        "input": "204777-output1.png",
+        "mask": "204777-mask2.png",
+        "output": "204777-output2.png",
+        "instruction": "let the old man be dressed in a military uniform"
+    },
+    {
+        "input": "204777-output2.png",
+        "mask": "204777-mask3.png",
+        "output": "204777-output3.png",
+        "instruction": "let the man have a curly afro"
+    },
+    {
+        "input": "528875-input.png",
+        "mask": "528875-mask1.png",
+        "output": "528875-output1.png",
+        "instruction": "Add a tennis ball"
+    },
+    {
+        "input": "172406-input.png",
+        "mask": "172406-mask1.png",
+        "output": "172406-output1.png",
+        "instruction": "remove the blinders from the horse"
+    },
+    {
+        "input": "524311-input.png",
+        "mask": "524311-mask1.png",
+        "output": "524311-output1.png",
+        "instruction": "change his outfit into a tuxedo"
+    },
+    {
+        "input": "524311-output1.png",
+        "mask": "524311-mask2.png",
+        "output": "524311-output2.png",
+        "instruction": "change his hair to blonde"
+    },
+    {
+        "input": "524311-output2.png",
+        "mask": "524311-mask3.png",
+        "output": "524311-output3.png",
+        "instruction": "change the Wii remote to carrot"
+    },
+    {
+        "input": "246787-input.png",
+        "mask": "246787-mask1.png",
+        "output": "246787-output1.png",
+        "instruction": "let there be a painting instead of a sign"
+    },
+    {
+        "input": "246787-output1.png",
+        "mask": "246787-mask2.png",
+        "output": "246787-output2.png",
+        "instruction": "let the walls be painted"
+    },
+    {
+        "input": "246787-output2.png",
+        "mask": "246787-mask3.png",
+        "output": "246787-output3.png",
+        "instruction": "let there be glasses of champagne on the table"
+    },
+    {
+        "input": "229779-input.png",
+        "mask": "229779-mask1.png",
+        "output": "229779-output1.png",
+        "instruction": "let the surfboard change into a ski"
+    },
+    {
+        "input": "229779-output1.png",
+        "mask": "229779-mask2.png",
+        "output": "229779-output2.png",
+        "instruction": "let there be a yacht"
+    },
+    {
+        "input": "229779-output2.png",
+        "mask": "229779-mask3.png",
+        "output": "229779-output3.png",
+        "instruction": "let there be an island at the border"
+    },
+    {
+        "input": "262162-input.png",
+        "mask": "262162-mask1.png",
+        "output": "262162-output1.png",
+        "instruction": "Add person to the chair."
+    },
+    {
+        "input": "442242-input.png",
+        "mask": "442242-mask1.png",
+        "output": "442242-output1.png",
+        "instruction": "double the amount of lighthouses"
+    },
+    {
+        "input": "460929-input.png",
+        "mask": "460929-mask1.png",
+        "output": "460929-output1.png",
+        "instruction": "Make the drink a beer."
+    },
+    {
+        "input": "460929-output1.png",
+        "mask": "460929-mask2.png",
+        "output": "460929-output2.png",
+        "instruction": "Remove the mustard."
+    },
+    {
+        "input": "229383-input.png",
+        "mask": "229383-mask1.png",
+        "output": "229383-output1.png",
+        "instruction": "Make one of the women read a book."
+    },
+    {
+        "input": "255010-input.png",
+        "mask": "255010-mask1.png",
+        "output": "255010-output1.png",
+        "instruction": "Make the hats white."
+    },
+    {
+        "input": "432216-input.png",
+        "mask": "432216-mask1.png",
+        "output": "432216-output1.png",
+        "instruction": "change one of the people for a brown bear"
+    },
+    {
+        "input": "369675-input.png",
+        "mask": "369675-mask1.png",
+        "output": "369675-output1.png",
+        "instruction": "Paint most of the train white."
+    },
+    {
+        "input": "369675-output1.png",
+        "mask": "369675-mask2.png",
+        "output": "369675-output2.png",
+        "instruction": "Remove the passengers."
+    },
+    {
+        "input": "369675-output2.png",
+        "mask": "369675-mask3.png",
+        "output": "369675-output3.png",
+        "instruction": "Add a small dog next to the train."
+    },
+    {
+        "input": "522782-input.png",
+        "mask": "522782-mask1.png",
+        "output": "522782-output1.png",
+        "instruction": "Could we have just one monitor?"
+    },
+    {
+        "input": "522782-output1.png",
+        "mask": "522782-mask2.png",
+        "output": "522782-output2.png",
+        "instruction": "Put a picture of a car on the monitor screen."
+    },
+    {
+        "input": "547637-input.png",
+        "mask": "547637-mask1.png",
+        "output": "547637-output1.png",
+        "instruction": "Have an orange instead of a baseball."
+    },
+    {
+        "input": "164224-input.png",
+        "mask": "164224-mask1.png",
+        "output": "164224-output1.png",
+        "instruction": "remove the chairs"
+    },
+    {
+        "input": "164224-output1.png",
+        "mask": "164224-mask2.png",
+        "output": "164224-output2.png",
+        "instruction": "let there be an abstract painting on the wall"
+    },
+    {
+        "input": "164224-output2.png",
+        "mask": "164224-mask3.png",
+        "output": "164224-output3.png",
+        "instruction": "let there be a big teddy bear on the pillows"
+    },
+    {
+        "input": "317424-input.png",
+        "mask": "317424-mask1.png",
+        "output": "317424-output1.png",
+        "instruction": "Replace the graffiti with the face of a panda."
+    },
+    {
+        "input": "392850-input.png",
+        "mask": "392850-mask1.png",
+        "output": "392850-output1.png",
+        "instruction": "Have there be rice in the clear bowl"
+    },
+    {
+        "input": "392850-output1.png",
+        "mask": "392850-mask2.png",
+        "output": "392850-output2.png",
+        "instruction": "Have there be a measuring cup by the fruit"
+    },
+    {
+        "input": "392850-output2.png",
+        "mask": "392850-mask3.png",
+        "output": "392850-output3.png",
+        "instruction": "Have there be a stick of butter on the cutting board"
+    },
+    {
+        "input": "308793-input.png",
+        "mask": "308793-mask1.png",
+        "output": "308793-output1.png",
+        "instruction": "Add a fox running up the mountain"
+    },
+    {
+        "input": "91080-input.png",
+        "mask": "91080-mask1.png",
+        "output": "91080-output1.png",
+        "instruction": "swap the kettle for a pan"
+    },
+    {
+        "input": "91080-output1.png",
+        "mask": "91080-mask2.png",
+        "output": "91080-output2.png",
+        "instruction": "add a fruit basket"
+    },
+    {
+        "input": "168784-input.png",
+        "mask": "168784-mask1.png",
+        "output": "168784-output1.png",
+        "instruction": "Make it a bow tie."
+    },
+    {
+        "input": "466965-input.png",
+        "mask": "466965-mask1.png",
+        "output": "466965-output1.png",
+        "instruction": "What if the parrot had a hat?"
+    },
+    {
+        "input": "484074-input.png",
+        "mask": "484074-mask1.png",
+        "output": "484074-output1.png",
+        "instruction": "Have a man sitting on the zebra."
+    },
+    {
+        "input": "182496-input.png",
+        "mask": "182496-mask1.png",
+        "output": "182496-output1.png",
+        "instruction": "Top the hot dogs with ice cream"
+    },
+    {
+        "input": "182496-output1.png",
+        "mask": "182496-mask2.png",
+        "output": "182496-output2.png",
+        "instruction": "add a cherry on top"
+    },
+    {
+        "input": "41846-input.png",
+        "mask": "41846-mask1.png",
+        "output": "41846-output1.png",
+        "instruction": "Add pepperoni to the toppings"
+    },
+    {
+        "input": "524459-input.png",
+        "mask": "524459-mask1.png",
+        "output": "524459-output1.png",
+        "instruction": "make the man look at his laptop"
+    },
+    {
+        "input": "524459-output1.png",
+        "mask": "524459-mask2.png",
+        "output": "524459-output2.png",
+        "instruction": "let the man wear a striped shirt"
+    },
+    {
+        "input": "524459-output2.png",
+        "mask": "524459-mask3.png",
+        "output": "524459-output3.png",
+        "instruction": "make the man hold a pencil"
+    },
+    {
+        "input": "237041-input.png",
+        "mask": "237041-mask1.png",
+        "output": "237041-output1.png",
+        "instruction": "Add a gorilla going by"
+    },
+    {
+        "input": "237041-output1.png",
+        "mask": "237041-mask2.png",
+        "output": "237041-output2.png",
+        "instruction": "Add lightening bolts in the sky."
+    },
+    {
+        "input": "237041-output2.png",
+        "mask": "237041-mask3.png",
+        "output": "237041-output3.png",
+        "instruction": "Add a helicopter being struck by lightening."
+    },
+    {
+        "input": "50306-input.png",
+        "mask": "50306-mask1.png",
+        "output": "50306-output1.png",
+        "instruction": "remove the pizza a put a crystal ball in it's place"
+    },
+    {
+        "input": "50306-output1.png",
+        "mask": "50306-mask2.png",
+        "output": "50306-output2.png",
+        "instruction": "put a chessboard in place of the utensils and drinks"
+    },
+    {
+        "input": "319494-input.png",
+        "mask": "319494-mask1.png",
+        "output": "319494-output1.png",
+        "instruction": "Make a big whale jump over the boat."
+    },
+    {
+        "input": "62745-input.png",
+        "mask": "62745-mask1.png",
+        "output": "62745-output1.png",
+        "instruction": "Replace the angry birds with flowers."
+    },
+    {
+        "input": "168690-input.png",
+        "mask": "168690-mask1.png",
+        "output": "168690-output1.png",
+        "instruction": "let the computer have a blank screen"
+    },
+    {
+        "input": "168690-output1.png",
+        "mask": "168690-mask2.png",
+        "output": "168690-output2.png",
+        "instruction": "let the keyboard be black"
+    },
+    {
+        "input": "168690-output2.png",
+        "mask": "168690-mask3.png",
+        "output": "168690-output3.png",
+        "instruction": "let there be a green pillow on bed"
+    },
+    {
+        "input": "40471-input.png",
+        "mask": "40471-mask1.png",
+        "output": "40471-output1.png",
+        "instruction": "Turn the two windows into a single window."
+    },
+    {
+        "input": "74964-input.png",
+        "mask": "74964-mask1.png",
+        "output": "74964-output1.png",
+        "instruction": "let there be a roast chicken on the plate"
+    },
+    {
+        "input": "74964-output1.png",
+        "mask": "74964-mask2.png",
+        "output": "74964-output2.png",
+        "instruction": "let there be a bowl of berries"
+    },
+    {
+        "input": "74964-output2.png",
+        "mask": "74964-mask3.png",
+        "output": "74964-output3.png",
+        "instruction": "let there be a tub of ice cream"
+    },
+    {
+        "input": "421476-input.png",
+        "mask": "421476-mask1.png",
+        "output": "421476-output1.png",
+        "instruction": "Let the plate contain some Portbella."
+    },
+    {
+        "input": "140021-input.png",
+        "mask": "140021-mask1.png",
+        "output": "140021-output1.png",
+        "instruction": "make the scissor blue"
+    },
+    {
+        "input": "26221-input.png",
+        "mask": "26221-mask1.png",
+        "output": "26221-output1.png",
+        "instruction": "make a lion laying on the couch"
+    },
+    {
+        "input": "94751-input.png",
+        "mask": "94751-mask1.png",
+        "output": "94751-output1.png",
+        "instruction": "Add a lighthouse to the image"
+    },
+    {
+        "input": "15272-input.png",
+        "mask": "15272-mask1.png",
+        "output": "15272-output1.png",
+        "instruction": "let there be a green bird perched on the tree"
+    },
+    {
+        "input": "15272-output1.png",
+        "mask": "15272-mask2.png",
+        "output": "15272-output2.png",
+        "instruction": "let a monkey sit on the tree"
+    },
+    {
+        "input": "57377-input.png",
+        "mask": "57377-mask1.png",
+        "output": "57377-output1.png",
+        "instruction": "Let's add a black bear to the stream."
+    },
+    {
+        "input": "499037-input.png",
+        "mask": "499037-mask1.png",
+        "output": "499037-output1.png",
+        "instruction": "Remove the text on the banner."
+    },
+    {
+        "input": "499037-output1.png",
+        "mask": "499037-mask2.png",
+        "output": "499037-output2.png",
+        "instruction": "Give the man a ski mask."
+    },
+    {
+        "input": "321394-input.png",
+        "mask": "321394-mask1.png",
+        "output": "321394-output1.png",
+        "instruction": "Can the bed be blue?"
+    },
+    {
+        "input": "321394-output1.png",
+        "mask": "321394-mask2.png",
+        "output": "321394-output2.png",
+        "instruction": "Put a red dresser on the left."
+    },
+    {
+        "input": "321394-output2.png",
+        "mask": "321394-mask3.png",
+        "output": "321394-output3.png",
+        "instruction": "The window should be larger."
+    },
+    {
+        "input": "1330-input.png",
+        "mask": "1330-mask1.png",
+        "output": "1330-output1.png",
+        "instruction": "Let the guy wear long pants."
+    },
+    {
+        "input": "411530-input.png",
+        "mask": "411530-mask1.png",
+        "output": "411530-output1.png",
+        "instruction": "Remove all the people."
+    },
+    {
+        "input": "411530-output1.png",
+        "mask": "411530-mask2.png",
+        "output": "411530-output2.png",
+        "instruction": "Add a big polar bear."
+    },
+    {
+        "input": "411530-output2.png",
+        "mask": "411530-mask3.png",
+        "output": "411530-output3.png",
+        "instruction": "Add a bunch of birds."
+    },
+    {
+        "input": "30-input.png",
+        "mask": "30-mask1.png",
+        "output": "30-output1.png",
+        "instruction": "Have a squirrel be looking at the vase"
+    },
+    {
+        "input": "523599-input.png",
+        "mask": "523599-mask1.png",
+        "output": "523599-output1.png",
+        "instruction": "replace the plane with a super hero"
+    },
+    {
+        "input": "523599-output1.png",
+        "mask": "523599-mask2.png",
+        "output": "523599-output2.png",
+        "instruction": "put a dog next to the hero"
+    },
+    {
+        "input": "269038-input.png",
+        "mask": "269038-mask1.png",
+        "output": "269038-output1.png",
+        "instruction": "Let the man ride a scooter."
+    },
+    {
+        "input": "410110-input.png",
+        "mask": "410110-mask1.png",
+        "output": "410110-output1.png",
+        "instruction": "remove the umbrella"
+    },
+    {
+        "input": "410110-output1.png",
+        "mask": "410110-mask2.png",
+        "output": "410110-output2.png",
+        "instruction": "let a purse be open and let there be a cellphone"
+    },
+    {
+        "input": "410110-output2.png",
+        "mask": "410110-mask3.png",
+        "output": "410110-output3.png",
+        "instruction": "let a woman look at the purses"
+    },
+    {
+        "input": "380097-input.png",
+        "mask": "380097-mask1.png",
+        "output": "380097-output1.png",
+        "instruction": "Let the counter turn white."
+    },
+    {
+        "input": "189017-input.png",
+        "mask": "189017-mask1.png",
+        "output": "189017-output1.png",
+        "instruction": "There should be lots of baby ducklings in the street."
+    },
+    {
+        "input": "434222-input.png",
+        "mask": "434222-mask1.png",
+        "output": "434222-output1.png",
+        "instruction": "Have the computer screen be showing cat pictures"
+    },
+    {
+        "input": "434222-output1.png",
+        "mask": "434222-mask2.png",
+        "output": "434222-output2.png",
+        "instruction": "Have the cat be eating a donut"
+    },
+    {
+        "input": "434222-output2.png",
+        "mask": "434222-mask3.png",
+        "output": "434222-output3.png",
+        "instruction": "Add a glass of water next to the screen"
+    },
+    {
+        "input": "183672-input.png",
+        "mask": "183672-mask1.png",
+        "output": "183672-output1.png",
+        "instruction": "Change the man's shirt to orange"
+    },
+    {
+        "input": "183672-output1.png",
+        "mask": "183672-mask2.png",
+        "output": "183672-output2.png",
+        "instruction": "Have the man be holding a banana"
+    },
+    {
+        "input": "107168-input.png",
+        "mask": "107168-mask1.png",
+        "output": "107168-output1.png",
+        "instruction": "make the giraffe stand"
+    },
+    {
+        "input": "100547-input.png",
+        "mask": "100547-mask1.png",
+        "output": "100547-output1.png",
+        "instruction": "turn the cheese burgers into donuts"
+    },
+    {
+        "input": "100547-output1.png",
+        "mask": "100547-mask2.png",
+        "output": "100547-output2.png",
+        "instruction": "put the donuts on a wooden table"
+    },
+    {
+        "input": "483389-input.png",
+        "mask": "483389-mask1.png",
+        "output": "483389-output1.png",
+        "instruction": "put a fork in the mashed potatoes"
+    },
+    {
+        "input": "340184-input.png",
+        "mask": "340184-mask1.png",
+        "output": "340184-output1.png",
+        "instruction": "put a rabbit in the room"
+    },
+    {
+        "input": "340184-output1.png",
+        "mask": "340184-mask2.png",
+        "output": "340184-output2.png",
+        "instruction": "add another rabbit to the photo"
+    },
+    {
+        "input": "318815-input.png",
+        "mask": "318815-mask1.png",
+        "output": "318815-output1.png",
+        "instruction": "let the surfboard turn into a skateboard"
+    },
+    {
+        "input": "318815-output1.png",
+        "mask": "318815-mask2.png",
+        "output": "318815-output2.png",
+        "instruction": "let the towel be changed into a sandcastle"
+    },
+    {
+        "input": "318815-output2.png",
+        "mask": "318815-mask3.png",
+        "output": "318815-output3.png",
+        "instruction": "let a kid crouch next to the castle"
+    },
+    {
+        "input": "410152-input.png",
+        "mask": "410152-mask1.png",
+        "output": "410152-output1.png",
+        "instruction": "put a person riding a bicycle next to the train"
+    },
+    {
+        "input": "410152-output1.png",
+        "mask": "410152-mask2.png",
+        "output": "410152-output2.png",
+        "instruction": "replace the subway train with a street bus"
+    },
+    {
+        "input": "315219-input.png",
+        "mask": "315219-mask1.png",
+        "output": "315219-output1.png",
+        "instruction": "Replace the cord with a pendulum."
+    },
+    {
+        "input": "147501-input.png",
+        "mask": "147501-mask1.png",
+        "output": "147501-output1.png",
+        "instruction": "Make the fridge metallic."
+    },
+    {
+        "input": "123336-input.png",
+        "mask": "123336-mask1.png",
+        "output": "123336-output1.png",
+        "instruction": "let the donuts have strawberry glaze on them"
+    },
+    {
+        "input": "123336-output1.png",
+        "mask": "123336-mask2.png",
+        "output": "123336-output2.png",
+        "instruction": "change the alcohol shelf into a bookshelf"
+    },
+    {
+        "input": "123336-output2.png",
+        "mask": "123336-mask3.png",
+        "output": "123336-output3.png",
+        "instruction": "let a smiling man stand nearby"
+    },
+    {
+        "input": "335912-input.png",
+        "mask": "335912-mask1.png",
+        "output": "335912-output1.png",
+        "instruction": "change the shirt"
+    },
+    {
+        "input": "214028-input.png",
+        "mask": "214028-mask1.png",
+        "output": "214028-output1.png",
+        "instruction": "The bed should be blue."
+    },
+    {
+        "input": "214028-output1.png",
+        "mask": "214028-mask2.png",
+        "output": "214028-output2.png",
+        "instruction": "Can we have a television?"
+    },
+    {
+        "input": "214028-output2.png",
+        "mask": "214028-mask3.png",
+        "output": "214028-output3.png",
+        "instruction": "Put a larger window on the room."
+    },
+    {
+        "input": "426052-input.png",
+        "mask": "426052-mask1.png",
+        "output": "426052-output1.png",
+        "instruction": "Add a flying drone."
+    },
+    {
+        "input": "460460-input.png",
+        "mask": "460460-mask1.png",
+        "output": "460460-output1.png",
+        "instruction": "throw a pillow on that couch"
+    },
+    {
+        "input": "405249-input.png",
+        "mask": "405249-mask1.png",
+        "output": "405249-output1.png",
+        "instruction": "Eliminate the cake on the right that has toys"
+    },
+    {
+        "input": "405249-output1.png",
+        "mask": "405249-mask2.png",
+        "output": "405249-output2.png",
+        "instruction": "Add a second chocolate cake"
+    },
+    {
+        "input": "405249-output2.png",
+        "mask": "405249-mask3.png",
+        "output": "405249-output3.png",
+        "instruction": "Add a balloon on the table"
+    },
+    {
+        "input": "151480-input.png",
+        "mask": "151480-mask1.png",
+        "output": "151480-output1.png",
+        "instruction": "have a mascot in the stands"
+    },
+    {
+        "input": "151480-output1.png",
+        "mask": "151480-mask2.png",
+        "output": "151480-output2.png",
+        "instruction": "line the player up in a line."
+    },
+    {
+        "input": "231682-input.png",
+        "mask": "231682-mask1.png",
+        "output": "231682-output1.png",
+        "instruction": "change the motorcycle into a bicycle"
+    },
+    {
+        "input": "231682-output1.png",
+        "mask": "231682-mask2.png",
+        "output": "231682-output2.png",
+        "instruction": "make the officer look at the camera"
+    },
+    {
+        "input": "243361-input.png",
+        "mask": "243361-mask1.png",
+        "output": "243361-output1.png",
+        "instruction": "let a man sit on a chair at the table"
+    },
+    {
+        "input": "243361-output1.png",
+        "mask": "243361-mask2.png",
+        "output": "243361-output2.png",
+        "instruction": "let the laptop be closed"
+    },
+    {
+        "input": "243361-output2.png",
+        "mask": "243361-mask3.png",
+        "output": "243361-output3.png",
+        "instruction": "let the computer have a butterfly wallpaper"
+    },
+    {
+        "input": "95828-input.png",
+        "mask": "95828-mask1.png",
+        "output": "95828-output1.png",
+        "instruction": "substitute the computers for books"
+    },
+    {
+        "input": "95828-output1.png",
+        "mask": "95828-mask2.png",
+        "output": "95828-output2.png",
+        "instruction": "place a turtle in the image"
+    },
+    {
+        "input": "350132-input.png",
+        "mask": "350132-mask1.png",
+        "output": "350132-output1.png",
+        "instruction": "let a dog leap to catch the frisbee"
+    },
+    {
+        "input": "350132-output1.png",
+        "mask": "350132-mask2.png",
+        "output": "350132-output2.png",
+        "instruction": "let there be mountains bordering the field"
+    },
+    {
+        "input": "350132-output2.png",
+        "mask": "350132-mask3.png",
+        "output": "350132-output3.png",
+        "instruction": "let the field have water sprinklers"
+    },
+    {
+        "input": "147471-input.png",
+        "mask": "147471-mask1.png",
+        "output": "147471-output1.png",
+        "instruction": "What if the man was bald?"
+    },
+    {
+        "input": "147471-output1.png",
+        "mask": "147471-mask2.png",
+        "output": "147471-output2.png",
+        "instruction": "What if the woman was blonde?"
+    },
+    {
+        "input": "147471-output2.png",
+        "mask": "147471-mask3.png",
+        "output": "147471-output3.png",
+        "instruction": "What if the dog had a hat?"
+    },
+    {
+        "input": "519432-input.png",
+        "mask": "519432-mask1.png",
+        "output": "519432-output1.png",
+        "instruction": "Turn off the laptop."
+    },
+    {
+        "input": "519432-output1.png",
+        "mask": "519432-mask2.png",
+        "output": "519432-output2.png",
+        "instruction": "Paint a smiley face on the wall."
+    },
+    {
+        "input": "457572-input.png",
+        "mask": "457572-mask1.png",
+        "output": "457572-output1.png",
+        "instruction": "change the glasses into sunglasses"
+    },
+    {
+        "input": "457572-output1.png",
+        "mask": "457572-mask2.png",
+        "output": "457572-output2.png",
+        "instruction": "add a champagne bottle on the bed"
+    },
+    {
+        "input": "457572-output2.png",
+        "mask": "457572-mask3.png",
+        "output": "457572-output3.png",
+        "instruction": "let the girl have blonde hair"
+    },
+    {
+        "input": "23355-input.png",
+        "mask": "23355-mask1.png",
+        "output": "23355-output1.png",
+        "instruction": "let a plate of pizza be turned into roast chicken"
+    },
+    {
+        "input": "23355-output1.png",
+        "mask": "23355-mask2.png",
+        "output": "23355-output2.png",
+        "instruction": "make the waiter laugh"
+    },
+    {
+        "input": "23355-output2.png",
+        "mask": "23355-mask3.png",
+        "output": "23355-output3.png",
+        "instruction": "let there be a bunch of people at the dining table"
+    },
+    {
+        "input": "419974-input.png",
+        "mask": "419974-mask1.png",
+        "output": "419974-output1.png",
+        "instruction": "let the man cut a pineapple"
+    },
+    {
+        "input": "419974-output1.png",
+        "mask": "419974-mask2.png",
+        "output": "419974-output2.png",
+        "instruction": "make the dog howl"
+    },
+    {
+        "input": "419974-output2.png",
+        "mask": "419974-mask3.png",
+        "output": "419974-output3.png",
+        "instruction": "let there be an assortment of dog food and treats"
+    },
+    {
+        "input": "205069-input.png",
+        "mask": "205069-mask1.png",
+        "output": "205069-output1.png",
+        "instruction": "change the pink hat to a red hat"
+    },
+    {
+        "input": "205069-output1.png",
+        "mask": "205069-mask2.png",
+        "output": "205069-output2.png",
+        "instruction": "let the woman wear a red skirt"
+    },
+    {
+        "input": "205069-output2.png",
+        "mask": "205069-mask3.png",
+        "output": "205069-output3.png",
+        "instruction": "let the woman have blonde hair"
+    },
+    {
+        "input": "555012-input.png",
+        "mask": "555012-mask1.png",
+        "output": "555012-output1.png",
+        "instruction": "Lift the lid of the toilet."
+    },
+    {
+        "input": "417804-input.png",
+        "mask": "417804-mask1.png",
+        "output": "417804-output1.png",
+        "instruction": "Change the mouse to a rodent mouse."
+    },
+    {
+        "input": "294918-input.png",
+        "mask": "294918-mask1.png",
+        "output": "294918-output1.png",
+        "instruction": "Add a wild pig."
+    },
+    {
+        "input": "243066-input.png",
+        "mask": "243066-mask1.png",
+        "output": "243066-output1.png",
+        "instruction": "Let's add a snowmobile."
+    },
+    {
+        "input": "373184-input.png",
+        "mask": "373184-mask1.png",
+        "output": "373184-output1.png",
+        "instruction": "let the giraffe be white"
+    },
+    {
+        "input": "373184-output1.png",
+        "mask": "373184-mask2.png",
+        "output": "373184-output2.png",
+        "instruction": "add yellow flowers on the tree"
+    },
+    {
+        "input": "373184-output2.png",
+        "mask": "373184-mask3.png",
+        "output": "373184-output3.png",
+        "instruction": "add a kangaroo"
+    },
+    {
+        "input": "180141-input.png",
+        "mask": "180141-mask1.png",
+        "output": "180141-output1.png",
+        "instruction": "Let the girl hold a microphone."
+    },
+    {
+        "input": "127028-input.png",
+        "mask": "127028-mask1.png",
+        "output": "127028-output1.png",
+        "instruction": "replace orange with banana"
+    },
+    {
+        "input": "127028-output1.png",
+        "mask": "127028-mask2.png",
+        "output": "127028-output2.png",
+        "instruction": "add a phone next to the apple"
+    },
+    {
+        "input": "127028-output2.png",
+        "mask": "127028-mask3.png",
+        "output": "127028-output3.png",
+        "instruction": "add a cup of coffee"
+    },
+    {
+        "input": "189472-input.png",
+        "mask": "189472-mask1.png",
+        "output": "189472-output1.png",
+        "instruction": "Let the chair turn to a stool."
+    },
+    {
+        "input": "223734-input.png",
+        "mask": "223734-mask1.png",
+        "output": "223734-output1.png",
+        "instruction": "let the elephant be white"
+    },
+    {
+        "input": "352295-input.png",
+        "mask": "352295-mask1.png",
+        "output": "352295-output1.png",
+        "instruction": "Add a picture of a panda to the box"
+    },
+    {
+        "input": "391509-input.png",
+        "mask": "391509-mask1.png",
+        "output": "391509-output1.png",
+        "instruction": "let there be a ducati superbike parked"
+    },
+    {
+        "input": "391509-output1.png",
+        "mask": "391509-mask2.png",
+        "output": "391509-output2.png",
+        "instruction": "let the woman be dressed in a military uniform"
+    },
+    {
+        "input": "391509-output2.png",
+        "mask": "391509-mask3.png",
+        "output": "391509-output3.png",
+        "instruction": "let it be a train station"
+    },
+    {
+        "input": "523978-input.png",
+        "mask": "523978-mask1.png",
+        "output": "523978-output1.png",
+        "instruction": "Let the window be small."
+    },
+    {
+        "input": "276124-input.png",
+        "mask": "276124-mask1.png",
+        "output": "276124-output1.png",
+        "instruction": "make the baby smile"
+    },
+    {
+        "input": "276124-output1.png",
+        "mask": "276124-mask2.png",
+        "output": "276124-output2.png",
+        "instruction": "let the baby look at the camera"
+    },
+    {
+        "input": "276124-output2.png",
+        "mask": "276124-mask3.png",
+        "output": "276124-output3.png",
+        "instruction": "let the baby have curly ginger hair"
+    },
+    {
+        "input": "573448-input.png",
+        "mask": "573448-mask1.png",
+        "output": "573448-output1.png",
+        "instruction": "let the red bowl contain dessert"
+    },
+    {
+        "input": "573448-output1.png",
+        "mask": "573448-mask2.png",
+        "output": "573448-output2.png",
+        "instruction": "let the blender contain vegetables"
+    },
+    {
+        "input": "573448-output2.png",
+        "mask": "573448-mask3.png",
+        "output": "573448-output3.png",
+        "instruction": "add a spider next to the blender"
+    },
+    {
+        "input": "231822-input.png",
+        "mask": "231822-mask1.png",
+        "output": "231822-output1.png",
+        "instruction": "Replace the glasses with cans of beer."
+    },
+    {
+        "input": "231822-output1.png",
+        "mask": "231822-mask2.png",
+        "output": "231822-output2.png",
+        "instruction": "Replace the fruits with soup."
+    },
+    {
+        "input": "231822-output2.png",
+        "mask": "231822-mask3.png",
+        "output": "231822-output3.png",
+        "instruction": "Put more mac and cheese in place of the veggies."
+    },
+    {
+        "input": "167529-input.png",
+        "mask": "167529-mask1.png",
+        "output": "167529-output1.png",
+        "instruction": "can it be a mug on the sink?"
+    },
+    {
+        "input": "167529-output1.png",
+        "mask": "167529-mask2.png",
+        "output": "167529-output2.png",
+        "instruction": "Put a glass bottle on the sink"
+    },
+    {
+        "input": "167529-output2.png",
+        "mask": "167529-mask3.png",
+        "output": "167529-output3.png",
+        "instruction": "Can the mirror be smaller?"
+    },
+    {
+        "input": "131388-input.png",
+        "mask": "131388-mask1.png",
+        "output": "131388-output1.png",
+        "instruction": "change the animals for kids"
+    },
+    {
+        "input": "396338-input.png",
+        "mask": "396338-mask1.png",
+        "output": "396338-output1.png",
+        "instruction": "Add fire to the buildings."
+    },
+    {
+        "input": "499598-input.png",
+        "mask": "499598-mask1.png",
+        "output": "499598-output1.png",
+        "instruction": "make the man superman"
+    },
+    {
+        "input": "499598-output1.png",
+        "mask": "499598-mask2.png",
+        "output": "499598-output2.png",
+        "instruction": "make the people reporters."
+    },
+    {
+        "input": "499598-output2.png",
+        "mask": "499598-mask3.png",
+        "output": "499598-output3.png",
+        "instruction": "change the dinner table into a news desk."
+    },
+    {
+        "input": "429762-input.png",
+        "mask": "429762-mask1.png",
+        "output": "429762-output1.png",
+        "instruction": "We can add a rock next to the elephants."
+    },
+    {
+        "input": "429762-output1.png",
+        "mask": "429762-mask2.png",
+        "output": "429762-output2.png",
+        "instruction": "Could the elephant be digging the ground?"
+    },
+    {
+        "input": "429762-output2.png",
+        "mask": "429762-mask3.png",
+        "output": "429762-output3.png",
+        "instruction": "They could be next to a lake."
+    },
+    {
+        "input": "304627-input.png",
+        "mask": "304627-mask1.png",
+        "output": "304627-output1.png",
+        "instruction": "turn the surfboard into a fan"
+    },
+    {
+        "input": "304627-output1.png",
+        "mask": "304627-mask2.png",
+        "output": "304627-output2.png",
+        "instruction": "replace the stairs and door with an exit door"
+    },
+    {
+        "input": "458772-input.png",
+        "mask": "458772-mask1.png",
+        "output": "458772-output1.png",
+        "instruction": "Make the traffic light show red."
+    },
+    {
+        "input": "458772-output1.png",
+        "mask": "458772-mask2.png",
+        "output": "458772-output2.png",
+        "instruction": "Put a large dog in the street."
+    },
+    {
+        "input": "458772-output2.png",
+        "mask": "458772-mask3.png",
+        "output": "458772-output3.png",
+        "instruction": "Put an exotic planet in the sky."
+    },
+    {
+        "input": "136699-input.png",
+        "mask": "136699-mask1.png",
+        "output": "136699-output1.png",
+        "instruction": "Have there be a gold brand label on the purse"
+    },
+    {
+        "input": "92187-input.png",
+        "mask": "92187-mask1.png",
+        "output": "92187-output1.png",
+        "instruction": "Replace the wooden figure with a barbie doll."
+    },
+    {
+        "input": "229525-input.png",
+        "mask": "229525-mask1.png",
+        "output": "229525-output1.png",
+        "instruction": "remove the door"
+    },
+    {
+        "input": "229525-output1.png",
+        "mask": "229525-mask2.png",
+        "output": "229525-output2.png",
+        "instruction": "add a laptop"
+    },
+    {
+        "input": "229525-output2.png",
+        "mask": "229525-mask3.png",
+        "output": "229525-output3.png",
+        "instruction": "let a cat enter the room"
+    },
+    {
+        "input": "137118-input.png",
+        "mask": "137118-mask1.png",
+        "output": "137118-output1.png",
+        "instruction": "Let the stool be made of wood."
+    },
+    {
+        "input": "181947-input.png",
+        "mask": "181947-mask1.png",
+        "output": "181947-output1.png",
+        "instruction": "replace the lime green to red cup"
+    },
+    {
+        "input": "81930-input.png",
+        "mask": "81930-mask1.png",
+        "output": "81930-output1.png",
+        "instruction": "Change the fire hydrant from red to yellow"
+    },
+    {
+        "input": "174423-input.png",
+        "mask": "174423-mask1.png",
+        "output": "174423-output1.png",
+        "instruction": "Let the bird turn yellow."
+    },
+    {
+        "input": "78085-input.png",
+        "mask": "78085-mask1.png",
+        "output": "78085-output1.png",
+        "instruction": "change the laptop to a microwave"
+    },
+    {
+        "input": "78085-output1.png",
+        "mask": "78085-mask2.png",
+        "output": "78085-output2.png",
+        "instruction": "add a coffee cup"
+    },
+    {
+        "input": "78085-output2.png",
+        "mask": "78085-mask3.png",
+        "output": "78085-output3.png",
+        "instruction": "let the computer screens be white"
+    },
+    {
+        "input": "540697-input.png",
+        "mask": "540697-mask1.png",
+        "output": "540697-output1.png",
+        "instruction": "make it sunny"
+    },
+    {
+        "input": "540697-output1.png",
+        "mask": "540697-mask2.png",
+        "output": "540697-output2.png",
+        "instruction": "change the scissor lift to a crew"
+    },
+    {
+        "input": "540697-output2.png",
+        "mask": "540697-mask3.png",
+        "output": "540697-output3.png",
+        "instruction": "change the plane into a rocket"
+    },
+    {
+        "input": "236243-input.png",
+        "mask": "236243-mask1.png",
+        "output": "236243-output1.png",
+        "instruction": "Change the painting on the wall to a clock"
+    },
+    {
+        "input": "236243-output1.png",
+        "mask": "236243-mask2.png",
+        "output": "236243-output2.png",
+        "instruction": "Have there be a cat on the bed"
+    },
+    {
+        "input": "318924-input.png",
+        "mask": "318924-mask1.png",
+        "output": "318924-output1.png",
+        "instruction": "let the statue of zebra be real"
+    },
+    {
+        "input": "318924-output1.png",
+        "mask": "318924-mask2.png",
+        "output": "318924-output2.png",
+        "instruction": "add a water bowl"
+    },
+    {
+        "input": "459440-input.png",
+        "mask": "459440-mask1.png",
+        "output": "459440-output1.png",
+        "instruction": "Have the sheet of paper show a picture of a person's face"
+    },
+    {
+        "input": "428152-input.png",
+        "mask": "428152-mask1.png",
+        "output": "428152-output1.png",
+        "instruction": "Put a chicken in a pot on top of the oven."
+    },
+    {
+        "input": "360540-input.png",
+        "mask": "360540-mask1.png",
+        "output": "360540-output1.png",
+        "instruction": "change the scooter for a penguin"
+    },
+    {
+        "input": "570951-input.png",
+        "mask": "570951-mask1.png",
+        "output": "570951-output1.png",
+        "instruction": "give the man a cowboy hat"
+    },
+    {
+        "input": "570951-output1.png",
+        "mask": "570951-mask2.png",
+        "output": "570951-output2.png",
+        "instruction": "put a witch hat in the woman"
+    },
+    {
+        "input": "433334-input.png",
+        "mask": "433334-mask1.png",
+        "output": "433334-output1.png",
+        "instruction": "make the man angry"
+    },
+    {
+        "input": "433334-output1.png",
+        "mask": "433334-mask2.png",
+        "output": "433334-output2.png",
+        "instruction": "empty the man's plate"
+    },
+    {
+        "input": "411727-input.png",
+        "mask": "411727-mask1.png",
+        "output": "411727-output1.png",
+        "instruction": "let the laptop show a media player on its screen"
+    },
+    {
+        "input": "411727-output1.png",
+        "mask": "411727-mask2.png",
+        "output": "411727-output2.png",
+        "instruction": "replace the glasses with an eye shadow kit"
+    },
+    {
+        "input": "411727-output2.png",
+        "mask": "411727-mask3.png",
+        "output": "411727-output3.png",
+        "instruction": "let there be a person's hand on the table"
+    },
+    {
+        "input": "415461-input.png",
+        "mask": "415461-mask1.png",
+        "output": "415461-output1.png",
+        "instruction": "make the child eat an ice cream"
+    },
+    {
+        "input": "415461-output1.png",
+        "mask": "415461-mask2.png",
+        "output": "415461-output2.png",
+        "instruction": "let the child be bald"
+    },
+    {
+        "input": "415461-output2.png",
+        "mask": "415461-mask3.png",
+        "output": "415461-output3.png",
+        "instruction": "let another child reach for the ice cream"
+    },
+    {
+        "input": "401307-input.png",
+        "mask": "401307-mask1.png",
+        "output": "401307-output1.png",
+        "instruction": "Erase two of the people."
+    },
+    {
+        "input": "390565-input.png",
+        "mask": "390565-mask1.png",
+        "output": "390565-output1.png",
+        "instruction": "A lake next to the motorcycles."
+    },
+    {
+        "input": "390565-output1.png",
+        "mask": "390565-mask2.png",
+        "output": "390565-output2.png",
+        "instruction": "We should have a green field next to the lake."
+    },
+    {
+        "input": "390565-output2.png",
+        "mask": "390565-mask3.png",
+        "output": "390565-output3.png",
+        "instruction": "Put a car on the field."
+    },
+    {
+        "input": "220031-input.png",
+        "mask": "220031-mask1.png",
+        "output": "220031-output1.png",
+        "instruction": "Let the surfer fall."
+    },
+    {
+        "input": "84031-input.png",
+        "mask": "84031-mask1.png",
+        "output": "84031-output1.png",
+        "instruction": "Change the baseball bat into a tennis racquet."
+    },
+    {
+        "input": "84031-output1.png",
+        "mask": "84031-mask2.png",
+        "output": "84031-output2.png",
+        "instruction": "change the baseball to a tennis ball"
+    },
+    {
+        "input": "84031-output2.png",
+        "mask": "84031-mask3.png",
+        "output": "84031-output3.png",
+        "instruction": "Change the catcher into a bucket of balls."
+    },
+    {
+        "input": "434496-input.png",
+        "mask": "434496-mask1.png",
+        "output": "434496-output1.png",
+        "instruction": "put some fruits"
+    },
+    {
+        "input": "434496-output1.png",
+        "mask": "434496-mask2.png",
+        "output": "434496-output2.png",
+        "instruction": "swap the food for donuts"
+    },
+    {
+        "input": "28288-input.png",
+        "mask": "28288-mask1.png",
+        "output": "28288-output1.png",
+        "instruction": "put mustard on the hot dog"
+    },
+    {
+        "input": "108244-input.png",
+        "mask": "108244-mask1.png",
+        "output": "108244-output1.png",
+        "instruction": "Put a mouse near the cat."
+    },
+    {
+        "input": "156405-input.png",
+        "mask": "156405-mask1.png",
+        "output": "156405-output1.png",
+        "instruction": "let the sidewalk be a marble sidewalk"
+    },
+    {
+        "input": "156405-output1.png",
+        "mask": "156405-mask2.png",
+        "output": "156405-output2.png",
+        "instruction": "add a cat on the seat"
+    },
+    {
+        "input": "156405-output2.png",
+        "mask": "156405-mask3.png",
+        "output": "156405-output3.png",
+        "instruction": "add a boat in the lake"
+    },
+    {
+        "input": "518182-input.png",
+        "mask": "518182-mask1.png",
+        "output": "518182-output1.png",
+        "instruction": "replace the frisbee with a ball"
+    },
+    {
+        "input": "518182-output1.png",
+        "mask": "518182-mask2.png",
+        "output": "518182-output2.png",
+        "instruction": "let the shoes be brown"
+    },
+    {
+        "input": "518182-output2.png",
+        "mask": "518182-mask3.png",
+        "output": "518182-output3.png",
+        "instruction": "add a boat in the water"
+    },
+    {
+        "input": "115260-input.png",
+        "mask": "115260-mask1.png",
+        "output": "115260-output1.png",
+        "instruction": "It should be a pizza on the tray."
+    },
+    {
+        "input": "115260-output1.png",
+        "mask": "115260-mask2.png",
+        "output": "115260-output2.png",
+        "instruction": "Put a glass of soda next to the tray."
+    },
+    {
+        "input": "561137-input.png",
+        "mask": "561137-mask1.png",
+        "output": "561137-output1.png",
+        "instruction": "make the happy face happy"
+    },
+    {
+        "input": "393254-input.png",
+        "mask": "393254-mask1.png",
+        "output": "393254-output1.png",
+        "instruction": "remove the text"
+    },
+    {
+        "input": "393254-output1.png",
+        "mask": "393254-mask2.png",
+        "output": "393254-output2.png",
+        "instruction": "change the RV into a luxury car"
+    },
+    {
+        "input": "393254-output2.png",
+        "mask": "393254-mask3.png",
+        "output": "393254-output3.png",
+        "instruction": "change tent into a log cabin"
+    },
+    {
+        "input": "81964-input.png",
+        "mask": "81964-mask1.png",
+        "output": "81964-output1.png",
+        "instruction": "Turn the meat into cereal."
+    },
+    {
+        "input": "81964-output1.png",
+        "mask": "81964-mask2.png",
+        "output": "81964-output2.png",
+        "instruction": "Fill the plate with cookies."
+    },
+    {
+        "input": "171199-input.png",
+        "mask": "171199-mask1.png",
+        "output": "171199-output1.png",
+        "instruction": "Change the fork to a spoon"
+    },
+    {
+        "input": "171199-output1.png",
+        "mask": "171199-mask2.png",
+        "output": "171199-output2.png",
+        "instruction": "Add basil leaves to the pizza"
+    },
+    {
+        "input": "527656-input.png",
+        "mask": "527656-mask1.png",
+        "output": "527656-output1.png",
+        "instruction": "put a skateboard on the wall."
+    },
+    {
+        "input": "476810-input.png",
+        "mask": "476810-mask1.png",
+        "output": "476810-output1.png",
+        "instruction": "can we have a phone next to the cat."
+    },
+    {
+        "input": "476810-output1.png",
+        "mask": "476810-mask2.png",
+        "output": "476810-output2.png",
+        "instruction": "the cat should be white."
+    },
+    {
+        "input": "476810-output2.png",
+        "mask": "476810-mask3.png",
+        "output": "476810-output3.png",
+        "instruction": "Put a television on the background."
+    },
+    {
+        "input": "379977-input.png",
+        "mask": "379977-mask1.png",
+        "output": "379977-output1.png",
+        "instruction": "turn the brown horse into a pink unicorn"
+    },
+    {
+        "input": "379977-output1.png",
+        "mask": "379977-mask2.png",
+        "output": "379977-output2.png",
+        "instruction": "put a river nearby"
+    },
+    {
+        "input": "508582-input.png",
+        "mask": "508582-mask1.png",
+        "output": "508582-output1.png",
+        "instruction": "Make both the pizzas pepperoni."
+    },
+    {
+        "input": "2886-input.png",
+        "mask": "2886-mask1.png",
+        "output": "2886-output1.png",
+        "instruction": "replace the fork with a knife"
+    },
+    {
+        "input": "2886-output1.png",
+        "mask": "2886-mask2.png",
+        "output": "2886-output2.png",
+        "instruction": "less veggies and more french fries"
+    },
+    {
+        "input": "498988-input.png",
+        "mask": "498988-mask1.png",
+        "output": "498988-output1.png",
+        "instruction": "Change the screen to blue."
+    },
+    {
+        "input": "498988-output1.png",
+        "mask": "498988-mask2.png",
+        "output": "498988-output2.png",
+        "instruction": "Remove the bottle."
+    },
+    {
+        "input": "322574-input.png",
+        "mask": "322574-mask1.png",
+        "output": "322574-output1.png",
+        "instruction": "Add a soda can in the back"
+    },
+    {
+        "input": "322574-output1.png",
+        "mask": "322574-mask2.png",
+        "output": "322574-output2.png",
+        "instruction": "Add some mustard over the hot dog"
+    },
+    {
+        "input": "322574-output2.png",
+        "mask": "322574-mask3.png",
+        "output": "322574-output3.png",
+        "instruction": "Add a salad in the right side"
+    },
+    {
+        "input": "400922-input.png",
+        "mask": "400922-mask1.png",
+        "output": "400922-output1.png",
+        "instruction": "Replace the logo on the sign with a smiley face."
+    },
+    {
+        "input": "400922-output1.png",
+        "mask": "400922-mask2.png",
+        "output": "400922-output2.png",
+        "instruction": "Remove the hour hand on the clock."
+    },
+    {
+        "input": "173401-input.png",
+        "mask": "173401-mask1.png",
+        "output": "173401-output1.png",
+        "instruction": "let the cow leap"
+    },
+    {
+        "input": "173401-output1.png",
+        "mask": "173401-mask2.png",
+        "output": "173401-output2.png",
+        "instruction": "let the road be a dirt road"
+    },
+    {
+        "input": "173401-output2.png",
+        "mask": "173401-mask3.png",
+        "output": "173401-output3.png",
+        "instruction": "let there be a parking lot"
+    },
+    {
+        "input": "385026-input.png",
+        "mask": "385026-mask1.png",
+        "output": "385026-output1.png",
+        "instruction": "change the view for an ocean"
+    },
+    {
+        "input": "385026-output1.png",
+        "mask": "385026-mask2.png",
+        "output": "385026-output2.png",
+        "instruction": "put buildings in place of trees"
+    },
+    {
+        "input": "512442-input.png",
+        "mask": "512442-mask1.png",
+        "output": "512442-output1.png",
+        "instruction": "take the bowl off her hand"
+    },
+    {
+        "input": "512442-output1.png",
+        "mask": "512442-mask2.png",
+        "output": "512442-output2.png",
+        "instruction": "replace the elephant with a baby giraffe"
+    },
+    {
+        "input": "92661-input.png",
+        "mask": "92661-mask1.png",
+        "output": "92661-output1.png",
+        "instruction": "let the couch be made of leather"
+    },
+    {
+        "input": "92661-output1.png",
+        "mask": "92661-mask2.png",
+        "output": "92661-output2.png",
+        "instruction": "let the laptop show animals"
+    },
+    {
+        "input": "92661-output2.png",
+        "mask": "92661-mask3.png",
+        "output": "92661-output3.png",
+        "instruction": "let the door be red"
+    },
+    {
+        "input": "132847-input.png",
+        "mask": "132847-mask1.png",
+        "output": "132847-output1.png",
+        "instruction": "change the British flag into a Canadian flag"
+    },
+    {
+        "input": "132847-output1.png",
+        "mask": "132847-mask2.png",
+        "output": "132847-output2.png",
+        "instruction": "remove the numbers"
+    },
+    {
+        "input": "132847-output2.png",
+        "mask": "132847-mask3.png",
+        "output": "132847-output3.png",
+        "instruction": "let a man crouch under the plane"
+    },
+    {
+        "input": "513200-input.png",
+        "mask": "513200-mask1.png",
+        "output": "513200-output1.png",
+        "instruction": "put the baby giraffe under its mother"
+    },
+    {
+        "input": "536103-input.png",
+        "mask": "536103-mask1.png",
+        "output": "536103-output1.png",
+        "instruction": "replace potatoes with baked beans"
+    },
+    {
+        "input": "536103-output1.png",
+        "mask": "536103-mask2.png",
+        "output": "536103-output2.png",
+        "instruction": "let there be a single slice of toast"
+    },
+    {
+        "input": "536103-output2.png",
+        "mask": "536103-mask3.png",
+        "output": "536103-output3.png",
+        "instruction": "make a kid hold the plate"
+    },
+    {
+        "input": "37662-input.png",
+        "mask": "37662-mask1.png",
+        "output": "37662-output1.png",
+        "instruction": "remove everything and leave the cap"
+    },
+    {
+        "input": "37662-output1.png",
+        "mask": "37662-mask2.png",
+        "output": "37662-output2.png",
+        "instruction": "put the japanese flag on the cap"
+    },
+    {
+        "input": "241319-input.png",
+        "mask": "241319-mask1.png",
+        "output": "241319-output1.png",
+        "instruction": "Add a rubber duck."
+    },
+    {
+        "input": "254004-input.png",
+        "mask": "254004-mask1.png",
+        "output": "254004-output1.png",
+        "instruction": "turn the luggage into a crate"
+    },
+    {
+        "input": "254004-output1.png",
+        "mask": "254004-mask2.png",
+        "output": "254004-output2.png",
+        "instruction": "add men in suits"
+    },
+    {
+        "input": "254004-output2.png",
+        "mask": "254004-mask3.png",
+        "output": "254004-output3.png",
+        "instruction": "add a golf cart"
+    },
+    {
+        "input": "367375-input.png",
+        "mask": "367375-mask1.png",
+        "output": "367375-output1.png",
+        "instruction": "make the passengers sing"
+    },
+    {
+        "input": "367375-output1.png",
+        "mask": "367375-mask2.png",
+        "output": "367375-output2.png",
+        "instruction": "make the horse have a long mane"
+    },
+    {
+        "input": "367375-output2.png",
+        "mask": "367375-mask3.png",
+        "output": "367375-output3.png",
+        "instruction": "make the horse neigh"
+    },
+    {
+        "input": "396330-input.png",
+        "mask": "396330-mask1.png",
+        "output": "396330-output1.png",
+        "instruction": "let the guys raise their hands"
+    },
+    {
+        "input": "396330-output1.png",
+        "mask": "396330-mask2.png",
+        "output": "396330-output2.png",
+        "instruction": "remove the basketball hoop"
+    },
+    {
+        "input": "396330-output2.png",
+        "mask": "396330-mask3.png",
+        "output": "396330-output3.png",
+        "instruction": "let there be an indoor swimming pool"
+    },
+    {
+        "input": "208868-input.png",
+        "mask": "208868-mask1.png",
+        "output": "208868-output1.png",
+        "instruction": "put a pizza on a plate"
+    },
+    {
+        "input": "208868-output1.png",
+        "mask": "208868-mask2.png",
+        "output": "208868-output2.png",
+        "instruction": "put a glass of wine next to the pizza"
+    },
+    {
+        "input": "208868-output2.png",
+        "mask": "208868-mask3.png",
+        "output": "208868-output3.png",
+        "instruction": "remove the candle"
+    },
+    {
+        "input": "326174-input.png",
+        "mask": "326174-mask1.png",
+        "output": "326174-output1.png",
+        "instruction": "Remove all the surfboards."
+    },
+    {
+        "input": "326174-output1.png",
+        "mask": "326174-mask2.png",
+        "output": "326174-output2.png",
+        "instruction": "Add a boat."
+    },
+    {
+        "input": "326174-output2.png",
+        "mask": "326174-mask3.png",
+        "output": "326174-output3.png",
+        "instruction": "Add birds to the sky."
+    },
+    {
+        "input": "489358-input.png",
+        "mask": "489358-mask1.png",
+        "output": "489358-output1.png",
+        "instruction": "swap the truck for a school bus"
+    },
+    {
+        "input": "489358-output1.png",
+        "mask": "489358-mask2.png",
+        "output": "489358-output2.png",
+        "instruction": "remove the cars and put bicycles behind the bus"
+    },
+    {
+        "input": "512854-input.png",
+        "mask": "512854-mask1.png",
+        "output": "512854-output1.png",
+        "instruction": "make the man hold a trophy"
+    },
+    {
+        "input": "512854-output1.png",
+        "mask": "512854-mask2.png",
+        "output": "512854-output2.png",
+        "instruction": "let the man be dressed in a Halloween costume"
+    },
+    {
+        "input": "512854-output2.png",
+        "mask": "512854-mask3.png",
+        "output": "512854-output3.png",
+        "instruction": "turn the couch into a fluffy bed"
+    },
+    {
+        "input": "213547-input.png",
+        "mask": "213547-mask1.png",
+        "output": "213547-output1.png",
+        "instruction": "Let the woman sit on a chair."
+    },
+    {
+        "input": "130586-input.png",
+        "mask": "130586-mask1.png",
+        "output": "130586-output1.png",
+        "instruction": "Replace the kite with a bird."
+    },
+    {
+        "input": "130586-output1.png",
+        "mask": "130586-mask2.png",
+        "output": "130586-output2.png",
+        "instruction": "Replace the boy with girl."
+    },
+    {
+        "input": "130586-output2.png",
+        "mask": "130586-mask3.png",
+        "output": "130586-output3.png",
+        "instruction": "Add a dog next to the girl."
+    },
+    {
+        "input": "274460-input.png",
+        "mask": "274460-mask1.png",
+        "output": "274460-output1.png",
+        "instruction": "Remove the surfboards."
+    },
+    {
+        "input": "274460-output1.png",
+        "mask": "274460-mask2.png",
+        "output": "274460-output2.png",
+        "instruction": "Add a dog."
+    },
+    {
+        "input": "499733-input.png",
+        "mask": "499733-mask1.png",
+        "output": "499733-output1.png",
+        "instruction": "Give the guy futuristic glasses."
+    },
+    {
+        "input": "499733-output1.png",
+        "mask": "499733-mask2.png",
+        "output": "499733-output2.png",
+        "instruction": "Make him smile."
+    },
+    {
+        "input": "499733-output2.png",
+        "mask": "499733-mask3.png",
+        "output": "499733-output3.png",
+        "instruction": "Make the man bald."
+    },
+    {
+        "input": "415958-input.png",
+        "mask": "415958-mask1.png",
+        "output": "415958-output1.png",
+        "instruction": "Change the woman to a man."
+    },
+    {
+        "input": "3661-input.png",
+        "mask": "3661-mask1.png",
+        "output": "3661-output1.png",
+        "instruction": "Replace the bananas with oranges."
+    },
+    {
+        "input": "3661-output1.png",
+        "mask": "3661-mask2.png",
+        "output": "3661-output2.png",
+        "instruction": "Add a glass of water."
+    },
+    {
+        "input": "438876-input.png",
+        "mask": "438876-mask1.png",
+        "output": "438876-output1.png",
+        "instruction": "let the man hold a tennis ball"
+    },
+    {
+        "input": "438876-output1.png",
+        "mask": "438876-mask2.png",
+        "output": "438876-output2.png",
+        "instruction": "let the man stick his tongue out"
+    },
+    {
+        "input": "438876-output2.png",
+        "mask": "438876-mask3.png",
+        "output": "438876-output3.png",
+        "instruction": "replace the tennis racquet into a stick"
+    },
+    {
+        "input": "172686-input.png",
+        "mask": "172686-mask1.png",
+        "output": "172686-output1.png",
+        "instruction": "let there be a bowl of dessert"
+    },
+    {
+        "input": "172686-output1.png",
+        "mask": "172686-mask2.png",
+        "output": "172686-output2.png",
+        "instruction": "let there be water melons on the table"
+    },
+    {
+        "input": "172686-output2.png",
+        "mask": "172686-mask3.png",
+        "output": "172686-output3.png",
+        "instruction": "let a rat sniff the bowl"
+    },
+    {
+        "input": "144269-input.png",
+        "mask": "144269-mask1.png",
+        "output": "144269-output1.png",
+        "instruction": "give the man a longer hair"
+    },
+    {
+        "input": "144269-output1.png",
+        "mask": "144269-mask2.png",
+        "output": "144269-output2.png",
+        "instruction": "remove the people from the background"
+    },
+    {
+        "input": "221212-input.png",
+        "mask": "221212-mask1.png",
+        "output": "221212-output1.png",
+        "instruction": "Remove the people."
+    },
+    {
+        "input": "221212-output1.png",
+        "mask": "221212-mask2.png",
+        "output": "221212-output2.png",
+        "instruction": "Make its trunk smaller."
+    },
+    {
+        "input": "127648-input.png",
+        "mask": "127648-mask1.png",
+        "output": "127648-output1.png",
+        "instruction": "leave only one charry on top"
+    },
+    {
+        "input": "485234-input.png",
+        "mask": "485234-mask1.png",
+        "output": "485234-output1.png",
+        "instruction": "It should be bread on the board."
+    },
+    {
+        "input": "485234-output1.png",
+        "mask": "485234-mask2.png",
+        "output": "485234-output2.png",
+        "instruction": "put a cup of coffee on the background."
+    },
+    {
+        "input": "485234-output2.png",
+        "mask": "485234-mask3.png",
+        "output": "485234-output3.png",
+        "instruction": "Put a knife on the bread."
+    },
+    {
+        "input": "510955-input.png",
+        "mask": "510955-mask1.png",
+        "output": "510955-output1.png",
+        "instruction": "Let the woman wear glasses."
+    },
+    {
+        "input": "475169-input.png",
+        "mask": "475169-mask1.png",
+        "output": "475169-output1.png",
+        "instruction": "Have a cat watch the pigeons."
+    },
+    {
+        "input": "276055-input.png",
+        "mask": "276055-mask1.png",
+        "output": "276055-output1.png",
+        "instruction": "make the woman wear a mask"
+    },
+    {
+        "input": "280490-input.png",
+        "mask": "280490-mask1.png",
+        "output": "280490-output1.png",
+        "instruction": "Can we have a pancake on the tray?"
+    },
+    {
+        "input": "280490-output1.png",
+        "mask": "280490-mask2.png",
+        "output": "280490-output2.png",
+        "instruction": "Put some fries next to the pancakes."
+    },
+    {
+        "input": "329737-input.png",
+        "mask": "329737-mask1.png",
+        "output": "329737-output1.png",
+        "instruction": "let the keyboard be yellow"
+    },
+    {
+        "input": "329737-output1.png",
+        "mask": "329737-mask2.png",
+        "output": "329737-output2.png",
+        "instruction": "let the computer have a blue webpage"
+    },
+    {
+        "input": "329737-output2.png",
+        "mask": "329737-mask3.png",
+        "output": "329737-output3.png",
+        "instruction": "replace the mouse with a hamster"
+    },
+    {
+        "input": "466567-input.png",
+        "mask": "466567-mask1.png",
+        "output": "466567-output1.png",
+        "instruction": "Make the donut an apple."
+    },
+    {
+        "input": "139653-input.png",
+        "mask": "139653-mask1.png",
+        "output": "139653-output1.png",
+        "instruction": "Have there be a flock of birds flying by"
+    },
+    {
+        "input": "539143-input.png",
+        "mask": "539143-mask1.png",
+        "output": "539143-output1.png",
+        "instruction": "Make the train smile with eyes and a mouth."
+    },
+    {
+        "input": "539143-output1.png",
+        "mask": "539143-mask2.png",
+        "output": "539143-output2.png",
+        "instruction": "Have the train stopped in front of a train station building."
+    },
+    {
+        "input": "529266-input.png",
+        "mask": "529266-mask1.png",
+        "output": "529266-output1.png",
+        "instruction": "change the brown horse to white"
+    },
+    {
+        "input": "529266-output1.png",
+        "mask": "529266-mask2.png",
+        "output": "529266-output2.png",
+        "instruction": "add a boat"
+    },
+    {
+        "input": "529266-output2.png",
+        "mask": "529266-mask3.png",
+        "output": "529266-output3.png",
+        "instruction": "add tall shrubs"
+    },
+    {
+        "input": "376773-input.png",
+        "mask": "376773-mask1.png",
+        "output": "376773-output1.png",
+        "instruction": "Have there be an alien next to the kids"
+    },
+    {
+        "input": "376773-output1.png",
+        "mask": "376773-mask2.png",
+        "output": "376773-output2.png",
+        "instruction": "Have there be a swimming pool by the kids"
+    },
+    {
+        "input": "148508-input.png",
+        "mask": "148508-mask1.png",
+        "output": "148508-output1.png",
+        "instruction": "The bus is yellow."
+    },
+    {
+        "input": "446917-input.png",
+        "mask": "446917-mask1.png",
+        "output": "446917-output1.png",
+        "instruction": "let the bike be replaced by a motorcycle"
+    },
+    {
+        "input": "446917-output1.png",
+        "mask": "446917-mask2.png",
+        "output": "446917-output2.png",
+        "instruction": "let there be a carrot instead of the banana"
+    },
+    {
+        "input": "446917-output2.png",
+        "mask": "446917-mask3.png",
+        "output": "446917-output3.png",
+        "instruction": "let there be a traffic cone"
+    },
+    {
+        "input": "271402-input.png",
+        "mask": "271402-mask1.png",
+        "output": "271402-output1.png",
+        "instruction": "Remove one of the girls."
+    },
+    {
+        "input": "271402-output1.png",
+        "mask": "271402-mask2.png",
+        "output": "271402-output2.png",
+        "instruction": "Add a cat."
+    },
+    {
+        "input": "161047-input.png",
+        "mask": "161047-mask1.png",
+        "output": "161047-output1.png",
+        "instruction": "Have there be a birthday cake on the table"
+    },
+    {
+        "input": "161047-output1.png",
+        "mask": "161047-mask2.png",
+        "output": "161047-output2.png",
+        "instruction": "Have there be a child sitting at the table"
+    },
+    {
+        "input": "161047-output2.png",
+        "mask": "161047-mask3.png",
+        "output": "161047-output3.png",
+        "instruction": "Have the child be wearing a birthday hat"
+    },
+    {
+        "input": "32778-input.png",
+        "mask": "32778-mask1.png",
+        "output": "32778-output1.png",
+        "instruction": "Have the man be wearing a yellow sweatshirt"
+    },
+    {
+        "input": "283638-input.png",
+        "mask": "283638-mask1.png",
+        "output": "283638-output1.png",
+        "instruction": "What there is a hand holding the plate?"
+    },
+    {
+        "input": "21404-input.png",
+        "mask": "21404-mask1.png",
+        "output": "21404-output1.png",
+        "instruction": "let the clock have English numbers"
+    },
+    {
+        "input": "21404-output1.png",
+        "mask": "21404-mask2.png",
+        "output": "21404-output2.png",
+        "instruction": "let there be palm trees"
+    },
+    {
+        "input": "21404-output2.png",
+        "mask": "21404-mask3.png",
+        "output": "21404-output3.png",
+        "instruction": "let a flock of birds fly across"
+    },
+    {
+        "input": "544615-input.png",
+        "mask": "544615-mask1.png",
+        "output": "544615-output1.png",
+        "instruction": "The child should be holding a banana."
+    },
+    {
+        "input": "391388-input.png",
+        "mask": "391388-mask1.png",
+        "output": "391388-output1.png",
+        "instruction": "remove the broccoli and onions and add an apple"
+    },
+    {
+        "input": "163852-input.png",
+        "mask": "163852-mask1.png",
+        "output": "163852-output1.png",
+        "instruction": "Let the fried food be replaced by a tomato slice."
+    },
+    {
+        "input": "171757-input.png",
+        "mask": "171757-mask1.png",
+        "output": "171757-output1.png",
+        "instruction": "What if the woman was holding a bottle of wine?"
+    },
+    {
+        "input": "434217-input.png",
+        "mask": "434217-mask1.png",
+        "output": "434217-output1.png",
+        "instruction": "Make the frisbee a bottle of soda"
+    },
+    {
+        "input": "410366-input.png",
+        "mask": "410366-mask1.png",
+        "output": "410366-output1.png",
+        "instruction": "If it was a ball they are playing?"
+    },
+    {
+        "input": "410366-output1.png",
+        "mask": "410366-mask2.png",
+        "output": "410366-output2.png",
+        "instruction": "Put a lake on the background."
+    },
+    {
+        "input": "410366-output2.png",
+        "mask": "410366-mask3.png",
+        "output": "410366-output3.png",
+        "instruction": "We could put a girl on it."
+    },
+    {
+        "input": "118209-input.png",
+        "mask": "118209-mask1.png",
+        "output": "118209-output1.png",
+        "instruction": "put saddles on the horses"
+    },
+    {
+        "input": "118209-output1.png",
+        "mask": "118209-mask2.png",
+        "output": "118209-output2.png",
+        "instruction": "give the horses shoes"
+    },
+    {
+        "input": "118209-output2.png",
+        "mask": "118209-mask3.png",
+        "output": "118209-output3.png",
+        "instruction": "make a hill in the background"
+    },
+    {
+        "input": "439602-input.png",
+        "mask": "439602-mask1.png",
+        "output": "439602-output1.png",
+        "instruction": "let the hot dogs have no buns"
+    },
+    {
+        "input": "439602-output1.png",
+        "mask": "439602-mask2.png",
+        "output": "439602-output2.png",
+        "instruction": "let the plate be transparent"
+    },
+    {
+        "input": "439602-output2.png",
+        "mask": "439602-mask3.png",
+        "output": "439602-output3.png",
+        "instruction": "let a hand touch the hot dog"
+    },
+    {
+        "input": "77444-input.png",
+        "mask": "77444-mask1.png",
+        "output": "77444-output1.png",
+        "instruction": "replace donuts with canapes"
+    },
+    {
+        "input": "77444-output1.png",
+        "mask": "77444-mask2.png",
+        "output": "77444-output2.png",
+        "instruction": "add a cup of tea"
+    },
+    {
+        "input": "77444-output2.png",
+        "mask": "77444-mask3.png",
+        "output": "77444-output3.png",
+        "instruction": "add an open laptop"
+    },
+    {
+        "input": "398157-input.png",
+        "mask": "398157-mask1.png",
+        "output": "398157-output1.png",
+        "instruction": "Let's add a vase of flowers to the counter."
+    },
+    {
+        "input": "339634-input.png",
+        "mask": "339634-mask1.png",
+        "output": "339634-output1.png",
+        "instruction": "let there be lobster on the plate"
+    },
+    {
+        "input": "339634-output1.png",
+        "mask": "339634-mask2.png",
+        "output": "339634-output2.png",
+        "instruction": "let there be dipping sauce"
+    },
+    {
+        "input": "158702-input.png",
+        "mask": "158702-mask1.png",
+        "output": "158702-output1.png",
+        "instruction": "let the toilet be open"
+    },
+    {
+        "input": "158702-output1.png",
+        "mask": "158702-mask2.png",
+        "output": "158702-output2.png",
+        "instruction": "let the plant have blue flowers"
+    },
+    {
+        "input": "158702-output2.png",
+        "mask": "158702-mask3.png",
+        "output": "158702-output3.png",
+        "instruction": "open the shower curtains"
+    },
+    {
+        "input": "277020-input.png",
+        "mask": "277020-mask1.png",
+        "output": "277020-output1.png",
+        "instruction": "Make the man smile."
+    },
+    {
+        "input": "277020-output1.png",
+        "mask": "277020-mask2.png",
+        "output": "277020-output2.png",
+        "instruction": "Make the man blonde."
+    },
+    {
+        "input": "277020-output2.png",
+        "mask": "277020-mask3.png",
+        "output": "277020-output3.png",
+        "instruction": "Remove the stripes from the man's tie."
+    },
+    {
+        "input": "425609-input.png",
+        "mask": "425609-mask1.png",
+        "output": "425609-output1.png",
+        "instruction": "Change the forks to spoons"
+    },
+    {
+        "input": "425609-output1.png",
+        "mask": "425609-mask2.png",
+        "output": "425609-output2.png",
+        "instruction": "Add strawberry frosting to one of the cupcakes"
+    },
+    {
+        "input": "425609-output2.png",
+        "mask": "425609-mask3.png",
+        "output": "425609-output3.png",
+        "instruction": "Add a strawberry on top of the cupcake with frosting"
+    },
+    {
+        "input": "228435-input.png",
+        "mask": "228435-mask1.png",
+        "output": "228435-output1.png",
+        "instruction": "get rid of the towel"
+    },
+    {
+        "input": "392991-input.png",
+        "mask": "392991-mask1.png",
+        "output": "392991-output1.png",
+        "instruction": "remove the chocolate from the cake"
+    },
+    {
+        "input": "392991-output1.png",
+        "mask": "392991-mask2.png",
+        "output": "392991-output2.png",
+        "instruction": "put strawberry on top of the cake"
+    },
+    {
+        "input": "392991-output2.png",
+        "mask": "392991-mask3.png",
+        "output": "392991-output3.png",
+        "instruction": "remove the chocolate spoon"
+    },
+    {
+        "input": "360762-input.png",
+        "mask": "360762-mask1.png",
+        "output": "360762-output1.png",
+        "instruction": "put a rabbit in the basket instead of the bear"
+    },
+    {
+        "input": "360762-output1.png",
+        "mask": "360762-mask2.png",
+        "output": "360762-output2.png",
+        "instruction": "add an egg to the photo"
+    },
+    {
+        "input": "25528-input.png",
+        "mask": "25528-mask1.png",
+        "output": "25528-output1.png",
+        "instruction": "let the pitcher wear gloves"
+    },
+    {
+        "input": "25528-output1.png",
+        "mask": "25528-mask2.png",
+        "output": "25528-output2.png",
+        "instruction": "change the baseball outfit of the batter into a military uniform"
+    },
+    {
+        "input": "25528-output2.png",
+        "mask": "25528-mask3.png",
+        "output": "25528-output3.png",
+        "instruction": "remove the buildings at the back and change them to conifers"
+    },
+    {
+        "input": "466945-input.png",
+        "mask": "466945-mask1.png",
+        "output": "466945-output1.png",
+        "instruction": "Have there be a spaceship in the sky"
+    },
+    {
+        "input": "466945-output1.png",
+        "mask": "466945-mask2.png",
+        "output": "466945-output2.png",
+        "instruction": "Have there be an alien walking on the sidewalk"
+    },
+    {
+        "input": "485083-input.png",
+        "mask": "485083-mask1.png",
+        "output": "485083-output1.png",
+        "instruction": "Let's add a rat on the floor."
+    },
+    {
+        "input": "12766-input.png",
+        "mask": "12766-mask1.png",
+        "output": "12766-output1.png",
+        "instruction": "Could it be a glass of wine on the table?"
+    },
+    {
+        "input": "12766-output1.png",
+        "mask": "12766-mask2.png",
+        "output": "12766-output2.png",
+        "instruction": "Put a bowl of eggs on the table."
+    },
+    {
+        "input": "12766-output2.png",
+        "mask": "12766-mask3.png",
+        "output": "12766-output3.png",
+        "instruction": "It should be a bottle of wine next to the glass."
+    },
+    {
+        "input": "127517-input.png",
+        "mask": "127517-mask1.png",
+        "output": "127517-output1.png",
+        "instruction": "Add the legs of a lifeguard stand."
+    },
+    {
+        "input": "127517-output1.png",
+        "mask": "127517-mask2.png",
+        "output": "127517-output2.png",
+        "instruction": "Put a seagull on the beach."
+    },
+    {
+        "input": "127517-output2.png",
+        "mask": "127517-mask3.png",
+        "output": "127517-output3.png",
+        "instruction": "Put a beach umbrella by the seagull."
+    },
+    {
+        "input": "409050-input.png",
+        "mask": "409050-mask1.png",
+        "output": "409050-output1.png",
+        "instruction": "delete the table"
+    },
+    {
+        "input": "409050-output1.png",
+        "mask": "409050-mask2.png",
+        "output": "409050-output2.png",
+        "instruction": "turn the glass door in an aquarium"
+    },
+    {
+        "input": "327702-input.png",
+        "mask": "327702-mask1.png",
+        "output": "327702-output1.png",
+        "instruction": "replace the child with a bag"
+    },
+    {
+        "input": "327702-output1.png",
+        "mask": "327702-mask2.png",
+        "output": "327702-output2.png",
+        "instruction": "let the woman feed a tiger"
+    },
+    {
+        "input": "153669-input.png",
+        "mask": "153669-mask1.png",
+        "output": "153669-output1.png",
+        "instruction": "Replace his helmet with a top hat."
+    },
+    {
+        "input": "297426-input.png",
+        "mask": "297426-mask1.png",
+        "output": "297426-output1.png",
+        "instruction": "add a lizard next to the mouse"
+    },
+    {
+        "input": "297426-output1.png",
+        "mask": "297426-mask2.png",
+        "output": "297426-output2.png",
+        "instruction": "remove the black panels"
+    },
+    {
+        "input": "297426-output2.png",
+        "mask": "297426-mask3.png",
+        "output": "297426-output3.png",
+        "instruction": "add a cellphone"
+    },
+    {
+        "input": "52603-input.png",
+        "mask": "52603-mask1.png",
+        "output": "52603-output1.png",
+        "instruction": "Change the frisbee to a football"
+    },
+    {
+        "input": "52603-output1.png",
+        "mask": "52603-mask2.png",
+        "output": "52603-output2.png",
+        "instruction": "Have the man be wearing a blue jersey"
+    },
+    {
+        "input": "52603-output2.png",
+        "mask": "52603-mask3.png",
+        "output": "52603-output3.png",
+        "instruction": "Have there be a dog running towards the man"
+    },
+    {
+        "input": "258674-input.png",
+        "mask": "258674-mask1.png",
+        "output": "258674-output1.png",
+        "instruction": "Let the car be painted white."
+    },
+    {
+        "input": "382559-input.png",
+        "mask": "382559-mask1.png",
+        "output": "382559-output1.png",
+        "instruction": "empty the table"
+    },
+    {
+        "input": "154597-input.png",
+        "mask": "154597-mask1.png",
+        "output": "154597-output1.png",
+        "instruction": "change the green seats into chairs"
+    },
+    {
+        "input": "154597-output1.png",
+        "mask": "154597-mask2.png",
+        "output": "154597-output2.png",
+        "instruction": "let the table be round"
+    },
+    {
+        "input": "154597-output2.png",
+        "mask": "154597-mask3.png",
+        "output": "154597-output3.png",
+        "instruction": "let the room have a brown door"
+    },
+    {
+        "input": "407650-input.png",
+        "mask": "407650-mask1.png",
+        "output": "407650-output1.png",
+        "instruction": "Have there be a helicopter in the sky"
+    },
+    {
+        "input": "573764-input.png",
+        "mask": "573764-mask1.png",
+        "output": "573764-output1.png",
+        "instruction": "change the classroom into a cafeteria"
+    },
+    {
+        "input": "573764-output1.png",
+        "mask": "573764-mask2.png",
+        "output": "573764-output2.png",
+        "instruction": "change the pizza into school lunches."
+    },
+    {
+        "input": "349302-input.png",
+        "mask": "349302-mask1.png",
+        "output": "349302-output1.png",
+        "instruction": "Change one of the giraffes to a monkey"
+    },
+    {
+        "input": "349302-output1.png",
+        "mask": "349302-mask2.png",
+        "output": "349302-output2.png",
+        "instruction": "Have there be a parked car nearby"
+    },
+    {
+        "input": "56896-input.png",
+        "mask": "56896-mask1.png",
+        "output": "56896-output1.png",
+        "instruction": "let the television show yoga"
+    },
+    {
+        "input": "56896-output1.png",
+        "mask": "56896-mask2.png",
+        "output": "56896-output2.png",
+        "instruction": "let the curtains be plain red"
+    },
+    {
+        "input": "56896-output2.png",
+        "mask": "56896-mask3.png",
+        "output": "56896-output3.png",
+        "instruction": "let the window show a view of an airport runway"
+    },
+    {
+        "input": "144534-input.png",
+        "mask": "144534-mask1.png",
+        "output": "144534-output1.png",
+        "instruction": "let the skillet have vegan food"
+    },
+    {
+        "input": "144534-output1.png",
+        "mask": "144534-mask2.png",
+        "output": "144534-output2.png",
+        "instruction": "make a woman hold the skillet"
+    },
+    {
+        "input": "144534-output2.png",
+        "mask": "144534-mask3.png",
+        "output": "144534-output3.png",
+        "instruction": "change the bottle of olive oil into soy sauce"
+    },
+    {
+        "input": "476335-input.png",
+        "mask": "476335-mask1.png",
+        "output": "476335-output1.png",
+        "instruction": "swap one of the man for a woman"
+    },
+    {
+        "input": "476335-output1.png",
+        "mask": "476335-mask2.png",
+        "output": "476335-output2.png",
+        "instruction": "change the man for a woman"
+    },
+    {
+        "input": "149-input.png",
+        "mask": "149-mask1.png",
+        "output": "149-output1.png",
+        "instruction": "Can we have a river next to the field."
+    },
+    {
+        "input": "149-output1.png",
+        "mask": "149-mask2.png",
+        "output": "149-output2.png",
+        "instruction": "Can we have a forest on the background?"
+    },
+    {
+        "input": "92212-input.png",
+        "mask": "92212-mask1.png",
+        "output": "92212-output1.png",
+        "instruction": "let limousines be parked"
+    },
+    {
+        "input": "92212-output1.png",
+        "mask": "92212-mask2.png",
+        "output": "92212-output2.png",
+        "instruction": "Change the Pay Here sign to Stop Sign"
+    },
+    {
+        "input": "92212-output2.png",
+        "mask": "92212-mask3.png",
+        "output": "92212-output3.png",
+        "instruction": "add pedestrians walking on the side"
+    },
+    {
+        "input": "561514-input.png",
+        "mask": "561514-mask1.png",
+        "output": "561514-output1.png",
+        "instruction": "let the floor be tiled"
+    },
+    {
+        "input": "561514-output1.png",
+        "mask": "561514-mask2.png",
+        "output": "561514-output2.png",
+        "instruction": "add a raccoon on the island"
+    },
+    {
+        "input": "561514-output2.png",
+        "mask": "561514-mask3.png",
+        "output": "561514-output3.png",
+        "instruction": "add a chandelier on the ceiling"
+    },
+    {
+        "input": "294943-input.png",
+        "mask": "294943-mask1.png",
+        "output": "294943-output1.png",
+        "instruction": "What if the cat have a hat?"
+    },
+    {
+        "input": "294943-output1.png",
+        "mask": "294943-mask2.png",
+        "output": "294943-output2.png",
+        "instruction": "Let's add a hat to the man's head."
+    },
+    {
+        "input": "146457-input.png",
+        "mask": "146457-mask1.png",
+        "output": "146457-output1.png",
+        "instruction": "Let's add a hat to the boy."
+    },
+    {
+        "input": "146457-output1.png",
+        "mask": "146457-mask2.png",
+        "output": "146457-output2.png",
+        "instruction": "What if the girl is holding ketchup?"
+    },
+    {
+        "input": "399547-input.png",
+        "mask": "399547-mask1.png",
+        "output": "399547-output1.png",
+        "instruction": "Change the toothbrushes to forks"
+    },
+    {
+        "input": "551701-input.png",
+        "mask": "551701-mask1.png",
+        "output": "551701-output1.png",
+        "instruction": "Get rid of the stone so it looks like she's just on the grass."
+    },
+    {
+        "input": "551701-output1.png",
+        "mask": "551701-mask2.png",
+        "output": "551701-output2.png",
+        "instruction": "Make her fatter."
+    },
+    {
+        "input": "551701-output2.png",
+        "mask": "551701-mask3.png",
+        "output": "551701-output3.png",
+        "instruction": "Remove the frisbee."
+    },
+    {
+        "input": "67027-input.png",
+        "mask": "67027-mask1.png",
+        "output": "67027-output1.png",
+        "instruction": "Add a glass of milk."
+    },
+    {
+        "input": "272876-input.png",
+        "mask": "272876-mask1.png",
+        "output": "272876-output1.png",
+        "instruction": "let the boy stand on the skateboard"
+    },
+    {
+        "input": "272876-output1.png",
+        "mask": "272876-mask2.png",
+        "output": "272876-output2.png",
+        "instruction": "remove the door"
+    },
+    {
+        "input": "272876-output2.png",
+        "mask": "272876-mask3.png",
+        "output": "272876-output3.png",
+        "instruction": "let a cop stare at the boy"
+    },
+    {
+        "input": "443320-input.png",
+        "mask": "443320-mask1.png",
+        "output": "443320-output1.png",
+        "instruction": "Make the apple green."
+    },
+    {
+        "input": "443320-output1.png",
+        "mask": "443320-mask2.png",
+        "output": "443320-output2.png",
+        "instruction": "Put a fly on one of the oranges."
+    },
+    {
+        "input": "189461-input.png",
+        "mask": "189461-mask1.png",
+        "output": "189461-output1.png",
+        "instruction": "Have a straw coming out of the cup."
+    },
+    {
+        "input": "148634-input.png",
+        "mask": "148634-mask1.png",
+        "output": "148634-output1.png",
+        "instruction": "let the cat hug a stuffed teddy bear"
+    },
+    {
+        "input": "148634-output1.png",
+        "mask": "148634-mask2.png",
+        "output": "148634-output2.png",
+        "instruction": "let the car doors be open"
+    },
+    {
+        "input": "500270-input.png",
+        "mask": "500270-mask1.png",
+        "output": "500270-output1.png",
+        "instruction": "Add a UFO to the sky."
+    },
+    {
+        "input": "500270-output1.png",
+        "mask": "500270-mask2.png",
+        "output": "500270-output2.png",
+        "instruction": "Remove the palm trees."
+    },
+    {
+        "input": "294920-input.png",
+        "mask": "294920-mask1.png",
+        "output": "294920-output1.png",
+        "instruction": "Let a book sit next to the wine glass."
+    },
+    {
+        "input": "454209-input.png",
+        "mask": "454209-mask1.png",
+        "output": "454209-output1.png",
+        "instruction": "put a microwave instead of the stove"
+    },
+    {
+        "input": "454209-output1.png",
+        "mask": "454209-mask2.png",
+        "output": "454209-output2.png",
+        "instruction": "put bottles on the shelf"
+    },
+    {
+        "input": "572765-input.png",
+        "mask": "572765-mask1.png",
+        "output": "572765-output1.png",
+        "instruction": "Have there be a submarine in the water"
+    },
+    {
+        "input": "204871-input.png",
+        "mask": "204871-mask1.png",
+        "output": "204871-output1.png",
+        "instruction": "Replace the animal stickers with a smiley face sticker."
+    },
+    {
+        "input": "47294-input.png",
+        "mask": "47294-mask1.png",
+        "output": "47294-output1.png",
+        "instruction": "Change one of the signs to say \"NO\""
+    },
+    {
+        "input": "265145-input.png",
+        "mask": "265145-mask1.png",
+        "output": "265145-output1.png",
+        "instruction": "make the woman laugh"
+    },
+    {
+        "input": "265145-output1.png",
+        "mask": "265145-mask2.png",
+        "output": "265145-output2.png",
+        "instruction": "let the woman wear an expensive ball gown"
+    },
+    {
+        "input": "265145-output2.png",
+        "mask": "265145-mask3.png",
+        "output": "265145-output3.png",
+        "instruction": "change the bottles into barbeque food"
+    },
+    {
+        "input": "457268-input.png",
+        "mask": "457268-mask1.png",
+        "output": "457268-output1.png",
+        "instruction": "Let a gorilla be hung from the shelf."
+    },
+    {
+        "input": "197656-input.png",
+        "mask": "197656-mask1.png",
+        "output": "197656-output1.png",
+        "instruction": "turn the train into a black bullet train"
+    },
+    {
+        "input": "197656-output1.png",
+        "mask": "197656-mask2.png",
+        "output": "197656-output2.png",
+        "instruction": "put buildings in the background of the image"
+    },
+    {
+        "input": "44080-input.png",
+        "mask": "44080-mask1.png",
+        "output": "44080-output1.png",
+        "instruction": "change the fruit bowl to a salad bowl"
+    },
+    {
+        "input": "44080-output1.png",
+        "mask": "44080-mask2.png",
+        "output": "44080-output2.png",
+        "instruction": "change the orange drink to a cup of cola"
+    },
+    {
+        "input": "44080-output2.png",
+        "mask": "44080-mask3.png",
+        "output": "44080-output3.png",
+        "instruction": "add a clipboard"
+    },
+    {
+        "input": "324012-input.png",
+        "mask": "324012-mask1.png",
+        "output": "324012-output1.png",
+        "instruction": "What if there was a woman and a child on the monitor."
+    },
+    {
+        "input": "434485-input.png",
+        "mask": "434485-mask1.png",
+        "output": "434485-output1.png",
+        "instruction": "slice the watermelon"
+    },
+    {
+        "input": "573483-input.png",
+        "mask": "573483-mask1.png",
+        "output": "573483-output1.png",
+        "instruction": "Replace the cherub with a monkey."
+    },
+    {
+        "input": "573483-output1.png",
+        "mask": "573483-mask2.png",
+        "output": "573483-output2.png",
+        "instruction": "Instead of the clock, a large bell should be there."
+    },
+    {
+        "input": "573483-output2.png",
+        "mask": "573483-mask3.png",
+        "output": "573483-output3.png",
+        "instruction": "An owl should be next to the monkey."
+    },
+    {
+        "input": "360449-input.png",
+        "mask": "360449-mask1.png",
+        "output": "360449-output1.png",
+        "instruction": "make the street empty"
+    },
+    {
+        "input": "360449-output1.png",
+        "mask": "360449-mask2.png",
+        "output": "360449-output2.png",
+        "instruction": "add a car parking garage"
+    },
+    {
+        "input": "360449-output2.png",
+        "mask": "360449-mask3.png",
+        "output": "360449-output3.png",
+        "instruction": "Add a toll booth"
+    },
+    {
+        "input": "455219-input.png",
+        "mask": "455219-mask1.png",
+        "output": "455219-output1.png",
+        "instruction": "Add a snake to the road in front of the oxen."
+    },
+    {
+        "input": "468203-input.png",
+        "mask": "468203-mask1.png",
+        "output": "468203-output1.png",
+        "instruction": "Have one of the teddy bears be wearing a crown"
+    },
+    {
+        "input": "364549-input.png",
+        "mask": "364549-mask1.png",
+        "output": "364549-output1.png",
+        "instruction": "let the woman wear a designer gown"
+    },
+    {
+        "input": "364549-output1.png",
+        "mask": "364549-mask2.png",
+        "output": "364549-output2.png",
+        "instruction": "remove the shrubs"
+    },
+    {
+        "input": "364549-output2.png",
+        "mask": "364549-mask3.png",
+        "output": "364549-output3.png",
+        "instruction": "let the woman be next to a park"
+    },
+    {
+        "input": "416125-input.png",
+        "mask": "416125-mask1.png",
+        "output": "416125-output1.png",
+        "instruction": "Let the sign become a yield sign."
+    },
+    {
+        "input": "109921-input.png",
+        "mask": "109921-mask1.png",
+        "output": "109921-output1.png",
+        "instruction": "Let the blind of the window be taken away."
+    },
+    {
+        "input": "169763-input.png",
+        "mask": "169763-mask1.png",
+        "output": "169763-output1.png",
+        "instruction": "put a monkey on top of the bike"
+    },
+    {
+        "input": "279994-input.png",
+        "mask": "279994-mask1.png",
+        "output": "279994-output1.png",
+        "instruction": "Put a butterfly on the dog."
+    },
+    {
+        "input": "95061-input.png",
+        "mask": "95061-mask1.png",
+        "output": "95061-output1.png",
+        "instruction": "What if there is a woman next to the bus?"
+    },
+    {
+        "input": "116746-input.png",
+        "mask": "116746-mask1.png",
+        "output": "116746-output1.png",
+        "instruction": "change the fence to a parking lot."
+    },
+    {
+        "input": "116746-output1.png",
+        "mask": "116746-mask2.png",
+        "output": "116746-output2.png",
+        "instruction": "have a person lean on  the machine"
+    },
+    {
+        "input": "116746-output2.png",
+        "mask": "116746-mask3.png",
+        "output": "116746-output3.png",
+        "instruction": "change the parking lot to an indoor lot."
+    },
+    {
+        "input": "47074-input.png",
+        "mask": "47074-mask1.png",
+        "output": "47074-output1.png",
+        "instruction": "let the woman wear a party gown"
+    },
+    {
+        "input": "47074-output1.png",
+        "mask": "47074-mask2.png",
+        "output": "47074-output2.png",
+        "instruction": "let there be a bowl with roast chicken"
+    },
+    {
+        "input": "47074-output2.png",
+        "mask": "47074-mask3.png",
+        "output": "47074-output3.png",
+        "instruction": "let the woman paint on the wall"
+    },
+    {
+        "input": "147545-input.png",
+        "mask": "147545-mask1.png",
+        "output": "147545-output1.png",
+        "instruction": "Put a baby in the kitchen."
+    },
+    {
+        "input": "147545-output1.png",
+        "mask": "147545-mask2.png",
+        "output": "147545-output2.png",
+        "instruction": "Put a hat on the baby."
+    },
+    {
+        "input": "211118-input.png",
+        "mask": "211118-mask1.png",
+        "output": "211118-output1.png",
+        "instruction": "place the rabbit on top of a planet instead of the tree trunk."
+    },
+    {
+        "input": "211118-output1.png",
+        "mask": "211118-mask2.png",
+        "output": "211118-output2.png",
+        "instruction": "erase the sheeps"
+    },
+    {
+        "input": "131075-input.png",
+        "mask": "131075-mask1.png",
+        "output": "131075-output1.png",
+        "instruction": "What if there is a girl in the screen of the laptop?"
+    },
+    {
+        "input": "131075-output1.png",
+        "mask": "131075-mask2.png",
+        "output": "131075-output2.png",
+        "instruction": "What if there was a picture of a flower on the projected image?"
+    }
+]

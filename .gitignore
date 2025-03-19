@@ -1,3 +1,14 @@
+envs
+samples_output
+temp
+test_eval_result
+test_magicbrush_output
+test_result
+useful_notebooks
+magicbrush/images
+paper_main_magicbrush
+result_main_magicbrush_debug
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,2660 @@
+{
+    "242679": {
+        "242679-input.png": "A seat under a mirror onboard a train, next to a cluttered counter.",
+        "242679-output1.png": "A cat lounges on a seat under a mirror onboard a train, next to a cluttered counter."
+    },
+    "368667": {
+        "368667-input.png": "A couple of horses in a field at a ranch.",
+        "368667-output1.png": "Horses grazing by a stream at a ranch.",
+        "368667-output2.png": "Horses grazing by a stream at a ranch with a giraffe in the field.",
+        "368667-output3.png": "Horses grazing by a stream at a ranch with a giraffe in the field under a supernova explosion in the sky."
+    },
+    "385042": {
+        "385042-input.png": "A black and white fire hydrant stands on a brick sidewalk.",
+        "385042-output1.png": "A white fire hydrant stands on a brick sidewalk.",
+        "385042-output2.png": "A white fire hydrant stands on an asphalt street.",
+        "385042-output3.png": "A leashed dog stands next to a white fire hydrant on an asphalt street."
+    },
+    "483348": {
+        "483348-input.png": "A bathroom stall that is made of wood.",
+        "483348-output1.png": "A wooden bathroom stall with a seat down.",
+        "483348-output2.png": "A wooden bathroom stall with a frog in the toilet.",
+        "483348-output3.png": "A wooden bathroom stall with a repaired floor and a frog in the toilet."
+    },
+    "141946": {
+        "141946-input.png": "Two laptops, many papers, desk chair, file cabinets, overheard cabinets, and other small objects fill a carpeted cubical space.",
+        "141946-output1.png": "Two laptops, many papers, desk chair, file cabinets, overheard cabinets, and other small objects fill a carpeted cubical space with blank screens.",
+        "141946-output2.png": "Red chair and two laptops, many papers, desk chair, file cabinets, overhead cabinets, and other small objects fill a carpeted cubical space with blank screens.",
+        "141946-output3.png": "Black desktop and red chair with two laptops, many papers, desk chair, file cabinets, overhead cabinets, and other small objects fill a carpeted cubical space with blank screens."
+    },
+    "408425": {
+        "408425-input.png": "A hotel looking room has a bright striped bedspread.",
+        "408425-output1.png": "A hotel looking room with a white curtain and bright striped bedspread.",
+        "408425-output2.png": "A cozy room with a white curtain and a colorful bean bag in place of a bed.",
+        "408425-output3.png": "A cozy room with a wooden table, a white curtain, and a colorful bean bag in place of a bed."
+    },
+    "352290": {
+        "352290-input.png": "A brown horse standing on top of a lush green hillside.",
+        "352290-output1.png": "A brown horse wearing a hat standing on top of a lush green hillside.",
+        "352290-output2.png": "A brown horse wearing a hat standing on top of a lush green hillside with birds flying in the sky."
+    },
+    "385037": {
+        "385037-input.png": "A man and a woman sit on top of a motorcycle.",
+        "385037-output1.png": "A woman sits on top of a motorcycle.",
+        "385037-output2.png": "An obese woman sits on top of a motorcycle.",
+        "385037-output3.png": "An obese woman with a helmet sits on top of a motorcycle."
+    },
+    "464144": {
+        "464144-input.png": "The man is skiing down the hill with his goggles up.",
+        "464144-output1.png": "The boy is skiing down the hill with his goggles up."
+    },
+    "578213": {
+        "578213-input.png": "Someone sleeping under a big red blanket with flowers on it.",
+        "578213-output1.png": "Someone sleeping under a big red blanket with flowers on it, with banana shaped candles in the candle holder."
+    },
+    "127515": {
+        "127515-input.png": "A baseball player swings at a pitch while the catcher and referee look on.",
+        "127515-output1.png": "A baseball player catches a ball while the catcher and referee look on."
+    },
+    "308332": {
+        "308332-input.png": "A bedroom decorated with a blue underwater theme.",
+        "308332-output1.png": "A bedroom decorated with a blue underwater theme featuring a mermaid picture on the wall.",
+        "308332-output2.png": "A bedroom decorated with a blue underwater theme featuring a mermaid reading a book on the wall.",
+        "308332-output3.png": "A bedroom decorated with a blue underwater theme featuring a mermaid reading a book on the wall and a lobster on the bed."
+    },
+    "284725": {
+        "284725-input.png": "a public transit bus on a city street",
+        "284725-output1.png": "A public transit bus driving on a city street.",
+        "284725-output2.png": "A public transit bus driving on a city street with a small cat on top."
+    },
+    "560472": {
+        "560472-input.png": "hot dogs and chicken on a table next to a grill",
+        "560472-output1.png": "Burgers and chicken on a table next to a grill with patties cooking in the pan",
+        "560472-output2.png": "Pancakes and burgers on a table next to a grill with patties cooking in the pan",
+        "560472-output3.png": "Pancakes, burgers, and a bottle of wine on a table next to a grill with patties cooking in the pan"
+    },
+    "441483": {
+        "441483-input.png": "A toilet with no seat sits in a tiny bathroom.",
+        "441483-output1.png": "A toilet with a lid sits in a tiny bathroom."
+    },
+    "116518": {
+        "116518-input.png": "A dog is frolicking with a dirty white teddy bear.",
+        "116518-output1.png": "A dog is frolicking with a black teddy bear.",
+        "116518-output2.png": "A dog is licking a black teddy bear in a playful frolic.",
+        "116518-output3.png": "A dog with a dragonfly on its ear is licking a black teddy bear in a playful frolic."
+    },
+    "103966": {
+        "103966-input.png": "A metal bench with tennis racquets sitting on top of them.",
+        "103966-output1.png": "A metal bench with a shovel sitting on top of it.",
+        "103966-output2.png": "A wooden pew with a shovel sitting on top of it.",
+        "103966-output3.png": "A wooden pew with a shovel and a bucket of dirt sitting on top of it."
+    },
+    "258155": {
+        "258155-input.png": "a white bed with spots on it in a room",
+        "258155-output1.png": "A white bed with a longer blanket hanging over it in a room."
+    },
+    "495146": {
+        "495146-input.png": "A train crosses as a bunch of gathered vehicles watch.",
+        "495146-output1.png": "A train crosses as a bunch of gathered vehicles and a helicopter watch."
+    },
+    "70491": {
+        "70491-input.png": "A green covered Wii remote lying on a table.",
+        "70491-output1.png": "A green VR headset lying on a table.",
+        "70491-output2.png": "A green VR headset lying on a table with a movie poster on the wall.",
+        "70491-output3.png": "A green VR headset and credit card lying on a table with a movie poster on the wall."
+    },
+    "296012": {
+        "296012-input.png": "A small green car has a plaque with writing in front of it.",
+        "296012-output1.png": "A red sports car with a plaque and writing in front of it."
+    },
+    "221187": {
+        "221187-input.png": "A women in a white shirt who is eating a banana.",
+        "221187-output1.png": "A woman in a white shirt singing into a microphone."
+    },
+    "160864": {
+        "160864-input.png": "Baseball team holding batting practice on the field",
+        "160864-output1.png": "Baseball team holding swords on the field during practice",
+        "160864-output2.png": "Baseball team holding swords on the field during practice, with the catcher laughing uncontrollably",
+        "160864-output3.png": "Baseball team holding swords on the field during practice, with the clown catcher laughing uncontrollably"
+    },
+    "51746": {
+        "51746-input.png": "A white couch sitting in a living room next to a book shelf.",
+        "51746-output1.png": "A brown couch sitting in a living room next to a book shelf.",
+        "51746-output2.png": "A brown couch sitting in a living room next to a book shelf with a blank TV screen.",
+        "51746-output3.png": "A brown couch sitting in a living room next to a book shelf with a blank TV screen and a cute puppy."
+    },
+    "171328": {
+        "171328-input.png": "This trees has a lot of oranges growing on it.",
+        "171328-output1.png": "This trees has a lot of oranges growing on it with a tower in the background.",
+        "171328-output2.png": "This trees has a lot of berries growing on it with a tower in the background.",
+        "171328-output3.png": "Ripe yellowed leaves and berries on a tree with a tower in the background."
+    },
+    "398772": {
+        "398772-input.png": "A bed with a tray on top sits in a room with a fridge.",
+        "398772-output1.png": "A wheelchair accessible room with a bed and tray table, and a fridge.",
+        "398772-output2.png": "A hospital-style wheelchair accessible room with an adjustable bed, tray table, and fridge."
+    },
+    "118246": {
+        "118246-input.png": "A table of food that includes peanuts and two hot dogs.",
+        "118246-output1.png": "A table of food that includes two hot dogs and peanuts in shells."
+    },
+    "114697": {
+        "114697-input.png": "A boy swings a bat while playing baseball.",
+        "114697-output1.png": "A baseball coach watches as a boy swings a bat while playing."
+    },
+    "3259": {
+        "3259-input.png": "a desk filled with assorted electronics and a phone",
+        "3259-output1.png": "A desk filled with assorted electronics and a table lamp",
+        "3259-output2.png": "A desk filled with assorted electronics, including a laptop with a red webpage, and a table lamp",
+        "3259-output3.png": "A desk filled with assorted electronics, including a white laptop with a red webpage, and a table lamp"
+    },
+    "519688": {
+        "519688-input.png": "A woman wearing a blue coat holds a furry animal in her arms",
+        "519688-output1.png": "A woman wearing a blue coat and scars on her face holds a furry animal in her arms."
+    },
+    "554145": {
+        "554145-input.png": "A store shelf filled with different colored tooth brushes.",
+        "554145-output1.png": "A store shelf filled with different colored tooth brushes, some marked with an orange sticky note."
+    },
+    "296724": {
+        "296724-input.png": "A pink and red couch in a room with a pink rug.",
+        "296724-output1.png": "Grandma sitting on a pink and red couch in a room with a pink rug."
+    },
+    "417043": {
+        "417043-input.png": "A bench sitting on the side of a road.",
+        "417043-output1.png": "A clown sitting on a bench on the side of a road."
+    },
+    "65135": {
+        "65135-input.png": "A large passenger sitting on top of an airport runway.",
+        "65135-output1.png": "A large passenger plane parked on an airport runway."
+    },
+    "5253": {
+        "5253-input.png": "The stop sign is clearly displayed above the traffic light.",
+        "5253-output1.png": "The \"GO\" sign is clearly displayed above the traffic light."
+    },
+    "335874": {
+        "335874-input.png": "A polar bear walking on a rocky patch of ground.",
+        "335874-output1.png": "A zebra-striped polar bear walking on a rocky patch of ground.",
+        "335874-output2.png": "A zebra-striped polar bear walking on a rocky patch of ground with a whole pizza in its mouth.",
+        "335874-output3.png": "A zebra-striped polar bear wearing a top hat walking on a rocky patch of ground with a whole pizza in its mouth."
+    },
+    "169365": {
+        "169365-input.png": "A cat sitting in a sink beside a cup with a toothbrush in it.",
+        "169365-output1.png": "A meowing cat sitting in a sink beside a cup with a toothbrush in it."
+    },
+    "440336": {
+        "440336-input.png": "a group of people throwing around a freez be",
+        "440336-output1.png": "A group of people throwing around a fireball.",
+        "440336-output2.png": "A group of people throwing around a fireball with a bird in the background."
+    },
+    "330790": {
+        "330790-input.png": "an elephant is carrying some plants in its tusk",
+        "330790-output1.png": "An elephant with a red bow on its head carrying plants in its tusk"
+    },
+    "237587": {
+        "237587-input.png": "A fire hydrant is decorated with the colors of the American flag: red, white, and blue.",
+        "237587-output1.png": "A bald eagle perched on a fire hydrant decorated with the colors of the American flag: red, white, and blue."
+    },
+    "25485": {
+        "25485-input.png": "A vase filled with the Charlie Brown Christmas Tree.",
+        "25485-output1.png": "A vase filled with the Charlie Brown Christmas Tree and an owl.",
+        "25485-output2.png": "A vase filled with the Charlie Brown Christmas Tree, an owl, and a kitten on the floor."
+    },
+    "495312": {
+        "495312-input.png": "A man is holding a chiguagua dog over a bowl with a surprised look on his face.",
+        "495312-output1.png": "A man is holding a laptop with a chiguagua dog on his lap with a surprised look on his face.",
+        "495312-output2.png": "A bespectacled man holds a laptop with a chiguagua dog on his lap with a surprised look on his face."
+    },
+    "331816": {
+        "331816-input.png": "A group of sheep in grassy area with tree in the background.",
+        "331816-output1.png": "A group of sheep in a grassy area."
+    },
+    "115037": {
+        "115037-input.png": "Pens, scissors, markers and other assorted clerical tools.",
+        "115037-output1.png": "Assorted clerical tools including plastic scissors, pens, and markers."
+    },
+    "376843": {
+        "376843-input.png": "Tennis serve on blue court with green boarder, spectators on blue observation area.",
+        "376843-output1.png": "Man in brown pants serves on blue court with green boarder, spectators on blue observation area."
+    },
+    "54464": {
+        "54464-input.png": "Two laptops are set on an unmade bed.",
+        "54464-output1.png": "Two laptops and a heart pillow set on an unmade bed.",
+        "54464-output2.png": "A heart pillow set on an unmade bed.",
+        "54464-output3.png": "Heart pillow on an empty bed."
+    },
+    "151050": {
+        "151050-input.png": "A fake stop sign is shown in the grass.",
+        "151050-output1.png": "A fake no entry sign is shown in the grass.",
+        "151050-output2.png": "A carved pumpkin sits next to a fake no entry sign in the grass.",
+        "151050-output3.png": "A woman jogging in the back as a carved pumpkin sits next to a fake no entry sign in the grass."
+    },
+    "222015": {
+        "222015-input.png": "A clock with antique forks and spoons implemented as design.",
+        "222015-output1.png": "An eye with antique forks and spoons implemented as design."
+    },
+    "491098": {
+        "491098-input.png": "A formally set dining table is adorned with fresh tulips.",
+        "491098-output1.png": "A formally set dining table with fresh tulips and a bottle of wine.",
+        "491098-output2.png": "A formally set dining table with fresh tulips, a bottle of wine, and a drawing of a girl on the wall."
+    },
+    "461252": {
+        "461252-input.png": "A plate with some very tasty looking food items.",
+        "461252-output1.png": "A plate with some very tasty looking food items, including broccoli and bell peppers in the bowl.",
+        "461252-output2.png": "A plate with some very tasty looking food items, including broccoli and bell peppers in the bowl and an empty bun.",
+        "461252-output3.png": "Tasty food items including broccoli and bell peppers on a transparent glass plate with an empty bun."
+    },
+    "294330": {
+        "294330-input.png": "A home office with a desk and computers.",
+        "294330-output1.png": "A home office with a desk, leather bound books, and computers.",
+        "294330-output2.png": "A home office with a desk, leather bound books, and computers displaying code.",
+        "294330-output3.png": "A home office with a desk, leather bound books, and computers displaying code."
+    },
+    "65307": {
+        "65307-input.png": "A pretty young lady playing a game of frisbee.",
+        "65307-output1.png": "A pretty young lady playing a game of frisbee with a hat on."
+    },
+    "373776": {
+        "373776-input.png": "A bedroom with a modern look and distinct blue lights.",
+        "373776-output1.png": "A bedroom with a modern look and distinct star-shaped blue lights."
+    },
+    "163866": {
+        "163866-input.png": "A woman is pulling a red suitcase down the side walk.",
+        "163866-output1.png": "A woman is walking her dog and pulling a red suitcase down the sidewalk."
+    },
+    "393403": {
+        "393403-input.png": "A large yellow and red double decker bus traveling down a street.",
+        "393403-output1.png": "A large yellow and red train traveling down a street."
+    },
+    "459898": {
+        "459898-input.png": "Some animals run together in the tall grass.",
+        "459898-output1.png": "Some animals, including a wolf, run together in the tall grass.",
+        "459898-output2.png": "Some animals, including a wolf, run together in the tall grass with a bird perched on the back of a zebra."
+    },
+    "161062": {
+        "161062-input.png": "A plane on the runway under cloudy skies.",
+        "161062-output1.png": "Empty runway under cloudy skies."
+    },
+    "246924": {
+        "246924-input.png": "A hand cutting up bell pepper on top of a wooden cutting board.",
+        "246924-output1.png": "A hand cutting up bell pepper on top of a wooden cutting board.",
+        "246924-output2.png": "A hand cutting up red bell pepper on top of a wooden cutting board."
+    },
+    "482545": {
+        "482545-input.png": "A cat drinking water from a toilet bowl.",
+        "482545-output1.png": "An iguana drinking water from a toilet bowl."
+    },
+    "32818": {
+        "32818-input.png": "A concrete bench posed by a tree trunk on a beach.",
+        "32818-output1.png": "One person flies a kite while sitting on a concrete bench posed by a tree trunk on a beach.",
+        "32818-output2.png": "One person flies a kite while sitting on a wooden bench posed by a tree trunk on a beach.",
+        "32818-output3.png": "One person flies a kite while sitting on a wooden bench posed by a tree trunk on a beach, with a bag of popcorn and a group of ducks."
+    },
+    "534041": {
+        "534041-input.png": "a woman is feeding food to this small child",
+        "534041-output1.png": "Cool kid alert! A woman is feeding food to this small child wearing sunglasses."
+    },
+    "536595": {
+        "536595-input.png": "an image of a white fire hydrant on the side walk",
+        "536595-output1.png": "An image of a red fire hydrant on the sidewalk",
+        "536595-output2.png": "A friendly mascot posing with a red fire hydrant on the sidewalk",
+        "536595-output3.png": "A friendly mascot posing with a red fire hydrant and a roadblock on the sidewalk"
+    },
+    "279939": {
+        "279939-input.png": "A bathroom contains a toilet, sink, and bathtub.",
+        "279939-output1.png": "A closed lid on a bathroom toilet, sink, and bathtub."
+    },
+    "358653": {
+        "358653-input.png": "The inside of a kitchen with different appliances",
+        "358653-output1.png": "The inside of a kitchen with different appliances, including a refrigerator with a fun drawing on it.",
+        "358653-output2.png": "A cat perched on top of the freezer in a kitchen with various appliances, including a refrigerator with a fun drawing on it."
+    },
+    "348966": {
+        "348966-input.png": "Two donuts rest alongside an ice tea on a picnic table.",
+        "348966-output1.png": "Two blue drinks and donuts on a picnic table."
+    },
+    "338924": {
+        "338924-input.png": "A pizza sitting on top of a plate on top of a wooden table.",
+        "338924-output1.png": "A pizza sitting on top of a plate with a geranium plant on a wooden table.",
+        "338924-output2.png": "A meat pizza sitting on top of a plate with a geranium plant on a wooden table.",
+        "338924-output3.png": "A meat pizza sitting on top of a round white plate with a geranium plant on a wooden table."
+    },
+    "286724": {
+        "286724-input.png": "A family of gray elephants standing side by side.",
+        "286724-output1.png": "A family of gray elephants walking in the woods with no trees."
+    },
+    "88759": {
+        "88759-input.png": "A kitchen with a sink, washing machine, multiple cleaning supplies and shelves in it.",
+        "88759-output1.png": "A fully equipped kitchen with a sink, washing machine, oven, multiple cleaning supplies and shelves in it.",
+        "88759-output2.png": "A fully equipped kitchen with a sink, washing machine, oven, multiple cleaning supplies, shelves, and a watermelon in it."
+    },
+    "360510": {
+        "360510-input.png": "A cat laying on to of a car roof.",
+        "360510-output1.png": "A cat laying on top of a truck roof.",
+        "360510-output2.png": "A cat laying on top of a truck roof with the sun shining on the building.",
+        "360510-output3.png": "A cat laying on top of a truck roof with fishing poles and the sun shining on the building."
+    },
+    "208469": {
+        "208469-input.png": "A square pizza sitting on top of a pan.",
+        "208469-output1.png": "A round pizza sitting on top of a pan.",
+        "208469-output2.png": "A round pizza sitting on top of a pan with a glass nearby."
+    },
+    "8238": {
+        "8238-input.png": "A man in a suit riding a motorcycle.",
+        "8238-output1.png": "A man in a suit with a red tie riding a motorcycle."
+    },
+    "543833": {
+        "543833-input.png": "A simple glass vase with stems of lilies sits in front of a large window.",
+        "543833-output1.png": "A blue glass vase with stems of lilies sits in front of a large window.",
+        "543833-output2.png": "A blue glass vase and pot with stems of lilies sit in front of a large window.",
+        "543833-output3.png": "A blue glass vase and pot with stems of lilies sit in front of a large window with a candle nearby."
+    },
+    "262710": {
+        "262710-input.png": "A man in a black jacket walking on wet pavement looks down at his cell phone.",
+        "262710-output1.png": "A cowboy in a black jacket walking on wet pavement looks down at his cell phone."
+    },
+    "104081": {
+        "104081-input.png": "a number of cows in a field near trees",
+        "104081-output1.png": "Tractor and cows in a field near trees",
+        "104081-output2.png": "Log cabin, tractor, and cows in a field near trees"
+    },
+    "156195": {
+        "156195-input.png": "Sheep graze in a large field with trees behind them.",
+        "156195-output1.png": "Sheep graze in a large field with red-leaved trees behind them.",
+        "156195-output2.png": "Model posing with sheep in a large field with red-leaved trees behind them."
+    },
+    "161128": {
+        "161128-input.png": "A curse word written on a traffic sign.",
+        "161128-output1.png": "A parking sign in place of a curse word on a traffic sign.",
+        "161128-output2.png": "A parking sign in place of a curse word on a traffic sign with a lightning bolt in the sky.",
+        "161128-output3.png": "A cop car parked under a traffic sign with a parking sign in place of a curse word and a lightning bolt in the sky."
+    },
+    "376839": {
+        "376839-input.png": "A man holding a womans hand while she holds an umbrella.",
+        "376839-output1.png": "A man holding a woman's hand while she holds an umbrella and a dog walks beside them.",
+        "376839-output2.png": "A man holding a woman's hand while she holds an umbrella and a dog walks beside them, with the woman wearing a cowboy hat."
+    },
+    "475425": {
+        "475425-input.png": "A floral dinner plate with a pulled pork sandwich and chips and a glass of milk on the side.",
+        "475425-output1.png": "An empty floral dinner plate with a glass of milk on the side.",
+        "475425-output2.png": "An empty floral dinner plate with a soda can on the side."
+    },
+    "446522": {
+        "446522-input.png": "A dog sitting on a chair underneath a painting.",
+        "446522-output1.png": "A dog sitting on a chair underneath a painting in the dining room.",
+        "446522-output2.png": "A dog and cat sitting on a chair underneath a painting in the dining room.",
+        "446522-output3.png": "A dog and cat sitting on a chair underneath a painting in the dining room with a floor lamp next to them."
+    },
+    "32777": {
+        "32777-input.png": "A man that is walking next to a train.",
+        "32777-output1.png": "A man with a backpack and hat walking next to a train."
+    },
+    "383220": {
+        "383220-input.png": "There's a snow man with a tennis racket on it",
+        "383220-output1.png": "Squirrels playing tennis in the snow",
+        "383220-output2.png": "Squirrels playing tennis under the moonlight in the snow"
+    },
+    "385190": {
+        "385190-input.png": "Street art painted on the wall in an asian country.",
+        "385190-output1.png": "Flower street art painted on the wall in an Asian country."
+    },
+    "319522": {
+        "319522-input.png": "A herd of animals grazing on a lush green field.",
+        "319522-output1.png": "A herd of white horses grazing on a lush green field."
+    },
+    "67616": {
+        "67616-input.png": "A restaurant with patrons in the outdoor eating area.",
+        "67616-output1.png": "A red Lamborghini parked in front of a restaurant with patrons in the outdoor eating area."
+    },
+    "71409": {
+        "71409-input.png": "A vintage red pick up truck is shown on a city street.",
+        "71409-output1.png": "A vintage red pick up truck and a new car are shown on a city street.",
+        "71409-output2.png": "A vintage red pick up truck and a new car parked on a city street with a fire hydrant on the sidewalk."
+    },
+    "125109": {
+        "125109-input.png": "a white painted kitchen with an oven and a cooker",
+        "125109-output1.png": "A white painted kitchen with an oven and a cooker on a red tile floor",
+        "125109-output2.png": "A white painted kitchen with an oven and a cooker on a red tile floor, featuring a blue vase of flowers.",
+        "125109-output3.png": "A white painted kitchen with a big chimney over the stove and a cooker on a red tile floor, featuring a blue vase of flowers."
+    },
+    "248403": {
+        "248403-input.png": "A woman is sitting down outside eating pizza.",
+        "248403-output1.png": "A woman is sitting down outside with her mouth open, ready to eat pizza.",
+        "248403-output2.png": "Blindfolded woman sitting outside with her mouth open, ready to eat pizza."
+    },
+    "318657": {
+        "318657-input.png": "Many kites flying in the sky on a cloudy day",
+        "318657-output1.png": "Many kites flying in the sky with a spaceship on a cloudy day"
+    },
+    "89648": {
+        "89648-input.png": "A crowd of people sitting down next to each other.",
+        "89648-output1.png": "A crowd of people sitting down next to each other, without a woman using a laptop."
+    },
+    "323789": {
+        "323789-input.png": "Man in a uniform talking on a phone at a work desk.",
+        "323789-output1.png": "Man in a uniform laughing while talking on a phone at a work desk.",
+        "323789-output2.png": "Man in a uniform laughing while talking on a phone at a work desk with a world map on the wall.",
+        "323789-output3.png": "Man with curly blonde hair in a uniform laughing while talking on a phone at a work desk with a world map on the wall."
+    },
+    "278555": {
+        "278555-input.png": "A man holding a surfboard stands on rocks and looks down at the ocean.",
+        "278555-output1.png": "A man with a backpack and surfboard stands on rocks and looks down at the ocean."
+    },
+    "528266": {
+        "528266-input.png": "a person on a couch with a box of pizza",
+        "528266-output1.png": "Man on couch with a box of pizza covering his mouth with his hand",
+        "528266-output2.png": "Man on couch with an open box of pizza covering his mouth with his hand",
+        "528266-output3.png": "Man with crew cut hair on couch with an open box of pizza covering his mouth with his hand"
+    },
+    "376990": {
+        "376990-input.png": "A hand holds a hot dog while a little girl stands near.",
+        "376990-output1.png": "A hand holds a sandwich while a little girl stands near.",
+        "376990-output2.png": "A hand holds a sandwich while a little girl with a helmet stands near."
+    },
+    "60892": {
+        "60892-input.png": "Two double beds in a hotel room with a logo on the comforter.",
+        "60892-output1.png": "Two double beds in a hotel room with a logo on the comforter and a dog.",
+        "60892-output2.png": "Two double beds in a hotel room with a logo on the comforter and a dog."
+    },
+    "532482": {
+        "532482-input.png": "A green fire hydrant with three yellow concrete barriers around it.",
+        "532482-output1.png": "A red fire hydrant with three yellow concrete barriers around it.",
+        "532482-output2.png": "A Dalmatian dog sitting next to a red fire hydrant with three yellow concrete barriers around it.",
+        "532482-output3.png": "A Dalmatian dog sitting next to a red fire truck with three yellow concrete barriers around it."
+    },
+    "494413": {
+        "494413-input.png": "A hot dog with cheese, onions and relish on a bun in a wrapper.",
+        "494413-output1.png": "A hot dog with cheese, onions and relish on a bun in a wrapper with a fork sticking out."
+    },
+    "75216": {
+        "75216-input.png": "A herd of cattle laying in the grass on the ground.",
+        "75216-output1.png": "A cow in a herd of cattle laying in the grass on the ground, mooing.",
+        "75216-output2.png": "A cow and a duck in a herd of cattle laying in the grass on the ground, mooing and quacking.",
+        "75216-output3.png": "A cow and a duck in a herd of cattle laying in the grass on the ground, mooing and quacking with a hut in the background."
+    },
+    "328802": {
+        "328802-input.png": "A zebra is in a shady tree lined enclosure.",
+        "328802-output1.png": "Zebra drinking from a bucket in a shady tree lined enclosure.",
+        "328802-output2.png": "Zebra drinking from a bucket in a shady enclosure with lush green trees.",
+        "328802-output3.png": "Thin and lanky zebra drinking from a bucket in a shady enclosure with lush green trees."
+    },
+    "324104": {
+        "324104-input.png": "Birds surrounding an animal in the middle of a field.",
+        "324104-output1.png": "Birds surrounding an animal in the middle of a field next to a river.",
+        "324104-output2.png": "Birds surrounding an animal in the middle of a field next to a river with majestic mountains in the background.",
+        "324104-output3.png": "Horse surrounded by birds in the middle of a field next to a river with majestic mountains in the background."
+    },
+    "137100": {
+        "137100-input.png": "a close up of pizza on a plate",
+        "137100-output1.png": "A close up of pizza on a plate, ready to be eaten with your hands.",
+        "137100-output2.png": "Close up of pizza on a cleared plate, ready to be eaten with your hands.",
+        "137100-output3.png": "Close up of a sandwich on a cleared plate, ready to be eaten with your hands."
+    },
+    "229419": {
+        "229419-input.png": "Three cows being herded by a dog inside a fenced in area.",
+        "229419-output1.png": "A tractor herding three cows with the help of a dog inside a fenced in area.",
+        "229419-output2.png": "A tractor herding three horses with the help of a dog inside a fenced in area.",
+        "229419-output3.png": "A tractor herding three horses with the help of a dog in a fenced-in cornfield."
+    },
+    "188148": {
+        "188148-input.png": "A person sitting on a bed and working on a laptop.",
+        "188148-output1.png": "A person sitting on a bed and working on a laptop wearing glasses.",
+        "188148-output2.png": "A person sitting on a bed and working on a different laptop wearing glasses."
+    },
+    "402802": {
+        "402802-input.png": "A woman sitting at a table with a little girl.",
+        "402802-output1.png": "A woman comforting a crying little girl at the table.",
+        "402802-output2.png": "A woman comforting a crying little girl at the table with a vase of tulips.",
+        "402802-output3.png": "A man and woman comforting a crying little girl at the table with a vase of tulips."
+    },
+    "396260": {
+        "396260-input.png": "A large piece of luggage filled with items.",
+        "396260-output1.png": "A large trash can filled with items.",
+        "396260-output2.png": "A large trash can filled with items and soda cans inside the suitcase.",
+        "396260-output3.png": "Tile floor with scattered items and soda cans from a large trash can"
+    },
+    "197658": {
+        "197658-input.png": "Cather preparing to catch ball in an empty field",
+        "197658-output1.png": "Cather catching ball in an empty field."
+    },
+    "102174": {
+        "102174-input.png": "a work desk with a monitor and keyboard",
+        "102174-output1.png": "Cockatiel perched on work desk with open mouth, monitor and keyboard in background",
+        "102174-output2.png": "Cockatiel watching a video on work desk with open mouth, monitor and keyboard in background",
+        "102174-output3.png": "Cockatiel watching a video on work desk with open mouth, black monitor and keyboard in background"
+    },
+    "550000": {
+        "550000-input.png": "A man standing next to a baseball plate holding a bat.",
+        "550000-output1.png": "A woman standing next to a baseball plate holding a bat."
+    },
+    "483357": {
+        "483357-input.png": "An empty clean bathroom with a tiled floor, bathtub and sink.",
+        "483357-output1.png": "A clean bathroom with a tiled floor, bathtub, sink, and a vase of flowers."
+    },
+    "326408": {
+        "326408-input.png": "The many sandwiches have meat, lettuce, tomato, and cheese.",
+        "326408-output1.png": "The many sandwiches have meat, lettuce, tomato, cheese, and an unwelcome guest."
+    },
+    "257558": {
+        "257558-input.png": "several stuffed teddy bears hanging from the ceiling",
+        "257558-output1.png": "Several stuffed teddy bears and a grizzly bear hanging from the ceiling",
+        "257558-output2.png": "Several stuffed teddy bears and a grizzly bear hanging from the ceiling with a big star on the Christmas tree",
+        "257558-output3.png": "Several stuffed teddy bears and a grizzly bear hanging from the ceiling with gift boxes near the big star on the Christmas tree"
+    },
+    "377056": {
+        "377056-input.png": "A flat screen TV mounted to a wall.",
+        "377056-output1.png": "A flat screen TV mounted to a wall with a flamingo standing nearby."
+    },
+    "45071": {
+        "45071-input.png": "The multi-colored cat is standing on a luggage bag.",
+        "45071-output1.png": "Shocked multi-colored cat standing on a luggage bag.",
+        "45071-output2.png": "Hungry multi-colored cat standing on a luggage bag with cat food next to it.",
+        "45071-output3.png": "Hungry multi-colored cat standing on a luggage bag with white ball and cat food next to it."
+    },
+    "106172": {
+        "106172-input.png": "A guy posing with a guitar while making a song.",
+        "106172-output1.png": "A guy posing with a guitar while making a song.",
+        "106172-output2.png": "Cool guy posing with a guitar and wearing sunglasses while making a song.",
+        "106172-output3.png": "Cool guy posing with a guitar and wearing sunglasses while making a song with a party hat on his head."
+    },
+    "517548": {
+        "517548-input.png": "A charming country bathroom includes a hotel style wall hung blowdryer.",
+        "517548-output1.png": "A charming country bathroom with a hotel style wall hung blowdryer and an open toilet lid.",
+        "517548-output2.png": "A charming country bathroom with a hotel style wall hung blowdryer, an open toilet lid, and a mirror on the wall.",
+        "517548-output3.png": "A charming white country bathroom with a hotel style wall hung blowdryer, an open toilet lid, and a mirror on the wall."
+    },
+    "297154": {
+        "297154-input.png": "a blue and yellow plane is in the sky",
+        "297154-output1.png": "A red and white plane is in the sky",
+        "297154-output2.png": "A flock of birds fly alongside a red and white plane in the sky",
+        "297154-output3.png": "No caption provided"
+    },
+    "134689": {
+        "134689-input.png": "there is a very tall giraffe standing in the wild",
+        "134689-output1.png": "A tall giraffe and a zebra standing in the wild"
+    },
+    "232025": {
+        "232025-input.png": "A pitcher and two other players on a baseball field.",
+        "232025-output1.png": "Jumping pitcher and two other players on a baseball field.",
+        "232025-output2.png": "Pitcher jumping with a motorcycle behind him and two other players on a baseball field.",
+        "232025-output3.png": "Pitcher jumping with a motorcycle behind him, two other players, and a car on a baseball field."
+    },
+    "276552": {
+        "276552-input.png": "A man cutting food with a knife and a fork",
+        "276552-output1.png": "A man cutting food with a knife and a fork while looking at the camera"
+    },
+    "528488": {
+        "528488-input.png": "This dog is playing frisbee in the snow",
+        "528488-output1.png": "This dog is playing with a bone in the snow",
+        "528488-output2.png": "This dog is playing with a bone in the snow while wearing boots"
+    },
+    "401433": {
+        "401433-input.png": "Lady wearing a hat and sunglasses riding on an animal.",
+        "401433-output1.png": "Lady wearing a hat and sunglasses riding on a leopard.",
+        "401433-output2.png": "Lady wearing a hat and sunglasses crying while riding on a leopard.",
+        "401433-output3.png": "Man wearing a cowboy hat riding on a leopard with a crying lady wearing sunglasses."
+    },
+    "246184": {
+        "246184-input.png": "There are many surf boards lined up together",
+        "246184-output1.png": "An old man admires the many surf boards lined up together",
+        "246184-output2.png": "An old man and an earthworm admire the many surf boards lined up together",
+        "246184-output3.png": "A surfboard with a painted face joins an old man and an earthworm admiring the many boards lined up together"
+    },
+    "55241": {
+        "55241-input.png": "The cows are standing on the hay in a meadow.",
+        "55241-output1.png": "A cow wearing a hat stands on hay in a meadow."
+    },
+    "170908": {
+        "170908-input.png": "A white kitchen with the draws and cupboards taken removed.",
+        "170908-output1.png": "A white kitchen with low ceilings and the drawers and cupboards removed.",
+        "170908-output2.png": "A white kitchen with low ceilings and the drawers and cupboards removed, sans window."
+    },
+    "276703": {
+        "276703-input.png": "A POLICE CAR PARKED IN THE STREET WITH TREES BEHIND IT.",
+        "276703-output1.png": "A CAR PARKED IN THE STREET WITH TREES BEHIND IT.",
+        "276703-output2.png": "A car parked in the street with trees and a bunch of flowers behind it."
+    },
+    "227117": {
+        "227117-input.png": "Oven light on in a kitchen with wooden countertops.",
+        "227117-output1.png": "Bottle of wine on wooden countertops with oven light on in the kitchen."
+    },
+    "67373": {
+        "67373-input.png": "A cup of coffee sitting next to a doughnut on a table.",
+        "67373-output1.png": "A cup of coffee and a doughnut on a table with a sea view.",
+        "67373-output2.png": "A bottle of wine and a doughnut on a table with a sea view."
+    },
+    "223154": {
+        "223154-input.png": "A group of cars driving down a street under traffic lights.",
+        "223154-output1.png": "A group of cars driving down a street under red traffic lights.",
+        "223154-output2.png": "A group of cars driving down a street with a deer in the road under red traffic lights."
+    },
+    "253538": {
+        "253538-input.png": "A group of young men playing a game of frisbee.",
+        "253538-output1.png": "A group of young men playing a game of volleyball.",
+        "253538-output2.png": "A group of young men playing a game of volleyball with a mosque in the background.",
+        "253538-output3.png": "A group of young men playing a game of volleyball with a mascot and a mosque in the background."
+    },
+    "53423": {
+        "53423-input.png": "A skateboard that is sitting in the snow.",
+        "53423-output1.png": "A skateboard and a boat in the ocean.",
+        "53423-output2.png": "A skateboard, a boat, and a turtle on the beach by the ocean."
+    },
+    "532501": {
+        "532501-input.png": "A bathroom sink with a a mirror and a window above it.",
+        "532501-output1.png": "A man standing in front of a bathroom sink with a mirror and a window above it.",
+        "532501-output2.png": "A man standing in front of a bathroom sink with a clown face on the mirror and a window above it."
+    },
+    "151761": {
+        "151761-input.png": "Two large elephants are walking a baby punk.",
+        "151761-output1.png": "Two large elephants are walking as the baby elephant holds up its trunk."
+    },
+    "43917": {
+        "43917-input.png": "A plate contains beef with a side of broccoli.",
+        "43917-output1.png": "Plate with beef only.",
+        "43917-output2.png": "Plate with beef and french fries."
+    },
+    "207932": {
+        "207932-input.png": "A lone train engine approaches the traffic signals.",
+        "207932-output1.png": "A lone train engine approaches the traffic signals with a horse by its side."
+    },
+    "360535": {
+        "360535-input.png": "A living room filled with furniture and flowers.",
+        "360535-output1.png": "A living room filled with furniture and a television.",
+        "360535-output2.png": "Living room with furniture, television, and a clock on the wall.",
+        "360535-output3.png": "Living room with furniture, television, a clock on the wall, and a ceiling fan."
+    },
+    "429227": {
+        "429227-input.png": "A couple of zebra standing on top of a green field.",
+        "429227-output1.png": "A zebra and a tiger standing on top of a green field.",
+        "429227-output2.png": "A zebra with a bird on its back and a tiger standing on top of a green field.",
+        "429227-output3.png": "A zebra with a bird on its back and a tiger standing on top of a green field with a bed of flowers."
+    },
+    "174896": {
+        "174896-input.png": "A laptop is open and there is a variety of food and drink laid out in front of it.",
+        "174896-output1.png": "A microwave is open and there is a variety of food and drink laid out in front of it.",
+        "174896-output2.png": "A bowl of tomato soup added to the variety of food and drink laid out in front of an open microwave.",
+        "174896-output3.png": "An orchid and a bowl of tomato soup added to the variety of food and drink laid out in front of an open microwave."
+    },
+    "473420": {
+        "473420-input.png": "Two electric wires lined with pigeons hanging between a traffic light and light pole.",
+        "473420-output1.png": "Pigeons perched on electric wires between a green traffic light and light pole."
+    },
+    "389986": {
+        "389986-input.png": "A person is hitting a ball with a racket",
+        "389986-output1.png": "A woman hitting a ball with a racket",
+        "389986-output2.png": "A woman hitting a striped ball with a racket",
+        "389986-output3.png": "A woman playing tennis with her furry companion looking up at the camera"
+    },
+    "292991": {
+        "292991-input.png": "THIS IS A PHOTO OF SOMEONES LUGGAGE LEFT BEHIND",
+        "292991-output1.png": "Abandoned luggage and a mysterious drawing on the wall"
+    },
+    "318189": {
+        "318189-input.png": "An old red and yellow car with a yellow surfboard on top.",
+        "318189-output1.png": "An old red and yellow car with a Canadian flag and a yellow surfboard on top.",
+        "318189-output2.png": "An old red and yellow car with a Canadian flag and a person on top.",
+        "318189-output3.png": "A sleek sports car with a Canadian flag and a person on top."
+    },
+    "273808": {
+        "273808-input.png": "Looking across the messy expanse of an apartment living room",
+        "273808-output1.png": "Looking across the tidy expanse of an apartment living room"
+    },
+    "221213": {
+        "221213-input.png": "A long train sitting on a railroad track.",
+        "221213-output1.png": "A long train sitting at a railroad crossing on a track.",
+        "221213-output2.png": "A long train sitting at a railroad crossing with a mountain backdrop."
+    },
+    "312334": {
+        "312334-input.png": "A street with gravel on the side and a traffic light.",
+        "312334-output1.png": "A street with gravel on the side, a traffic light, and palm trees on fire."
+    },
+    "313880": {
+        "313880-input.png": "Two slices of pizza and a drink sitting on a wooden table.",
+        "313880-output1.png": "Menu featuring two slices of pizza and a drink sitting on a wooden table."
+    },
+    "232489": {
+        "232489-input.png": "A paper plate that has two pieces of pizza on it.",
+        "232489-output1.png": "A ceramic plate with two pieces of pizza on it.",
+        "232489-output2.png": "A ceramic plate with a sandwich on it."
+    },
+    "555495": {
+        "555495-input.png": "Two zebra standing on a lush green field.",
+        "555495-output1.png": "Two zebras standing on a lush green field with colorful flowers."
+    },
+    "478407": {
+        "478407-input.png": "A nerd eating a slice of pizza on a paper plate.",
+        "478407-output1.png": "A nerd biting into a slice of pizza on a paper plate.",
+        "478407-output2.png": "A ginger curly-haired nerd biting into a slice of pizza on a paper plate.",
+        "478407-output3.png": "A ginger curly-haired nerd wearing sunglasses biting into a slice of pizza on a paper plate."
+    },
+    "553735": {
+        "553735-input.png": "A blue and yellow double decker bus driving down a street.",
+        "553735-output1.png": "A blue and yellow double decker bus driving down a street with a truck."
+    },
+    "419312": {
+        "419312-input.png": "Full course dinner served on large plate including drinks and dessert.",
+        "419312-output1.png": "Full course breakfast served on large plate including drinks and dessert, with a cereal bowl in place.",
+        "419312-output2.png": "Full course breakfast served on large plate with a cereal bowl and box in place, including dessert."
+    },
+    "27616": {
+        "27616-input.png": "A motorcycle with lots of luggage sitting on it's back in a garage.",
+        "27616-output1.png": "A motorcycle with a brown leather luggage bag sitting on its back in a garage."
+    },
+    "459058": {
+        "459058-input.png": "showing the number plate of a motor bike",
+        "459058-output1.png": "Showing the graffiti-covered license plate of a motor bike",
+        "459058-output2.png": "Graffiti-covered motor bike license plate with red light on",
+        "459058-output3.png": "Woman sitting on graffiti-covered motor bike license plate with red light on"
+    },
+    "376891": {
+        "376891-input.png": "Woman selling doughnuts with doughnut stock in the background.",
+        "376891-output1.png": "Woman selling doughnuts with neon doughnut stock in the background.",
+        "376891-output2.png": "Woman looking at doughnuts while selling with neon doughnut stock in the background.",
+        "376891-output3.png": "Group of people looking at doughnuts being sold with neon doughnut stock in the background."
+    },
+    "476119": {
+        "476119-input.png": "a man skating on the road very fast",
+        "476119-output1.png": "A man wearing a paperbag skating on the road very fast",
+        "476119-output2.png": "A man wearing a paperbag skating on the road very fast with a Range Rover in the background",
+        "476119-output3.png": "A man wearing a paperbag skating in front of a cafe on the road very fast with a Range Rover in the background"
+    },
+    "542147": {
+        "542147-input.png": "A view of a grassy field, with cows in the back.",
+        "542147-output1.png": "A view of a peaceful grassy field.",
+        "542147-output2.png": "A view of a peaceful grassy field with a UFO in the sky.",
+        "542147-output3.png": "A view of a peaceful grassy field with a UFO and a lighthouse in the sky."
+    },
+    "274629": {
+        "274629-input.png": "A red stop sign with a picture of a Time Magazine cover underneath stop.",
+        "274629-output1.png": "A parking sign with a picture of a Time Magazine cover underneath.",
+        "274629-output2.png": "A parking sign with a picture of a Vogue Magazine cover underneath.",
+        "274629-output3.png": "A parking sign with a picture of a Vogue Magazine cover underneath and a tank on the street."
+    },
+    "534555": {
+        "534555-input.png": "A baseball player hitting a ball with a bat.",
+        "534555-output1.png": "Baseball player #15 hitting a ball with a bat.",
+        "534555-output2.png": "Baseball player #15 hitting a ball with a red helmet.",
+        "534555-output3.png": "Baseball player #15 with striped pants hitting a ball with a red helmet."
+    },
+    "350054": {
+        "350054-input.png": "a cat sitting on a table next to a tv in a living room.",
+        "350054-output1.png": "A raccoon sitting on a table next to a tv in a living room.",
+        "350054-output2.png": "A raccoon watching sports on TV in a living room.",
+        "350054-output3.png": "A raccoon watching sports on TV in a living room with a wooden floor."
+    },
+    "131015": {
+        "131015-input.png": "A rack of bow ties hanging from clothes pins.",
+        "131015-output1.png": "A rack of meat hanging from clothespins, including bow ties.",
+        "131015-output2.png": "A rack of meat hanging from clothespins, including a regular tie."
+    },
+    "120874": {
+        "120874-input.png": "The dog is standing on the boat deck.",
+        "120874-output1.png": "The dog is howling on the boat deck.",
+        "120874-output2.png": "Two dogs on the boat deck, one howling and the other peering through the window.",
+        "120874-output3.png": "Two dogs on the boat deck, one howling and the other peering through the window, with a distant lighthouse in view."
+    },
+    "353221": {
+        "353221-input.png": "A stylized photo of several vegetables and fruits.",
+        "353221-output1.png": "A stylized photo of several vegetables and apples."
+    },
+    "208963": {
+        "208963-input.png": "a man with luggage holding a red striped umbrella",
+        "208963-output1.png": "a man with luggage holding a blue striped umbrella"
+    },
+    "340971": {
+        "340971-input.png": "A woman standing in front of a TV screen.",
+        "340971-output1.png": "A woman standing in front of a gaming PC screen."
+    },
+    "196876": {
+        "196876-input.png": "a meal designed to give you a heart attack",
+        "196876-output1.png": "A meal designed to give you a heart attack with milk instead of beans",
+        "196876-output2.png": "A healthy fruit platter instead of a heart attack-inducing meal with milk instead of beans"
+    },
+    "282238": {
+        "282238-input.png": "A traffic light hanging over a street next to trees.",
+        "282238-output1.png": "A traffic light hanging over a street next to a large tree.",
+        "282238-output2.png": "A bird perched on a traffic light hanging over a street next to a large tree.",
+        "282238-output3.png": "A bird perched on a traffic light as a train approaches from the left, next to a large tree."
+    },
+    "300994": {
+        "300994-input.png": "A birthday cake is shaped like a fire truck.",
+        "300994-output1.png": "A 5th birthday cake is shaped like a fire truck.",
+        "300994-output2.png": "A 5th birthday cake with lit candles shaped like a fire truck.",
+        "300994-output3.png": "A 5th birthday cake with lit candles shaped like a fire truck being eaten by a mischievous cat."
+    },
+    "294353": {
+        "294353-input.png": "Salt and Peppers shakers are in between a flower vase, near a fork.",
+        "294353-output1.png": "A piece of meat on a fork next to salt and pepper shakers and a flower vase.",
+        "294353-output2.png": "A piece of meat on a fork next to salt and pepper shakers and a small vase with a rose."
+    },
+    "376269": {
+        "376269-input.png": "A giraffe looking at people looking at him.",
+        "376269-output1.png": "A giraffe with big ears looking at people looking at him.",
+        "376269-output2.png": "A giraffe with big googly eyes looking at people looking at him."
+    },
+    "242543": {
+        "242543-input.png": "a person looking in an opened refrigerator",
+        "242543-output1.png": "A person standing in front of a closed refrigerator"
+    },
+    "78468": {
+        "78468-input.png": "A truck towing a trailer loaded with bags.",
+        "78468-output1.png": "A tractor towing a trailer loaded with bags.",
+        "78468-output2.png": "A tractor towing a trailer loaded with bags with a bear cub nearby.",
+        "78468-output3.png": "A tractor towing an empty trailer with a bear cub nearby."
+    },
+    "457986": {
+        "457986-input.png": "A living room and kitchenette done in greens and earth tones",
+        "457986-output1.png": "A living room and kitchenette done in greens and earth tones with a potted plant on the table",
+        "457986-output2.png": "A cozy living room and kitchenette with a furry friend on the sofa and a potted plant on the table"
+    },
+    "315702": {
+        "315702-input.png": "A bathroom sink with toiletries on the counter.",
+        "315702-output1.png": "Bathroom sink with folded towels under the counter and toiletries on top.",
+        "315702-output2.png": "Rectangular bathroom sink with folded towels under the counter and toiletries on top.",
+        "315702-output3.png": "Rectangular bathroom sink with a rubber ducky, folded towels under the counter, and toiletries on top."
+    },
+    "159791": {
+        "159791-input.png": "A white refrigerator freezer covered in magnets and pictures.",
+        "159791-output1.png": "A white refrigerator freezer."
+    },
+    "309753": {
+        "309753-input.png": "A picture loaded with much wonderful sustenance on table.",
+        "309753-output1.png": "A picture loaded with much wonderful sustenance on table, featuring unripe bananas."
+    },
+    "354306": {
+        "354306-input.png": "A room with a large tub under a mirror.",
+        "354306-output1.png": "A room with a large tub under a mirror and a bottle of poison on the shelf."
+    },
+    "330084": {
+        "330084-input.png": "A polar bear is swimming in the water.",
+        "330084-output1.png": "A polar bear sticking out its tongue while swimming in the water.",
+        "330084-output2.png": "A polar bear sticking out its tongue while swimming in the water with a cat."
+    },
+    "47916": {
+        "47916-input.png": "A white dog carrying a red frisbee in it's mouth.",
+        "47916-output1.png": "White dog carrying a red frisbee in its mouth in a forest.",
+        "47916-output2.png": "White dog carrying a bone in its mouth in a forest.",
+        "47916-output3.png": "White dog carrying a bone in its mouth near a forest pond."
+    },
+    "286753": {
+        "286753-input.png": "A baseball player throws the ball during practice",
+        "286753-output1.png": "A baseball player wearing a skirt throws the ball during practice"
+    },
+    "229139": {
+        "229139-input.png": "A cat is laying inside a suitcase with a blue interior that is sitting on top of a bed",
+        "229139-output1.png": "An empty suitcase with a blue interior sitting on top of a bed",
+        "229139-output2.png": "A cat sitting next to an empty suitcase with a blue interior on top of a bed"
+    },
+    "99645": {
+        "99645-input.png": "A cat next to a television in a room.",
+        "99645-output1.png": "A cat next to a TV in a room.",
+        "99645-output2.png": "A cat next to a TV in a room with a helicopter flying outside.",
+        "99645-output3.png": "A cat next to a TV in a room with a person falling out of a helicopter outside."
+    },
+    "502808": {
+        "502808-input.png": "A bathroom is well lit and has a toilet, tub, shower, and sink.",
+        "502808-output1.png": "A well-lit bathroom with a toilet, sink, and bathtub with a closed shower curtain."
+    },
+    "63866": {
+        "63866-input.png": "Group of people sitting at a long dinner table together.",
+        "63866-output1.png": "Group of people sitting at a long dinner table together with a delicious cake.",
+        "63866-output2.png": "Group of dogs sitting at a long dinner table together with a delicious cake."
+    },
+    "104669": {
+        "104669-input.png": "A white plate served on a multi colored table cloth",
+        "104669-output1.png": "A white plate with a glass of juice served on a multi colored table cloth."
+    },
+    "581632": {
+        "581632-input.png": "A bar filled with lots of bottles of alcohol.",
+        "581632-output1.png": "A laboratory filled with lots of bottles of chemicals.",
+        "581632-output2.png": "A laboratory filled with lots of bottles of chemicals and a chalkboard by the clock."
+    },
+    "163431": {
+        "163431-input.png": "a large bag filled with clothes and shoes",
+        "163431-output1.png": "A large bag filled with clothes and stilettos",
+        "163431-output2.png": "A bed covered in pillows and a large bag filled with clothes and stilettos",
+        "163431-output3.png": "A bed covered in pillows and a large bag filled with clothes and a loaf of bread"
+    },
+    "343849": {
+        "343849-input.png": "An open laptop computer sitting on top of a desk.",
+        "343849-output1.png": "An open laptop computer displaying a green web page sitting on top of a desk.",
+        "343849-output2.png": "An open binder displaying a green web page sitting on top of a desk.",
+        "343849-output3.png": "An open binder displaying a green web page sitting on top of a desk with a wine bottle nearby."
+    },
+    "24207": {
+        "24207-input.png": "A shaggy haired sheep looking up in a field.",
+        "24207-output1.png": "A shaggy haired black sheep looking up in a field."
+    },
+    "139": {
+        "139-input.png": "A woman stands in the dining area at the table.",
+        "139-output1.png": "A woman stands in the dining area at the table with closed window shades.",
+        "139-output2.png": "A woman sits in a chair at the dining table with closed window shades.",
+        "139-output3.png": "A woman sits in a chair at the dining table with closed window shades while a cat sleeps on the floor."
+    },
+    "113857": {
+        "113857-input.png": "A couple of women shaking hands on top of a tennis court.",
+        "113857-output1.png": "A couple of women holding a trophy on top of a tennis court.",
+        "113857-output2.png": "Red and blonde-haired women holding a trophy on top of a tennis court.",
+        "113857-output3.png": "Red and blonde-haired women holding a trophy on top of a tennis court with their coach watching them."
+    },
+    "122913": {
+        "122913-input.png": "a cat that is laying in some kind of bag",
+        "122913-output1.png": "A racoon sitting inside a suitcase while a cat looks on."
+    },
+    "272953": {
+        "272953-input.png": "A brown horse grazing on a lush green field.",
+        "272953-output1.png": "A brown horse and a white goat grazing on a lush green field."
+    },
+    "377368": {
+        "377368-input.png": "A cake shaped as a Teddy Bear on a wooden table.",
+        "377368-output1.png": "A cake shaped as a Teddy Bear on a wooden table for a 4th birthday celebration.",
+        "377368-output2.png": "A Teddy Bear cake on a wooden table for a 4th birthday celebration.",
+        "377368-output3.png": "A Teddy Bear cake with a red nose on a wooden table for a 4th birthday celebration."
+    },
+    "163897": {
+        "163897-input.png": "A truck that is sitting in the grass.",
+        "163897-output1.png": "Truck with fixed fender sitting in the grass.",
+        "163897-output2.png": "Damaged truck with fixed fender sitting in the grass.",
+        "163897-output3.png": "Damaged truck with fixed fender sitting in the dirt field."
+    },
+    "465335": {
+        "465335-input.png": "A dog and his owner playing ball on the beach",
+        "465335-output1.png": "A dog and his owner playing tennis on the beach"
+    },
+    "357941": {
+        "357941-input.png": "Two televisions that are stacked on top of each other.",
+        "357941-output1.png": "Cat hanging from two stacked televisions.",
+        "357941-output2.png": "Cat and Mouse: A precarious balance on stacked televisions.",
+        "357941-output3.png": "Cat and Mouse: A precarious balance on stacked televisions with a bird flying by the window in front of the cat."
+    },
+    "494056": {
+        "494056-input.png": "Decorative containers and vases sit on a table.",
+        "494056-output1.png": "Flower-filled decorative containers and vases sit on a table."
+    },
+    "384346": {
+        "384346-input.png": "A city worker is using a mobile device.",
+        "384346-output1.png": "A city worker in a blue hat is using a mobile device."
+    },
+    "456610": {
+        "456610-input.png": "Food separated into plates and bowls on a table.",
+        "456610-output1.png": "Hotdogs and other food separated into plates and bowls on a table."
+    },
+    "335913": {
+        "335913-input.png": "A small twin bed sitting underneath a poster on a wall.",
+        "335913-output1.png": "A small twin bed with a picture of a girl in the frame, sitting underneath a poster on a wall."
+    },
+    "25551": {
+        "25551-input.png": "An ambulance and police cars are stopped at the scene of an accident.",
+        "25551-output1.png": "A food truck and police cars are stopped at the scene of an accident.",
+        "25551-output2.png": "A police officer and food truck are stopped at the scene of an accident.",
+        "25551-output3.png": "A police officer and food truck are stopped at the scene of an accident with buildings in the background."
+    },
+    "262686": {
+        "262686-input.png": "A man pointing at some food on a trey.",
+        "262686-output1.png": "A man pointing at another man's food on a trey.",
+        "262686-output2.png": "A man pointing at another man's food on a tray, while looking at the camera.",
+        "262686-output3.png": "A man pointing at another man's food on a tray, while looking at the camera and smiling."
+    },
+    "221190": {
+        "221190-input.png": "A large building that has a train passing by it.",
+        "221190-output1.png": "A large yellow building with a train passing by it."
+    },
+    "200003": {
+        "200003-input.png": "Two people on a beach are carrying their surf boards towards the water.",
+        "200003-output1.png": "Two people on a beach are carrying a log towards the water."
+    },
+    "360805": {
+        "360805-input.png": "A cat is sleeping at a computer desk on a keyboard.",
+        "360805-output1.png": "A cat looks at the camera while sleeping on a computer desk on a keyboard.",
+        "360805-output2.png": "A cat looks at the camera while sleeping on a computer desk on a keyboard with a blue screen.",
+        "360805-output3.png": "A happy cat enjoys cat food and treats while sleeping on a computer desk on a keyboard with a blue screen."
+    },
+    "478184": {
+        "478184-input.png": "A lone giraffe is walking along the shore of the water",
+        "478184-output1.png": "A lone giraffe sitting on the shore of the water."
+    },
+    "418726": {
+        "418726-input.png": "Someone is stocking up on cool summer treats, a case of root beer and a case of freezer pops.",
+        "418726-output1.png": "Stocking up on summer treats on a wooden floor - a case of root beer and a case of freezer pops."
+    },
+    "62740": {
+        "62740-input.png": "A tall clock tower at the end of a street next to tall buildings.",
+        "62740-output1.png": "A blue car passing by a tall clock tower at the end of a street next to tall buildings."
+    },
+    "298318": {
+        "298318-input.png": "A group of people riding on a boat across a lake.",
+        "298318-output1.png": "A group of people riding on a galley across a lake.",
+        "298318-output2.png": "A group of people riding on a galley across a lake with a playful dolphin jumping in.",
+        "298318-output3.png": "A group of people riding on a galley across a lake with skyscrapers in the background and a playful dolphin jumping in."
+    },
+    "1401": {
+        "1401-input.png": "A silver and clear drink container with a black tray of fruit next to it.",
+        "1401-output1.png": "A silver and clear drink container with a black tray of fruit next to it, featuring an orange instead of a lemon."
+    },
+    "74583": {
+        "74583-input.png": "A cat laying on a cushion on top of a table.",
+        "74583-output1.png": "A parrot perched on a cushion on top of a table.",
+        "74583-output2.png": "A parrot perched on a cushion on top of a table. (No change needed)",
+        "74583-output3.png": "A parrot perched on a cushion on top of a table with a floating balloon."
+    },
+    "294974": {
+        "294974-input.png": "Airplane is docked at the airport so passengers can get inside.",
+        "294974-output1.png": "Airplane with pig logo is docked at the airport so passengers can get inside."
+    },
+    "291004": {
+        "291004-input.png": "A blue blanket on top of a bed covered in electronics.",
+        "291004-output1.png": "A blue blanket on top of a bed covered in electronics, without an iPhone.",
+        "291004-output2.png": "Geometric patterned blue blanket on top of a bed covered in electronics, without an iPhone.",
+        "291004-output3.png": "Geometric patterned blue blanket on top of a bed covered in electronics, with an LCD display remote control and no iPhone."
+    },
+    "403028": {
+        "403028-input.png": "A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side.",
+        "403028-output1.png": "A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side, with a delicious pizza on the counter.",
+        "403028-output2.png": "A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side, with a delicious pizza and a bottle of soda on the counter."
+    },
+    "167863": {
+        "167863-input.png": "A piece of meat covered in marinara sauce, cheese and herbs.",
+        "167863-output1.png": "A piece of meat covered in marinara sauce and herbs."
+    },
+    "407083": {
+        "407083-input.png": "A small dog is looking out a car window.",
+        "407083-output1.png": "A small dog with a tennis ball in his mouth is looking out a car window.",
+        "407083-output2.png": "A cool man with shades and a small dog with a tennis ball in his mouth are looking out a car window."
+    },
+    "322829": {
+        "322829-input.png": "A white meta bench next to a patch of grass.",
+        "322829-output1.png": "A white metal bench with a dog resting underneath next to a patch of grass.",
+        "322829-output2.png": "A white metal bench with a flower vase and a dog resting underneath next to a patch of grass."
+    },
+    "393286": {
+        "393286-input.png": "A partly peeled banana and an insulated bag on a table.",
+        "393286-output1.png": "An apple and a partially peeled banana sit near other items on a desk."
+    },
+    "262283": {
+        "262283-input.png": "A lot of vases filled with lots of flowers.",
+        "262283-output1.png": "A lot of vases filled with red roses."
+    },
+    "490443": {
+        "490443-input.png": "A chair and umbrella on a sandy beach.",
+        "490443-output1.png": "A chair and umbrella on a sandy beach with the ocean in the background.",
+        "490443-output2.png": "A chair, umbrella, and car on a sandy beach with the ocean in the background."
+    },
+    "513712": {
+        "513712-input.png": "A hot dog sitting on a board by some tomatoes and other food.",
+        "513712-output1.png": "A hot dog and other food on a plate with tomatoes.",
+        "513712-output2.png": "A hot dog and other food on a plate with oranges."
+    },
+    "498463": {
+        "498463-input.png": "A metallic refrigerator freezer sitting in a kitchen.",
+        "498463-output1.png": "A white refrigerator freezer sitting in a kitchen.",
+        "498463-output2.png": "A white refrigerator freezer with colorful stickers sitting in a kitchen.",
+        "498463-output3.png": "A white refrigerator freezer with colorful stickers sitting in a kitchen with a dispenser behind it."
+    },
+    "488132": {
+        "488132-input.png": "A herd of sheep in a field with a fence in the foreground.",
+        "488132-output1.png": "A herd of sheep in a field with a fence in the foreground and a tiger watching them."
+    },
+    "401822": {
+        "401822-input.png": "A kitchen painted white with blue tile and a stove top oven.",
+        "401822-output1.png": "A kitchen painted white with blue tile, a stove top oven, and tile flooring.",
+        "401822-output2.png": "A kitchen painted white with blue tile, a stove top oven, tile flooring, and a bowl on the stove."
+    },
+    "557067": {
+        "557067-input.png": "A blue patch work quilt on someones bed",
+        "557067-output1.png": "A fruit-filled blue patch work quilt on someones bed"
+    },
+    "445397": {
+        "445397-input.png": "Numerous individuals are doing something at this point that is full.",
+        "445397-output1.png": "Numerous individuals are doing something at this point that is full, as the lady gasps in amazement.",
+        "445397-output2.png": "A vintage-clad woman gasps in amazement as numerous individuals fill the scene.",
+        "445397-output3.png": "A vintage-clad woman gasps in amazement as numerous individuals fill the scene with a television on the wall."
+    },
+    "448177": {
+        "448177-input.png": "White toilet outside with flowers growing out of it.",
+        "448177-output1.png": "White toilet with lid and flowers growing out of it."
+    },
+    "212834": {
+        "212834-input.png": "An umbrella sits on the beach at night.",
+        "212834-output1.png": "A chair and an umbrella on the beach at night."
+    },
+    "45596": {
+        "45596-input.png": "A view A large metal structure near the side of a building",
+        "45596-output1.png": "A view of a large metal structure near the side of a building with no plant life"
+    },
+    "182673": {
+        "182673-input.png": "A living room with white couches and grey chairs.",
+        "182673-output1.png": "A living room with white couches and an upright piano.",
+        "182673-output2.png": "Someone playing the upright piano in a living room with white couches.",
+        "182673-output3.png": "Someone in a red shirt playing the upright piano in a living room with white couches."
+    },
+    "367107": {
+        "367107-input.png": "A painting of a police officer holding a stop sign.",
+        "367107-output1.png": "A painting of a police officer holding a painting at an art exhibit."
+    },
+    "501864": {
+        "501864-input.png": "A group of horses pulling a carriage next to men.",
+        "501864-output1.png": "A group of horses pulling a carriage.",
+        "501864-output2.png": "Image of horses pulling a carriage.",
+        "501864-output3.png": "Image of horses pulling a carriage with a zeppelin floating in the sky."
+    },
+    "492489": {
+        "492489-input.png": "a bat and a ball on the ground next to a flower",
+        "492489-output1.png": "A wooden baseball bat and ball on the ground next to a flower"
+    },
+    "110327": {
+        "110327-input.png": "A food entree is served in a container with a side.",
+        "110327-output1.png": "A food entree with carrots served in a container with a side on a styrofoam tray.",
+        "110327-output2.png": "A food entree with carrots served in a container with a side and money on a styrofoam tray.",
+        "110327-output3.png": "A food entree with carrots served in a container with a side and money on a styrofoam tray."
+    },
+    "531277": {
+        "531277-input.png": "a man is putting together a sandwich on a plate",
+        "531277-output1.png": "A man is putting together a cake on a plate",
+        "531277-output2.png": "A man is putting together a cake on a blue plate",
+        "531277-output3.png": "A man is putting together a cake on a blue plate with a glass of soda next to it."
+    },
+    "126182": {
+        "126182-input.png": "The white refrigerator is next to the kitchen counter.",
+        "126182-output1.png": "The blue refrigerator is next to the kitchen counter.",
+        "126182-output2.png": "The blue refrigerator and microwave are next to the kitchen counter.",
+        "126182-output3.png": "The blue refrigerator, microwave, and oven are next to the kitchen counter."
+    },
+    "195715": {
+        "195715-input.png": "A baseball sitting in a baseball mitt on a blanket",
+        "195715-output1.png": "A baseball and tennis ball sitting in a baseball mitt on a blanket"
+    },
+    "196878": {
+        "196878-input.png": "A newspaper called The Queenslander with a holiday dinner scene on it.",
+        "196878-output1.png": "A newspaper called The Queenslander with a holiday dinner scene and an extra glass of wine on it.",
+        "196878-output2.png": "A newspaper called The Queenslander with a holiday dinner scene and an extra glass of wine on it, minus the candle stick."
+    },
+    "303257": {
+        "303257-input.png": "A family of elephants walking in and drinking water.",
+        "303257-output1.png": "A family of elephants with curled trunks walking in and drinking water.",
+        "303257-output2.png": "A family of elephants with curled trunks and a smiley face walking in and drinking water.",
+        "303257-output3.png": "A family of elephants with curled trunks and a smiley face walking and drinking water."
+    },
+    "516000": {
+        "516000-input.png": "A plate of Japanese food, including ramen noodles, pink pickled ginger, and seaweed.",
+        "516000-output1.png": "A plate of Japanese food, including rice, pink pickled ginger, and seaweed.",
+        "516000-output2.png": "A plate of Japanese food, including rice, pink pickled ginger, seaweed, and a side of sauce.",
+        "516000-output3.png": "A plate of Japanese food, including rice, seaweed, chicken, and a side of sauce."
+    },
+    "536798": {
+        "536798-input.png": "A young child who is holding onto a parking meter.",
+        "536798-output1.png": "A young child crying while holding onto a parking meter."
+    },
+    "377212": {
+        "377212-input.png": "a dog with a skate board in a field",
+        "377212-output1.png": "A cool dog with a skate board and a backwards baseball cap in a field",
+        "377212-output2.png": "A cool dog with a skate board and a backwards baseball cap with the letter \"A\" in a field",
+        "377212-output3.png": "A sophisticated dog with a skate board, a backwards baseball cap with the letter \"A\", and a smoking pipe in a field"
+    },
+    "87017": {
+        "87017-input.png": "A young woman on a cellphone is leading a horse through a plaza nearby some retail stores and pedestrians.",
+        "87017-output1.png": "A horse stands in a plaza nearby some retail stores and pedestrians.",
+        "87017-output2.png": "A unicorn stands in a plaza nearby some retail stores and pedestrians."
+    },
+    "87135": {
+        "87135-input.png": "A white van parked in a parking lot next to a forest",
+        "87135-output1.png": "White van parked at a stop sign in a parking lot next to a forest",
+        "87135-output2.png": "Herd of sheep walking near road signs as a white van parks at a stop sign in a parking lot next to a forest"
+    },
+    "458763": {
+        "458763-input.png": "some random things are layed out on a wood table",
+        "458763-output1.png": "Painting of Santa Claus among random things laid out on a wood table"
+    },
+    "538116": {
+        "538116-input.png": "Several various items sitting on and near a purse.",
+        "538116-output1.png": "Several various items sitting on and near a purse with a soda can instead of water."
+    },
+    "286656": {
+        "286656-input.png": "A cow drinking milk from baby bottle with an orange top.",
+        "286656-output1.png": "A cow being fed milk with a syringe with an orange top.",
+        "286656-output2.png": "A cow being fed milk with a syringe with an orange top from a blue bucket."
+    },
+    "355677": {
+        "355677-input.png": "a life guard station with a surf boar and a floatee",
+        "355677-output1.png": "Life guard station with a surf board, floatee, and sandcastle on the beach."
+    },
+    "342387": {
+        "342387-input.png": "A group of people preparing food in a kitchen.",
+        "342387-output1.png": "A group of chefs preparing food in a kitchen."
+    },
+    "554364": {
+        "554364-input.png": "A photo of a kitchen from the 1960s.",
+        "554364-output1.png": "A photo of a kitchen from the 1960s with a ninja."
+    },
+    "188439": {
+        "188439-input.png": "A colorful truck is driving with a full load of sticks and twigs.",
+        "188439-output1.png": "A colorful truck driving on a dirt road with a full load of sticks and twigs."
+    },
+    "407574": {
+        "407574-input.png": "A green stand holding several bananas for sale.",
+        "407574-output1.png": "A person standing to the left of a green stand holding several bananas for sale.",
+        "407574-output2.png": "A person standing to the left of a green stand holding several ripe bananas for sale.",
+        "407574-output3.png": "A person standing to the left of a green stand holding several ripe bananas for sale with a metal pole."
+    },
+    "97579": {
+        "97579-input.png": "There is a woman holding a remote control and a man looking at it.",
+        "97579-output1.png": "A woman holding a remote control and a man looking at the camera.",
+        "97579-output2.png": "A woman holding a banana and a remote control while a man looks at the camera.",
+        "97579-output3.png": "A woman holding a banana and a remote control while looking at the camera, as a man looks on."
+    },
+    "556775": {
+        "556775-input.png": "This neat living room has a pristine couch and a small desk with a laptop on it.",
+        "556775-output1.png": "This neat living room has a pristine couch and a small desk.",
+        "556775-output2.png": "This cozy living room features a furry friend lounging on the pristine couch and a small desk."
+    },
+    "229171": {
+        "229171-input.png": "Two laptop computers positioned on a table top in front of a television.",
+        "229171-output1.png": "One laptop computer showing a picture of an elephant, positioned on a table top in front of a television with another laptop.",
+        "229171-output2.png": "Two laptop computers showing pictures of elephants, positioned on a table top in front of a television."
+    },
+    "191193": {
+        "191193-input.png": "A dog hanging out of a second story window.",
+        "191193-output1.png": "A brown dog hanging out of a second story window."
+    },
+    "442414": {
+        "442414-input.png": "A man rides a horse down train tracks while a woman walks.",
+        "442414-output1.png": "A man rides a lion down train tracks while a woman walks.",
+        "442414-output2.png": "A man rides a lion down train tracks while a little boy walks.",
+        "442414-output3.png": "A man rides a lion down train tracks while a little boy walks beside a passing train."
+    },
+    "513484": {
+        "513484-input.png": "A large brown bear standing next to a pile of rocks.",
+        "513484-output1.png": "A large brown bear wearing a shirt standing next to a pile of rocks.",
+        "513484-output2.png": "A large brown bear wearing a shirt and a hat standing next to a pile of rocks."
+    },
+    "507918": {
+        "507918-input.png": "A herd of deer walking across a rocky hillside.",
+        "507918-output1.png": "Photographer captures a herd of deer walking across a rocky hillside."
+    },
+    "62398": {
+        "62398-input.png": "Black and white cat sleeping on blankets with collars.",
+        "62398-output1.png": "Black and white cat standing on blankets with collars.",
+        "62398-output2.png": "White cat standing on blankets with collar."
+    },
+    "540100": {
+        "540100-input.png": "Broccoli and cheese over chicken on a plate.",
+        "540100-output1.png": "Rice with broccoli and cheese on a plate.",
+        "540100-output2.png": "Rice with broccoli and cheese in a yellow bowl.",
+        "540100-output3.png": "Rice with broccoli and cheese in a yellow bowl with a pinch of salt on the side."
+    },
+    "500207": {
+        "500207-input.png": "A white stunt plane under the wing of a jumbo jet in a hangar.",
+        "500207-output1.png": "A white and colored stunt plane under the wing of a jumbo jet in a hangar."
+    },
+    "108649": {
+        "108649-input.png": "A baseball cap, sunglasses and a baseball mitt.",
+        "108649-output1.png": "A baseball cap and a baseball mitt.",
+        "108649-output2.png": "A baseball cap and a wooden block.",
+        "108649-output3.png": "A baseball cap, a wooden block, and a small action figure."
+    },
+    "377772": {
+        "377772-input.png": "A vase with flowers sits in a room with a bunk bed.",
+        "377772-output1.png": "A vase with flowers sits in a room with a single bed.",
+        "377772-output2.png": "A vase with red and white flowers sits in a room with a single bed."
+    },
+    "482775": {
+        "482775-input.png": "Four plates filled with food on top of a table.",
+        "482775-output1.png": "Four plates filled with food and a cake on top of a table.",
+        "482775-output2.png": "Four plates filled with food, a cake, and a glass of juice on top of a table.",
+        "482775-output3.png": "Four plates filled with food, a cake, a glass of juice, and a jar of juice on top of a table."
+    },
+    "499730": {
+        "499730-input.png": "A stop sign in front of a large building with multiple balconies.",
+        "499730-output1.png": "A go sign in front of a large building with multiple balconies.",
+        "499730-output2.png": "A clock and a go sign in front of a large building with multiple balconies.",
+        "499730-output3.png": "A clock and a go sign in front of a large building with multiple balconies, with a parrot perched on top of the go sign."
+    },
+    "509028": {
+        "509028-input.png": "A group of people standing around a green train car.",
+        "509028-output1.png": "A group of people facing the building while standing around a green train car.",
+        "509028-output2.png": "A group of people facing the building with a balcony while standing around a green train car."
+    },
+    "433605": {
+        "433605-input.png": "A laptop is sitting on a desk under a shelf with fruits on it.",
+        "433605-output1.png": "A laptop is sitting on a desk under a shelf with dark bananas on it.",
+        "433605-output2.png": "Laptop displaying a variety of fruits on a desk under a shelf with dark bananas.",
+        "433605-output3.png": "Laptop displaying a variety of fruits on a desk under a shelf with dark bananas."
+    },
+    "558538": {
+        "558538-input.png": "A stop sign is on the corner of a residential street.",
+        "558538-output1.png": "An exit sign is on the corner of a residential street.",
+        "558538-output2.png": "A car drives out of a garage on the corner of a residential street.",
+        "558538-output3.png": "Kids playing in front of two houses as a car drives out of a garage on the corner of a residential street."
+    },
+    "204804": {
+        "204804-input.png": "A bathroom with his and her sinks and mirrors.",
+        "204804-output1.png": "A bathroom with his and her sinks and mirrors, featuring a king sitting on the chair."
+    },
+    "449125": {
+        "449125-input.png": "Some people are sitting on a sandy beach by the ocean.",
+        "449125-output1.png": "Some people are playing with a beach ball on a sandy beach by the ocean."
+    },
+    "139306": {
+        "139306-input.png": "A footlong sandwich on a piece of paper next to a serrated knife.",
+        "139306-output1.png": "A footlong sandwich on a piece of paper next to a blunt knife.",
+        "139306-output2.png": "A hot dog on a piece of paper next to a blunt knife."
+    },
+    "507958": {
+        "507958-input.png": "A kitchen with oak cabinetry  and white appliances",
+        "507958-output1.png": "A kitchen with painted cabinetry and white appliances",
+        "507958-output2.png": "A kitchen with painted cabinetry, white appliances, and butterfly accents",
+        "507958-output3.png": "A kitchen with painted cabinetry, white appliances, butterfly accents, and flower wall paper"
+    },
+    "78689": {
+        "78689-input.png": "Two computers on a bed with a dog between them.",
+        "78689-output1.png": "A panting dog between two computers on a bed.",
+        "78689-output2.png": "Frustrated dog stuck between two computers, one displaying an error message, on a bed.",
+        "78689-output3.png": "Frustrated dog stuck between a computer and an error message on a bed."
+    },
+    "115146": {
+        "115146-input.png": "A group of people converse in an office setting.",
+        "115146-output1.png": "A group of people converse in an office setting with a drawing of a girl on the wall next to them."
+    },
+    "359687": {
+        "359687-input.png": "A marina filled with boats that have been tied to the ledge.",
+        "359687-output1.png": "A man enjoying a boat in a marina filled with tied boats.",
+        "359687-output2.png": "A man and his dog enjoying a boat in a marina filled with tied boats.",
+        "359687-output3.png": "A man and his dog enjoying a boat in a marina filled with tied boats with fireworks in the sky."
+    },
+    "436284": {
+        "436284-input.png": "A rotten piece of  wood sitting on a rock.",
+        "436284-output1.png": "A volcanic eruption on a rock.",
+        "436284-output2.png": "Volcanic eruption with lava flow on a rock.",
+        "436284-output3.png": "Volcanic eruption with lava flow and smoke on a rock."
+    },
+    "455879": {
+        "455879-input.png": "Three helmets and three baseball bats sitting on a large white block with blood dripping down it.",
+        "455879-output1.png": "Three sombreros and three baseball bats sitting on a large white block with blood dripping down it.",
+        "455879-output2.png": "Three sombreros and three baseball bats sitting on a large white block."
+    },
+    "448409": {
+        "448409-input.png": "A large living room with a desk in the corner",
+        "448409-output1.png": "A large living room with a black leather chair in the corner"
+    },
+    "204777": {
+        "204777-input.png": "Older man picking up snacks from a table.",
+        "204777-output1.png": "Older man enjoying a sandwich from the snack table.",
+        "204777-output2.png": "Elderly veteran enjoying a sandwich from the snack table in military uniform.",
+        "204777-output3.png": "Elderly veteran with a curly afro enjoying a sandwich from the snack table in military uniform."
+    },
+    "528875": {
+        "528875-input.png": "pans filled with assorted veggies, fruit and rice",
+        "528875-output1.png": "Pans filled with assorted veggies, fruit, rice, and a tennis ball"
+    },
+    "172406": {
+        "172406-input.png": "a close up of a horse tethered to a carriage",
+        "172406-output1.png": "A close up of a horse tethered to a carriage without blinders"
+    },
+    "524311": {
+        "524311-input.png": "A man holding a Wii remote and laughing.",
+        "524311-output1.png": "A man in a tuxedo holding a Wii remote and laughing.",
+        "524311-output2.png": "A blonde man in a tuxedo holding a Wii remote and laughing.",
+        "524311-output3.png": "A blonde man in a tuxedo holding a carrot and laughing."
+    },
+    "246787": {
+        "246787-input.png": "There is a sign that says time no ties please for a pint with ties around it",
+        "246787-output1.png": "Painting of a pint with ties around it, with the words \"time no ties please\" written underneath",
+        "246787-output2.png": "Painting of a pint with ties around it, with the words \"time no ties please\" written underneath, on painted walls",
+        "246787-output3.png": "Painting of glasses of champagne and a pint with ties around it, with the words \"time no ties please\" written underneath, on painted walls"
+    },
+    "229779": {
+        "229779-input.png": "The man is surfing high up on a wave.",
+        "229779-output1.png": "The man is skiing high up on a wave.",
+        "229779-output2.png": "The man is skiing high up on a wave next to a yacht.",
+        "229779-output3.png": "The man is skiing high up on a wave next to a yacht with an island in the background."
+    },
+    "262162": {
+        "262162-input.png": "A small bedroom with a desk and computer in it.",
+        "262162-output1.png": "A person working at a desk with a computer in a small bedroom."
+    },
+    "442242": {
+        "442242-input.png": "A pier is filled with boats, lighthouse and cargo.",
+        "442242-output1.png": "A pier is filled with boats, two lighthouses and cargo."
+    },
+    "460929": {
+        "460929-input.png": "A hot dog with mustard is next to a bottle of soda.",
+        "460929-output1.png": "A hot dog with mustard is next to a bottle of beer.",
+        "460929-output2.png": "A plain hot dog is next to a bottle of beer."
+    },
+    "229383": {
+        "229383-input.png": "A group of people on public transportation stare at their phones.",
+        "229383-output1.png": "A group of people on public transportation, with one woman reading a book while others stare at their phones."
+    },
+    "255010": {
+        "255010-input.png": "Black and white photo of two men with black hats sitting in a train.",
+        "255010-output1.png": "Black and white photo of two men with white hats sitting in a train."
+    },
+    "432216": {
+        "432216-input.png": "A group of kids in skis in the snow.",
+        "432216-output1.png": "A group of kids and a brown bear in skis in the snow."
+    },
+    "369675": {
+        "369675-input.png": "A passenger train is sitting at a station.",
+        "369675-output1.png": "A mostly white passenger train is sitting at a station.",
+        "369675-output2.png": "An empty white train is sitting at a station.",
+        "369675-output3.png": "A small dog sits next to an empty white train at a station."
+    },
+    "522782": {
+        "522782-input.png": "A triple screen computer set up on a desk next to a bed",
+        "522782-output1.png": "A single screen computer set up on a desk next to a bed",
+        "522782-output2.png": "A single screen computer set up on a desk next to a bed with a picture of a car on the monitor screen."
+    },
+    "547637": {
+        "547637-input.png": "A baseball glove with a baseball inside and a bat on a table",
+        "547637-output1.png": "A baseball glove with an orange inside and a bat on a table"
+    },
+    "164224": {
+        "164224-input.png": "a white bed in a large hotel room",
+        "164224-output1.png": "A white bed in a spacious hotel room",
+        "164224-output2.png": "A white bed in a spacious hotel room with an abstract painting on the wall",
+        "164224-output3.png": "A white bed with a big teddy bear on the pillows in a spacious hotel room with an abstract painting on the wall"
+    },
+    "317424": {
+        "317424-input.png": "This work van has green graffiti sprayed on its side",
+        "317424-output1.png": "This work van has a cute panda face painted on its side."
+    },
+    "392850": {
+        "392850-input.png": "A banana and some fruit on a table.",
+        "392850-output1.png": "Fruit and a banana on a table with a clear bowl of rice.",
+        "392850-output2.png": "Fruit and a banana on a table with a clear bowl of rice and a measuring cup.",
+        "392850-output3.png": "Fruit and a banana on a table with a clear bowl of rice, a measuring cup, and a stick of butter on the cutting board."
+    },
+    "308793": {
+        "308793-input.png": "Two skiers heading up the side of a mountain",
+        "308793-output1.png": "Two skiers and a fox heading up the side of a mountain"
+    },
+    "91080": {
+        "91080-input.png": "A white refrigerator freezer sitting next to a stove top oven.",
+        "91080-output1.png": "A white refrigerator freezer sitting next to a stove top oven with a pan.",
+        "91080-output2.png": "A white refrigerator freezer sitting next to a stove top oven with a pan and a fruit basket."
+    },
+    "168784": {
+        "168784-input.png": "Blurred image of a dog wearing a neck tie sitting on a wood table top.",
+        "168784-output1.png": "Blurred image of a dog wearing a bow tie sitting on a wood table top."
+    },
+    "466965": {
+        "466965-input.png": "A parrot sitting on a branch looking down.",
+        "466965-output1.png": "A parrot with a hat sitting on a branch looking down."
+    },
+    "484074": {
+        "484074-input.png": "Three Zebras standing inside an enclosure at a zoo.",
+        "484074-output1.png": "Man sitting on a zebra inside an enclosure at a zoo."
+    },
+    "182496": {
+        "182496-input.png": "Foot long hotdogs on a piece of bread smothered in baked beans and cheese",
+        "182496-output1.png": "Foot long hotdogs topped with ice cream, baked beans, and cheese on a piece of bread",
+        "182496-output2.png": "Foot long hotdogs topped with ice cream, baked beans, and cheese on a piece of bread with a cherry on top"
+    },
+    "41846": {
+        "41846-input.png": "pizza on a plate with one slice separated from the rest",
+        "41846-output1.png": "Pepperoni pizza on a plate with one slice separated from the rest"
+    },
+    "524459": {
+        "524459-input.png": "A man using his laptop at his desk",
+        "524459-output1.png": "A man looking at his laptop at his desk",
+        "524459-output2.png": "A man in a striped shirt looking at his laptop at his desk",
+        "524459-output3.png": "A man in a striped shirt holding a pencil while looking at his laptop at his desk"
+    },
+    "237041": {
+        "237041-input.png": "A snowboard is left vacant in view of large snow capped mountains.",
+        "237041-output1.png": "A gorilla snowboards past large snow capped mountains.",
+        "237041-output2.png": "A gorilla snowboards past large snow capped mountains with lightening bolts in the sky.",
+        "237041-output3.png": "A gorilla snowboards past large snow capped mountains with a helicopter being struck by lightening in the sky."
+    },
+    "50306": {
+        "50306-input.png": "The table is holding, pizza, eating utensils and glasses of orange juice.",
+        "50306-output1.png": "The table is holding a crystal ball, eating utensils and glasses of orange juice.",
+        "50306-output2.png": "The table is holding a crystal ball and a chessboard."
+    },
+    "319494": {
+        "319494-input.png": "Boats floating on top of a large lake.",
+        "319494-output1.png": "A big whale jumps over boats floating on top of a large lake."
+    },
+    "62745": {
+        "62745-input.png": "A combination Angry Birds birthday and graduation cake.",
+        "62745-output1.png": "A combination flower-themed birthday and graduation cake."
+    },
+    "168690": {
+        "168690-input.png": "A laptop and keyboard are sitting on a white desk in a hotel room.",
+        "168690-output1.png": "A laptop with a blank screen and keyboard are sitting on a white desk in a hotel room.",
+        "168690-output2.png": "A black keyboard and laptop with a blank screen are sitting on a white desk in a hotel room.",
+        "168690-output3.png": "A black keyboard and laptop with a blank screen are sitting on a white desk in a hotel room, with a green pillow on the bed."
+    },
+    "40471": {
+        "40471-input.png": "An older picture of a large kitchen with white appliances.",
+        "40471-output1.png": "An older picture of a large kitchen with white appliances and a single window."
+    },
+    "74964": {
+        "74964-input.png": "a counter top with a plate of food",
+        "74964-output1.png": "A counter top with a plate of roast chicken",
+        "74964-output2.png": "A counter top with a plate of roast chicken and a bowl of berries",
+        "74964-output3.png": "A counter top with a plate of roast chicken, a bowl of berries, and a tub of ice cream"
+    },
+    "421476": {
+        "421476-input.png": "A sandwich with mushrooms and other toppings on a plate.",
+        "421476-output1.png": "A sandwich with Portbella mushrooms and other toppings on a plate."
+    },
+    "140021": {
+        "140021-input.png": "A pair of scissors and some fabric rest on the table",
+        "140021-output1.png": "A blue pair of scissors and some fabric rest on the table"
+    },
+    "26221": {
+        "26221-input.png": "A living room has a couch and  coffee table.",
+        "26221-output1.png": "A lion lounging on a couch and coffee table in a living room."
+    },
+    "94751": {
+        "94751-input.png": "A parking lot is on the side of the ocean.",
+        "94751-output1.png": "A parking lot and lighthouse on the side of the ocean."
+    },
+    "15272": {
+        "15272-input.png": "A red light is a wonderful contrast to the pink leaves on trees",
+        "15272-output1.png": "A green bird perched on a tree with pink leaves contrasts beautifully with a red light",
+        "15272-output2.png": "A monkey and a green bird perched on a tree with pink leaves contrasts beautifully with a red light"
+    },
+    "57377": {
+        "57377-input.png": "A train that is sitting on the tracks.",
+        "57377-output1.png": "A train and a black bear at the stream."
+    },
+    "499037": {
+        "499037-input.png": "A skier that is about to cross the starting line.",
+        "499037-output1.png": "A skier about to cross the starting line with a blank banner.",
+        "499037-output2.png": "A skier wearing a ski mask about to cross the starting line with a blank banner."
+    },
+    "321394": {
+        "321394-input.png": "an image of a bedroom setting that is in a loft",
+        "321394-output1.png": "Blue bed in a loft bedroom setting",
+        "321394-output2.png": "Blue bed in a loft bedroom setting with a red dresser on the left.",
+        "321394-output3.png": "Spacious loft bedroom with a blue bed, red dresser, and large window."
+    },
+    "1330": {
+        "1330-input.png": "a young guy walking in a forrest holding an object in his hand",
+        "1330-output1.png": "A young guy wearing long pants walking in a forest holding an object in his hand."
+    },
+    "411530": {
+        "411530-input.png": "A crowd of people standing on snow covered ground.",
+        "411530-output1.png": "Snow covered ground with no people.",
+        "411530-output2.png": "Snow covered ground with a big polar bear and no people.",
+        "411530-output3.png": "Snow covered ground with a big polar bear and a flock of birds, no people in sight."
+    },
+    "30": {
+        "30-input.png": "A flower vase is sitting on a porch stand.",
+        "30-output1.png": "A squirrel admires a flower vase on a porch stand."
+    },
+    "523599": {
+        "523599-input.png": "The airplane is flying high in the cloudless sky.",
+        "523599-output1.png": "The super hero is flying high in the cloudless sky.",
+        "523599-output2.png": "The super hero and his trusty dog flying high in the cloudless sky."
+    },
+    "269038": {
+        "269038-input.png": "A car driving down a street past a tall building.",
+        "269038-output1.png": "A man on a scooter driving down a street past a tall building."
+    },
+    "410110": {
+        "410110-input.png": "An umbrella and purses are in a crowded room.",
+        "410110-output1.png": "Purses in a crowded room.",
+        "410110-output2.png": "Open purse with cellphone among many in a crowded room.",
+        "410110-output3.png": "Woman admiring open purse with cellphone among many in a crowded room."
+    },
+    "380097": {
+        "380097-input.png": "A clean bathroom with a sink and a mirror",
+        "380097-output1.png": "A clean white bathroom with a sink and a mirror"
+    },
+    "189017": {
+        "189017-input.png": "many different fire hydrants on the curb of a street",
+        "189017-output1.png": "Lots of baby ducklings playing around fire hydrants on the curb of a street."
+    },
+    "434222": {
+        "434222-input.png": "a person is typing in front of a computer",
+        "434222-output1.png": "Person enjoying cat pictures on their computer",
+        "434222-output2.png": "Person enjoying cat pictures on their computer while the cat eats a donut",
+        "434222-output3.png": "Person enjoying cat pictures on their computer with a glass of water while the cat eats a donut"
+    },
+    "183672": {
+        "183672-input.png": "A man flying through the air while riding a skateboard.",
+        "183672-output1.png": "A man in an orange shirt flying through the air while riding a skateboard.",
+        "183672-output2.png": "A man in an orange shirt holding a banana while flying through the air on a skateboard."
+    },
+    "107168": {
+        "107168-input.png": "A group of giraffes are grouped together outdoors.",
+        "107168-output1.png": "A giraffe standing tall outdoors."
+    },
+    "100547": {
+        "100547-input.png": "Three white castle hamburgers sitting in a white castle food bag.",
+        "100547-output1.png": "Three white castle donuts sitting in a white castle food bag.",
+        "100547-output2.png": "Three white castle donuts on a wooden table."
+    },
+    "483389": {
+        "483389-input.png": "Grilled meat with veggies and potatoes on plate",
+        "483389-output1.png": "Grilled meat with veggies and mashed potatoes on plate with a fork"
+    },
+    "340184": {
+        "340184-input.png": "a couple of white couches in a room",
+        "340184-output1.png": "A couple of white couches in a room with a rabbit",
+        "340184-output2.png": "A couple of white couches in a room with two rabbits"
+    },
+    "318815": {
+        "318815-input.png": "a blanket and backpack sitting on the beach next to a surfboard",
+        "318815-output1.png": "A blanket and backpack sitting on the beach next to a skateboard",
+        "318815-output2.png": "A sandcastle and backpack sitting on the beach next to a skateboard",
+        "318815-output3.png": "A kid crouches next to a sandcastle and backpack on the beach next to a skateboard"
+    },
+    "410152": {
+        "410152-input.png": "A train that is by some houses in the day.",
+        "410152-output1.png": "A person riding a bicycle next to a train by some houses in the day.",
+        "410152-output2.png": "A person riding a bicycle next to a street bus by some houses in the day."
+    },
+    "315219": {
+        "315219-input.png": "A phone mounted to a wall next to a doorway.",
+        "315219-output1.png": "A pendulum phone mounted to a wall next to a doorway."
+    },
+    "147501": {
+        "147501-input.png": "a two-door refrigerator with daylight coming in through the door beside it",
+        "147501-output1.png": "A metallic two-door refrigerator with daylight coming in through the door beside it."
+    },
+    "123336": {
+        "123336-input.png": "Several chocolate donuts are on a plate in front of a shelf with alcohol on it.",
+        "123336-output1.png": "Several strawberry glazed chocolate donuts are on a plate in front of a shelf with alcohol on it.",
+        "123336-output2.png": "Several strawberry glazed chocolate donuts are on a plate in front of a bookshelf.",
+        "123336-output3.png": "A smiling man stands nearby as several strawberry glazed chocolate donuts are on a plate in front of a bookshelf."
+    },
+    "335912": {
+        "335912-input.png": "A glam rocker hipster reaching out towards an orange frisbee.",
+        "335912-output1.png": "A glam rocker hipster reaching out towards an orange frisbee in a green shirt."
+    },
+    "214028": {
+        "214028-input.png": "A bedrooom has a bed that has not been made up.",
+        "214028-output1.png": "Blue bed in an unmade bedroom.",
+        "214028-output2.png": "Blue bed in an unmade bedroom with a television.",
+        "214028-output3.png": "Unmade bedroom with a blue bed, television, and a larger window."
+    },
+    "426052": {
+        "426052-input.png": "a athlete just swung at a ball in a game",
+        "426052-output1.png": "Athlete swings at ball while a flying drone captures the game."
+    },
+    "460460": {
+        "460460-input.png": "a home bar with assorted alcohol bottles and strings of lights.",
+        "460460-output1.png": "Cozy home bar with assorted alcohol bottles, strings of lights, and a comfy pillow on the couch."
+    },
+    "405249": {
+        "405249-input.png": "a child blows out the candles on a birthday cake.",
+        "405249-output1.png": "A child blows out the candles on a birthday cake with toys on the left.",
+        "405249-output2.png": "Two birthday cakes with toys on the left as a child blows out the candles.",
+        "405249-output3.png": "Two birthday cakes with toys on the left and a balloon on the table as a child blows out the candles."
+    },
+    "151480": {
+        "151480-input.png": "A group of baseball players that are walking in the outfield.",
+        "151480-output1.png": "Baseball players walking in the outfield with a mascot in the stands.",
+        "151480-output2.png": "Baseball players lined up in the outfield with a mascot in the stands."
+    },
+    "231682": {
+        "231682-input.png": "A man riding on the back of a motorcycle.",
+        "231682-output1.png": "A man riding on the back of a bicycle.",
+        "231682-output2.png": "A man riding on the back of a bicycle with the officer looking at the camera."
+    },
+    "243361": {
+        "243361-input.png": "A dining room table is cluttered with computers.",
+        "243361-output1.png": "A man sitting at a cluttered dining room table with computers.",
+        "243361-output2.png": "A man sitting at a cluttered dining room table with a closed laptop and computers.",
+        "243361-output3.png": "A man sitting at a cluttered dining room table with a closed laptop and computers, one with a butterfly wallpaper."
+    },
+    "95828": {
+        "95828-input.png": "A computer desk topped with lots of computers.",
+        "95828-output1.png": "A book-filled computer desk.",
+        "95828-output2.png": "A book-filled computer desk with a turtle."
+    },
+    "350132": {
+        "350132-input.png": "A man playing a game of frisbee with himself.",
+        "350132-output1.png": "A man and his dog playing frisbee together.",
+        "350132-output2.png": "A man and his dog playing frisbee together with mountains in the background.",
+        "350132-output3.png": "A man and his dog playing frisbee together on a sprinkler field with mountains in the background."
+    },
+    "147471": {
+        "147471-input.png": "A man and women rest as there dog stands on the trail.",
+        "147471-output1.png": "A bald man and woman rest as their dog stands on the trail.",
+        "147471-output2.png": "A bald man and blonde woman rest as their dog stands on the trail.",
+        "147471-output3.png": "A bald man and blonde woman rest as their dog, wearing a hat, stands on the trail."
+    },
+    "519432": {
+        "519432-input.png": "An open laptop computer sitting on top of a wooden desk.",
+        "519432-output1.png": "A closed laptop computer sitting on top of a wooden desk.",
+        "519432-output2.png": "A closed laptop computer sitting on top of a wooden desk with a smiley face on the wall."
+    },
+    "457572": {
+        "457572-input.png": "A girl lays on a bed next to her glasses looking in the mirror",
+        "457572-output1.png": "A girl lays on a bed next to her sunglasses looking in the mirror",
+        "457572-output2.png": "A girl lays on a bed next to her sunglasses and a champagne bottle, looking in the mirror",
+        "457572-output3.png": "A blonde girl lays on a bed next to her sunglasses and a champagne bottle, looking in the mirror"
+    },
+    "23355": {
+        "23355-input.png": "A man holding pizzas on white plates in a kitchen.",
+        "23355-output1.png": "A man holding pizzas on white plates in a kitchen, with one plate magically turned into roast chicken.",
+        "23355-output2.png": "A man holding pizzas on white plates in a kitchen, making the waiter laugh while one plate magically turns into roast chicken.",
+        "23355-output3.png": "A group of people enjoying a meal in a kitchen, with a man holding pizzas on white plates and making the waiter laugh while one plate magically turns into roast chicken."
+    },
+    "419974": {
+        "419974-input.png": "a man standing next to a kitchen counter preparing food.",
+        "419974-output1.png": "Man cutting a pineapple on a kitchen counter.",
+        "419974-output2.png": "Man cutting a pineapple on a kitchen counter while the dog howls.",
+        "419974-output3.png": "Man cutting a pineapple on a kitchen counter surrounded by an assortment of dog food and treats while the dog howls."
+    },
+    "205069": {
+        "205069-input.png": "this is a man touching a drag queen",
+        "205069-output1.png": "This is a man touching a drag queen wearing a red hat",
+        "205069-output2.png": "This is a man touching a drag queen wearing a red skirt",
+        "205069-output3.png": "This is a man touching a blonde drag queen wearing a red skirt"
+    },
+    "555012": {
+        "555012-input.png": "The roll of toilet paper beside the toilet is empty.",
+        "555012-output1.png": "The roll of toilet paper beside the empty toilet with the lid lifted."
+    },
+    "417804": {
+        "417804-input.png": "a close up of a keyboard and a mouse on a desk",
+        "417804-output1.png": "A close up of a keyboard and a rodent mouse on a desk"
+    },
+    "294918": {
+        "294918-input.png": "some people bicycles sunglasses cars and some buildings",
+        "294918-output1.png": "Some people, bicycles, sunglasses, cars, some buildings, and a wild pig."
+    },
+    "243066": {
+        "243066-input.png": "Rows of skis standing vertically in snow next to lodge.",
+        "243066-output1.png": "Rows of skis and a snowmobile standing vertically in snow next to lodge."
+    },
+    "373184": {
+        "373184-input.png": "A giraffe eating leaves of  upper branches of tree  by stretching his neck.",
+        "373184-output1.png": "A white giraffe eating leaves of upper branches of tree by stretching his neck.",
+        "373184-output2.png": "A white giraffe eating leaves of upper branches of tree with yellow flowers by stretching his neck.",
+        "373184-output3.png": "A white giraffe and a kangaroo eating leaves of upper branches of tree with yellow flowers by stretching their necks."
+    },
+    "180141": {
+        "180141-input.png": "A family sits at a table together enjoying each other's company",
+        "180141-output1.png": "A family sits at a table together enjoying each other's company while the girl holds a microphone."
+    },
+    "127028": {
+        "127028-input.png": "A close up shot of a red apple beside an orange.",
+        "127028-output1.png": "A close up shot of a red apple beside a banana.",
+        "127028-output2.png": "A close up shot of a red apple beside a banana with a phone.",
+        "127028-output3.png": "A close up shot of a red apple and a banana with a phone, next to a cup of coffee."
+    },
+    "189472": {
+        "189472-input.png": "A child's kitchen filled with baby furniture and counters.",
+        "189472-output1.png": "A child's kitchen with a stool and baby furniture and counters."
+    },
+    "223734": {
+        "223734-input.png": "a small elephant is standing near a tree",
+        "223734-output1.png": "A small white elephant is standing near a tree"
+    },
+    "352295": {
+        "352295-input.png": "A box of Ulundu Vade is shown in a refrigerator.",
+        "352295-output1.png": "A box of Ulundu Vade with a picture of a panda in a refrigerator."
+    },
+    "391509": {
+        "391509-input.png": "A person on a bench on a street.",
+        "391509-output1.png": "A person on a bench with a parked Ducati superbike on a street.",
+        "391509-output2.png": "A woman in military uniform sits on a bench with a parked Ducati superbike on a street.",
+        "391509-output3.png": "A woman in military uniform sits on a bench with a parked Ducati superbike at a train station."
+    },
+    "523978": {
+        "523978-input.png": "A bathroom with a white bath tub, sink and large window.",
+        "523978-output1.png": "A bathroom with a white bath tub, sink and small window."
+    },
+    "276124": {
+        "276124-input.png": "A baby brushing it's teeth with a blue and white tooth brush.",
+        "276124-output1.png": "A smiling baby brushing its teeth with a blue and white toothbrush.",
+        "276124-output2.png": "A smiling baby looking at the camera while brushing its teeth with a blue and white toothbrush.",
+        "276124-output3.png": "A curly ginger-haired baby smiling at the camera while brushing its teeth with a blue and white toothbrush."
+    },
+    "573448": {
+        "573448-input.png": "A metal blender sitting next to a red plastic bowl.",
+        "573448-output1.png": "Red bowl filled with dessert next to a metal blender.",
+        "573448-output2.png": "Red bowl filled with dessert next to a metal blender containing vegetables.",
+        "573448-output3.png": "Red bowl filled with dessert next to a metal blender containing vegetables and a spider."
+    },
+    "231822": {
+        "231822-input.png": "A tray of various foods next to drinks on a table.",
+        "231822-output1.png": "A tray of various foods next to cans of beer on a table.",
+        "231822-output2.png": "A tray of various soups next to cans of beer on a table.",
+        "231822-output3.png": "A tray of various soups and mac and cheese next to cans of beer on a table."
+    },
+    "167529": {
+        "167529-input.png": "A bathroom sink sitting under a bathroom mirror.",
+        "167529-output1.png": "A mug sitting on a bathroom sink under a bathroom mirror.",
+        "167529-output2.png": "A mug and glass bottle sitting on a bathroom sink under a bathroom mirror.",
+        "167529-output3.png": "A mug and glass bottle sitting on a bathroom sink under a smaller bathroom mirror."
+    },
+    "131388": {
+        "131388-input.png": "A herd of wild animals walking in the middle or a shallow river.",
+        "131388-output1.png": "A group of kids walking in the middle of a shallow river."
+    },
+    "396338": {
+        "396338-input.png": "A couple of cars on a city street.",
+        "396338-output1.png": "Cars drive through a fiery city street."
+    },
+    "499598": {
+        "499598-input.png": "A group of women and a man sitting around a table together.",
+        "499598-output1.png": "A group of women and Superman sitting around a table together.",
+        "499598-output2.png": "A group of reporters and Superman sitting around a table together.",
+        "499598-output3.png": "A group of reporters and Superman sitting around a news desk together."
+    },
+    "429762": {
+        "429762-input.png": "A couple of elephants standing next to each other.",
+        "429762-output1.png": "A couple of elephants standing next to a rock.",
+        "429762-output2.png": "Elephant digging the ground next to a rock.",
+        "429762-output3.png": "Elephant digging the ground next to a lake."
+    },
+    "304627": {
+        "304627-input.png": "A surfboard leaning on a wall near some stairs and a door.",
+        "304627-output1.png": "A fan leaning on a wall near some stairs and a door.",
+        "304627-output2.png": "A fan leaning on a wall near an exit door."
+    },
+    "458772": {
+        "458772-input.png": "A busy street with several cars and people crossing the street.",
+        "458772-output1.png": "A busy street with several cars and people waiting at a red traffic light.",
+        "458772-output2.png": "A busy street with several cars, people, and a large dog waiting at a red traffic light.",
+        "458772-output3.png": "A busy street with several cars, people, and a large dog waiting at a red traffic light under an exotic planet-filled sky."
+    },
+    "136699": {
+        "136699-input.png": "This purse is full of a variety of items.",
+        "136699-output1.png": "Gold-labeled purse filled with a variety of items."
+    },
+    "92187": {
+        "92187-input.png": "A parking meter with a wooden stick figure on top.",
+        "92187-output1.png": "A parking meter with a barbie doll on top."
+    },
+    "229525": {
+        "229525-input.png": "A bay shower stall is combined with an untidy counter top in a bathroom.",
+        "229525-output1.png": "An open shower stall and untidy counter top in a bathroom.",
+        "229525-output2.png": "An open shower stall and untidy counter top in a bathroom with a laptop.",
+        "229525-output3.png": "A cat joins the mess in a bathroom with an open shower stall, untidy counter top, and a laptop."
+    },
+    "137118": {
+        "137118-input.png": "An empty living room in an apartment with several chairs sitting in the middle of it.",
+        "137118-output1.png": "An empty living room in an apartment with several wooden chairs sitting in the middle of it."
+    },
+    "181947": {
+        "181947-input.png": "A cup with three pairs of scissors sitting on a table.",
+        "181947-output1.png": "A cup with three pairs of scissors sitting on a table, in a red cup."
+    },
+    "81930": {
+        "81930-input.png": "A woman has her face down by a fire hydrant",
+        "81930-output1.png": "A woman has her face down by a yellow fire hydrant"
+    },
+    "174423": {
+        "174423-input.png": "A bird sits perched on the edge of an umbrella.",
+        "174423-output1.png": "A yellow bird sits perched on the edge of an umbrella."
+    },
+    "78085": {
+        "78085-input.png": "A notebook PC and two monitors on an L-shaped office desk.",
+        "78085-output1.png": "A microwave and two monitors on an L-shaped office desk.",
+        "78085-output2.png": "A coffee cup, microwave, and two monitors on an L-shaped office desk.",
+        "78085-output3.png": "A coffee cup, microwave, and two white computer monitors on an L-shaped office desk."
+    },
+    "540697": {
+        "540697-input.png": "A large white airplane with blue tail parked.",
+        "540697-output1.png": "A large white airplane with blue tail parked on a sunny day.",
+        "540697-output2.png": "Crew preparing a large white airplane with blue tail for takeoff on a sunny day.",
+        "540697-output3.png": "Crew preparing a large white rocket with blue tail for takeoff on a sunny day."
+    },
+    "236243": {
+        "236243-input.png": "A bedroom filled with a bed and windows with curtains.",
+        "236243-output1.png": "A bedroom filled with a bed, windows with curtains, and a clock on the wall.",
+        "236243-output2.png": "A cozy bedroom with a cat lounging on the bed, windows with curtains, and a clock on the wall."
+    },
+    "318924": {
+        "318924-input.png": "A group of dead stuffed animals on display in a museum.",
+        "318924-output1.png": "A group of dead stuffed animals, including a real zebra, on display in a museum.",
+        "318924-output2.png": "A group of dead stuffed animals, including a real zebra, with a water bowl on display in a museum."
+    },
+    "459440": {
+        "459440-input.png": "A close-up of a drawing on a piece of paper next to a computer mouse.",
+        "459440-output1.png": "A close-up of a drawing of a person's face on a piece of paper next to a computer mouse."
+    },
+    "428152": {
+        "428152-input.png": "A kitchen with a stove, microwave, sink and dishwasher.",
+        "428152-output1.png": "A kitchen with a chicken cooking on the stove, microwave, sink and dishwasher."
+    },
+    "360540": {
+        "360540-input.png": "A store with some umbrellas next to a motor scooter.",
+        "360540-output1.png": "A store with some umbrellas next to a penguin."
+    },
+    "570951": {
+        "570951-input.png": "Two cooks are preparing food in a restaurant kitchen.",
+        "570951-output1.png": "Cowboy cook and his partner prepare food in a restaurant kitchen.",
+        "570951-output2.png": "Cowboy cook and his witch partner prepare food in a restaurant kitchen."
+    },
+    "433334": {
+        "433334-input.png": "A couple and a man sitting at a table.",
+        "433334-output1.png": "An angry man confronts a couple at a table.",
+        "433334-output2.png": "An angry man confronts a couple at a table with an empty plate."
+    },
+    "411727": {
+        "411727-input.png": "A laptop sitting on a desk with books and other accessories.",
+        "411727-output1.png": "Laptop displaying a media player on a desk with books and other accessories.",
+        "411727-output2.png": "Laptop displaying a media player on a desk with books, an eye shadow kit, and other accessories.",
+        "411727-output3.png": "Person's hand holding a laptop displaying a media player on a desk with books, an eye shadow kit, and other accessories."
+    },
+    "415461": {
+        "415461-input.png": "Two children playing in a living room with hardwood floors.",
+        "415461-output1.png": "Child enjoying ice cream while playing in a living room with hardwood floors.",
+        "415461-output2.png": "Bald child enjoying ice cream while playing in a living room with hardwood floors.",
+        "415461-output3.png": "Two children enjoying ice cream while playing in a living room with hardwood floors."
+    },
+    "401307": {
+        "401307-input.png": "A few people on skis looking back for a photo.",
+        "401307-output1.png": "A couple on skis looking back for a photo."
+    },
+    "390565": {
+        "390565-input.png": "A set of motorcycles sitting on a roadside near a small car.",
+        "390565-output1.png": "A set of motorcycles parked by a serene lake near a small car.",
+        "390565-output2.png": "A set of motorcycles parked by a serene lake with a green field nearby.",
+        "390565-output3.png": "A set of motorcycles parked by a serene lake with a car on the green field nearby."
+    },
+    "220031": {
+        "220031-input.png": "a man surfing on a surfboard in the water with houses on the shore.",
+        "220031-output1.png": "A man falls off his surfboard in the water with houses on the shore."
+    },
+    "84031": {
+        "84031-input.png": "Baseball game in large stadium with ball flying toward batter",
+        "84031-output1.png": "Tennis game in large stadium with ball flying toward player with racquet",
+        "84031-output2.png": "Tennis game in large stadium with tennis ball flying toward player with racquet",
+        "84031-output3.png": "Tennis game in large stadium with tennis ball flying toward bucket of balls."
+    },
+    "434496": {
+        "434496-input.png": "A buffet table is set up with all sorts of food.",
+        "434496-output1.png": "A buffet table is set up with a variety of food and fresh fruits.",
+        "434496-output2.png": "A buffet table is set up with a variety of donuts and fresh fruits."
+    },
+    "28288": {
+        "28288-input.png": "A foot long hot dog in a bun covered in ketchup.",
+        "28288-output1.png": "A foot long hot dog in a bun covered in ketchup and mustard."
+    },
+    "108244": {
+        "108244-input.png": "A black cat with a hat on the ground.",
+        "108244-output1.png": "A black cat with a hat on the ground, eyeing a nearby mouse."
+    },
+    "156405": {
+        "156405-input.png": "A photo of a wavy wooden bench at night.",
+        "156405-output1.png": "A photo of a wavy wooden bench at night on a marble sidewalk.",
+        "156405-output2.png": "A photo of a wavy wooden bench with a cat on the seat at night on a marble sidewalk.",
+        "156405-output3.png": "A photo of a wavy wooden bench with a cat on the seat at night on a marble sidewalk, with a boat in the lake."
+    },
+    "518182": {
+        "518182-input.png": "A guy playing with a disc on the beach.",
+        "518182-output1.png": "A guy playing with a ball on the beach.",
+        "518182-output2.png": "A guy playing with a brown ball on the beach.",
+        "518182-output3.png": "A guy playing with a brown ball on the beach with a boat in the water."
+    },
+    "115260": {
+        "115260-input.png": "An item of a vase with something inside of it.",
+        "115260-output1.png": "A pizza on a tray with something inside of it.",
+        "115260-output2.png": "A pizza on a tray with a glass of soda next to it."
+    },
+    "561137": {
+        "561137-input.png": "Ambivalent emoticon on cell phone in front of laptop",
+        "561137-output1.png": "Happy emoticon on cell phone in front of laptop"
+    },
+    "393254": {
+        "393254-input.png": "A tent in a forest next to a silver and brown RV.",
+        "393254-output1.png": "Image of a tent and RV in a forest.",
+        "393254-output2.png": "Image of a tent and luxury car in a forest.",
+        "393254-output3.png": "Image of a log cabin and luxury car in a forest."
+    },
+    "81964": {
+        "81964-input.png": "A plate of food with tomatoes, broccoli and strawberries on it.",
+        "81964-output1.png": "A plate of cereal with tomatoes, broccoli and strawberries on it.",
+        "81964-output2.png": "A plate of cookies with tomatoes, broccoli and strawberries on it."
+    },
+    "171199": {
+        "171199-input.png": "A pizza, silverware, and a drink sitting on a table.",
+        "171199-output1.png": "A pizza, silverware, and a drink sitting on a table with a spoon.",
+        "171199-output2.png": "Pizza with basil leaves, silverware, and a drink sitting on a table with a spoon."
+    },
+    "527656": {
+        "527656-input.png": "a sign that is a surfboard and some lights",
+        "527656-output1.png": "A sign with a surfboard, lights, and a skateboard on the wall."
+    },
+    "476810": {
+        "476810-input.png": "a cat is on a table next to a remote",
+        "476810-output1.png": "A cat is on a table next to a phone and a remote.",
+        "476810-output2.png": "A white cat is on a table next to a phone and a remote.",
+        "476810-output3.png": "A white cat is on a table next to a phone and a remote with a television in the background."
+    },
+    "379977": {
+        "379977-input.png": "A brown horse is walking around in the grassy mountain.",
+        "379977-output1.png": "A pink unicorn is walking around in the grassy mountain.",
+        "379977-output2.png": "A pink unicorn is walking near a river in the grassy mountain."
+    },
+    "508582": {
+        "508582-input.png": "A pair of rectangular deep dish homemade pizzas.",
+        "508582-output1.png": "A pair of rectangular deep dish homemade pepperoni pizzas."
+    },
+    "2886": {
+        "2886-input.png": "A plate with dinner on it set on a tablecloth",
+        "2886-output1.png": "A plate with dinner on it set on a tablecloth with a knife",
+        "2886-output2.png": "A plate with dinner on it set on a tablecloth with a knife and a generous serving of french fries"
+    },
+    "498988": {
+        "498988-input.png": "A black and white cat is sitting in front of a laptop that is on a desk.",
+        "498988-output1.png": "A black and white cat is sitting in front of a laptop with a blue screen on a desk.",
+        "498988-output2.png": "A black and white cat is sitting in front of a laptop with a blue screen on a desk, sans bottle."
+    },
+    "322574": {
+        "322574-input.png": "A sandwich sitting on top of a pile of fries.",
+        "322574-output1.png": "A sandwich, fries, and a soda can on a tray.",
+        "322574-output2.png": "A mustard-covered hot dog, fries, and a soda can on a tray.",
+        "322574-output3.png": "A mustard-covered hot dog, fries, and a soda can on a tray with a side salad on the right."
+    },
+    "400922": {
+        "400922-input.png": "A sign hanging of the side of a building on top of a clock.",
+        "400922-output1.png": "A sign hanging of the side of a building on top of a clock with a smiley face logo.",
+        "400922-output2.png": "A sign hanging of the side of a building on top of a clock with a smiley face logo missing an hour hand."
+    },
+    "173401": {
+        "173401-input.png": "THERE ARE TWO COWS THAT ARE WALKING IN THE GRASS",
+        "173401-output1.png": "A cow leaping in the grassy field",
+        "173401-output2.png": "A cow leaping in the grassy field next to a dirt road",
+        "173401-output3.png": "A cow leaping in the grassy field next to a parking lot and dirt road"
+    },
+    "385026": {
+        "385026-input.png": "The reflection of the forest through a bathroom mirror.",
+        "385026-output1.png": "The reflection of the ocean through a bathroom mirror.",
+        "385026-output2.png": "The reflection of buildings in the ocean through a bathroom mirror."
+    },
+    "512442": {
+        "512442-input.png": "A woman holding a bowl in her hand standing next to a baby elephant.",
+        "512442-output1.png": "A woman standing next to a baby elephant.",
+        "512442-output2.png": "A woman standing next to a baby giraffe."
+    },
+    "92661": {
+        "92661-input.png": "A cluttered living room with a laptop computer.",
+        "92661-output1.png": "A cluttered living room with a leather couch and a laptop computer.",
+        "92661-output2.png": "A cluttered living room with a leather couch and a laptop computer showing pictures of animals.",
+        "92661-output3.png": "A cluttered living room with a red door, a leather couch, and a laptop computer showing pictures of animals."
+    },
+    "132847": {
+        "132847-input.png": "The old style airplane has a flag on it's tail.",
+        "132847-output1.png": "The old style airplane has a Canadian flag on its tail.",
+        "132847-output2.png": "The old style airplane with a Canadian flag on its tail.",
+        "132847-output3.png": "A man crouches under the old style airplane with a Canadian flag on its tail."
+    },
+    "513200": {
+        "513200-input.png": "A giraffe and its child walking through a field.",
+        "513200-output1.png": "A giraffe walking through a field with its child under its belly."
+    },
+    "536103": {
+        "536103-input.png": "A plate topped with sausage, potatoes and toast.",
+        "536103-output1.png": "A plate topped with sausage, baked beans and toast.",
+        "536103-output2.png": "A plate topped with sausage, baked beans, and a single slice of toast.",
+        "536103-output3.png": "Kid holding a plate topped with sausage, baked beans, and a single slice of toast."
+    },
+    "37662": {
+        "37662-input.png": "A cap with a coat-of-arms sits on a baseball and baseball glove in a field.",
+        "37662-output1.png": "A cap with a coat-of-arms",
+        "37662-output2.png": "A cap with the Japanese flag and a coat-of-arms"
+    },
+    "241319": {
+        "241319-input.png": "A bathroom sink with two toothbrushes facing each other.",
+        "241319-output1.png": "A bathroom sink with two toothbrushes facing each other and a rubber duck."
+    },
+    "254004": {
+        "254004-input.png": "Baggage handlers are an airport loading luggage onto a plane.",
+        "254004-output1.png": "Baggage handlers at an airport loading a crate onto a plane.",
+        "254004-output2.png": "Men in suits and baggage handlers at an airport loading a crate onto a plane.",
+        "254004-output3.png": "Men in suits, baggage handlers, and a golf cart at an airport loading a crate onto a plane."
+    },
+    "367375": {
+        "367375-input.png": "a horse is pulling a green and yellow carriage",
+        "367375-output1.png": "Passengers singing while a horse pulls a green and yellow carriage",
+        "367375-output2.png": "Passengers singing while a horse with a long mane pulls a green and yellow carriage",
+        "367375-output3.png": "Passengers singing while a horse with a long mane and neighing pulls a green and yellow carriage"
+    },
+    "396330": {
+        "396330-input.png": "three guys standing around in a gym near a basketball hoop",
+        "396330-output1.png": "Three guys raising their hands in celebration at a gym near a basketball hoop",
+        "396330-output2.png": "Three guys raising their hands in celebration at a gym",
+        "396330-output3.png": "Three guys celebrating in an indoor swimming pool at a gym"
+    },
+    "208868": {
+        "208868-input.png": "A red table topped with dishes on top of a red table cloth.",
+        "208868-output1.png": "A pizza on a plate on top of a red table cloth and dishes.",
+        "208868-output2.png": "A pizza and a glass of wine on a red table cloth and dishes.",
+        "208868-output3.png": "A pizza and a glass of wine on a red table cloth and dishes, without a candle."
+    },
+    "326174": {
+        "326174-input.png": "A group of people are taking surfing lessons.",
+        "326174-output1.png": "A group of people enjoying the beach.",
+        "326174-output2.png": "A group of people enjoying the beach with a boat.",
+        "326174-output3.png": "A group of people enjoying the beach with a boat and birds in the sky."
+    },
+    "489358": {
+        "489358-input.png": "A food truck is parked in front of other cars on the street.",
+        "489358-output1.png": "A school bus is parked in front of other cars on the street.",
+        "489358-output2.png": "A school bus is parked in front of bicycles on the street."
+    },
+    "512854": {
+        "512854-input.png": "A man playing a game with a remote controller.",
+        "512854-output1.png": "A man holding a trophy while playing a game with a remote controller.",
+        "512854-output2.png": "A man dressed in a Halloween costume holding a trophy while playing a game with a remote controller.",
+        "512854-output3.png": "A man dressed in a Halloween costume holding a trophy while playing a game with a remote controller on a fluffy bed."
+    },
+    "213547": {
+        "213547-input.png": "A woman holding a small cake with lit candles.",
+        "213547-output1.png": "A woman sitting on a chair holding a small cake with lit candles."
+    },
+    "130586": {
+        "130586-input.png": "a boy making a face while running to get his kite in the air",
+        "130586-output1.png": "A boy making a face while running to get a bird in the air.",
+        "130586-output2.png": "A girl making a face while running to get a bird in the air.",
+        "130586-output3.png": "A girl and her dog running to get a bird in the air."
+    },
+    "274460": {
+        "274460-input.png": "A group of people on a beach with surf boards.",
+        "274460-output1.png": "A group of people enjoying the beach.",
+        "274460-output2.png": "A group of people and a dog enjoying the beach."
+    },
+    "499733": {
+        "499733-input.png": "A man beside a valley stands beneath an umbrella in the rain",
+        "499733-output1.png": "A man with futuristic glasses beside a valley stands beneath an umbrella in the rain.",
+        "499733-output2.png": "A man with futuristic glasses beside a valley stands beneath an umbrella in the rain, smiling.",
+        "499733-output3.png": "A bald man with futuristic glasses beside a valley stands beneath an umbrella in the rain, smiling."
+    },
+    "415958": {
+        "415958-input.png": "A woman looks around a very small kitchen.",
+        "415958-output1.png": "A man looks around a very small kitchen."
+    },
+    "3661": {
+        "3661-input.png": "A bunch of bananas sitting on top of a wooden table.",
+        "3661-output1.png": "A bunch of oranges sitting on top of a wooden table.",
+        "3661-output2.png": "A bunch of oranges and a glass of water sitting on top of a wooden table."
+    },
+    "438876": {
+        "438876-input.png": "A senior tennis player prepares to backhand the ball.",
+        "438876-output1.png": "A senior tennis player holds a tennis ball, preparing to backhand it.",
+        "438876-output2.png": "A senior tennis player sticks his tongue out while holding a tennis ball, preparing to backhand it.",
+        "438876-output3.png": "A senior hockey player sticks his tongue out while holding a hockey ball, preparing to backhand it."
+    },
+    "172686": {
+        "172686-input.png": "A table topped with oranges and a bowl of salad.",
+        "172686-output1.png": "A table topped with oranges, a bowl of salad, and a bowl of dessert.",
+        "172686-output2.png": "A table topped with oranges, watermelons, a bowl of salad, and a bowl of dessert.",
+        "172686-output3.png": "A table topped with oranges, watermelons, a bowl of salad, and a bowl of dessert being sniffed by a curious rat."
+    },
+    "144269": {
+        "144269-input.png": "People sitting on a train with one person looking up at a mirror and taking a photo of the reflection with a camera.",
+        "144269-output1.png": "People sitting on a train with one person looking up at a mirror and taking a photo of the reflection with a camera, featuring a man with longer hair.",
+        "144269-output2.png": "Man with longer hair taking a photo of his reflection on a train mirror."
+    },
+    "221212": {
+        "221212-input.png": "some people riding the back of an elephant",
+        "221212-output1.png": "An elephant in its natural habitat.",
+        "221212-output2.png": "An elephant with a shortened trunk in its natural habitat."
+    },
+    "127648": {
+        "127648-input.png": "A picture of a dessert that is on the table.",
+        "127648-output1.png": "A picture of a dessert with a single cherry on top."
+    },
+    "485234": {
+        "485234-input.png": "A sliced loaf of lemon almond tea cake.",
+        "485234-output1.png": "A sliced loaf of bread on the board.",
+        "485234-output2.png": "A sliced loaf of bread on the board with a cup of coffee in the background.",
+        "485234-output3.png": "A sliced loaf of bread with a knife on the board and a cup of coffee in the background."
+    },
+    "510955": {
+        "510955-input.png": "A very pretty lady with a oven mitt in a kitchen.",
+        "510955-output1.png": "A very pretty lady with glasses and an oven mitt in a kitchen."
+    },
+    "475169": {
+        "475169-input.png": "Several pigeons eating food off of the sidewalk.",
+        "475169-output1.png": "Cat watching several pigeons eating food off of the sidewalk."
+    },
+    "276055": {
+        "276055-input.png": "A woman holding up a large carrot in a backyard.",
+        "276055-output1.png": "A woman wearing a mask holding up a large carrot in a backyard."
+    },
+    "280490": {
+        "280490-input.png": "A meal is nicely laid out on a table.",
+        "280490-output1.png": "A meal with a pancake nicely laid out on a table.",
+        "280490-output2.png": "A meal with pancakes and fries nicely laid out on a table."
+    },
+    "329737": {
+        "329737-input.png": "a very old computer on a black background",
+        "329737-output1.png": "A very old yellow keyboard computer on a black background",
+        "329737-output2.png": "A very old yellow keyboard computer with a blue webpage on a black background",
+        "329737-output3.png": "A very old yellow keyboard computer with a blue webpage on a black background and a hamster instead of a mouse"
+    },
+    "466567": {
+        "466567-input.png": "A tree with a donut as an ornament",
+        "466567-output1.png": "A tree with an apple as an ornament"
+    },
+    "139653": {
+        "139653-input.png": "The patio umbrella is standing erect in the sun.",
+        "139653-output1.png": "Flock of birds fly by as the patio umbrella stands erect in the sun."
+    },
+    "539143": {
+        "539143-input.png": "A train traveling under a rusted bridge on top of tracks.",
+        "539143-output1.png": "A happy train traveling under a rusted bridge on top of tracks.",
+        "539143-output2.png": "A happy train stopped in front of a train station building."
+    },
+    "529266": {
+        "529266-input.png": "a horse stands on a beach as a light house over looks it",
+        "529266-output1.png": "A white horse stands on a beach as a light house over looks it",
+        "529266-output2.png": "A white horse stands on a beach as a light house over looks it with a boat in the distance",
+        "529266-output3.png": "A white horse stands on a beach surrounded by tall shrubs as a lighthouse overlooks it with a boat in the distance."
+    },
+    "376773": {
+        "376773-input.png": "Three people with a baseball equipment standing in an open area.",
+        "376773-output1.png": "Three people with a baseball equipment and an alien standing in an open area.",
+        "376773-output2.png": "Three people with a baseball equipment and an alien standing in an open area with a swimming pool by the kids."
+    },
+    "148508": {
+        "148508-input.png": "A black and white picture of a busy street, only red is in color, a red double decker bus drives down the road.",
+        "148508-output1.png": "A black and white picture of a busy street, only red is in color, a yellow double decker bus drives down the road."
+    },
+    "446917": {
+        "446917-input.png": "A person riding a racing bicycle with a banana and sunscreen in their back pocket.",
+        "446917-output1.png": "A person riding a racing motorcycle with a banana and sunscreen in their back pocket.",
+        "446917-output2.png": "A person riding a racing motorcycle with a carrot and sunscreen in their back pocket.",
+        "446917-output3.png": "A person riding a racing motorcycle with a carrot, sunscreen, and a traffic cone in their back pocket."
+    },
+    "271402": {
+        "271402-input.png": "two little girls in tennis uniforms standing next to a scooter",
+        "271402-output1.png": "Little girl in tennis uniform standing next to a scooter.",
+        "271402-output2.png": "Little girl in tennis uniform standing next to a scooter with a cat."
+    },
+    "161047": {
+        "161047-input.png": "A great shot of a full kitchen and partially a table.",
+        "161047-output1.png": "A great shot of a full kitchen and a table with a birthday cake.",
+        "161047-output2.png": "A child celebrates their birthday at a fully stocked kitchen table.",
+        "161047-output3.png": "A child wearing a birthday hat celebrates their special day at a fully stocked kitchen table."
+    },
+    "32778": {
+        "32778-input.png": "a guy skating on a skate board course",
+        "32778-output1.png": "Man in Yellow Sweatshirt Skating on a Skateboard Course"
+    },
+    "283638": {
+        "283638-input.png": "A plate with broccoli, guacamole along with an orange stir fried vegetable on the side.",
+        "283638-output1.png": "Hand holding a plate with broccoli, guacamole along with an orange stir fried vegetable on the side."
+    },
+    "21404": {
+        "21404-input.png": "A very tall clock that is by the ocean.",
+        "21404-output1.png": "A very tall clock with English numbers by the ocean.",
+        "21404-output2.png": "A very tall clock with English numbers surrounded by palm trees by the ocean.",
+        "21404-output3.png": "A flock of birds fly across a very tall clock with English numbers surrounded by palm trees by the ocean."
+    },
+    "544615": {
+        "544615-input.png": "A baby playing with a Wii controller",
+        "544615-output1.png": "A baby playing with a banana instead of a Wii controller"
+    },
+    "391388": {
+        "391388-input.png": "A bowl of broccoli, onions, white rice and brown rice.",
+        "391388-output1.png": "A bowl of white rice, brown rice, and an apple."
+    },
+    "163852": {
+        "163852-input.png": "a square plate with all kinds of vegetables on the plate",
+        "163852-output1.png": "A square plate with all kinds of vegetables and a tomato slice on the plate."
+    },
+    "171757": {
+        "171757-input.png": "a couple of people that are standing up in a room",
+        "171757-output1.png": "Woman holding a bottle of wine while standing with a man in a room"
+    },
+    "434217": {
+        "434217-input.png": "A couple of people playing frisbee in the grass.",
+        "434217-output1.png": "A couple of people enjoying soda in the grass."
+    },
+    "410366": {
+        "410366-input.png": "Two little boys who are standing in the dirt.",
+        "410366-output1.png": "Two little boys playing with a ball in the dirt.",
+        "410366-output2.png": "Two little boys playing with a ball by the lake.",
+        "410366-output3.png": "Two little boys and a girl playing with a ball by the lake."
+    },
+    "118209": {
+        "118209-input.png": "a couple of horse that are next to a fence",
+        "118209-output1.png": "Horses with saddles standing next to a fence",
+        "118209-output2.png": "Horses with saddles and shoes standing next to a fence",
+        "118209-output3.png": "Horses with saddles and shoes standing next to a fence with a hill in the background"
+    },
+    "439602": {
+        "439602-input.png": "Hot dogs are wrapped in a bacon and topped with melted cheese.",
+        "439602-output1.png": "Bacon-wrapped hot dogs topped with melted cheese, no buns.",
+        "439602-output2.png": "Bacon-wrapped hot dogs topped with melted cheese, no buns, on a transparent plate.",
+        "439602-output3.png": "Hand holding a bacon-wrapped hot dog topped with melted cheese, no buns, on a transparent plate."
+    },
+    "77444": {
+        "77444-input.png": "An assortment of colorful baked goods on a table.",
+        "77444-output1.png": "An assortment of colorful canapes and baked goods on a table.",
+        "77444-output2.png": "An assortment of colorful canapes and baked goods with a cup of tea on a table.",
+        "77444-output3.png": "An assortment of colorful canapes and baked goods with a cup of tea on a table next to an open laptop."
+    },
+    "398157": {
+        "398157-input.png": "A bathroom with mirror, sink, toilet and bathtub.",
+        "398157-output1.png": "A bathroom with mirror, sink, toilet, bathtub, and a vase of flowers on the counter."
+    },
+    "339634": {
+        "339634-input.png": "A blue and white plate with food on it.",
+        "339634-output1.png": "A blue and white plate with lobster and other food on it.",
+        "339634-output2.png": "A blue and white plate with lobster, other food, and dipping sauce on it."
+    },
+    "158702": {
+        "158702-input.png": "a plant and a white toilet in a bathroom",
+        "158702-output1.png": "An open white toilet and a plant in a bathroom",
+        "158702-output2.png": "An open white toilet and a bathroom plant with blue flowers",
+        "158702-output3.png": "An open white toilet and a bathroom plant with blue flowers behind open shower curtains"
+    },
+    "277020": {
+        "277020-input.png": "A man sitting at a bar being served by a woman",
+        "277020-output1.png": "A happy man sitting at a bar being served by a woman",
+        "277020-output2.png": "A happy blonde man sitting at a bar being served by a woman",
+        "277020-output3.png": "A happy blonde man sitting at a bar being served by a woman, with a plain tie."
+    },
+    "425609": {
+        "425609-input.png": "Three mini cupcakes are displayed with two forks.",
+        "425609-output1.png": "Three mini cupcakes are displayed with two spoons.",
+        "425609-output2.png": "Three mini cupcakes are displayed with two spoons, one with strawberry frosting.",
+        "425609-output3.png": "Three mini cupcakes with a strawberry on top of the one with strawberry frosting, displayed with two spoons."
+    },
+    "228435": {
+        "228435-input.png": "A bathroom sink topped with soap, cosmetics and a hairbrush.",
+        "228435-output1.png": "A bathroom sink topped with soap, cosmetics and a hairbrush."
+    },
+    "392991": {
+        "392991-input.png": "A white cake with chocolate being poured over the top of it.",
+        "392991-output1.png": "A white cake waiting to be topped at the bakery.",
+        "392991-output2.png": "A white cake topped with a fresh strawberry at the bakery.",
+        "392991-output3.png": "A white cake topped with a fresh strawberry at the bakery."
+    },
+    "360762": {
+        "360762-input.png": "A basket with a stuffed teddy bear hangs outside.",
+        "360762-output1.png": "A basket with a stuffed rabbit hangs outside.",
+        "360762-output2.png": "A basket with a stuffed rabbit and an egg hangs outside."
+    },
+    "25528": {
+        "25528-input.png": "A young child at bat during a baseball game.",
+        "25528-output1.png": "A young child at bat during a baseball game with the pitcher wearing gloves.",
+        "25528-output2.png": "A young child in military uniform at bat during a baseball game with the pitcher wearing gloves.",
+        "25528-output3.png": "A young child in military uniform at bat during a baseball game with the pitcher wearing gloves, surrounded by conifers."
+    },
+    "466945": {
+        "466945-input.png": "A picture of a person walking down the road.",
+        "466945-output1.png": "A person walking down the road with a spaceship in the sky.",
+        "466945-output2.png": "A person and an alien walking down the road with a spaceship in the sky."
+    },
+    "485083": {
+        "485083-input.png": "A black and white cat sitting on top of a bag of luggage.",
+        "485083-output1.png": "A black and white cat sitting on top of a bag of luggage with a rat on the floor."
+    },
+    "12766": {
+        "12766-input.png": "There is a plate of sushi and a bowl of soup and drinks on a tray",
+        "12766-output1.png": "There is a plate of sushi and a bowl of soup and a glass of wine on the table",
+        "12766-output2.png": "There is a plate of sushi, a bowl of soup, a bowl of eggs, and a glass of wine on the table.",
+        "12766-output3.png": "There is a plate of sushi, a bowl of soup, a bowl of eggs, and a bottle of wine next to a glass on the table."
+    },
+    "127517": {
+        "127517-input.png": "A row of surfboards sticking out of the sand sitting next to each other.",
+        "127517-output1.png": "A row of surfboards sticking out of the sand sitting next to each other with the legs of a lifeguard stand.",
+        "127517-output2.png": "A seagull watches over a row of surfboards sticking out of the sand next to a lifeguard stand.",
+        "127517-output3.png": "A seagull watches over a row of surfboards sticking out of the sand next to a lifeguard stand and a beach umbrella."
+    },
+    "409050": {
+        "409050-input.png": "An open and airy sitting room that leads to a patio.",
+        "409050-output1.png": "An open and airy sitting room that leads to a patio with no table.",
+        "409050-output2.png": "An open and airy sitting room with an aquarium door that leads to a patio with no table."
+    },
+    "327702": {
+        "327702-input.png": "Woman and infant son hand feeding giraffe at zoo",
+        "327702-output1.png": "Woman hand feeding giraffe at zoo with a bag",
+        "327702-output2.png": "Woman hand feeding tiger at zoo with a bag"
+    },
+    "153669": {
+        "153669-input.png": "a batter after he has hit a pitched ball before he is going to run",
+        "153669-output1.png": "A batter after he has hit a pitched ball before he is going to run, wearing a top hat."
+    },
+    "297426": {
+        "297426-input.png": "Four photographs of the portions of a keyboard and a mouse.",
+        "297426-output1.png": "Four photographs of the portions of a keyboard and a mouse with a lizard next to the mouse.",
+        "297426-output2.png": "Four photographs of a keyboard and a mouse with a lizard next to the mouse.",
+        "297426-output3.png": "Five gadgets on a desk: keyboard, mouse, cellphone, and a lizard."
+    },
+    "52603": {
+        "52603-input.png": "A young man reaching  to catch a frisbee",
+        "52603-output1.png": "A young man reaching to catch a football",
+        "52603-output2.png": "A young man in a blue jersey reaching to catch a football",
+        "52603-output3.png": "A young man in a blue jersey reaching to catch a football with a dog running towards him"
+    },
+    "258674": {
+        "258674-input.png": "A parking meter lies askew on a street.",
+        "258674-output1.png": "A white car parked next to a askew parking meter on a street."
+    },
+    "382559": {
+        "382559-input.png": "A white table inside of a kitchen next to a window.",
+        "382559-output1.png": "An empty white table inside of a kitchen next to a window."
+    },
+    "154597": {
+        "154597-input.png": "A dining room has a booth with green seats.",
+        "154597-output1.png": "A dining room has a booth with chairs.",
+        "154597-output2.png": "A dining room with a round table and booth with chairs.",
+        "154597-output3.png": "A dining room with a round table and booth with chairs and a brown door."
+    },
+    "407650": {
+        "407650-input.png": "A man flying through the air while riding a snowboard.",
+        "407650-output1.png": "A man flying through the air on a snowboard with a helicopter in the sky."
+    },
+    "573764": {
+        "573764-input.png": "A group of people sitting around a table with food.",
+        "573764-output1.png": "A group of people sitting around a cafeteria table with food.",
+        "573764-output2.png": "A group of people sitting around a cafeteria table with school lunches."
+    },
+    "349302": {
+        "349302-input.png": "The two giraffes are standing in the dirt.",
+        "349302-output1.png": "A giraffe and a monkey standing in the dirt.",
+        "349302-output2.png": "A giraffe and a monkey standing in the dirt near a parked car."
+    },
+    "56896": {
+        "56896-input.png": "A window sitting above a white heater air conditioner.",
+        "56896-output1.png": "A window sitting above a white heater air conditioner while a television shows yoga.",
+        "56896-output2.png": "A plain red curtain hanging above a white heater air conditioner while a television shows yoga.",
+        "56896-output3.png": "A plain red curtain hanging above a white heater air conditioner while a television shows yoga with a view of an airport runway."
+    },
+    "144534": {
+        "144534-input.png": "Skillet filled with salami, broccoli and other vegetables.",
+        "144534-output1.png": "Skillet filled with vegan vegetables and plant-based salami.",
+        "144534-output2.png": "Woman holding a skillet filled with vegan vegetables and plant-based salami.",
+        "144534-output3.png": "Woman holding a skillet filled with vegan vegetables and plant-based salami, drizzled with soy sauce."
+    },
+    "476335": {
+        "476335-input.png": "a group of men working the kitchen behind a counter top",
+        "476335-output1.png": "A group of men and a woman working the kitchen behind a counter top",
+        "476335-output2.png": "A group of women working the kitchen behind a counter top"
+    },
+    "149": {
+        "149-input.png": "People gathered outside in a big field on a cloudy day",
+        "149-output1.png": "People gathered outside in a big field next to a river on a cloudy day",
+        "149-output2.png": "People gathered in a field next to a river with a forest in the background on a cloudy day"
+    },
+    "92212": {
+        "92212-input.png": "a group of cars parked on a street nest to street signs",
+        "92212-output1.png": "A group of limousines parked on a street next to street signs",
+        "92212-output2.png": "A group of limousines parked on a street next to a Stop sign and other street signs",
+        "92212-output3.png": "Pedestrians walking on the side as a group of limousines parked on a street next to a Stop sign and other street signs"
+    },
+    "561514": {
+        "561514-input.png": "A violet table in the middle of a white themed kitchen",
+        "561514-output1.png": "A violet table in the middle of a white themed kitchen with tiled floor",
+        "561514-output2.png": "A violet table in the middle of a white themed kitchen with tiled floor and a curious raccoon on the island",
+        "561514-output3.png": "A violet table in the middle of a white themed kitchen with tiled floor and a curious raccoon on the island, illuminated by a sparkling chandelier on the ceiling."
+    },
+    "294943": {
+        "294943-input.png": "A cat sitting on a bathroom sink in front of it's owner.",
+        "294943-output1.png": "A cat wearing a hat sitting on a bathroom sink in front of its owner.",
+        "294943-output2.png": "A cat wearing a hat sitting on a bathroom sink in front of its owner, who is also wearing a hat."
+    },
+    "146457": {
+        "146457-input.png": "two children being entertained by preparing pizza at home.",
+        "146457-output1.png": "Boy wearing a hat helps prepare pizza with his sister at home.",
+        "146457-output2.png": "Boy wearing a hat helps prepare pizza with his sister at home while she adds ketchup."
+    },
+    "399547": {
+        "399547-input.png": "A green glass mug filled with tooth paste and toothbrushes.",
+        "399547-output1.png": "A green glass mug filled with toothpaste and forks."
+    },
+    "551701": {
+        "551701-input.png": "A young girl standing on a raised utility cover in a grass yard, with a trash can behind her on the sidewalk.",
+        "551701-output1.png": "A young girl standing on the grass in a yard, with a trash can behind her on the sidewalk.",
+        "551701-output2.png": "A young, chubby girl standing on the grass in a yard, with a trash can behind her on the sidewalk.",
+        "551701-output3.png": "A young, chubby girl standing on the grass in a yard, with a trash can behind her on the sidewalk."
+    },
+    "67027": {
+        "67027-input.png": "A pizza sitting on a pan covered in cheese and toppings.",
+        "67027-output1.png": "A pizza sitting on a pan covered in cheese and toppings with a glass of milk."
+    },
+    "272876": {
+        "272876-input.png": "A person in grey sweater doing a trick on skateboard.",
+        "272876-output1.png": "A person in grey sweater standing on skateboard and doing a trick.",
+        "272876-output2.png": "A person in grey sweater standing on skateboard and doing a trick.",
+        "272876-output3.png": "A person in grey sweater standing on skateboard and doing a trick while being watched by a cop."
+    },
+    "443320": {
+        "443320-input.png": "A bunch of apples and oranges next to a banana.",
+        "443320-output1.png": "A bunch of green apples and oranges next to a banana.",
+        "443320-output2.png": "A bunch of green apples and oranges next to a banana with a pesky fly on one of the oranges."
+    },
+    "189461": {
+        "189461-input.png": "an assortment of donuts in front of a coffee cup",
+        "189461-output1.png": "Assortment of donuts with a coffee cup and a straw"
+    },
+    "148634": {
+        "148634-input.png": "A cat sleeping on top of the hood of a car.",
+        "148634-output1.png": "A cat sleeping on top of the hood of a car, hugging a stuffed teddy bear.",
+        "148634-output2.png": "A cat sleeping on top of the hood of an open car, hugging a stuffed teddy bear."
+    },
+    "500270": {
+        "500270-input.png": "A woman in black shirt riding a skateboard.",
+        "500270-output1.png": "A woman in black shirt riding a skateboard with a UFO in the sky.",
+        "500270-output2.png": "A woman in black shirt riding a skateboard with a UFO in the sky and clear blue sky."
+    },
+    "294920": {
+        "294920-input.png": "A glass of wine and a candle are on the table.",
+        "294920-output1.png": "A glass of wine, a candle, and a book are on the table."
+    },
+    "454209": {
+        "454209-input.png": "A type of oven in an unfinished room.",
+        "454209-output1.png": "A microwave in an unfinished room.",
+        "454209-output2.png": "A microwave and bottles on a shelf in an unfinished room."
+    },
+    "572765": {
+        "572765-input.png": "A harbor full of boats on a rainy day",
+        "572765-output1.png": "A harbor full of boats and a submarine on a rainy day"
+    },
+    "204871": {
+        "204871-input.png": "A red fire hydrant with a sticker of several animals on it",
+        "204871-output1.png": "A red fire hydrant with a smiley face sticker on it."
+    },
+    "47294": {
+        "47294-input.png": "There is a demonstration taking place in the downtown area, closely observed by the police.",
+        "47294-output1.png": "\"No Demonstration\" sign at downtown area closely observed by police."
+    },
+    "265145": {
+        "265145-input.png": "A woman standing next to a bar filled with bottles.",
+        "265145-output1.png": "A woman laughing next to a bar filled with bottles.",
+        "265145-output2.png": "A woman in an expensive ball gown laughing next to a bar filled with bottles.",
+        "265145-output3.png": "A woman in an expensive ball gown laughing next to a bar filled with barbeque food."
+    },
+    "457268": {
+        "457268-input.png": "A bathroom with lots of toys hanging around a shelf.",
+        "457268-output1.png": "A bathroom with a gorilla hanging from a shelf surrounded by toys."
+    },
+    "197656": {
+        "197656-input.png": "Several train tracks with a train on one of them.",
+        "197656-output1.png": "Several train tracks with a black bullet train on one of them.",
+        "197656-output2.png": "Black bullet train passing by buildings on several train tracks."
+    },
+    "44080": {
+        "44080-input.png": "An orange bowl with oranges, bananas, and lemons",
+        "44080-output1.png": "A salad bowl with mixed greens, tomatoes, and cucumbers",
+        "44080-output2.png": "A salad bowl with mixed greens, tomatoes, and cucumbers and a cup of cola",
+        "44080-output3.png": "Salad bowl with mixed greens, tomatoes, and cucumbers, a cup of cola, and a clipboard"
+    },
+    "324012": {
+        "324012-input.png": "Two laptops are next to a monitor on a cluttered desk.",
+        "324012-output1.png": "A woman and child on the monitor watch as two laptops sit on a cluttered desk."
+    },
+    "434485": {
+        "434485-input.png": "Local fresh fruits and vegetables displayed for sale in a market",
+        "434485-output1.png": "Sliced watermelon and other fresh fruits and vegetables displayed for sale in a local market"
+    },
+    "573483": {
+        "573483-input.png": "A statue of a cherub standing next to a clock on a wall.",
+        "573483-output1.png": "A statue of a monkey standing next to a clock on a wall.",
+        "573483-output2.png": "A statue of a monkey standing next to a large bell on a wall.",
+        "573483-output3.png": "A statue of a monkey and an owl standing next to a large bell on a wall."
+    },
+    "360449": {
+        "360449-input.png": "A stoplight on a busy city street in the evening",
+        "360449-output1.png": "A stoplight on an empty city street at night",
+        "360449-output2.png": "A stoplight on an empty city street at night with a car parking garage in the background",
+        "360449-output3.png": "A stoplight and toll booth on an empty city street at night with a car parking garage in the background"
+    },
+    "455219": {
+        "455219-input.png": "Some people in a field working with some big animals.",
+        "455219-output1.png": "Some people in a field working with some big animals and a snake in front of the oxen."
+    },
+    "468203": {
+        "468203-input.png": "A table with teddy bears, sandwiches and other items.",
+        "468203-output1.png": "A table with a crowned teddy bear, sandwiches and other items."
+    },
+    "364549": {
+        "364549-input.png": "A person standing on a street with many birds.",
+        "364549-output1.png": "A woman in a designer gown standing on a street with many birds.",
+        "364549-output2.png": "A woman in a designer gown standing on a bird-filled street.",
+        "364549-output3.png": "A woman in a designer gown standing next to a park filled with birds."
+    },
+    "416125": {
+        "416125-input.png": "A stop sign and fire hydrant on the side of the road.",
+        "416125-output1.png": "A yield sign and fire hydrant on the side of the road."
+    },
+    "109921": {
+        "109921-input.png": "A white kitchen filled with appliances and dishes.",
+        "109921-output1.png": "A bright white kitchen with a view of the outdoors and appliances and dishes."
+    },
+    "169763": {
+        "169763-input.png": "A police motorcycle parked on the side of the road.",
+        "169763-output1.png": "A monkey riding a police motorcycle parked on the side of the road."
+    },
+    "279994": {
+        "279994-input.png": "Dog resting it's head on the arm of a couch.",
+        "279994-output1.png": "Dog with butterfly resting on its head on the arm of a couch."
+    },
+    "95061": {
+        "95061-input.png": "A bus parked in front of a house.",
+        "95061-output1.png": "A woman standing next to a bus parked in front of a house."
+    },
+    "116746": {
+        "116746-input.png": "A parking meter sitting next to a patch of grass.",
+        "116746-output1.png": "A parking meter sitting next to a parking lot.",
+        "116746-output2.png": "A person leaning on a parking meter in a parking lot.",
+        "116746-output3.png": "A person leaning on a parking meter in an indoor parking lot."
+    },
+    "47074": {
+        "47074-input.png": "A woman putting sticky notes on a wall near a kitchen and a computer.",
+        "47074-output1.png": "A woman in a party gown putting sticky notes on a wall near a kitchen and a computer.",
+        "47074-output2.png": "A woman in a party gown putting sticky notes on a wall near a kitchen, a computer, and a bowl of roast chicken.",
+        "47074-output3.png": "A woman in a party gown painting on a wall near a kitchen, a computer, and a bowl of roast chicken."
+    },
+    "147545": {
+        "147545-input.png": "Large sized kitchen with a dining room section.",
+        "147545-output1.png": "Large sized kitchen with a dining room section and a baby.",
+        "147545-output2.png": "Large sized kitchen with a dining room section and a baby wearing a hat."
+    },
+    "211118": {
+        "211118-input.png": "A crazy bunny toy sitting on top of a tree trunk in a field next to sheep.",
+        "211118-output1.png": "A crazy bunny toy sitting on top of a planet in space next to sheep.",
+        "211118-output2.png": "A crazy bunny toy sitting on top of a planet in space."
+    },
+    "131075": {
+        "131075-input.png": "Open laptop on table with laptop screen projected on overhead screen.",
+        "131075-output1.png": "Open laptop on table with a girl's face projected on overhead screen.",
+        "131075-output2.png": "Open laptop on table with a flower projected on overhead screen."
+    }
+}

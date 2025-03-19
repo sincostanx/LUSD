@@ -1,0 +1,1054 @@
+,idx,source_prompt,target_prompt,instructions
+0,242679-input,"A seat under a mirror onboard a train, next to a cluttered counter.","A cat lounges on a seat under a mirror onboard a train, next to a cluttered counter.",Put a cat on the seat.
+1,368667-input,A couple of horses in a field at a ranch.,Horses grazing by a stream at a ranch.,Have there be a stream running through the field
+2,368667-output1,Horses grazing by a stream at a ranch.,Horses grazing by a stream at a ranch with a giraffe in the field.,Add a giraffe in the field
+3,368667-output2,Horses grazing by a stream at a ranch with a giraffe in the field.,Horses grazing by a stream at a ranch with a giraffe in the field under a supernova explosion in the sky.,Add a supernova explosion in the sky
+4,385042-input,A black and white fire hydrant stands on a brick sidewalk.,A white fire hydrant stands on a brick sidewalk.,Make the hydrant all white.
+5,385042-output1,A white fire hydrant stands on a brick sidewalk.,A white fire hydrant stands on an asphalt street.,Put the hydrant on asphalt.
+6,385042-output2,A white fire hydrant stands on an asphalt street.,A leashed dog stands next to a white fire hydrant on an asphalt street.,Add a leashed dog to the hydrant.
+7,483348-input,A bathroom stall that is made of wood.,A wooden bathroom stall with a seat down.,Put down the seat.
+8,483348-output1,A wooden bathroom stall with a seat down.,A wooden bathroom stall with a frog in the toilet.,Put a frog in the toilet.
+9,483348-output2,A wooden bathroom stall with a frog in the toilet.,A wooden bathroom stall with a repaired floor and a frog in the toilet.,Repair the floor.
+10,141946-input,"Two laptops, many papers, desk chair, file cabinets, overheard cabinets, and other small objects fill a carpeted cubical space.","Two laptops, many papers, desk chair, file cabinets, overheard cabinets, and other small objects fill a carpeted cubical space with blank screens.",let the laptop screen be blank
+11,141946-output1,"Two laptops, many papers, desk chair, file cabinets, overheard cabinets, and other small objects fill a carpeted cubical space with blank screens.","Red chair and two laptops, many papers, desk chair, file cabinets, overhead cabinets, and other small objects fill a carpeted cubical space with blank screens.",let the chair be red
+12,141946-output2,"Red chair and two laptops, many papers, desk chair, file cabinets, overhead cabinets, and other small objects fill a carpeted cubical space with blank screens.","Black desktop and red chair with two laptops, many papers, desk chair, file cabinets, overhead cabinets, and other small objects fill a carpeted cubical space with blank screens.",let the desktop be black
+13,408425-input,A hotel looking room has a bright striped bedspread.,A hotel looking room with a white curtain and bright striped bedspread.,change the bright lime green curtains to white curtains
+14,408425-output1,A hotel looking room with a white curtain and bright striped bedspread.,A cozy room with a white curtain and a colorful bean bag in place of a bed.,change the bed to a bean bag
+15,408425-output2,A cozy room with a white curtain and a colorful bean bag in place of a bed.,"A cozy room with a wooden table, a white curtain, and a colorful bean bag in place of a bed.",let the table be wooden
+16,352290-input,A brown horse standing on top of a lush green hillside.,A brown horse wearing a hat standing on top of a lush green hillside.,What if the horse was using a hat?
+17,352290-output1,A brown horse wearing a hat standing on top of a lush green hillside.,A brown horse wearing a hat standing on top of a lush green hillside with birds flying in the sky.,Let's add birds to the sky
+18,385037-input,A man and a woman sit on top of a motorcycle.,A woman sits on top of a motorcycle.,Remove the man.
+19,385037-output1,A woman sits on top of a motorcycle.,An obese woman sits on top of a motorcycle.,Make the woman obese.
+20,385037-output2,An obese woman sits on top of a motorcycle.,An obese woman with a helmet sits on top of a motorcycle.,Give the woman a helmet.
+21,464144-input,The man is skiing down the hill with his goggles up.,The boy is skiing down the hill with his goggles up.,Let a boy ski.
+22,578213-input,Someone sleeping under a big red blanket with flowers on it.,"Someone sleeping under a big red blanket with flowers on it, with banana shaped candles in the candle holder.",put banana shaped candles in the candle holder
+23,127515-input,A baseball player swings at a pitch while the catcher and referee look on.,A baseball player catches a ball while the catcher and referee look on.,let the player catch a ball
+24,308332-input,A bedroom decorated with a blue underwater theme.,A bedroom decorated with a blue underwater theme featuring a mermaid picture on the wall.,Have there be a mermaid in the picture on the wall
+25,308332-output1,A bedroom decorated with a blue underwater theme featuring a mermaid picture on the wall.,A bedroom decorated with a blue underwater theme featuring a mermaid reading a book on the wall.,Have the mermaid be reading a book
+26,308332-output2,A bedroom decorated with a blue underwater theme featuring a mermaid reading a book on the wall.,A bedroom decorated with a blue underwater theme featuring a mermaid reading a book on the wall and a lobster on the bed.,Have there be a lobster on the bed
+27,284725-input,a public transit bus on a city street,A public transit bus driving on a city street.,Remove the car in front of the bus.
+28,284725-output1,A public transit bus driving on a city street.,A public transit bus driving on a city street with a small cat on top.,Put a small cat on top of the bus.
+29,560472-input,hot dogs and chicken on a table next to a grill,Burgers and chicken on a table next to a grill with patties cooking in the pan,let there be patties in the pan
+30,560472-output1,Burgers and chicken on a table next to a grill with patties cooking in the pan,Pancakes and burgers on a table next to a grill with patties cooking in the pan,let there be pancakes on the pan
+31,560472-output2,Pancakes and burgers on a table next to a grill with patties cooking in the pan,"Pancakes, burgers, and a bottle of wine on a table next to a grill with patties cooking in the pan",let there be a bottle of wine
+32,441483-input,A toilet with no seat sits in a tiny bathroom.,A toilet with a lid sits in a tiny bathroom.,Let the toilet bowl have a lid.
+33,116518-input,A dog is frolicking with a dirty white teddy bear.,A dog is frolicking with a black teddy bear.,Make the teddy bear black.
+34,116518-output1,A dog is frolicking with a black teddy bear.,A dog is licking a black teddy bear in a playful frolic.,Have the dog lick the teddy bear.
+35,116518-output2,A dog is licking a black teddy bear in a playful frolic.,A dog with a dragonfly on its ear is licking a black teddy bear in a playful frolic.,Put a dragonfly on the dog's ear.
+36,103966-input,A metal bench with tennis racquets sitting on top of them.,A metal bench with a shovel sitting on top of it.,replace the tennis rackets with a shovel
+37,103966-output1,A metal bench with a shovel sitting on top of it.,A wooden pew with a shovel sitting on top of it.,change the bench into a wooden pew
+38,103966-output2,A wooden pew with a shovel sitting on top of it.,A wooden pew with a shovel and a bucket of dirt sitting on top of it.,let there be a bucket of the dirt
+39,258155-input,a white bed with spots on it in a room,A white bed with a longer blanket hanging over it in a room.,Let the blanket be longer and hang over the bed.
+40,495146-input,A train crosses as a bunch of gathered vehicles watch.,A train crosses as a bunch of gathered vehicles and a helicopter watch.,Add a helicopter.
+41,70491-input,A green covered Wii remote lying on a table.,A green VR headset lying on a table.,let the remote turn into a VR headset
+42,70491-output1,A green VR headset lying on a table.,A green VR headset lying on a table with a movie poster on the wall.,let there be a movie poster on the wall
+43,70491-output2,A green VR headset lying on a table with a movie poster on the wall.,A green VR headset and credit card lying on a table with a movie poster on the wall.,let there be a credit card on the table
+44,296012-input,A small green car has a plaque with writing in front of it.,A red sports car with a plaque and writing in front of it.,transform the car into a red sports car
+45,221187-input,A women in a white shirt who is eating a banana.,A woman in a white shirt singing into a microphone.,Change the banana to a microphone.
+46,160864-input,Baseball team holding batting practice on the field,Baseball team holding swords on the field during practice,make the baseball players hold swords
+47,160864-output1,Baseball team holding swords on the field during practice,"Baseball team holding swords on the field during practice, with the catcher laughing uncontrollably",make the catcher laugh
+48,160864-output2,"Baseball team holding swords on the field during practice, with the catcher laughing uncontrollably","Baseball team holding swords on the field during practice, with the clown catcher laughing uncontrollably",let the catcher wear a clown costume
+49,51746-input,A white couch sitting in a living room next to a book shelf.,A brown couch sitting in a living room next to a book shelf.,change the white couch to a brown couch
+50,51746-output1,A brown couch sitting in a living room next to a book shelf.,A brown couch sitting in a living room next to a book shelf with a blank TV screen.,let the TV have a blank screen
+51,51746-output2,A brown couch sitting in a living room next to a book shelf with a blank TV screen.,A brown couch sitting in a living room next to a book shelf with a blank TV screen and a cute puppy.,add a puppy near the couch
+52,171328-input,This trees has a lot of oranges growing on it.,This trees has a lot of oranges growing on it with a tower in the background.,change the brick wall into a tower
+53,171328-output1,This trees has a lot of oranges growing on it with a tower in the background.,This trees has a lot of berries growing on it with a tower in the background.,change the oranges into berries
+54,171328-output2,This trees has a lot of berries growing on it with a tower in the background.,Ripe yellowed leaves and berries on a tree with a tower in the background.,let the leaves be ripe and yellowed
+55,398772-input,A bed with a tray on top sits in a room with a fridge.,"A wheelchair accessible room with a bed and tray table, and a fridge.",change the chair into a wheel chair.
+56,398772-output1,"A wheelchair accessible room with a bed and tray table, and a fridge.","A hospital-style wheelchair accessible room with an adjustable bed, tray table, and fridge.",make the bed look like a hospital bed
+57,118246-input,A table of food that includes peanuts and two hot dogs.,A table of food that includes two hot dogs and peanuts in shells.,Make the peanuts have shells
+58,114697-input,A boy swings a bat while playing baseball.,A baseball coach watches as a boy swings a bat while playing.,Add a baseball coach.
+59,3259-input,a desk filled with assorted electronics and a phone,A desk filled with assorted electronics and a table lamp,replace the phone with a table lamp
+60,3259-output1,A desk filled with assorted electronics and a table lamp,"A desk filled with assorted electronics, including a laptop with a red webpage, and a table lamp",let the laptop have a red webpage
+61,3259-output2,"A desk filled with assorted electronics, including a laptop with a red webpage, and a table lamp","A desk filled with assorted electronics, including a white laptop with a red webpage, and a table lamp",change the black laptop to white laptop
+62,519688-input,A woman wearing a blue coat holds a furry animal in her arms,A woman wearing a blue coat and scars on her face holds a furry animal in her arms.,Give the women scars on her face.
+63,554145-input,A store shelf filled with different colored tooth brushes.,"A store shelf filled with different colored tooth brushes, some marked with an orange sticky note.",Fix an orange sticky note to some brushes.
+64,296724-input,A pink and red couch in a room with a pink rug.,Grandma sitting on a pink and red couch in a room with a pink rug.,Add a grandma.
+65,417043-input,A bench sitting on the side of a road.,A clown sitting on a bench on the side of a road.,Put a clown on the bench.
+66,65135-input,A large passenger sitting on top of an airport runway.,A large passenger plane parked on an airport runway.,Let the plane be parked on the runway.
+67,5253-input,The stop sign is clearly displayed above the traffic light.,"The ""GO"" sign is clearly displayed above the traffic light.","Change the stop sign to say ""GO"""
+68,335874-input,A polar bear walking on a rocky patch of ground.,A zebra-striped polar bear walking on a rocky patch of ground.,Give the polar bear zebra stripes
+69,335874-output1,A zebra-striped polar bear walking on a rocky patch of ground.,A zebra-striped polar bear walking on a rocky patch of ground with a whole pizza in its mouth.,Have the polar bear be holding a whole pizza in its mouth
+70,335874-output2,A zebra-striped polar bear walking on a rocky patch of ground with a whole pizza in its mouth.,A zebra-striped polar bear wearing a top hat walking on a rocky patch of ground with a whole pizza in its mouth.,Have the polar bear be wearing a top hat
+71,169365-input,A cat sitting in a sink beside a cup with a toothbrush in it.,A meowing cat sitting in a sink beside a cup with a toothbrush in it.,let the cat meow
+72,440336-input,a group of people throwing around a freez be,A group of people throwing around a fireball.,Make a fireball.
+73,440336-output1,A group of people throwing around a fireball.,A group of people throwing around a fireball with a bird in the background.,Insert a bird.
+74,330790-input,an elephant is carrying some plants in its tusk,An elephant with a red bow on its head carrying plants in its tusk,put a red bow on the elephant's head
+75,237587-input,"A fire hydrant is decorated with the colors of the American flag: red, white, and blue.","A bald eagle perched on a fire hydrant decorated with the colors of the American flag: red, white, and blue.",Have there be a bald eagle perched on the fire hydrant
+76,25485-input,A vase filled with the Charlie Brown Christmas Tree.,A vase filled with the Charlie Brown Christmas Tree and an owl.,Replace the dove with an owl.
+77,25485-output1,A vase filled with the Charlie Brown Christmas Tree and an owl.,"A vase filled with the Charlie Brown Christmas Tree, an owl, and a kitten on the floor.",There should be a kitten on the floor.
+78,495312-input,A man is holding a chiguagua dog over a bowl with a surprised look on his face.,A man is holding a laptop with a chiguagua dog on his lap with a surprised look on his face.,What if he was holding a laptop?
+79,495312-output1,A man is holding a laptop with a chiguagua dog on his lap with a surprised look on his face.,A bespectacled man holds a laptop with a chiguagua dog on his lap with a surprised look on his face.,What if he has glasses?
+80,331816-input,A group of sheep in grassy area with tree in the background.,A group of sheep in a grassy area.,Take away the trees.
+81,115037-input,"Pens, scissors, markers and other assorted clerical tools.","Assorted clerical tools including plastic scissors, pens, and markers.",Let the scissors be made of plastic.
+82,376843-input,"Tennis serve on blue court with green boarder, spectators on blue observation area.","Man in brown pants serves on blue court with green boarder, spectators on blue observation area.",Let the man wear brown pants.
+83,54464-input,Two laptops are set on an unmade bed.,Two laptops and a heart pillow set on an unmade bed.,put a heart pillow next to the laptop
+84,54464-output1,Two laptops and a heart pillow set on an unmade bed.,A heart pillow set on an unmade bed.,remove the laptop and leave a heart pillow
+85,54464-output2,A heart pillow set on an unmade bed.,Heart pillow on an empty bed.,remove the other items from the bed
+86,151050-input,A fake stop sign is shown in the grass.,A fake no entry sign is shown in the grass.,change the stop sign into a no entry sign
+87,151050-output1,A fake no entry sign is shown in the grass.,A carved pumpkin sits next to a fake no entry sign in the grass.,add a carved pumpkin next to the sign
+88,151050-output2,A carved pumpkin sits next to a fake no entry sign in the grass.,A woman jogging in the back as a carved pumpkin sits next to a fake no entry sign in the grass.,add a woman jogging in the back
+89,222015-input,A clock with antique forks and spoons implemented as design.,An eye with antique forks and spoons implemented as design.,turn the clock into an eye
+90,491098-input,A formally set dining table is adorned with fresh tulips.,A formally set dining table with fresh tulips and a bottle of wine.,What if there is a bottle of wine on the table?
+91,491098-output1,A formally set dining table with fresh tulips and a bottle of wine.,"A formally set dining table with fresh tulips, a bottle of wine, and a drawing of a girl on the wall.",Let's add a drawing of a girl to the wall.
+92,461252-input,A plate with some very tasty looking food items.,"A plate with some very tasty looking food items, including broccoli and bell peppers in the bowl.",let the bowl contain broccoli and bell peppers
+93,461252-output1,"A plate with some very tasty looking food items, including broccoli and bell peppers in the bowl.","A plate with some very tasty looking food items, including broccoli and bell peppers in the bowl and an empty bun.",let there be empty bun instead of the sandwich
+94,461252-output2,"A plate with some very tasty looking food items, including broccoli and bell peppers in the bowl and an empty bun.",Tasty food items including broccoli and bell peppers on a transparent glass plate with an empty bun.,let the food be on a transparent glass plate
+95,294330-input,A home office with a desk and computers.,"A home office with a desk, leather bound books, and computers.",let the books be leather bound
+96,294330-output1,"A home office with a desk, leather bound books, and computers.","A home office with a desk, leather bound books, and computers displaying code.",let the computer screens have code
+97,294330-output2,"A home office with a desk, leather bound books, and computers displaying code.","A home office with a desk, leather bound books, and computers displaying code.",remove the chairs
+98,65307-input,A pretty young lady playing a game of frisbee.,A pretty young lady playing a game of frisbee with a hat on.,Have the woman wear a hat.
+99,373776-input,A bedroom with a modern look and distinct blue lights.,A bedroom with a modern look and distinct star-shaped blue lights.,Change the teardrop cutouts to be a star-shaped hole
+100,163866-input,A woman is pulling a red suitcase down the side walk.,A woman is walking her dog and pulling a red suitcase down the sidewalk.,Let's add a dog to the left side of the woman.
+101,393403-input,A large yellow and red double decker bus traveling down a street.,A large yellow and red train traveling down a street.,change the bus into a train
+102,459898-input,Some animals run together in the tall grass.,"Some animals, including a wolf, run together in the tall grass.",change a zebra into a wolf
+103,459898-output1,"Some animals, including a wolf, run together in the tall grass.","Some animals, including a wolf, run together in the tall grass with a bird perched on the back of a zebra.",add a bird on the zebra
+104,161062-input,A plane on the runway under cloudy skies.,Empty runway under cloudy skies.,There should be no plane.
+105,246924-input,A hand cutting up bell pepper on top of a wooden cutting board.,A hand cutting up bell pepper on top of a wooden cutting board.,Remove the hand hairs.
+106,246924-output1,A hand cutting up bell pepper on top of a wooden cutting board.,A hand cutting up red bell pepper on top of a wooden cutting board.,Get rid of the green peppers.
+107,482545-input,A cat drinking water from a toilet bowl.,An iguana drinking water from a toilet bowl.,Change the cat to an iguana
+108,32818-input,A concrete bench posed by a tree trunk on a beach.,One person flies a kite while sitting on a concrete bench posed by a tree trunk on a beach.,have one person fly a kite
+109,32818-output1,One person flies a kite while sitting on a concrete bench posed by a tree trunk on a beach.,One person flies a kite while sitting on a wooden bench posed by a tree trunk on a beach.,make one bench wood
+110,32818-output2,One person flies a kite while sitting on a wooden bench posed by a tree trunk on a beach.,"One person flies a kite while sitting on a wooden bench posed by a tree trunk on a beach, with a bag of popcorn and a group of ducks.",add a bag of popcorn and a group of ducks
+111,534041-input,a woman is feeding food to this small child,Cool kid alert! A woman is feeding food to this small child wearing sunglasses.,Have the boy be wearing sunglasses
+112,536595-input,an image of a white fire hydrant on the side walk,An image of a red fire hydrant on the sidewalk,change the white and blue hydrant into red
+113,536595-output1,An image of a red fire hydrant on the sidewalk,A friendly mascot posing with a red fire hydrant on the sidewalk,add a mascot
+114,536595-output2,A friendly mascot posing with a red fire hydrant on the sidewalk,A friendly mascot posing with a red fire hydrant and a roadblock on the sidewalk,add a roadblock near the hydrant
+115,279939-input,"A bathroom contains a toilet, sink, and bathtub.","A closed lid on a bathroom toilet, sink, and bathtub.",What if the lid was closed?
+116,358653-input,The inside of a kitchen with different appliances,"The inside of a kitchen with different appliances, including a refrigerator with a fun drawing on it.",add drawing to the refrigerator
+117,358653-output1,"The inside of a kitchen with different appliances, including a refrigerator with a fun drawing on it.","A cat perched on top of the freezer in a kitchen with various appliances, including a refrigerator with a fun drawing on it.",put a cat on top of the freezer
+118,348966-input,Two donuts rest alongside an ice tea on a picnic table.,Two blue drinks and donuts on a picnic table.,Make the drinks blue.
+119,338924-input,A pizza sitting on top of a plate on top of a wooden table.,A pizza sitting on top of a plate with a geranium plant on a wooden table.,change the basil plant into a geranium plant
+120,338924-output1,A pizza sitting on top of a plate with a geranium plant on a wooden table.,A meat pizza sitting on top of a plate with a geranium plant on a wooden table.,turn the vegetable pizza into meat pizza
+121,338924-output2,A meat pizza sitting on top of a plate with a geranium plant on a wooden table.,A meat pizza sitting on top of a round white plate with a geranium plant on a wooden table.,let the wooden tray be a round white plate
+122,286724-input,A family of gray elephants standing side by side.,A family of gray elephants walking in the woods with no trees.,What if the elephants were walking in the woods with no trees?
+123,88759-input,"A kitchen with a sink, washing machine, multiple cleaning supplies and shelves in it.","A fully equipped kitchen with a sink, washing machine, oven, multiple cleaning supplies and shelves in it.",put a oven on the kitchen
+124,88759-output1,"A fully equipped kitchen with a sink, washing machine, oven, multiple cleaning supplies and shelves in it.","A fully equipped kitchen with a sink, washing machine, oven, multiple cleaning supplies, shelves, and a watermelon in it.",put a watermelon on the kitchen
+125,360510-input,A cat laying on to of a car roof.,A cat laying on top of a truck roof.,change the car to a truck
+126,360510-output1,A cat laying on top of a truck roof.,A cat laying on top of a truck roof with the sun shining on the building.,have the sun shine on the building
+127,360510-output2,A cat laying on top of a truck roof with the sun shining on the building.,A cat laying on top of a truck roof with fishing poles and the sun shining on the building.,add fishing poles
+128,208469-input,A square pizza sitting on top of a pan.,A round pizza sitting on top of a pan.,make the pizza round
+129,208469-output1,A round pizza sitting on top of a pan.,A round pizza sitting on top of a pan with a glass nearby.,put a glass close to the pizza
+130,8238-input,A man in a suit riding a motorcycle.,A man in a suit with a red tie riding a motorcycle.,Let the man wear a red tie.
+131,543833-input,A simple glass vase with stems of lilies sits in front of a large window.,A blue glass vase with stems of lilies sits in front of a large window.,let the glass vase be blue
+132,543833-output1,A blue glass vase with stems of lilies sits in front of a large window.,A blue glass vase and pot with stems of lilies sit in front of a large window.,let the pot next to the vase be blue
+133,543833-output2,A blue glass vase and pot with stems of lilies sit in front of a large window.,A blue glass vase and pot with stems of lilies sit in front of a large window with a candle nearby.,add a candle near the pot
+134,262710-input,A man in a black jacket walking on wet pavement looks down at his cell phone.,A cowboy in a black jacket walking on wet pavement looks down at his cell phone.,replace the cap with a cowboy hat
+135,104081-input,a number of cows in a field near trees,Tractor and cows in a field near trees,let there be a tractor
+136,104081-output1,Tractor and cows in a field near trees,"Log cabin, tractor, and cows in a field near trees",let there be a log cabin in the back
+137,156195-input,Sheep graze in a large field with trees behind them.,Sheep graze in a large field with red-leaved trees behind them.,Change the trees to have red leaves
+138,156195-output1,Sheep graze in a large field with red-leaved trees behind them.,Model posing with sheep in a large field with red-leaved trees behind them.,Have there be a model posing next to the sheep
+139,161128-input,A curse word written on a traffic sign.,A parking sign in place of a curse word on a traffic sign.,change the no cursing sign to a parking sign
+140,161128-output1,A parking sign in place of a curse word on a traffic sign.,A parking sign in place of a curse word on a traffic sign with a lightning bolt in the sky.,add a lightning bolt in the sky
+141,161128-output2,A parking sign in place of a curse word on a traffic sign with a lightning bolt in the sky.,A cop car parked under a traffic sign with a parking sign in place of a curse word and a lightning bolt in the sky.,add a cop car
+142,376839-input,A man holding a womans hand while she holds an umbrella.,A man holding a woman's hand while she holds an umbrella and a dog walks beside them.,Let's add a dog to it.
+143,376839-output1,A man holding a woman's hand while she holds an umbrella and a dog walks beside them.,"A man holding a woman's hand while she holds an umbrella and a dog walks beside them, with the woman wearing a cowboy hat.",What if the woman had a cowboy hat.
+144,475425-input,A floral dinner plate with a pulled pork sandwich and chips and a glass of milk on the side.,An empty floral dinner plate with a glass of milk on the side.,remove all the food from the plate
+145,475425-output1,An empty floral dinner plate with a glass of milk on the side.,An empty floral dinner plate with a soda can on the side.,remove the milk glass and put a soda can in place
+146,446522-input,A dog sitting on a chair underneath a painting.,A dog sitting on a chair underneath a painting in the dining room.,add the dinning room in the background
+147,446522-output1,A dog sitting on a chair underneath a painting in the dining room.,A dog and cat sitting on a chair underneath a painting in the dining room.,Add a cat beside the dog.
+148,446522-output2,A dog and cat sitting on a chair underneath a painting in the dining room.,A dog and cat sitting on a chair underneath a painting in the dining room with a floor lamp next to them.,Place a floor lamp next to the chair.
+149,32777-input,A man that is walking next to a train.,A man with a backpack and hat walking next to a train.,Let's add a hat to the man with the backpack
+150,383220-input,There's a snow man with a tennis racket on it,Squirrels playing tennis in the snow,remove the snowmen and add squirrels
+151,383220-output1,Squirrels playing tennis in the snow,Squirrels playing tennis under the moonlight in the snow,make it night and add the moon
+152,385190-input,Street art painted on the wall in an asian country.,Flower street art painted on the wall in an Asian country.,The painting should be of flowers.
+153,319522-input,A herd of animals grazing on a lush green field.,A herd of white horses grazing on a lush green field.,Let the horses turn white.
+154,67616-input,A restaurant with patrons in the outdoor eating area.,A red Lamborghini parked in front of a restaurant with patrons in the outdoor eating area.,Have a red Lamborghini parked in front
+155,71409-input,A vintage red pick up truck is shown on a city street.,A vintage red pick up truck and a new car are shown on a city street.,Put a new car on the street.
+156,71409-output1,A vintage red pick up truck and a new car are shown on a city street.,A vintage red pick up truck and a new car parked on a city street with a fire hydrant on the sidewalk.,Put a fire hydrant on the side walk.
+157,125109-input,a white painted kitchen with an oven and a cooker,A white painted kitchen with an oven and a cooker on a red tile floor,change the wooden floor into a red tile floor
+158,125109-output1,A white painted kitchen with an oven and a cooker on a red tile floor,"A white painted kitchen with an oven and a cooker on a red tile floor, featuring a blue vase of flowers.",let the flowers in the vase be blue
+159,125109-output2,"A white painted kitchen with an oven and a cooker on a red tile floor, featuring a blue vase of flowers.","A white painted kitchen with a big chimney over the stove and a cooker on a red tile floor, featuring a blue vase of flowers.",let there be a big chimney over the stove
+160,248403-input,A woman is sitting down outside eating pizza.,"A woman is sitting down outside with her mouth open, ready to eat pizza.",Open her mouth.
+161,248403-output1,"A woman is sitting down outside with her mouth open, ready to eat pizza.","Blindfolded woman sitting outside with her mouth open, ready to eat pizza.",Blindfold her.
+162,318657-input,Many kites flying in the sky on a cloudy day,Many kites flying in the sky with a spaceship on a cloudy day,Have there be a spaceship in the sky
+163,89648-input,A crowd of people sitting down next to each other.,"A crowd of people sitting down next to each other, without a woman using a laptop.",Remove the woman using the laptop.
+164,323789-input,Man in a uniform talking on a phone at a work desk.,Man in a uniform laughing while talking on a phone at a work desk.,make the man laugh
+165,323789-output1,Man in a uniform laughing while talking on a phone at a work desk.,Man in a uniform laughing while talking on a phone at a work desk with a world map on the wall.,let there be a world map on the wall
+166,323789-output2,Man in a uniform laughing while talking on a phone at a work desk with a world map on the wall.,Man with curly blonde hair in a uniform laughing while talking on a phone at a work desk with a world map on the wall.,let the man have curly blonde hair
+167,278555-input,A man holding a surfboard stands on rocks and looks down at the ocean.,A man with a backpack and surfboard stands on rocks and looks down at the ocean.,What if he was with a backpack?
+168,528266-input,a person on a couch with a box of pizza,Man on couch with a box of pizza covering his mouth with his hand,make the man cover his mouth with his hand
+169,528266-output1,Man on couch with a box of pizza covering his mouth with his hand,Man on couch with an open box of pizza covering his mouth with his hand,let the pizza box be open
+170,528266-output2,Man on couch with an open box of pizza covering his mouth with his hand,Man with crew cut hair on couch with an open box of pizza covering his mouth with his hand,let the man have crew cut hair
+171,376990-input,A hand holds a hot dog while a little girl stands near.,A hand holds a sandwich while a little girl stands near.,Replace the hot dog with a sandwich.
+172,376990-output1,A hand holds a sandwich while a little girl stands near.,A hand holds a sandwich while a little girl with a helmet stands near.,Replace the girl's beanie with a helmet.
+173,60892-input,Two double beds in a hotel room with a logo on the comforter.,Two double beds in a hotel room with a logo on the comforter and a dog.,Add a dog.
+174,60892-output1,Two double beds in a hotel room with a logo on the comforter and a dog.,Two double beds in a hotel room with a logo on the comforter and a dog.,Remove the phone.
+175,532482-input,A green fire hydrant with three yellow concrete barriers around it.,A red fire hydrant with three yellow concrete barriers around it.,Make the hydrant red.
+176,532482-output1,A red fire hydrant with three yellow concrete barriers around it.,A Dalmatian dog sitting next to a red fire hydrant with three yellow concrete barriers around it.,Add a Dalmatian dog.
+177,532482-output2,A Dalmatian dog sitting next to a red fire hydrant with three yellow concrete barriers around it.,A Dalmatian dog sitting next to a red fire truck with three yellow concrete barriers around it.,Make the bus a fire truck.
+178,494413-input,"A hot dog with cheese, onions and relish on a bun in a wrapper.","A hot dog with cheese, onions and relish on a bun in a wrapper with a fork sticking out.",Have there be with a fork sticking out of the hot dog
+179,75216-input,A herd of cattle laying in the grass on the ground.,"A cow in a herd of cattle laying in the grass on the ground, mooing.",let a cow moo
+180,75216-output1,"A cow in a herd of cattle laying in the grass on the ground, mooing.","A cow and a duck in a herd of cattle laying in the grass on the ground, mooing and quacking.",let there be a duck
+181,75216-output2,"A cow and a duck in a herd of cattle laying in the grass on the ground, mooing and quacking.","A cow and a duck in a herd of cattle laying in the grass on the ground, mooing and quacking with a hut in the background.",let there be a hut at the back
+182,328802-input,A zebra is in a shady tree lined enclosure.,Zebra drinking from a bucket in a shady tree lined enclosure.,make the zebra drink from a bucket
+183,328802-output1,Zebra drinking from a bucket in a shady tree lined enclosure.,Zebra drinking from a bucket in a shady enclosure with lush green trees.,let the tree have dense green leaves
+184,328802-output2,Zebra drinking from a bucket in a shady enclosure with lush green trees.,Thin and lanky zebra drinking from a bucket in a shady enclosure with lush green trees.,let the zebra be thin and lanky
+185,324104-input,Birds surrounding an animal in the middle of a field.,Birds surrounding an animal in the middle of a field next to a river.,Can we put a river next to the field?
+186,324104-output1,Birds surrounding an animal in the middle of a field next to a river.,Birds surrounding an animal in the middle of a field next to a river with majestic mountains in the background.,Can we have mountains on the background?
+187,324104-output2,Birds surrounding an animal in the middle of a field next to a river with majestic mountains in the background.,Horse surrounded by birds in the middle of a field next to a river with majestic mountains in the background.,It should be a horse on the field.
+188,137100-input,a close up of pizza on a plate,"A close up of pizza on a plate, ready to be eaten with your hands.",Get rid of the fork.
+189,137100-output1,"A close up of pizza on a plate, ready to be eaten with your hands.","Close up of pizza on a cleared plate, ready to be eaten with your hands.",Clear the rest of the table.
+190,137100-output2,"Close up of pizza on a cleared plate, ready to be eaten with your hands.","Close up of a sandwich on a cleared plate, ready to be eaten with your hands.",Replace the pizza with a sandwich.
+191,229419-input,Three cows being herded by a dog inside a fenced in area.,A tractor herding three cows with the help of a dog inside a fenced in area.,add a tractor.
+192,229419-output1,A tractor herding three cows with the help of a dog inside a fenced in area.,A tractor herding three horses with the help of a dog inside a fenced in area.,change the cows to horses
+193,229419-output2,A tractor herding three horses with the help of a dog inside a fenced in area.,A tractor herding three horses with the help of a dog in a fenced-in cornfield.,make the field a cornfield.
+194,188148-input,A person sitting on a bed and working on a laptop.,A person sitting on a bed and working on a laptop wearing glasses.,Let's add glasses to the man.
+195,188148-output1,A person sitting on a bed and working on a laptop wearing glasses.,A person sitting on a bed and working on a different laptop wearing glasses.,What if it was another laptop?
+196,402802-input,A woman sitting at a table with a little girl.,A woman comforting a crying little girl at the table.,let the girl cry
+197,402802-output1,A woman comforting a crying little girl at the table.,A woman comforting a crying little girl at the table with a vase of tulips.,let the vase contain a tulip
+198,402802-output2,A woman comforting a crying little girl at the table with a vase of tulips.,A man and woman comforting a crying little girl at the table with a vase of tulips.,let a man sit next to the girl
+199,396260-input,A large piece of luggage filled with items.,A large trash can filled with items.,change the backpack into a trash can
+200,396260-output1,A large trash can filled with items.,A large trash can filled with items and soda cans inside the suitcase.,add soda cans inside the suitcase
+201,396260-output2,A large trash can filled with items and soda cans inside the suitcase.,Tile floor with scattered items and soda cans from a large trash can,let it be tile floor
+202,197658-input,Cather preparing to catch ball in an empty field,Cather catching ball in an empty field.,Add a ball coming towards the player.
+203,102174-input,a work desk with a monitor and keyboard,"Cockatiel perched on work desk with open mouth, monitor and keyboard in background",make the cockatiel open its mouth
+204,102174-output1,"Cockatiel perched on work desk with open mouth, monitor and keyboard in background","Cockatiel watching a video on work desk with open mouth, monitor and keyboard in background",make the screen show a video webpage
+205,102174-output2,"Cockatiel watching a video on work desk with open mouth, monitor and keyboard in background","Cockatiel watching a video on work desk with open mouth, black monitor and keyboard in background",let the computer be black
+206,550000-input,A man standing next to a baseball plate holding a bat.,A woman standing next to a baseball plate holding a bat.,swap the boys for a girl
+207,483357-input,"An empty clean bathroom with a tiled floor, bathtub and sink.","A clean bathroom with a tiled floor, bathtub, sink, and a vase of flowers.",Le'ts add a vase of flowers on the sink.
+208,326408-input,"The many sandwiches have meat, lettuce, tomato, and cheese.","The many sandwiches have meat, lettuce, tomato, cheese, and an unwelcome guest.",Put a rat near the sandwiches.
+209,257558-input,several stuffed teddy bears hanging from the ceiling,Several stuffed teddy bears and a grizzly bear hanging from the ceiling,add a grizzly bear near the stuffed bear
+210,257558-output1,Several stuffed teddy bears and a grizzly bear hanging from the ceiling,Several stuffed teddy bears and a grizzly bear hanging from the ceiling with a big star on the Christmas tree,add a big star on the xmas tree
+211,257558-output2,Several stuffed teddy bears and a grizzly bear hanging from the ceiling with a big star on the Christmas tree,Several stuffed teddy bears and a grizzly bear hanging from the ceiling with gift boxes near the big star on the Christmas tree,add gift boxes near the bears
+212,377056-input,A flat screen TV mounted to a wall.,A flat screen TV mounted to a wall with a flamingo standing nearby.,Add a flamingo.
+213,45071-input,The multi-colored cat is standing on a luggage bag.,Shocked multi-colored cat standing on a luggage bag.,let the cat looked shocked
+214,45071-output1,Shocked multi-colored cat standing on a luggage bag.,Hungry multi-colored cat standing on a luggage bag with cat food next to it.,add cat food next to the bag
+215,45071-output2,Hungry multi-colored cat standing on a luggage bag with cat food next to it.,Hungry multi-colored cat standing on a luggage bag with white ball and cat food next to it.,let the ball be white
+216,106172-input,A guy posing with a guitar while making a song.,A guy posing with a guitar while making a song.,Remove the computer.
+217,106172-output1,A guy posing with a guitar while making a song.,Cool guy posing with a guitar and wearing sunglasses while making a song.,He should be wearing sunglasses.
+218,106172-output2,Cool guy posing with a guitar and wearing sunglasses while making a song.,Cool guy posing with a guitar and wearing sunglasses while making a song with a party hat on his head.,There should be a party hat on his head.
+219,517548-input,A charming country bathroom includes a hotel style wall hung blowdryer.,A charming country bathroom with a hotel style wall hung blowdryer and an open toilet lid.,Can we open the lid of the toilet?
+220,517548-output1,A charming country bathroom with a hotel style wall hung blowdryer and an open toilet lid.,"A charming country bathroom with a hotel style wall hung blowdryer, an open toilet lid, and a mirror on the wall.",add a mirror to the wall.
+221,517548-output2,"A charming country bathroom with a hotel style wall hung blowdryer, an open toilet lid, and a mirror on the wall.","A charming white country bathroom with a hotel style wall hung blowdryer, an open toilet lid, and a mirror on the wall.",the sink should be white.
+222,297154-input,a blue and yellow plane is in the sky,A red and white plane is in the sky,change the blue and yellow to red and white plane
+223,297154-output1,A red and white plane is in the sky,A flock of birds fly alongside a red and white plane in the sky,add birds flying in the sky
+224,297154-output2,A flock of birds fly alongside a red and white plane in the sky,No caption provided,remove the words
+225,134689-input,there is a very tall giraffe standing in the wild,A tall giraffe and a zebra standing in the wild,Add a zebra.
+226,232025-input,A pitcher and two other players on a baseball field.,Jumping pitcher and two other players on a baseball field.,make the pitcher jump
+227,232025-output1,Jumping pitcher and two other players on a baseball field.,Pitcher jumping with a motorcycle behind him and two other players on a baseball field.,put a motorcycle behind the pitcher
+228,232025-output2,Pitcher jumping with a motorcycle behind him and two other players on a baseball field.,"Pitcher jumping with a motorcycle behind him, two other players, and a car on a baseball field.",put a car in the background
+229,276552-input,A man cutting food with a knife and a fork,A man cutting food with a knife and a fork while looking at the camera,make the man look to the camera
+230,528488-input,This dog is playing frisbee in the snow,This dog is playing with a bone in the snow,Change the frisbee to a bone
+231,528488-output1,This dog is playing with a bone in the snow,This dog is playing with a bone in the snow while wearing boots,Have the dog be wearing boots
+232,401433-input,Lady wearing a hat and sunglasses riding on an animal.,Lady wearing a hat and sunglasses riding on a leopard.,change the elephant into a leopard
+233,401433-output1,Lady wearing a hat and sunglasses riding on a leopard.,Lady wearing a hat and sunglasses crying while riding on a leopard.,let the woman cry
+234,401433-output2,Lady wearing a hat and sunglasses crying while riding on a leopard.,Man wearing a cowboy hat riding on a leopard with a crying lady wearing sunglasses.,let the man wear a cowboy hat
+235,246184-input,There are many surf boards lined up together,An old man admires the many surf boards lined up together,let an old man look at surf boards
+236,246184-output1,An old man admires the many surf boards lined up together,An old man and an earthworm admire the many surf boards lined up together,let there be an earthworm on the surfboard
+237,246184-output2,An old man and an earthworm admire the many surf boards lined up together,A surfboard with a painted face joins an old man and an earthworm admiring the many boards lined up together,let a surfboard have a face painted on it
+238,55241-input,The cows are standing on the hay in a meadow.,A cow wearing a hat stands on hay in a meadow.,Have the cow wear a hat.
+239,170908-input,A white kitchen with the draws and cupboards taken removed.,A white kitchen with low ceilings and the drawers and cupboards removed.,make the ceilings low
+240,170908-output1,A white kitchen with low ceilings and the drawers and cupboards removed.,"A white kitchen with low ceilings and the drawers and cupboards removed, sans window.",Remove the window
+241,276703-input,A POLICE CAR PARKED IN THE STREET WITH TREES BEHIND IT.,A CAR PARKED IN THE STREET WITH TREES BEHIND IT.,"Change the text on the car to say ""CAR"""
+242,276703-output1,A CAR PARKED IN THE STREET WITH TREES BEHIND IT.,A car parked in the street with trees and a bunch of flowers behind it.,Have there be a bunch of flowers by the car
+243,227117-input,Oven light on in a kitchen with wooden countertops.,Bottle of wine on wooden countertops with oven light on in the kitchen.,Put a bottle of wine on the counter.
+244,67373-input,A cup of coffee sitting next to a doughnut on a table.,A cup of coffee and a doughnut on a table with a sea view.,change city view to sea view
+245,67373-output1,A cup of coffee and a doughnut on a table with a sea view.,A bottle of wine and a doughnut on a table with a sea view.,replace the cup of coffee with a bottle of wine
+246,223154-input,A group of cars driving down a street under traffic lights.,A group of cars driving down a street under red traffic lights.,Shut off the green lights.
+247,223154-output1,A group of cars driving down a street under red traffic lights.,A group of cars driving down a street with a deer in the road under red traffic lights.,Put a deer in the road.
+248,253538-input,A group of young men playing a game of frisbee.,A group of young men playing a game of volleyball.,change the frisbee into a volley ball
+249,253538-output1,A group of young men playing a game of volleyball.,A group of young men playing a game of volleyball with a mosque in the background.,let there be a mosque in the background
+250,253538-output2,A group of young men playing a game of volleyball with a mosque in the background.,A group of young men playing a game of volleyball with a mascot and a mosque in the background.,let there be a mascot
+251,53423-input,A skateboard that is sitting in the snow.,A skateboard and a boat in the ocean.,Let's add a boat in the ocean.
+252,53423-output1,A skateboard and a boat in the ocean.,"A skateboard, a boat, and a turtle on the beach by the ocean.",Let's add a turtle on the beach.
+253,532501-input,A bathroom sink with a a mirror and a window above it.,A man standing in front of a bathroom sink with a mirror and a window above it.,put a man in front of the sink
+254,532501-output1,A man standing in front of a bathroom sink with a mirror and a window above it.,A man standing in front of a bathroom sink with a clown face on the mirror and a window above it.,put a clown face on the mirror
+255,151761-input,Two large elephants are walking a baby punk.,Two large elephants are walking as the baby elephant holds up its trunk.,Let the baby elephant hold up its trunk.
+256,43917-input,A plate contains beef with a side of broccoli.,Plate with beef only.,Put just the beef on the plate.
+257,43917-output1,Plate with beef only.,Plate with beef and french fries.,It should have french fries on the plate.
+258,207932-input,A lone train engine approaches the traffic signals.,A lone train engine approaches the traffic signals with a horse by its side.,Let's add a horse next to the train.
+259,360535-input,A living room filled with furniture and flowers.,A living room filled with furniture and a television.,change flowers to television
+260,360535-output1,A living room filled with furniture and a television.,"Living room with furniture, television, and a clock on the wall.",add a clock on the wall
+261,360535-output2,"Living room with furniture, television, and a clock on the wall.","Living room with furniture, television, a clock on the wall, and a ceiling fan.",add a ceiling fan
+262,429227-input,A couple of zebra standing on top of a green field.,A zebra and a tiger standing on top of a green field.,replace a zebra with a tiger
+263,429227-output1,A zebra and a tiger standing on top of a green field.,A zebra with a bird on its back and a tiger standing on top of a green field.,add a bird on the back of the zebra
+264,429227-output2,A zebra with a bird on its back and a tiger standing on top of a green field.,A zebra with a bird on its back and a tiger standing on top of a green field with a bed of flowers.,add a bed of flowers
+265,174896-input,A laptop is open and there is a variety of food and drink laid out in front of it.,A microwave is open and there is a variety of food and drink laid out in front of it.,replace the laptop with a microwave
+266,174896-output1,A microwave is open and there is a variety of food and drink laid out in front of it.,A bowl of tomato soup added to the variety of food and drink laid out in front of an open microwave.,add a bowl of tomato soup
+267,174896-output2,A bowl of tomato soup added to the variety of food and drink laid out in front of an open microwave.,An orchid and a bowl of tomato soup added to the variety of food and drink laid out in front of an open microwave.,add an orchid
+268,473420-input,Two electric wires lined with pigeons hanging between a traffic light and light pole.,Pigeons perched on electric wires between a green traffic light and light pole.,let the traffic light show green
+269,389986-input,A person is hitting a ball with a racket,A woman hitting a ball with a racket,make a woman hold the racket
+270,389986-output1,A woman hitting a ball with a racket,A woman hitting a striped ball with a racket,let the strings be striped
+271,389986-output2,A woman hitting a striped ball with a racket,A woman playing tennis with her furry companion looking up at the camera,let a dog sit under the racket and look up at the camera
+272,292991-input,THIS IS A PHOTO OF SOMEONES LUGGAGE LEFT BEHIND,Abandoned luggage and a mysterious drawing on the wall,What if the there is a drawing on the wall?
+273,318189-input,An old red and yellow car with a yellow surfboard on top.,An old red and yellow car with a Canadian flag and a yellow surfboard on top.,change the American flag into a Canadian flag
+274,318189-output1,An old red and yellow car with a Canadian flag and a yellow surfboard on top.,An old red and yellow car with a Canadian flag and a person on top.,change the surfboard into a person
+275,318189-output2,An old red and yellow car with a Canadian flag and a person on top.,A sleek sports car with a Canadian flag and a person on top.,let the car be a sports car
+276,273808-input,Looking across the messy expanse of an apartment living room,Looking across the tidy expanse of an apartment living room,remove the things from the floor
+277,221213-input,A long train sitting on a railroad track.,A long train sitting at a railroad crossing on a track.,Have a railroad crossing by the train.
+278,221213-output1,A long train sitting at a railroad crossing on a track.,A long train sitting at a railroad crossing with a mountain backdrop.,Have a mountain behind the train.
+279,312334-input,A street with gravel on the side and a traffic light.,"A street with gravel on the side, a traffic light, and palm trees on fire.",Have the palm trees be on fire
+280,313880-input,Two slices of pizza and a drink sitting on a wooden table.,Menu featuring two slices of pizza and a drink sitting on a wooden table.,Add a menu.
+281,232489-input,A paper plate that has two pieces of pizza on it.,A ceramic plate with two pieces of pizza on it.,Make the plate ceramic.
+282,232489-output1,A ceramic plate with two pieces of pizza on it.,A ceramic plate with a sandwich on it.,Replace the pizza with a sandwich.
+283,555495-input,Two zebra standing on a lush green field.,Two zebras standing on a lush green field with colorful flowers.,Let's add some flowers in the field.
+284,478407-input,A nerd eating a slice of pizza on a paper plate.,A nerd biting into a slice of pizza on a paper plate.,let the man bite into the pizza
+285,478407-output1,A nerd biting into a slice of pizza on a paper plate.,A ginger curly-haired nerd biting into a slice of pizza on a paper plate.,let the man have ginger curly hair
+286,478407-output2,A ginger curly-haired nerd biting into a slice of pizza on a paper plate.,A ginger curly-haired nerd wearing sunglasses biting into a slice of pizza on a paper plate.,let the man wear sunglasses
+287,553735-input,A blue and yellow double decker bus driving down a street.,A blue and yellow double decker bus driving down a street with a truck.,Put a truck on the street.
+288,419312-input,Full course dinner served on large plate including drinks and dessert.,"Full course breakfast served on large plate including drinks and dessert, with a cereal bowl in place.",remove the place a put a cereal bowl on it's place
+289,419312-output1,"Full course breakfast served on large plate including drinks and dessert, with a cereal bowl in place.","Full course breakfast served on large plate with a cereal bowl and box in place, including dessert.",erase the drink and edit a cereal box on it's place
+290,27616-input,A motorcycle with lots of luggage sitting on it's back in a garage.,A motorcycle with a brown leather luggage bag sitting on its back in a garage.,Let the bag be replaced by a brown leather luggage bag.
+291,459058-input,showing the number plate of a motor bike,Showing the graffiti-covered license plate of a motor bike,let the license plate have graffiti on it
+292,459058-output1,Showing the graffiti-covered license plate of a motor bike,Graffiti-covered motor bike license plate with red light on,let the red light be on
+293,459058-output2,Graffiti-covered motor bike license plate with red light on,Woman sitting on graffiti-covered motor bike license plate with red light on,make a woman sit on the scooter
+294,376891-input,Woman selling doughnuts with doughnut stock in the background.,Woman selling doughnuts with neon doughnut stock in the background.,Make the sign neon.
+295,376891-output1,Woman selling doughnuts with neon doughnut stock in the background.,Woman looking at doughnuts while selling with neon doughnut stock in the background.,have the person look towards the doughnuts.
+296,376891-output2,Woman looking at doughnuts while selling with neon doughnut stock in the background.,Group of people looking at doughnuts being sold with neon doughnut stock in the background.,add more people
+297,476119-input,a man skating on the road very fast,A man wearing a paperbag skating on the road very fast,make the man wear a paperbag
+298,476119-output1,A man wearing a paperbag skating on the road very fast,A man wearing a paperbag skating on the road very fast with a Range Rover in the background,let there be a range rover
+299,476119-output2,A man wearing a paperbag skating on the road very fast with a Range Rover in the background,A man wearing a paperbag skating in front of a cafe on the road very fast with a Range Rover in the background,let there be a cafe behind him
+300,542147-input,"A view of a grassy field, with cows in the back.",A view of a peaceful grassy field.,remove the cows
+301,542147-output1,A view of a peaceful grassy field.,A view of a peaceful grassy field with a UFO in the sky.,add a UFO in the sky
+302,542147-output2,A view of a peaceful grassy field with a UFO in the sky.,A view of a peaceful grassy field with a UFO and a lighthouse in the sky.,add a lighthouse
+303,274629-input,A red stop sign with a picture of a Time Magazine cover underneath stop.,A parking sign with a picture of a Time Magazine cover underneath.,change the stop sign to a parking sign
+304,274629-output1,A parking sign with a picture of a Time Magazine cover underneath.,A parking sign with a picture of a Vogue Magazine cover underneath.,change the Time magazine to a Vogue magazine
+305,274629-output2,A parking sign with a picture of a Vogue Magazine cover underneath.,A parking sign with a picture of a Vogue Magazine cover underneath and a tank on the street.,add a tank on the street
+306,534555-input,A baseball player hitting a ball with a bat.,Baseball player #15 hitting a ball with a bat.,Change the number on the batter's back to 15
+307,534555-output1,Baseball player #15 hitting a ball with a bat.,Baseball player #15 hitting a ball with a red helmet.,Change the batter's helmet to be red
+308,534555-output2,Baseball player #15 hitting a ball with a red helmet.,Baseball player #15 with striped pants hitting a ball with a red helmet.,Have there be stripes on the batter's pants
+309,350054-input,a cat sitting on a table next to a tv in a living room.,A raccoon sitting on a table next to a tv in a living room.,change the cat to a raccoon
+310,350054-output1,A raccoon sitting on a table next to a tv in a living room.,A raccoon watching sports on TV in a living room.,let there be sports on TV
+311,350054-output2,A raccoon watching sports on TV in a living room.,A raccoon watching sports on TV in a living room with a wooden floor.,let the floor be wooden
+312,131015-input,A rack of bow ties hanging from clothes pins.,"A rack of meat hanging from clothespins, including bow ties.",let meat hang from a clothespin
+313,131015-output1,"A rack of meat hanging from clothespins, including bow ties.","A rack of meat hanging from clothespins, including a regular tie.",let a regular tie hang
+314,120874-input,The dog is standing on the boat deck.,The dog is howling on the boat deck.,make the dog howl
+315,120874-output1,The dog is howling on the boat deck.,"Two dogs on the boat deck, one howling and the other peering through the window.",let another dog peer through the window
+316,120874-output2,"Two dogs on the boat deck, one howling and the other peering through the window.","Two dogs on the boat deck, one howling and the other peering through the window, with a distant lighthouse in view.",let there be a lighthouse at a distance
+317,353221-input,A stylized photo of several vegetables and fruits.,A stylized photo of several vegetables and apples.,Let the middle image be changed to apples.
+318,208963-input,a man with luggage holding a red striped umbrella,a man with luggage holding a blue striped umbrella,Let the umbrella turn blue.
+319,340971-input,A woman standing in front of a TV screen.,A woman standing in front of a gaming PC screen.,put a gaming pc in place of the television
+320,196876-input,a meal designed to give you a heart attack,A meal designed to give you a heart attack with milk instead of beans,swap the beans for milk
+321,196876-output1,A meal designed to give you a heart attack with milk instead of beans,A healthy fruit platter instead of a heart attack-inducing meal with milk instead of beans,replace the food with fruits
+322,282238-input,A traffic light hanging over a street next to trees.,A traffic light hanging over a street next to a large tree.,If the was just one large tree?
+323,282238-output1,A traffic light hanging over a street next to a large tree.,A bird perched on a traffic light hanging over a street next to a large tree.,Put a bird on the traffic light.
+324,282238-output2,A bird perched on a traffic light hanging over a street next to a large tree.,"A bird perched on a traffic light as a train approaches from the left, next to a large tree.",Have a train coming on the left.
+325,300994-input,A birthday cake is shaped like a fire truck.,A 5th birthday cake is shaped like a fire truck.,let the number be 5
+326,300994-output1,A 5th birthday cake is shaped like a fire truck.,A 5th birthday cake with lit candles shaped like a fire truck.,light up the candles
+327,300994-output2,A 5th birthday cake with lit candles shaped like a fire truck.,A 5th birthday cake with lit candles shaped like a fire truck being eaten by a mischievous cat.,add a cat eating the cake
+328,294353-input,"Salt and Peppers shakers are in between a flower vase, near a fork.",A piece of meat on a fork next to salt and pepper shakers and a flower vase.,put a piece of meat on the fork
+329,294353-output1,A piece of meat on a fork next to salt and pepper shakers and a flower vase.,A piece of meat on a fork next to salt and pepper shakers and a small vase with a rose.,replace the vase with a small vase with a rose
+330,376269-input,A giraffe looking at people looking at him.,A giraffe with big ears looking at people looking at him.,make the ears bigger
+331,376269-output1,A giraffe with big ears looking at people looking at him.,A giraffe with big googly eyes looking at people looking at him.,give the giraffe big googly eyes
+332,242543-input,a person looking in an opened refrigerator,A person standing in front of a closed refrigerator,What if the refrigerator was closed?
+333,78468-input,A truck towing a trailer loaded with bags.,A tractor towing a trailer loaded with bags.,Replace the truck with a tractor.
+334,78468-output1,A tractor towing a trailer loaded with bags.,A tractor towing a trailer loaded with bags with a bear cub nearby.,A bear cub should be near the tractor.
+335,78468-output2,A tractor towing a trailer loaded with bags with a bear cub nearby.,A tractor towing an empty trailer with a bear cub nearby.,Remove the bags from the trailer.
+336,457986-input,A living room and kitchenette done in greens and earth tones,A living room and kitchenette done in greens and earth tones with a potted plant on the table,Have there be a potted plant on the table
+337,457986-output1,A living room and kitchenette done in greens and earth tones with a potted plant on the table,A cozy living room and kitchenette with a furry friend on the sofa and a potted plant on the table,Have there be a cat on the sofa
+338,315702-input,A bathroom sink with toiletries on the counter.,Bathroom sink with folded towels under the counter and toiletries on top.,let there be folded towels under the counter
+339,315702-output1,Bathroom sink with folded towels under the counter and toiletries on top.,Rectangular bathroom sink with folded towels under the counter and toiletries on top.,let the sink be rectangle in shape
+340,315702-output2,Rectangular bathroom sink with folded towels under the counter and toiletries on top.,"Rectangular bathroom sink with a rubber ducky, folded towels under the counter, and toiletries on top.",let there be a rubber ducky
+341,159791-input,A white refrigerator freezer covered in magnets and pictures.,A white refrigerator freezer.,Remove all the magnets and stickers.
+342,309753-input,A picture loaded with much wonderful sustenance on table.,"A picture loaded with much wonderful sustenance on table, featuring unripe bananas.",swap the bananas for unripe bananas
+343,354306-input,A room with a large tub under a mirror.,A room with a large tub under a mirror and a bottle of poison on the shelf.,put a bottle of poison on the shelf
+344,330084-input,A polar bear is swimming in the water.,A polar bear sticking out its tongue while swimming in the water.,make the bear stick out its tongue
+345,330084-output1,A polar bear sticking out its tongue while swimming in the water.,A polar bear sticking out its tongue while swimming in the water with a cat.,add a cat
+346,47916-input,A white dog carrying a red frisbee in it's mouth.,White dog carrying a red frisbee in its mouth in a forest.,Put a forest next to the dogs.
+347,47916-output1,White dog carrying a red frisbee in its mouth in a forest.,White dog carrying a bone in its mouth in a forest.,The dog should have a bone with him.
+348,47916-output2,White dog carrying a bone in its mouth in a forest.,White dog carrying a bone in its mouth near a forest pond.,Could we have a pond next to the forest?
+349,286753-input,A baseball player throws the ball during practice,A baseball player wearing a skirt throws the ball during practice,Have the baseball player be wearing a skirt
+350,229139-input,A cat is laying inside a suitcase with a blue interior that is sitting on top of a bed,An empty suitcase with a blue interior sitting on top of a bed,remove the cat
+351,229139-output1,An empty suitcase with a blue interior sitting on top of a bed,A cat sitting next to an empty suitcase with a blue interior on top of a bed,put a cat next to the suitcase
+352,99645-input,A cat next to a television in a room.,A cat next to a TV in a room.,"Change the text on the television to ""TV"""
+353,99645-output1,A cat next to a TV in a room.,A cat next to a TV in a room with a helicopter flying outside.,Change the birds to a helicopter
+354,99645-output2,A cat next to a TV in a room with a helicopter flying outside.,A cat next to a TV in a room with a person falling out of a helicopter outside.,Have there be a person falling out of the helicopter
+355,502808-input,"A bathroom is well lit and has a toilet, tub, shower, and sink.","A well-lit bathroom with a toilet, sink, and bathtub with a closed shower curtain.",Let the shower curtain close the bathtub.
+356,63866-input,Group of people sitting at a long dinner table together.,Group of people sitting at a long dinner table together with a delicious cake.,add cake to the table
+357,63866-output1,Group of people sitting at a long dinner table together with a delicious cake.,Group of dogs sitting at a long dinner table together with a delicious cake.,place dogs instead of people
+358,104669-input,A white plate served on a multi colored table cloth,A white plate with a glass of juice served on a multi colored table cloth.,A glass of juice would complete the meal.
+359,581632-input,A bar filled with lots of bottles of alcohol.,A laboratory filled with lots of bottles of chemicals.,change from a bar to a laboratory
+360,581632-output1,A laboratory filled with lots of bottles of chemicals.,A laboratory filled with lots of bottles of chemicals and a chalkboard by the clock.,put a chalkboard by the clock
+361,163431-input,a large bag filled with clothes and shoes,A large bag filled with clothes and stilettos,change the shoes into stilettos
+362,163431-output1,A large bag filled with clothes and stilettos,A bed covered in pillows and a large bag filled with clothes and stilettos,let the bed contain pillows
+363,163431-output2,A bed covered in pillows and a large bag filled with clothes and stilettos,A bed covered in pillows and a large bag filled with clothes and a loaf of bread,let the bag contain a loaf of bread
+364,343849-input,An open laptop computer sitting on top of a desk.,An open laptop computer displaying a green web page sitting on top of a desk.,let the laptop have a green web page
+365,343849-output1,An open laptop computer displaying a green web page sitting on top of a desk.,An open binder displaying a green web page sitting on top of a desk.,replace the notebook with a binder
+366,343849-output2,An open binder displaying a green web page sitting on top of a desk.,An open binder displaying a green web page sitting on top of a desk with a wine bottle nearby.,add a wine bottle
+367,24207-input,A shaggy haired sheep looking up in a field.,A shaggy haired black sheep looking up in a field.,Make one of the sheep a black sheep.
+368,139-input,A woman stands in the dining area at the table.,A woman stands in the dining area at the table with closed window shades.,Close the window shades.
+369,139-output1,A woman stands in the dining area at the table with closed window shades.,A woman sits in a chair at the dining table with closed window shades.,Make the woman sit in a chair.
+370,139-output2,A woman sits in a chair at the dining table with closed window shades.,A woman sits in a chair at the dining table with closed window shades while a cat sleeps on the floor.,Have a cat sleep on the floor by the table.
+371,113857-input,A couple of women shaking hands on top of a tennis court.,A couple of women holding a trophy on top of a tennis court.,make the women hold a trophy instead of shaking hands
+372,113857-output1,A couple of women holding a trophy on top of a tennis court.,Red and blonde-haired women holding a trophy on top of a tennis court.,let the women have red and blonde hair
+373,113857-output2,Red and blonde-haired women holding a trophy on top of a tennis court.,Red and blonde-haired women holding a trophy on top of a tennis court with their coach watching them.,add a coach watching them
+374,122913-input,a cat that is laying in some kind of bag,A racoon sitting inside a suitcase while a cat looks on.,A racoon is sitting inside of a suitcase.
+375,272953-input,A brown horse grazing on a lush green field.,A brown horse and a white goat grazing on a lush green field.,Let's add a white goat on the grass.
+376,377368-input,A cake shaped as a Teddy Bear on a wooden table.,A cake shaped as a Teddy Bear on a wooden table for a 4th birthday celebration.,Make the cake for a 4th birthday instead of 30th.
+377,377368-output1,A cake shaped as a Teddy Bear on a wooden table for a 4th birthday celebration.,A Teddy Bear cake on a wooden table for a 4th birthday celebration.,Remove the candles from the cake.
+378,377368-output2,A Teddy Bear cake on a wooden table for a 4th birthday celebration.,A Teddy Bear cake with a red nose on a wooden table for a 4th birthday celebration.,Make the frosting on the bear's nose red.
+379,163897-input,A truck that is sitting in the grass.,Truck with fixed fender sitting in the grass.,Fix the fender.
+380,163897-output1,Truck with fixed fender sitting in the grass.,Damaged truck with fixed fender sitting in the grass.,Smash the headlights.
+381,163897-output2,Damaged truck with fixed fender sitting in the grass.,Damaged truck with fixed fender sitting in the dirt field.,Make the field dirt.
+382,465335-input,A dog and his owner playing ball on the beach,A dog and his owner playing tennis on the beach,Replace the ball with a tennis ball.
+383,357941-input,Two televisions that are stacked on top of each other.,Cat hanging from two stacked televisions.,Make the cat hang from the TV
+384,357941-output1,Cat hanging from two stacked televisions.,Cat and Mouse: A precarious balance on stacked televisions.,Let a mouse sit on the tv set by the cat.
+385,357941-output2,Cat and Mouse: A precarious balance on stacked televisions.,Cat and Mouse: A precarious balance on stacked televisions with a bird flying by the window in front of the cat.,Make a bird fly by the window in front of the cat.
+386,494056-input,Decorative containers and vases sit on a table.,Flower-filled decorative containers and vases sit on a table.,If the vase had flowers?
+387,384346-input,A city worker is using a mobile device.,A city worker in a blue hat is using a mobile device.,change hat color to blue
+388,456610-input,Food separated into plates and bowls on a table.,Hotdogs and other food separated into plates and bowls on a table.,replace the salad with hotdogs
+389,335913-input,A small twin bed sitting underneath a poster on a wall.,"A small twin bed with a picture of a girl in the frame, sitting underneath a poster on a wall.",What if there was a picture of a girl in that frame?
+390,25551-input,An ambulance and police cars are stopped at the scene of an accident.,A food truck and police cars are stopped at the scene of an accident.,change the ambulance into a food truck
+391,25551-output1,A food truck and police cars are stopped at the scene of an accident.,A police officer and food truck are stopped at the scene of an accident.,let the man be dressed in a police uniform
+392,25551-output2,A police officer and food truck are stopped at the scene of an accident.,A police officer and food truck are stopped at the scene of an accident with buildings in the background.,let there be buildings in the back
+393,262686-input,A man pointing at some food on a trey.,A man pointing at another man's food on a trey.,let the man point to another man
+394,262686-output1,A man pointing at another man's food on a trey.,"A man pointing at another man's food on a tray, while looking at the camera.",let the man look at the camera
+395,262686-output2,"A man pointing at another man's food on a tray, while looking at the camera.","A man pointing at another man's food on a tray, while looking at the camera and smiling.",let the sitting man smile
+396,221190-input,A large building that has a train passing by it.,A large yellow building with a train passing by it.,Let the sign turn yellow.
+397,200003-input,Two people on a beach are carrying their surf boards towards the water.,Two people on a beach are carrying a log towards the water.,What if they are carrying a log?
+398,360805-input,A cat is sleeping at a computer desk on a keyboard.,A cat looks at the camera while sleeping on a computer desk on a keyboard.,make the cat look at the camera
+399,360805-output1,A cat looks at the camera while sleeping on a computer desk on a keyboard.,A cat looks at the camera while sleeping on a computer desk on a keyboard with a blue screen.,let the laptop have a blue screen
+400,360805-output2,A cat looks at the camera while sleeping on a computer desk on a keyboard with a blue screen.,A happy cat enjoys cat food and treats while sleeping on a computer desk on a keyboard with a blue screen.,let there be cat food and cat treats
+401,478184-input,A lone giraffe is walking along the shore of the water,A lone giraffe sitting on the shore of the water.,Let the giraffe sit.
+402,418726-input,"Someone is stocking up on cool summer treats, a case of root beer and a case of freezer pops.",Stocking up on summer treats on a wooden floor - a case of root beer and a case of freezer pops.,Let the floor be made of wood.
+403,62740-input,A tall clock tower at the end of a street next to tall buildings.,A blue car passing by a tall clock tower at the end of a street next to tall buildings.,Let the car turn blue.
+404,298318-input,A group of people riding on a boat across a lake.,A group of people riding on a galley across a lake.,change the rubber boat into a galley
+405,298318-output1,A group of people riding on a galley across a lake.,A group of people riding on a galley across a lake with a playful dolphin jumping in.,let a dolphin jump into the galley
+406,298318-output2,A group of people riding on a galley across a lake with a playful dolphin jumping in.,A group of people riding on a galley across a lake with skyscrapers in the background and a playful dolphin jumping in.,let there be skyscrapers at the back
+407,1401-input,A silver and clear drink container with a black tray of fruit next to it.,"A silver and clear drink container with a black tray of fruit next to it, featuring an orange instead of a lemon.",Let the lemon be replaced by an orange.
+408,74583-input,A cat laying on a cushion on top of a table.,A parrot perched on a cushion on top of a table.,Swap the cat for a parrot.
+409,74583-output1,A parrot perched on a cushion on top of a table.,A parrot perched on a cushion on top of a table. (No change needed),The bicycle should be removed.
+410,74583-output2,A parrot perched on a cushion on top of a table. (No change needed),A parrot perched on a cushion on top of a table with a floating balloon.,Add just one floating balloon.
+411,294974-input,Airplane is docked at the airport so passengers can get inside.,Airplane with pig logo is docked at the airport so passengers can get inside.,Give the plane a pig logo.
+412,291004-input,A blue blanket on top of a bed covered in electronics.,"A blue blanket on top of a bed covered in electronics, without an iPhone.",remove the iPhone
+413,291004-output1,"A blue blanket on top of a bed covered in electronics, without an iPhone.","Geometric patterned blue blanket on top of a bed covered in electronics, without an iPhone.",let the blue covers have geometrical patterns
+414,291004-output2,"Geometric patterned blue blanket on top of a bed covered in electronics, without an iPhone.","Geometric patterned blue blanket on top of a bed covered in electronics, with an LCD display remote control and no iPhone.",let the remote control have an LCD display
+415,403028-input,"A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side.","A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side, with a delicious pizza on the counter.",Have there be a pizza on the counter
+416,403028-output1,"A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side, with a delicious pizza on the counter.","A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side, with a delicious pizza and a bottle of soda on the counter.",Have there be a bottle of soda on the counter
+417,167863-input,"A piece of meat covered in marinara sauce, cheese and herbs.",A piece of meat covered in marinara sauce and herbs.,remove the cheese
+418,407083-input,A small dog is looking out a car window.,A small dog with a tennis ball in his mouth is looking out a car window.,What if the dog had a tennis ball on his mouth?
+419,407083-output1,A small dog with a tennis ball in his mouth is looking out a car window.,A cool man with shades and a small dog with a tennis ball in his mouth are looking out a car window.,What if the man had shades?
+420,322829-input,A white meta bench next to a patch of grass.,A white metal bench with a dog resting underneath next to a patch of grass.,put a dog under the bench
+421,322829-output1,A white metal bench with a dog resting underneath next to a patch of grass.,A white metal bench with a flower vase and a dog resting underneath next to a patch of grass.,put a flower vase on the bench
+422,393286-input,A partly peeled banana and an insulated bag on a table.,An apple and a partially peeled banana sit near other items on a desk.,A apple and a partially peeled banana sits near other items on a desk.
+423,262283-input,A lot of vases filled with lots of flowers.,A lot of vases filled with red roses.,make the flowers into red roses
+424,490443-input,A chair and umbrella on a sandy beach.,A chair and umbrella on a sandy beach with the ocean in the background.,Can we have the ocean on the background?
+425,490443-output1,A chair and umbrella on a sandy beach with the ocean in the background.,"A chair, umbrella, and car on a sandy beach with the ocean in the background.",Put a car on the beach.
+426,513712-input,A hot dog sitting on a board by some tomatoes and other food.,A hot dog and other food on a plate with tomatoes.,put the food on a plate
+427,513712-output1,A hot dog and other food on a plate with tomatoes.,A hot dog and other food on a plate with oranges.,substitute tomatoes for oranges
+428,498463-input,A metallic refrigerator freezer sitting in a kitchen.,A white refrigerator freezer sitting in a kitchen.,The refrigerator could be white.
+429,498463-output1,A white refrigerator freezer sitting in a kitchen.,A white refrigerator freezer with colorful stickers sitting in a kitchen.,We could add some stickers to the refrigerator.
+430,498463-output2,A white refrigerator freezer with colorful stickers sitting in a kitchen.,A white refrigerator freezer with colorful stickers sitting in a kitchen with a dispenser behind it.,Could we have a dispenser behind the refrigerator?
+431,488132-input,A herd of sheep in a field with a fence in the foreground.,A herd of sheep in a field with a fence in the foreground and a tiger watching them.,Have there be a tiger looking at the sheep
+432,401822-input,A kitchen painted white with blue tile and a stove top oven.,"A kitchen painted white with blue tile, a stove top oven, and tile flooring.",change the wooden flooring into tile flooring
+433,401822-output1,"A kitchen painted white with blue tile, a stove top oven, and tile flooring.","A kitchen painted white with blue tile, a stove top oven, tile flooring, and a bowl on the stove.",add bowl on the stove
+434,557067-input,A blue patch work quilt on someones bed,A fruit-filled blue patch work quilt on someones bed,Have there be a bunch of fruit on the bed
+435,445397-input,Numerous individuals are doing something at this point that is full.,"Numerous individuals are doing something at this point that is full, as the lady gasps in amazement.",let the lady gasp
+436,445397-output1,"Numerous individuals are doing something at this point that is full, as the lady gasps in amazement.",A vintage-clad woman gasps in amazement as numerous individuals fill the scene.,let the lady wear vintage clothes
+437,445397-output2,A vintage-clad woman gasps in amazement as numerous individuals fill the scene.,A vintage-clad woman gasps in amazement as numerous individuals fill the scene with a television on the wall.,let there be television on the wall
+438,448177-input,White toilet outside with flowers growing out of it.,White toilet with lid and flowers growing out of it.,Let the water tank have a lid.
+439,212834-input,An umbrella sits on the beach at night.,A chair and an umbrella on the beach at night.,Place a chair under the umbrella.
+440,45596-input,A view A large metal structure near the side of a building,A view of a large metal structure near the side of a building with no plant life,What if there was no plant life along the building
+441,182673-input,A living room with white couches and grey chairs.,A living room with white couches and an upright piano.,Replace the gray chairs with an upright piano
+442,182673-output1,A living room with white couches and an upright piano.,Someone playing the upright piano in a living room with white couches.,Have there be someone playing the piano
+443,182673-output2,Someone playing the upright piano in a living room with white couches.,Someone in a red shirt playing the upright piano in a living room with white couches.,Have the person be wearing a red shirt
+444,367107-input,A painting of a police officer holding a stop sign.,A painting of a police officer holding a painting at an art exhibit.,replace the stop sign with a painting
+445,501864-input,A group of horses pulling a carriage next to men.,A group of horses pulling a carriage.,remove the men
+446,501864-output1,A group of horses pulling a carriage.,Image of horses pulling a carriage.,remove the text
+447,501864-output2,Image of horses pulling a carriage.,Image of horses pulling a carriage with a zeppelin floating in the sky.,let a zeppelin float in the sky
+448,492489-input,a bat and a ball on the ground next to a flower,A wooden baseball bat and ball on the ground next to a flower,What if the baseball bat was made of wood?
+449,110327-input,A food entree is served in a container with a side.,A food entree with carrots served in a container with a side on a styrofoam tray.,put carrots on the styrofoam tray
+450,110327-output1,A food entree with carrots served in a container with a side on a styrofoam tray.,A food entree with carrots served in a container with a side and money on a styrofoam tray.,put money in the styrofoam tray
+451,110327-output2,A food entree with carrots served in a container with a side and money on a styrofoam tray.,A food entree with carrots served in a container with a side and money on a styrofoam tray.,get rid of the hot dog
+452,531277-input,a man is putting together a sandwich on a plate,A man is putting together a cake on a plate,Can it be a cake on the plate?
+453,531277-output1,A man is putting together a cake on a plate,A man is putting together a cake on a blue plate,The plate could be blue?
+454,531277-output2,A man is putting together a cake on a blue plate,A man is putting together a cake on a blue plate with a glass of soda next to it.,Put a glass of soda next to the plate.
+455,126182-input,The white refrigerator is next to the kitchen counter.,The blue refrigerator is next to the kitchen counter.,Can the refrigerator be blue?
+456,126182-output1,The blue refrigerator is next to the kitchen counter.,The blue refrigerator and microwave are next to the kitchen counter.,Put a microwave next to the freezer.
+457,126182-output2,The blue refrigerator and microwave are next to the kitchen counter.,"The blue refrigerator, microwave, and oven are next to the kitchen counter.",Can it have a oven?
+458,195715-input,A baseball sitting in a baseball mitt on a blanket,A baseball and tennis ball sitting in a baseball mitt on a blanket,What if there was a tennis ball in the glove?
+459,196878-input,A newspaper called The Queenslander with a holiday dinner scene on it.,A newspaper called The Queenslander with a holiday dinner scene and an extra glass of wine on it.,change the flower for another glass of wine
+460,196878-output1,A newspaper called The Queenslander with a holiday dinner scene and an extra glass of wine on it.,"A newspaper called The Queenslander with a holiday dinner scene and an extra glass of wine on it, minus the candle stick.",remove the candle stick
+461,303257-input,A family of elephants walking in and drinking water.,A family of elephants with curled trunks walking in and drinking water.,Curl its trunk.
+462,303257-output1,A family of elephants with curled trunks walking in and drinking water.,A family of elephants with curled trunks and a smiley face walking in and drinking water.,Paint a smiley face on it.
+463,303257-output2,A family of elephants with curled trunks and a smiley face walking in and drinking water.,A family of elephants with curled trunks and a smiley face walking and drinking water.,Get rid of the rock.
+464,516000-input,"A plate of Japanese food, including ramen noodles, pink pickled ginger, and seaweed.","A plate of Japanese food, including rice, pink pickled ginger, and seaweed.",Replace the noodles with rice.
+465,516000-output1,"A plate of Japanese food, including rice, pink pickled ginger, and seaweed.","A plate of Japanese food, including rice, pink pickled ginger, seaweed, and a side of sauce.",Add a bit of sauce on the side.
+466,516000-output2,"A plate of Japanese food, including rice, pink pickled ginger, seaweed, and a side of sauce.","A plate of Japanese food, including rice, seaweed, chicken, and a side of sauce.",Replace those non-seaweed veggies with chicken.
+467,536798-input,A young child who is holding onto a parking meter.,A young child crying while holding onto a parking meter.,Let the boy cry.
+468,377212-input,a dog with a skate board in a field,A cool dog with a skate board and a backwards baseball cap in a field,Have the dog be wearing a backwards baseball cap
+469,377212-output1,A cool dog with a skate board and a backwards baseball cap in a field,"A cool dog with a skate board and a backwards baseball cap with the letter ""A"" in a field","Have the baseball cap have the letter ""A"" on it"
+470,377212-output2,"A cool dog with a skate board and a backwards baseball cap with the letter ""A"" in a field","A sophisticated dog with a skate board, a backwards baseball cap with the letter ""A"", and a smoking pipe in a field",Have the dog be smoking a pipe
+471,87017-input,A young woman on a cellphone is leading a horse through a plaza nearby some retail stores and pedestrians.,A horse stands in a plaza nearby some retail stores and pedestrians.,remove the woman from the picture
+472,87017-output1,A horse stands in a plaza nearby some retail stores and pedestrians.,A unicorn stands in a plaza nearby some retail stores and pedestrians.,give the horse a horn
+473,87135-input,A white van parked in a parking lot next to a forest,White van parked at a stop sign in a parking lot next to a forest,let there be a stop sign and only one road sign
+474,87135-output1,White van parked at a stop sign in a parking lot next to a forest,Herd of sheep walking near road signs as a white van parks at a stop sign in a parking lot next to a forest,let a herd of sheep walk near the road signs
+475,458763-input,some random things are layed out on a wood table,Painting of Santa Claus among random things laid out on a wood table,Have there be a painting of Santa Claus
+476,538116-input,Several various items sitting on and near a purse.,Several various items sitting on and near a purse with a soda can instead of water.,Let the water be replaced by a soda can.
+477,286656-input,A cow drinking milk from baby bottle with an orange top.,A cow being fed milk with a syringe with an orange top.,turn the bottle into a syringe
+478,286656-output1,A cow being fed milk with a syringe with an orange top.,A cow being fed milk with a syringe with an orange top from a blue bucket.,make the bucket blue
+479,355677-input,a life guard station with a surf boar and a floatee,"Life guard station with a surf board, floatee, and sandcastle on the beach.",Build a sandcastle on the beach.
+480,342387-input,A group of people preparing food in a kitchen.,A group of chefs preparing food in a kitchen.,change the hats into chef hats
+481,554364-input,A photo of a kitchen from the 1960s.,A photo of a kitchen from the 1960s with a ninja.,Add a ninja.
+482,188439-input,A colorful truck is driving with a full load of sticks and twigs.,A colorful truck driving on a dirt road with a full load of sticks and twigs.,The truck is driving on a dirt road
+483,407574-input,A green stand holding several bananas for sale.,A person standing to the left of a green stand holding several bananas for sale.,Add a person to the left of the bananas.
+484,407574-output1,A person standing to the left of a green stand holding several bananas for sale.,A person standing to the left of a green stand holding several ripe bananas for sale.,Change the unripe bananas on the top to ripe.
+485,407574-output2,A person standing to the left of a green stand holding several ripe bananas for sale.,A person standing to the left of a green stand holding several ripe bananas for sale with a metal pole.,Change the wooden pole to a metal pole.
+486,97579-input,There is a woman holding a remote control and a man looking at it.,A woman holding a remote control and a man looking at the camera.,make the man look at the camera
+487,97579-output1,A woman holding a remote control and a man looking at the camera.,A woman holding a banana and a remote control while a man looks at the camera.,make the woman hold a banana
+488,97579-output2,A woman holding a banana and a remote control while a man looks at the camera.,"A woman holding a banana and a remote control while looking at the camera, as a man looks on.",make the woman look at the camera
+489,556775-input,This neat living room has a pristine couch and a small desk with a laptop on it.,This neat living room has a pristine couch and a small desk.,remove the lap top
+490,556775-output1,This neat living room has a pristine couch and a small desk.,This cozy living room features a furry friend lounging on the pristine couch and a small desk.,put a dog on the couch
+491,229171-input,Two laptop computers positioned on a table top in front of a television.,"One laptop computer showing a picture of an elephant, positioned on a table top in front of a television with another laptop.",Have one of the laptops be showing a picture of an elephant
+492,229171-output1,"One laptop computer showing a picture of an elephant, positioned on a table top in front of a television with another laptop.","Two laptop computers showing pictures of elephants, positioned on a table top in front of a television.",Have the other laptop also be showing a picture of an elephant
+493,191193-input,A dog hanging out of a second story window.,A brown dog hanging out of a second story window.,Let the dog be brown.
+494,442414-input,A man rides a horse down train tracks while a woman walks.,A man rides a lion down train tracks while a woman walks.,change the horse to a lion
+495,442414-output1,A man rides a lion down train tracks while a woman walks.,A man rides a lion down train tracks while a little boy walks.,change the woman to a little boy
+496,442414-output2,A man rides a lion down train tracks while a little boy walks.,A man rides a lion down train tracks while a little boy walks beside a passing train.,add a train
+497,513484-input,A large brown bear standing next to a pile of rocks.,A large brown bear wearing a shirt standing next to a pile of rocks.,Have the bear wear a shirt.
+498,513484-output1,A large brown bear wearing a shirt standing next to a pile of rocks.,A large brown bear wearing a shirt and a hat standing next to a pile of rocks.,Put a hat on the bear.
+499,507918-input,A herd of deer walking across a rocky hillside.,Photographer captures a herd of deer walking across a rocky hillside.,Have someone be taking pictures of the goats
+500,62398-input,Black and white cat sleeping on blankets with collars.,Black and white cat standing on blankets with collars.,make the cat stand
+501,62398-output1,Black and white cat standing on blankets with collars.,White cat standing on blankets with collar.,leave only the white cat
+502,540100-input,Broccoli and cheese over chicken on a plate.,Rice with broccoli and cheese on a plate.,"change the chicken, broccoli and cheese into rice"
+503,540100-output1,Rice with broccoli and cheese on a plate.,Rice with broccoli and cheese in a yellow bowl.,let the bowl be yellow
+504,540100-output2,Rice with broccoli and cheese in a yellow bowl.,Rice with broccoli and cheese in a yellow bowl with a pinch of salt on the side.,add some salt next to the bowl
+505,500207-input,A white stunt plane under the wing of a jumbo jet in a hangar.,A white and colored stunt plane under the wing of a jumbo jet in a hangar.,make the plane white and colored
+506,108649-input,"A baseball cap, sunglasses and a baseball mitt.",A baseball cap and a baseball mitt.,Remove the sunglasses.
+507,108649-output1,A baseball cap and a baseball mitt.,A baseball cap and a wooden block.,Replace the glove with a wooden block.
+508,108649-output2,A baseball cap and a wooden block.,"A baseball cap, a wooden block, and a small action figure.",Place a small action figure next to the block.
+509,377772-input,A vase with flowers sits in a room with a bunk bed.,A vase with flowers sits in a room with a single bed.,replace the bunk bed with a single bed
+510,377772-output1,A vase with flowers sits in a room with a single bed.,A vase with red and white flowers sits in a room with a single bed.,put some red flowers on the vase
+511,482775-input,Four plates filled with food on top of a table.,Four plates filled with food and a cake on top of a table.,Put a cake on the plate.
+512,482775-output1,Four plates filled with food and a cake on top of a table.,"Four plates filled with food, a cake, and a glass of juice on top of a table.",Can we have a glass of juice next to the plate?
+513,482775-output2,"Four plates filled with food, a cake, and a glass of juice on top of a table.","Four plates filled with food, a cake, a glass of juice, and a jar of juice on top of a table.",Put a jar of juice next to the plate.
+514,499730-input,A stop sign in front of a large building with multiple balconies.,A go sign in front of a large building with multiple balconies.,Make the stop sign a go sign.
+515,499730-output1,A go sign in front of a large building with multiple balconies.,A clock and a go sign in front of a large building with multiple balconies.,Make the bottom sign a clock.
+516,499730-output2,A clock and a go sign in front of a large building with multiple balconies.,"A clock and a go sign in front of a large building with multiple balconies, with a parrot perched on top of the go sign.",Put a parrot on top of the go sign.
+517,509028-input,A group of people standing around a green train car.,A group of people facing the building while standing around a green train car.,have the people face the building
+518,509028-output1,A group of people facing the building while standing around a green train car.,A group of people facing the building with a balcony while standing around a green train car.,give the building a balcony
+519,433605-input,A laptop is sitting on a desk under a shelf with fruits on it.,A laptop is sitting on a desk under a shelf with dark bananas on it.,make the bananas dark
+520,433605-output1,A laptop is sitting on a desk under a shelf with dark bananas on it.,Laptop displaying a variety of fruits on a desk under a shelf with dark bananas.,the laptop is now showing some fruits
+521,433605-output2,Laptop displaying a variety of fruits on a desk under a shelf with dark bananas.,Laptop displaying a variety of fruits on a desk under a shelf with dark bananas.,get rid of the mouse
+522,558538-input,A stop sign is on the corner of a residential street.,An exit sign is on the corner of a residential street.,change the stop sign into an exit sign
+523,558538-output1,An exit sign is on the corner of a residential street.,A car drives out of a garage on the corner of a residential street.,add a car driving out of the garage
+524,558538-output2,A car drives out of a garage on the corner of a residential street.,Kids playing in front of two houses as a car drives out of a garage on the corner of a residential street.,add kids playing in front of the two houses
+525,204804-input,A bathroom with his and her sinks and mirrors.,"A bathroom with his and her sinks and mirrors, featuring a king sitting on the chair.",Add a king sitting on the chair.
+526,449125-input,Some people are sitting on a sandy beach by the ocean.,Some people are playing with a beach ball on a sandy beach by the ocean.,Let the frisbee be changed to beach ball.
+527,139306-input,A footlong sandwich on a piece of paper next to a serrated knife.,A footlong sandwich on a piece of paper next to a blunt knife.,Dull the knife.
+528,139306-output1,A footlong sandwich on a piece of paper next to a blunt knife.,A hot dog on a piece of paper next to a blunt knife.,Make the sandwich a hot dog.
+529,507958-input,A kitchen with oak cabinetry  and white appliances,A kitchen with painted cabinetry and white appliances,paint the cabinets
+530,507958-output1,A kitchen with painted cabinetry and white appliances,"A kitchen with painted cabinetry, white appliances, and butterfly accents",add butterflies
+531,507958-output2,"A kitchen with painted cabinetry, white appliances, and butterfly accents","A kitchen with painted cabinetry, white appliances, butterfly accents, and flower wall paper",add flower wall paper
+532,78689-input,Two computers on a bed with a dog between them.,A panting dog between two computers on a bed.,make the dog pant
+533,78689-output1,A panting dog between two computers on a bed.,"Frustrated dog stuck between two computers, one displaying an error message, on a bed.",let the laptop show an error message
+534,78689-output2,"Frustrated dog stuck between two computers, one displaying an error message, on a bed.",Frustrated dog stuck between a computer and an error message on a bed.,remove a laptop
+535,115146-input,A group of people converse in an office setting.,A group of people converse in an office setting with a drawing of a girl on the wall next to them.,What if there is a drawing of a girl next to the people on the wall?
+536,359687-input,A marina filled with boats that have been tied to the ledge.,A man enjoying a boat in a marina filled with tied boats.,let a man sit in a boat
+537,359687-output1,A man enjoying a boat in a marina filled with tied boats.,A man and his dog enjoying a boat in a marina filled with tied boats.,add a dog on the wooden dock
+538,359687-output2,A man and his dog enjoying a boat in a marina filled with tied boats.,A man and his dog enjoying a boat in a marina filled with tied boats with fireworks in the sky.,add fireworks in the sky
+539,436284-input,A rotten piece of  wood sitting on a rock.,A volcanic eruption on a rock.,Turn the wood into a volcano.
+540,436284-output1,A volcanic eruption on a rock.,Volcanic eruption with lava flow on a rock.,add a lava flow
+541,436284-output2,Volcanic eruption with lava flow on a rock.,Volcanic eruption with lava flow and smoke on a rock.,add smoke
+542,455879-input,Three helmets and three baseball bats sitting on a large white block with blood dripping down it.,Three sombreros and three baseball bats sitting on a large white block with blood dripping down it.,change the military hats into sombrero hats
+543,455879-output1,Three sombreros and three baseball bats sitting on a large white block with blood dripping down it.,Three sombreros and three baseball bats sitting on a large white block.,remove the blood
+544,448409-input,A large living room with a desk in the corner,A large living room with a black leather chair in the corner,Let the chair be made by black leather.
+545,204777-input,Older man picking up snacks from a table.,Older man enjoying a sandwich from the snack table.,make the man put a sandwich in his mouth
+546,204777-output1,Older man enjoying a sandwich from the snack table.,Elderly veteran enjoying a sandwich from the snack table in military uniform.,let the old man be dressed in a military uniform
+547,204777-output2,Elderly veteran enjoying a sandwich from the snack table in military uniform.,Elderly veteran with a curly afro enjoying a sandwich from the snack table in military uniform.,let the man have a curly afro
+548,528875-input,"pans filled with assorted veggies, fruit and rice","Pans filled with assorted veggies, fruit, rice, and a tennis ball",Add a tennis ball
+549,172406-input,a close up of a horse tethered to a carriage,A close up of a horse tethered to a carriage without blinders,remove the blinders from the horse
+550,524311-input,A man holding a Wii remote and laughing.,A man in a tuxedo holding a Wii remote and laughing.,change his outfit into a tuxedo
+551,524311-output1,A man in a tuxedo holding a Wii remote and laughing.,A blonde man in a tuxedo holding a Wii remote and laughing.,change his hair to blonde
+552,524311-output2,A blonde man in a tuxedo holding a Wii remote and laughing.,A blonde man in a tuxedo holding a carrot and laughing.,change the Wii remote to carrot
+553,246787-input,There is a sign that says time no ties please for a pint with ties around it,"Painting of a pint with ties around it, with the words ""time no ties please"" written underneath",let there be a painting instead of a sign
+554,246787-output1,"Painting of a pint with ties around it, with the words ""time no ties please"" written underneath","Painting of a pint with ties around it, with the words ""time no ties please"" written underneath, on painted walls",let the walls be painted
+555,246787-output2,"Painting of a pint with ties around it, with the words ""time no ties please"" written underneath, on painted walls","Painting of glasses of champagne and a pint with ties around it, with the words ""time no ties please"" written underneath, on painted walls",let there be glasses of champagne on the table
+556,229779-input,The man is surfing high up on a wave.,The man is skiing high up on a wave.,let the surfboard change into a ski
+557,229779-output1,The man is skiing high up on a wave.,The man is skiing high up on a wave next to a yacht.,let there be a yacht
+558,229779-output2,The man is skiing high up on a wave next to a yacht.,The man is skiing high up on a wave next to a yacht with an island in the background.,let there be an island at the border
+559,262162-input,A small bedroom with a desk and computer in it.,A person working at a desk with a computer in a small bedroom.,Add person to the chair.
+560,442242-input,"A pier is filled with boats, lighthouse and cargo.","A pier is filled with boats, two lighthouses and cargo.",double the amount of lighthouses
+561,460929-input,A hot dog with mustard is next to a bottle of soda.,A hot dog with mustard is next to a bottle of beer.,Make the drink a beer.
+562,460929-output1,A hot dog with mustard is next to a bottle of beer.,A plain hot dog is next to a bottle of beer.,Remove the mustard.
+563,229383-input,A group of people on public transportation stare at their phones.,"A group of people on public transportation, with one woman reading a book while others stare at their phones.",Make one of the women read a book.
+564,255010-input,Black and white photo of two men with black hats sitting in a train.,Black and white photo of two men with white hats sitting in a train.,Make the hats white.
+565,432216-input,A group of kids in skis in the snow.,A group of kids and a brown bear in skis in the snow.,change one of the people for a brown bear
+566,369675-input,A passenger train is sitting at a station.,A mostly white passenger train is sitting at a station.,Paint most of the train white.
+567,369675-output1,A mostly white passenger train is sitting at a station.,An empty white train is sitting at a station.,Remove the passengers.
+568,369675-output2,An empty white train is sitting at a station.,A small dog sits next to an empty white train at a station.,Add a small dog next to the train.
+569,522782-input,A triple screen computer set up on a desk next to a bed,A single screen computer set up on a desk next to a bed,Could we have just one monitor?
+570,522782-output1,A single screen computer set up on a desk next to a bed,A single screen computer set up on a desk next to a bed with a picture of a car on the monitor screen.,Put a picture of a car on the monitor screen.
+571,547637-input,A baseball glove with a baseball inside and a bat on a table,A baseball glove with an orange inside and a bat on a table,Have an orange instead of a baseball.
+572,164224-input,a white bed in a large hotel room,A white bed in a spacious hotel room,remove the chairs
+573,164224-output1,A white bed in a spacious hotel room,A white bed in a spacious hotel room with an abstract painting on the wall,let there be an abstract painting on the wall
+574,164224-output2,A white bed in a spacious hotel room with an abstract painting on the wall,A white bed with a big teddy bear on the pillows in a spacious hotel room with an abstract painting on the wall,let there be a big teddy bear on the pillows
+575,317424-input,This work van has green graffiti sprayed on its side,This work van has a cute panda face painted on its side.,Replace the graffiti with the face of a panda.
+576,392850-input,A banana and some fruit on a table.,Fruit and a banana on a table with a clear bowl of rice.,Have there be rice in the clear bowl
+577,392850-output1,Fruit and a banana on a table with a clear bowl of rice.,Fruit and a banana on a table with a clear bowl of rice and a measuring cup.,Have there be a measuring cup by the fruit
+578,392850-output2,Fruit and a banana on a table with a clear bowl of rice and a measuring cup.,"Fruit and a banana on a table with a clear bowl of rice, a measuring cup, and a stick of butter on the cutting board.",Have there be a stick of butter on the cutting board
+579,308793-input,Two skiers heading up the side of a mountain,Two skiers and a fox heading up the side of a mountain,Add a fox running up the mountain
+580,91080-input,A white refrigerator freezer sitting next to a stove top oven.,A white refrigerator freezer sitting next to a stove top oven with a pan.,swap the kettle for a pan
+581,91080-output1,A white refrigerator freezer sitting next to a stove top oven with a pan.,A white refrigerator freezer sitting next to a stove top oven with a pan and a fruit basket.,add a fruit basket
+582,168784-input,Blurred image of a dog wearing a neck tie sitting on a wood table top.,Blurred image of a dog wearing a bow tie sitting on a wood table top.,Make it a bow tie.
+583,466965-input,A parrot sitting on a branch looking down.,A parrot with a hat sitting on a branch looking down.,What if the parrot had a hat?
+584,484074-input,Three Zebras standing inside an enclosure at a zoo.,Man sitting on a zebra inside an enclosure at a zoo.,Have a man sitting on the zebra.
+585,182496-input,Foot long hotdogs on a piece of bread smothered in baked beans and cheese,"Foot long hotdogs topped with ice cream, baked beans, and cheese on a piece of bread",Top the hot dogs with ice cream
+586,182496-output1,"Foot long hotdogs topped with ice cream, baked beans, and cheese on a piece of bread","Foot long hotdogs topped with ice cream, baked beans, and cheese on a piece of bread with a cherry on top",add a cherry on top
+587,41846-input,pizza on a plate with one slice separated from the rest,Pepperoni pizza on a plate with one slice separated from the rest,Add pepperoni to the toppings
+588,524459-input,A man using his laptop at his desk,A man looking at his laptop at his desk,make the man look at his laptop
+589,524459-output1,A man looking at his laptop at his desk,A man in a striped shirt looking at his laptop at his desk,let the man wear a striped shirt
+590,524459-output2,A man in a striped shirt looking at his laptop at his desk,A man in a striped shirt holding a pencil while looking at his laptop at his desk,make the man hold a pencil
+591,237041-input,A snowboard is left vacant in view of large snow capped mountains.,A gorilla snowboards past large snow capped mountains.,Add a gorilla going by
+592,237041-output1,A gorilla snowboards past large snow capped mountains.,A gorilla snowboards past large snow capped mountains with lightening bolts in the sky.,Add lightening bolts in the sky.
+593,237041-output2,A gorilla snowboards past large snow capped mountains with lightening bolts in the sky.,A gorilla snowboards past large snow capped mountains with a helicopter being struck by lightening in the sky.,Add a helicopter being struck by lightening.
+594,50306-input,"The table is holding, pizza, eating utensils and glasses of orange juice.","The table is holding a crystal ball, eating utensils and glasses of orange juice.",remove the pizza a put a crystal ball in it's place
+595,50306-output1,"The table is holding a crystal ball, eating utensils and glasses of orange juice.",The table is holding a crystal ball and a chessboard.,put a chessboard in place of the utensils and drinks
+596,319494-input,Boats floating on top of a large lake.,A big whale jumps over boats floating on top of a large lake.,Make a big whale jump over the boat.
+597,62745-input,A combination Angry Birds birthday and graduation cake.,A combination flower-themed birthday and graduation cake.,Replace the angry birds with flowers.
+598,168690-input,A laptop and keyboard are sitting on a white desk in a hotel room.,A laptop with a blank screen and keyboard are sitting on a white desk in a hotel room.,let the computer have a blank screen
+599,168690-output1,A laptop with a blank screen and keyboard are sitting on a white desk in a hotel room.,A black keyboard and laptop with a blank screen are sitting on a white desk in a hotel room.,let the keyboard be black
+600,168690-output2,A black keyboard and laptop with a blank screen are sitting on a white desk in a hotel room.,"A black keyboard and laptop with a blank screen are sitting on a white desk in a hotel room, with a green pillow on the bed.",let there be a green pillow on bed
+601,40471-input,An older picture of a large kitchen with white appliances.,An older picture of a large kitchen with white appliances and a single window.,Turn the two windows into a single window.
+602,74964-input,a counter top with a plate of food,A counter top with a plate of roast chicken,let there be a roast chicken on the plate
+603,74964-output1,A counter top with a plate of roast chicken,A counter top with a plate of roast chicken and a bowl of berries,let there be a bowl of berries
+604,74964-output2,A counter top with a plate of roast chicken and a bowl of berries,"A counter top with a plate of roast chicken, a bowl of berries, and a tub of ice cream",let there be a tub of ice cream
+605,421476-input,A sandwich with mushrooms and other toppings on a plate.,A sandwich with Portbella mushrooms and other toppings on a plate.,Let the plate contain some Portbella.
+606,140021-input,A pair of scissors and some fabric rest on the table,A blue pair of scissors and some fabric rest on the table,make the scissor blue
+607,26221-input,A living room has a couch and  coffee table.,A lion lounging on a couch and coffee table in a living room.,make a lion laying on the couch
+608,94751-input,A parking lot is on the side of the ocean.,A parking lot and lighthouse on the side of the ocean.,Add a lighthouse to the image
+609,15272-input,A red light is a wonderful contrast to the pink leaves on trees,A green bird perched on a tree with pink leaves contrasts beautifully with a red light,let there be a green bird perched on the tree
+610,15272-output1,A green bird perched on a tree with pink leaves contrasts beautifully with a red light,A monkey and a green bird perched on a tree with pink leaves contrasts beautifully with a red light,let a monkey sit on the tree
+611,57377-input,A train that is sitting on the tracks.,A train and a black bear at the stream.,Let's add a black bear to the stream.
+612,499037-input,A skier that is about to cross the starting line.,A skier about to cross the starting line with a blank banner.,Remove the text on the banner.
+613,499037-output1,A skier about to cross the starting line with a blank banner.,A skier wearing a ski mask about to cross the starting line with a blank banner.,Give the man a ski mask.
+614,321394-input,an image of a bedroom setting that is in a loft,Blue bed in a loft bedroom setting,Can the bed be blue?
+615,321394-output1,Blue bed in a loft bedroom setting,Blue bed in a loft bedroom setting with a red dresser on the left.,Put a red dresser on the left.
+616,321394-output2,Blue bed in a loft bedroom setting with a red dresser on the left.,"Spacious loft bedroom with a blue bed, red dresser, and large window.",The window should be larger.
+617,1330-input,a young guy walking in a forrest holding an object in his hand,A young guy wearing long pants walking in a forest holding an object in his hand.,Let the guy wear long pants.
+618,411530-input,A crowd of people standing on snow covered ground.,Snow covered ground with no people.,Remove all the people.
+619,411530-output1,Snow covered ground with no people.,Snow covered ground with a big polar bear and no people.,Add a big polar bear.
+620,411530-output2,Snow covered ground with a big polar bear and no people.,"Snow covered ground with a big polar bear and a flock of birds, no people in sight.",Add a bunch of birds.
+621,30-input,A flower vase is sitting on a porch stand.,A squirrel admires a flower vase on a porch stand.,Have a squirrel be looking at the vase
+622,523599-input,The airplane is flying high in the cloudless sky.,The super hero is flying high in the cloudless sky.,replace the plane with a super hero
+623,523599-output1,The super hero is flying high in the cloudless sky.,The super hero and his trusty dog flying high in the cloudless sky.,put a dog next to the hero
+624,269038-input,A car driving down a street past a tall building.,A man on a scooter driving down a street past a tall building.,Let the man ride a scooter.
+625,410110-input,An umbrella and purses are in a crowded room.,Purses in a crowded room.,remove the umbrella
+626,410110-output1,Purses in a crowded room.,Open purse with cellphone among many in a crowded room.,let a purse be open and let there be a cellphone
+627,410110-output2,Open purse with cellphone among many in a crowded room.,Woman admiring open purse with cellphone among many in a crowded room.,let a woman look at the purses
+628,380097-input,A clean bathroom with a sink and a mirror,A clean white bathroom with a sink and a mirror,Let the counter turn white.
+629,189017-input,many different fire hydrants on the curb of a street,Lots of baby ducklings playing around fire hydrants on the curb of a street.,There should be lots of baby ducklings in the street.
+630,434222-input,a person is typing in front of a computer,Person enjoying cat pictures on their computer,Have the computer screen be showing cat pictures
+631,434222-output1,Person enjoying cat pictures on their computer,Person enjoying cat pictures on their computer while the cat eats a donut,Have the cat be eating a donut
+632,434222-output2,Person enjoying cat pictures on their computer while the cat eats a donut,Person enjoying cat pictures on their computer with a glass of water while the cat eats a donut,Add a glass of water next to the screen
+633,183672-input,A man flying through the air while riding a skateboard.,A man in an orange shirt flying through the air while riding a skateboard.,Change the man's shirt to orange
+634,183672-output1,A man in an orange shirt flying through the air while riding a skateboard.,A man in an orange shirt holding a banana while flying through the air on a skateboard.,Have the man be holding a banana
+635,107168-input,A group of giraffes are grouped together outdoors.,A giraffe standing tall outdoors.,make the giraffe stand
+636,100547-input,Three white castle hamburgers sitting in a white castle food bag.,Three white castle donuts sitting in a white castle food bag.,turn the cheese burgers into donuts
+637,100547-output1,Three white castle donuts sitting in a white castle food bag.,Three white castle donuts on a wooden table.,put the donuts on a wooden table
+638,483389-input,Grilled meat with veggies and potatoes on plate,Grilled meat with veggies and mashed potatoes on plate with a fork,put a fork in the mashed potatoes
+639,340184-input,a couple of white couches in a room,A couple of white couches in a room with a rabbit,put a rabbit in the room
+640,340184-output1,A couple of white couches in a room with a rabbit,A couple of white couches in a room with two rabbits,add another rabbit to the photo
+641,318815-input,a blanket and backpack sitting on the beach next to a surfboard,A blanket and backpack sitting on the beach next to a skateboard,let the surfboard turn into a skateboard
+642,318815-output1,A blanket and backpack sitting on the beach next to a skateboard,A sandcastle and backpack sitting on the beach next to a skateboard,let the towel be changed into a sandcastle
+643,318815-output2,A sandcastle and backpack sitting on the beach next to a skateboard,A kid crouches next to a sandcastle and backpack on the beach next to a skateboard,let a kid crouch next to the castle
+644,410152-input,A train that is by some houses in the day.,A person riding a bicycle next to a train by some houses in the day.,put a person riding a bicycle next to the train
+645,410152-output1,A person riding a bicycle next to a train by some houses in the day.,A person riding a bicycle next to a street bus by some houses in the day.,replace the subway train with a street bus
+646,315219-input,A phone mounted to a wall next to a doorway.,A pendulum phone mounted to a wall next to a doorway.,Replace the cord with a pendulum.
+647,147501-input,a two-door refrigerator with daylight coming in through the door beside it,A metallic two-door refrigerator with daylight coming in through the door beside it.,Make the fridge metallic.
+648,123336-input,Several chocolate donuts are on a plate in front of a shelf with alcohol on it.,Several strawberry glazed chocolate donuts are on a plate in front of a shelf with alcohol on it.,let the donuts have strawberry glaze on them
+649,123336-output1,Several strawberry glazed chocolate donuts are on a plate in front of a shelf with alcohol on it.,Several strawberry glazed chocolate donuts are on a plate in front of a bookshelf.,change the alcohol shelf into a bookshelf
+650,123336-output2,Several strawberry glazed chocolate donuts are on a plate in front of a bookshelf.,A smiling man stands nearby as several strawberry glazed chocolate donuts are on a plate in front of a bookshelf.,let a smiling man stand nearby
+651,335912-input,A glam rocker hipster reaching out towards an orange frisbee.,A glam rocker hipster reaching out towards an orange frisbee in a green shirt.,change the shirt
+652,214028-input,A bedrooom has a bed that has not been made up.,Blue bed in an unmade bedroom.,The bed should be blue.
+653,214028-output1,Blue bed in an unmade bedroom.,Blue bed in an unmade bedroom with a television.,Can we have a television?
+654,214028-output2,Blue bed in an unmade bedroom with a television.,"Unmade bedroom with a blue bed, television, and a larger window.",Put a larger window on the room.
+655,426052-input,a athlete just swung at a ball in a game,Athlete swings at ball while a flying drone captures the game.,Add a flying drone.
+656,460460-input,a home bar with assorted alcohol bottles and strings of lights.,"Cozy home bar with assorted alcohol bottles, strings of lights, and a comfy pillow on the couch.",throw a pillow on that couch
+657,405249-input,a child blows out the candles on a birthday cake.,A child blows out the candles on a birthday cake with toys on the left.,Eliminate the cake on the right that has toys
+658,405249-output1,A child blows out the candles on a birthday cake with toys on the left.,Two birthday cakes with toys on the left as a child blows out the candles.,Add a second chocolate cake
+659,405249-output2,Two birthday cakes with toys on the left as a child blows out the candles.,Two birthday cakes with toys on the left and a balloon on the table as a child blows out the candles.,Add a balloon on the table
+660,151480-input,A group of baseball players that are walking in the outfield.,Baseball players walking in the outfield with a mascot in the stands.,have a mascot in the stands
+661,151480-output1,Baseball players walking in the outfield with a mascot in the stands.,Baseball players lined up in the outfield with a mascot in the stands.,line the player up in a line.
+662,231682-input,A man riding on the back of a motorcycle.,A man riding on the back of a bicycle.,change the motorcycle into a bicycle
+663,231682-output1,A man riding on the back of a bicycle.,A man riding on the back of a bicycle with the officer looking at the camera.,make the officer look at the camera
+664,243361-input,A dining room table is cluttered with computers.,A man sitting at a cluttered dining room table with computers.,let a man sit on a chair at the table
+665,243361-output1,A man sitting at a cluttered dining room table with computers.,A man sitting at a cluttered dining room table with a closed laptop and computers.,let the laptop be closed
+666,243361-output2,A man sitting at a cluttered dining room table with a closed laptop and computers.,"A man sitting at a cluttered dining room table with a closed laptop and computers, one with a butterfly wallpaper.",let the computer have a butterfly wallpaper
+667,95828-input,A computer desk topped with lots of computers.,A book-filled computer desk.,substitute the computers for books
+668,95828-output1,A book-filled computer desk.,A book-filled computer desk with a turtle.,place a turtle in the image
+669,350132-input,A man playing a game of frisbee with himself.,A man and his dog playing frisbee together.,let a dog leap to catch the frisbee
+670,350132-output1,A man and his dog playing frisbee together.,A man and his dog playing frisbee together with mountains in the background.,let there be mountains bordering the field
+671,350132-output2,A man and his dog playing frisbee together with mountains in the background.,A man and his dog playing frisbee together on a sprinkler field with mountains in the background.,let the field have water sprinklers
+672,147471-input,A man and women rest as there dog stands on the trail.,A bald man and woman rest as their dog stands on the trail.,What if the man was bald?
+673,147471-output1,A bald man and woman rest as their dog stands on the trail.,A bald man and blonde woman rest as their dog stands on the trail.,What if the woman was blonde?
+674,147471-output2,A bald man and blonde woman rest as their dog stands on the trail.,"A bald man and blonde woman rest as their dog, wearing a hat, stands on the trail.",What if the dog had a hat?
+675,519432-input,An open laptop computer sitting on top of a wooden desk.,A closed laptop computer sitting on top of a wooden desk.,Turn off the laptop.
+676,519432-output1,A closed laptop computer sitting on top of a wooden desk.,A closed laptop computer sitting on top of a wooden desk with a smiley face on the wall.,Paint a smiley face on the wall.
+677,457572-input,A girl lays on a bed next to her glasses looking in the mirror,A girl lays on a bed next to her sunglasses looking in the mirror,change the glasses into sunglasses
+678,457572-output1,A girl lays on a bed next to her sunglasses looking in the mirror,"A girl lays on a bed next to her sunglasses and a champagne bottle, looking in the mirror",add a champagne bottle on the bed
+679,457572-output2,"A girl lays on a bed next to her sunglasses and a champagne bottle, looking in the mirror","A blonde girl lays on a bed next to her sunglasses and a champagne bottle, looking in the mirror",let the girl have blonde hair
+680,23355-input,A man holding pizzas on white plates in a kitchen.,"A man holding pizzas on white plates in a kitchen, with one plate magically turned into roast chicken.",let a plate of pizza be turned into roast chicken
+681,23355-output1,"A man holding pizzas on white plates in a kitchen, with one plate magically turned into roast chicken.","A man holding pizzas on white plates in a kitchen, making the waiter laugh while one plate magically turns into roast chicken.",make the waiter laugh
+682,23355-output2,"A man holding pizzas on white plates in a kitchen, making the waiter laugh while one plate magically turns into roast chicken.","A group of people enjoying a meal in a kitchen, with a man holding pizzas on white plates and making the waiter laugh while one plate magically turns into roast chicken.",let there be a bunch of people at the dining table
+683,419974-input,a man standing next to a kitchen counter preparing food.,Man cutting a pineapple on a kitchen counter.,let the man cut a pineapple
+684,419974-output1,Man cutting a pineapple on a kitchen counter.,Man cutting a pineapple on a kitchen counter while the dog howls.,make the dog howl
+685,419974-output2,Man cutting a pineapple on a kitchen counter while the dog howls.,Man cutting a pineapple on a kitchen counter surrounded by an assortment of dog food and treats while the dog howls.,let there be an assortment of dog food and treats
+686,205069-input,this is a man touching a drag queen,This is a man touching a drag queen wearing a red hat,change the pink hat to a red hat
+687,205069-output1,This is a man touching a drag queen wearing a red hat,This is a man touching a drag queen wearing a red skirt,let the woman wear a red skirt
+688,205069-output2,This is a man touching a drag queen wearing a red skirt,This is a man touching a blonde drag queen wearing a red skirt,let the woman have blonde hair
+689,555012-input,The roll of toilet paper beside the toilet is empty.,The roll of toilet paper beside the empty toilet with the lid lifted.,Lift the lid of the toilet.
+690,417804-input,a close up of a keyboard and a mouse on a desk,A close up of a keyboard and a rodent mouse on a desk,Change the mouse to a rodent mouse.
+691,294918-input,some people bicycles sunglasses cars and some buildings,"Some people, bicycles, sunglasses, cars, some buildings, and a wild pig.",Add a wild pig.
+692,243066-input,Rows of skis standing vertically in snow next to lodge.,Rows of skis and a snowmobile standing vertically in snow next to lodge.,Let's add a snowmobile.
+693,373184-input,A giraffe eating leaves of  upper branches of tree  by stretching his neck.,A white giraffe eating leaves of upper branches of tree by stretching his neck.,let the giraffe be white
+694,373184-output1,A white giraffe eating leaves of upper branches of tree by stretching his neck.,A white giraffe eating leaves of upper branches of tree with yellow flowers by stretching his neck.,add yellow flowers on the tree
+695,373184-output2,A white giraffe eating leaves of upper branches of tree with yellow flowers by stretching his neck.,A white giraffe and a kangaroo eating leaves of upper branches of tree with yellow flowers by stretching their necks.,add a kangaroo
+696,180141-input,A family sits at a table together enjoying each other's company,A family sits at a table together enjoying each other's company while the girl holds a microphone.,Let the girl hold a microphone.
+697,127028-input,A close up shot of a red apple beside an orange.,A close up shot of a red apple beside a banana.,replace orange with banana
+698,127028-output1,A close up shot of a red apple beside a banana.,A close up shot of a red apple beside a banana with a phone.,add a phone next to the apple
+699,127028-output2,A close up shot of a red apple beside a banana with a phone.,"A close up shot of a red apple and a banana with a phone, next to a cup of coffee.",add a cup of coffee
+700,189472-input,A child's kitchen filled with baby furniture and counters.,A child's kitchen with a stool and baby furniture and counters.,Let the chair turn to a stool.
+701,223734-input,a small elephant is standing near a tree,A small white elephant is standing near a tree,let the elephant be white
+702,352295-input,A box of Ulundu Vade is shown in a refrigerator.,A box of Ulundu Vade with a picture of a panda in a refrigerator.,Add a picture of a panda to the box
+703,391509-input,A person on a bench on a street.,A person on a bench with a parked Ducati superbike on a street.,let there be a ducati superbike parked
+704,391509-output1,A person on a bench with a parked Ducati superbike on a street.,A woman in military uniform sits on a bench with a parked Ducati superbike on a street.,let the woman be dressed in a military uniform
+705,391509-output2,A woman in military uniform sits on a bench with a parked Ducati superbike on a street.,A woman in military uniform sits on a bench with a parked Ducati superbike at a train station.,let it be a train station
+706,523978-input,"A bathroom with a white bath tub, sink and large window.","A bathroom with a white bath tub, sink and small window.",Let the window be small.
+707,276124-input,A baby brushing it's teeth with a blue and white tooth brush.,A smiling baby brushing its teeth with a blue and white toothbrush.,make the baby smile
+708,276124-output1,A smiling baby brushing its teeth with a blue and white toothbrush.,A smiling baby looking at the camera while brushing its teeth with a blue and white toothbrush.,let the baby look at the camera
+709,276124-output2,A smiling baby looking at the camera while brushing its teeth with a blue and white toothbrush.,A curly ginger-haired baby smiling at the camera while brushing its teeth with a blue and white toothbrush.,let the baby have curly ginger hair
+710,573448-input,A metal blender sitting next to a red plastic bowl.,Red bowl filled with dessert next to a metal blender.,let the red bowl contain dessert
+711,573448-output1,Red bowl filled with dessert next to a metal blender.,Red bowl filled with dessert next to a metal blender containing vegetables.,let the blender contain vegetables
+712,573448-output2,Red bowl filled with dessert next to a metal blender containing vegetables.,Red bowl filled with dessert next to a metal blender containing vegetables and a spider.,add a spider next to the blender
+713,231822-input,A tray of various foods next to drinks on a table.,A tray of various foods next to cans of beer on a table.,Replace the glasses with cans of beer.
+714,231822-output1,A tray of various foods next to cans of beer on a table.,A tray of various soups next to cans of beer on a table.,Replace the fruits with soup.
+715,231822-output2,A tray of various soups next to cans of beer on a table.,A tray of various soups and mac and cheese next to cans of beer on a table.,Put more mac and cheese in place of the veggies.
+716,167529-input,A bathroom sink sitting under a bathroom mirror.,A mug sitting on a bathroom sink under a bathroom mirror.,can it be a mug on the sink?
+717,167529-output1,A mug sitting on a bathroom sink under a bathroom mirror.,A mug and glass bottle sitting on a bathroom sink under a bathroom mirror.,Put a glass bottle on the sink
+718,167529-output2,A mug and glass bottle sitting on a bathroom sink under a bathroom mirror.,A mug and glass bottle sitting on a bathroom sink under a smaller bathroom mirror.,Can the mirror be smaller?
+719,131388-input,A herd of wild animals walking in the middle or a shallow river.,A group of kids walking in the middle of a shallow river.,change the animals for kids
+720,396338-input,A couple of cars on a city street.,Cars drive through a fiery city street.,Add fire to the buildings.
+721,499598-input,A group of women and a man sitting around a table together.,A group of women and Superman sitting around a table together.,make the man superman
+722,499598-output1,A group of women and Superman sitting around a table together.,A group of reporters and Superman sitting around a table together.,make the people reporters.
+723,499598-output2,A group of reporters and Superman sitting around a table together.,A group of reporters and Superman sitting around a news desk together.,change the dinner table into a news desk.
+724,429762-input,A couple of elephants standing next to each other.,A couple of elephants standing next to a rock.,We can add a rock next to the elephants.
+725,429762-output1,A couple of elephants standing next to a rock.,Elephant digging the ground next to a rock.,Could the elephant be digging the ground?
+726,429762-output2,Elephant digging the ground next to a rock.,Elephant digging the ground next to a lake.,They could be next to a lake.
+727,304627-input,A surfboard leaning on a wall near some stairs and a door.,A fan leaning on a wall near some stairs and a door.,turn the surfboard into a fan
+728,304627-output1,A fan leaning on a wall near some stairs and a door.,A fan leaning on a wall near an exit door.,replace the stairs and door with an exit door
+729,458772-input,A busy street with several cars and people crossing the street.,A busy street with several cars and people waiting at a red traffic light.,Make the traffic light show red.
+730,458772-output1,A busy street with several cars and people waiting at a red traffic light.,"A busy street with several cars, people, and a large dog waiting at a red traffic light.",Put a large dog in the street.
+731,458772-output2,"A busy street with several cars, people, and a large dog waiting at a red traffic light.","A busy street with several cars, people, and a large dog waiting at a red traffic light under an exotic planet-filled sky.",Put an exotic planet in the sky.
+732,136699-input,This purse is full of a variety of items.,Gold-labeled purse filled with a variety of items.,Have there be a gold brand label on the purse
+733,92187-input,A parking meter with a wooden stick figure on top.,A parking meter with a barbie doll on top.,Replace the wooden figure with a barbie doll.
+734,229525-input,A bay shower stall is combined with an untidy counter top in a bathroom.,An open shower stall and untidy counter top in a bathroom.,remove the door
+735,229525-output1,An open shower stall and untidy counter top in a bathroom.,An open shower stall and untidy counter top in a bathroom with a laptop.,add a laptop
+736,229525-output2,An open shower stall and untidy counter top in a bathroom with a laptop.,"A cat joins the mess in a bathroom with an open shower stall, untidy counter top, and a laptop.",let a cat enter the room
+737,137118-input,An empty living room in an apartment with several chairs sitting in the middle of it.,An empty living room in an apartment with several wooden chairs sitting in the middle of it.,Let the stool be made of wood.
+738,181947-input,A cup with three pairs of scissors sitting on a table.,"A cup with three pairs of scissors sitting on a table, in a red cup.",replace the lime green to red cup
+739,81930-input,A woman has her face down by a fire hydrant,A woman has her face down by a yellow fire hydrant,Change the fire hydrant from red to yellow
+740,174423-input,A bird sits perched on the edge of an umbrella.,A yellow bird sits perched on the edge of an umbrella.,Let the bird turn yellow.
+741,78085-input,A notebook PC and two monitors on an L-shaped office desk.,A microwave and two monitors on an L-shaped office desk.,change the laptop to a microwave
+742,78085-output1,A microwave and two monitors on an L-shaped office desk.,"A coffee cup, microwave, and two monitors on an L-shaped office desk.",add a coffee cup
+743,78085-output2,"A coffee cup, microwave, and two monitors on an L-shaped office desk.","A coffee cup, microwave, and two white computer monitors on an L-shaped office desk.",let the computer screens be white
+744,540697-input,A large white airplane with blue tail parked.,A large white airplane with blue tail parked on a sunny day.,make it sunny
+745,540697-output1,A large white airplane with blue tail parked on a sunny day.,Crew preparing a large white airplane with blue tail for takeoff on a sunny day.,change the scissor lift to a crew
+746,540697-output2,Crew preparing a large white airplane with blue tail for takeoff on a sunny day.,Crew preparing a large white rocket with blue tail for takeoff on a sunny day.,change the plane into a rocket
+747,236243-input,A bedroom filled with a bed and windows with curtains.,"A bedroom filled with a bed, windows with curtains, and a clock on the wall.",Change the painting on the wall to a clock
+748,236243-output1,"A bedroom filled with a bed, windows with curtains, and a clock on the wall.","A cozy bedroom with a cat lounging on the bed, windows with curtains, and a clock on the wall.",Have there be a cat on the bed
+749,318924-input,A group of dead stuffed animals on display in a museum.,"A group of dead stuffed animals, including a real zebra, on display in a museum.",let the statue of zebra be real
+750,318924-output1,"A group of dead stuffed animals, including a real zebra, on display in a museum.","A group of dead stuffed animals, including a real zebra, with a water bowl on display in a museum.",add a water bowl
+751,459440-input,A close-up of a drawing on a piece of paper next to a computer mouse.,A close-up of a drawing of a person's face on a piece of paper next to a computer mouse.,Have the sheet of paper show a picture of a person's face
+752,428152-input,"A kitchen with a stove, microwave, sink and dishwasher.","A kitchen with a chicken cooking on the stove, microwave, sink and dishwasher.",Put a chicken in a pot on top of the oven.
+753,360540-input,A store with some umbrellas next to a motor scooter.,A store with some umbrellas next to a penguin.,change the scooter for a penguin
+754,570951-input,Two cooks are preparing food in a restaurant kitchen.,Cowboy cook and his partner prepare food in a restaurant kitchen.,give the man a cowboy hat
+755,570951-output1,Cowboy cook and his partner prepare food in a restaurant kitchen.,Cowboy cook and his witch partner prepare food in a restaurant kitchen.,put a witch hat in the woman
+756,433334-input,A couple and a man sitting at a table.,An angry man confronts a couple at a table.,make the man angry
+757,433334-output1,An angry man confronts a couple at a table.,An angry man confronts a couple at a table with an empty plate.,empty the man's plate
+758,411727-input,A laptop sitting on a desk with books and other accessories.,Laptop displaying a media player on a desk with books and other accessories.,let the laptop show a media player on its screen
+759,411727-output1,Laptop displaying a media player on a desk with books and other accessories.,"Laptop displaying a media player on a desk with books, an eye shadow kit, and other accessories.",replace the glasses with an eye shadow kit
+760,411727-output2,"Laptop displaying a media player on a desk with books, an eye shadow kit, and other accessories.","Person's hand holding a laptop displaying a media player on a desk with books, an eye shadow kit, and other accessories.",let there be a person's hand on the table
+761,415461-input,Two children playing in a living room with hardwood floors.,Child enjoying ice cream while playing in a living room with hardwood floors.,make the child eat an ice cream
+762,415461-output1,Child enjoying ice cream while playing in a living room with hardwood floors.,Bald child enjoying ice cream while playing in a living room with hardwood floors.,let the child be bald
+763,415461-output2,Bald child enjoying ice cream while playing in a living room with hardwood floors.,Two children enjoying ice cream while playing in a living room with hardwood floors.,let another child reach for the ice cream
+764,401307-input,A few people on skis looking back for a photo.,A couple on skis looking back for a photo.,Erase two of the people.
+765,390565-input,A set of motorcycles sitting on a roadside near a small car.,A set of motorcycles parked by a serene lake near a small car.,A lake next to the motorcycles.
+766,390565-output1,A set of motorcycles parked by a serene lake near a small car.,A set of motorcycles parked by a serene lake with a green field nearby.,We should have a green field next to the lake.
+767,390565-output2,A set of motorcycles parked by a serene lake with a green field nearby.,A set of motorcycles parked by a serene lake with a car on the green field nearby.,Put a car on the field.
+768,220031-input,a man surfing on a surfboard in the water with houses on the shore.,A man falls off his surfboard in the water with houses on the shore.,Let the surfer fall.
+769,84031-input,Baseball game in large stadium with ball flying toward batter,Tennis game in large stadium with ball flying toward player with racquet,Change the baseball bat into a tennis racquet.
+770,84031-output1,Tennis game in large stadium with ball flying toward player with racquet,Tennis game in large stadium with tennis ball flying toward player with racquet,change the baseball to a tennis ball
+771,84031-output2,Tennis game in large stadium with tennis ball flying toward player with racquet,Tennis game in large stadium with tennis ball flying toward bucket of balls.,Change the catcher into a bucket of balls.
+772,434496-input,A buffet table is set up with all sorts of food.,A buffet table is set up with a variety of food and fresh fruits.,put some fruits
+773,434496-output1,A buffet table is set up with a variety of food and fresh fruits.,A buffet table is set up with a variety of donuts and fresh fruits.,swap the food for donuts
+774,28288-input,A foot long hot dog in a bun covered in ketchup.,A foot long hot dog in a bun covered in ketchup and mustard.,put mustard on the hot dog
+775,108244-input,A black cat with a hat on the ground.,"A black cat with a hat on the ground, eyeing a nearby mouse.",Put a mouse near the cat.
+776,156405-input,A photo of a wavy wooden bench at night.,A photo of a wavy wooden bench at night on a marble sidewalk.,let the sidewalk be a marble sidewalk
+777,156405-output1,A photo of a wavy wooden bench at night on a marble sidewalk.,A photo of a wavy wooden bench with a cat on the seat at night on a marble sidewalk.,add a cat on the seat
+778,156405-output2,A photo of a wavy wooden bench with a cat on the seat at night on a marble sidewalk.,"A photo of a wavy wooden bench with a cat on the seat at night on a marble sidewalk, with a boat in the lake.",add a boat in the lake
+779,518182-input,A guy playing with a disc on the beach.,A guy playing with a ball on the beach.,replace the frisbee with a ball
+780,518182-output1,A guy playing with a ball on the beach.,A guy playing with a brown ball on the beach.,let the shoes be brown
+781,518182-output2,A guy playing with a brown ball on the beach.,A guy playing with a brown ball on the beach with a boat in the water.,add a boat in the water
+782,115260-input,An item of a vase with something inside of it.,A pizza on a tray with something inside of it.,It should be a pizza on the tray.
+783,115260-output1,A pizza on a tray with something inside of it.,A pizza on a tray with a glass of soda next to it.,Put a glass of soda next to the tray.
+784,561137-input,Ambivalent emoticon on cell phone in front of laptop,Happy emoticon on cell phone in front of laptop,make the happy face happy
+785,393254-input,A tent in a forest next to a silver and brown RV.,Image of a tent and RV in a forest.,remove the text
+786,393254-output1,Image of a tent and RV in a forest.,Image of a tent and luxury car in a forest.,change the RV into a luxury car
+787,393254-output2,Image of a tent and luxury car in a forest.,Image of a log cabin and luxury car in a forest.,change tent into a log cabin
+788,81964-input,"A plate of food with tomatoes, broccoli and strawberries on it.","A plate of cereal with tomatoes, broccoli and strawberries on it.",Turn the meat into cereal.
+789,81964-output1,"A plate of cereal with tomatoes, broccoli and strawberries on it.","A plate of cookies with tomatoes, broccoli and strawberries on it.",Fill the plate with cookies.
+790,171199-input,"A pizza, silverware, and a drink sitting on a table.","A pizza, silverware, and a drink sitting on a table with a spoon.",Change the fork to a spoon
+791,171199-output1,"A pizza, silverware, and a drink sitting on a table with a spoon.","Pizza with basil leaves, silverware, and a drink sitting on a table with a spoon.",Add basil leaves to the pizza
+792,527656-input,a sign that is a surfboard and some lights,"A sign with a surfboard, lights, and a skateboard on the wall.",put a skateboard on the wall.
+793,476810-input,a cat is on a table next to a remote,A cat is on a table next to a phone and a remote.,can we have a phone next to the cat.
+794,476810-output1,A cat is on a table next to a phone and a remote.,A white cat is on a table next to a phone and a remote.,the cat should be white.
+795,476810-output2,A white cat is on a table next to a phone and a remote.,A white cat is on a table next to a phone and a remote with a television in the background.,Put a television on the background.
+796,379977-input,A brown horse is walking around in the grassy mountain.,A pink unicorn is walking around in the grassy mountain.,turn the brown horse into a pink unicorn
+797,379977-output1,A pink unicorn is walking around in the grassy mountain.,A pink unicorn is walking near a river in the grassy mountain.,put a river nearby
+798,508582-input,A pair of rectangular deep dish homemade pizzas.,A pair of rectangular deep dish homemade pepperoni pizzas.,Make both the pizzas pepperoni.
+799,2886-input,A plate with dinner on it set on a tablecloth,A plate with dinner on it set on a tablecloth with a knife,replace the fork with a knife
+800,2886-output1,A plate with dinner on it set on a tablecloth with a knife,A plate with dinner on it set on a tablecloth with a knife and a generous serving of french fries,less veggies and more french fries
+801,498988-input,A black and white cat is sitting in front of a laptop that is on a desk.,A black and white cat is sitting in front of a laptop with a blue screen on a desk.,Change the screen to blue.
+802,498988-output1,A black and white cat is sitting in front of a laptop with a blue screen on a desk.,"A black and white cat is sitting in front of a laptop with a blue screen on a desk, sans bottle.",Remove the bottle.
+803,322574-input,A sandwich sitting on top of a pile of fries.,"A sandwich, fries, and a soda can on a tray.",Add a soda can in the back
+804,322574-output1,"A sandwich, fries, and a soda can on a tray.","A mustard-covered hot dog, fries, and a soda can on a tray.",Add some mustard over the hot dog
+805,322574-output2,"A mustard-covered hot dog, fries, and a soda can on a tray.","A mustard-covered hot dog, fries, and a soda can on a tray with a side salad on the right.",Add a salad in the right side
+806,400922-input,A sign hanging of the side of a building on top of a clock.,A sign hanging of the side of a building on top of a clock with a smiley face logo.,Replace the logo on the sign with a smiley face.
+807,400922-output1,A sign hanging of the side of a building on top of a clock with a smiley face logo.,A sign hanging of the side of a building on top of a clock with a smiley face logo missing an hour hand.,Remove the hour hand on the clock.
+808,173401-input,THERE ARE TWO COWS THAT ARE WALKING IN THE GRASS,A cow leaping in the grassy field,let the cow leap
+809,173401-output1,A cow leaping in the grassy field,A cow leaping in the grassy field next to a dirt road,let the road be a dirt road
+810,173401-output2,A cow leaping in the grassy field next to a dirt road,A cow leaping in the grassy field next to a parking lot and dirt road,let there be a parking lot
+811,385026-input,The reflection of the forest through a bathroom mirror.,The reflection of the ocean through a bathroom mirror.,change the view for an ocean
+812,385026-output1,The reflection of the ocean through a bathroom mirror.,The reflection of buildings in the ocean through a bathroom mirror.,put buildings in place of trees
+813,512442-input,A woman holding a bowl in her hand standing next to a baby elephant.,A woman standing next to a baby elephant.,take the bowl off her hand
+814,512442-output1,A woman standing next to a baby elephant.,A woman standing next to a baby giraffe.,replace the elephant with a baby giraffe
+815,92661-input,A cluttered living room with a laptop computer.,A cluttered living room with a leather couch and a laptop computer.,let the couch be made of leather
+816,92661-output1,A cluttered living room with a leather couch and a laptop computer.,A cluttered living room with a leather couch and a laptop computer showing pictures of animals.,let the laptop show animals
+817,92661-output2,A cluttered living room with a leather couch and a laptop computer showing pictures of animals.,"A cluttered living room with a red door, a leather couch, and a laptop computer showing pictures of animals.",let the door be red
+818,132847-input,The old style airplane has a flag on it's tail.,The old style airplane has a Canadian flag on its tail.,change the British flag into a Canadian flag
+819,132847-output1,The old style airplane has a Canadian flag on its tail.,The old style airplane with a Canadian flag on its tail.,remove the numbers
+820,132847-output2,The old style airplane with a Canadian flag on its tail.,A man crouches under the old style airplane with a Canadian flag on its tail.,let a man crouch under the plane
+821,513200-input,A giraffe and its child walking through a field.,A giraffe walking through a field with its child under its belly.,put the baby giraffe under its mother
+822,536103-input,"A plate topped with sausage, potatoes and toast.","A plate topped with sausage, baked beans and toast.",replace potatoes with baked beans
+823,536103-output1,"A plate topped with sausage, baked beans and toast.","A plate topped with sausage, baked beans, and a single slice of toast.",let there be a single slice of toast
+824,536103-output2,"A plate topped with sausage, baked beans, and a single slice of toast.","Kid holding a plate topped with sausage, baked beans, and a single slice of toast.",make a kid hold the plate
+825,37662-input,A cap with a coat-of-arms sits on a baseball and baseball glove in a field.,A cap with a coat-of-arms,remove everything and leave the cap
+826,37662-output1,A cap with a coat-of-arms,A cap with the Japanese flag and a coat-of-arms,put the japanese flag on the cap
+827,241319-input,A bathroom sink with two toothbrushes facing each other.,A bathroom sink with two toothbrushes facing each other and a rubber duck.,Add a rubber duck.
+828,254004-input,Baggage handlers are an airport loading luggage onto a plane.,Baggage handlers at an airport loading a crate onto a plane.,turn the luggage into a crate
+829,254004-output1,Baggage handlers at an airport loading a crate onto a plane.,Men in suits and baggage handlers at an airport loading a crate onto a plane.,add men in suits
+830,254004-output2,Men in suits and baggage handlers at an airport loading a crate onto a plane.,"Men in suits, baggage handlers, and a golf cart at an airport loading a crate onto a plane.",add a golf cart
+831,367375-input,a horse is pulling a green and yellow carriage,Passengers singing while a horse pulls a green and yellow carriage,make the passengers sing
+832,367375-output1,Passengers singing while a horse pulls a green and yellow carriage,Passengers singing while a horse with a long mane pulls a green and yellow carriage,make the horse have a long mane
+833,367375-output2,Passengers singing while a horse with a long mane pulls a green and yellow carriage,Passengers singing while a horse with a long mane and neighing pulls a green and yellow carriage,make the horse neigh
+834,396330-input,three guys standing around in a gym near a basketball hoop,Three guys raising their hands in celebration at a gym near a basketball hoop,let the guys raise their hands
+835,396330-output1,Three guys raising their hands in celebration at a gym near a basketball hoop,Three guys raising their hands in celebration at a gym,remove the basketball hoop
+836,396330-output2,Three guys raising their hands in celebration at a gym,Three guys celebrating in an indoor swimming pool at a gym,let there be an indoor swimming pool
+837,208868-input,A red table topped with dishes on top of a red table cloth.,A pizza on a plate on top of a red table cloth and dishes.,put a pizza on a plate
+838,208868-output1,A pizza on a plate on top of a red table cloth and dishes.,A pizza and a glass of wine on a red table cloth and dishes.,put a glass of wine next to the pizza
+839,208868-output2,A pizza and a glass of wine on a red table cloth and dishes.,"A pizza and a glass of wine on a red table cloth and dishes, without a candle.",remove the candle
+840,326174-input,A group of people are taking surfing lessons.,A group of people enjoying the beach.,Remove all the surfboards.
+841,326174-output1,A group of people enjoying the beach.,A group of people enjoying the beach with a boat.,Add a boat.
+842,326174-output2,A group of people enjoying the beach with a boat.,A group of people enjoying the beach with a boat and birds in the sky.,Add birds to the sky.
+843,489358-input,A food truck is parked in front of other cars on the street.,A school bus is parked in front of other cars on the street.,swap the truck for a school bus
+844,489358-output1,A school bus is parked in front of other cars on the street.,A school bus is parked in front of bicycles on the street.,remove the cars and put bicycles behind the bus
+845,512854-input,A man playing a game with a remote controller.,A man holding a trophy while playing a game with a remote controller.,make the man hold a trophy
+846,512854-output1,A man holding a trophy while playing a game with a remote controller.,A man dressed in a Halloween costume holding a trophy while playing a game with a remote controller.,let the man be dressed in a Halloween costume
+847,512854-output2,A man dressed in a Halloween costume holding a trophy while playing a game with a remote controller.,A man dressed in a Halloween costume holding a trophy while playing a game with a remote controller on a fluffy bed.,turn the couch into a fluffy bed
+848,213547-input,A woman holding a small cake with lit candles.,A woman sitting on a chair holding a small cake with lit candles.,Let the woman sit on a chair.
+849,130586-input,a boy making a face while running to get his kite in the air,A boy making a face while running to get a bird in the air.,Replace the kite with a bird.
+850,130586-output1,A boy making a face while running to get a bird in the air.,A girl making a face while running to get a bird in the air.,Replace the boy with girl.
+851,130586-output2,A girl making a face while running to get a bird in the air.,A girl and her dog running to get a bird in the air.,Add a dog next to the girl.
+852,274460-input,A group of people on a beach with surf boards.,A group of people enjoying the beach.,Remove the surfboards.
+853,274460-output1,A group of people enjoying the beach.,A group of people and a dog enjoying the beach.,Add a dog.
+854,499733-input,A man beside a valley stands beneath an umbrella in the rain,A man with futuristic glasses beside a valley stands beneath an umbrella in the rain.,Give the guy futuristic glasses.
+855,499733-output1,A man with futuristic glasses beside a valley stands beneath an umbrella in the rain.,"A man with futuristic glasses beside a valley stands beneath an umbrella in the rain, smiling.",Make him smile.
+856,499733-output2,"A man with futuristic glasses beside a valley stands beneath an umbrella in the rain, smiling.","A bald man with futuristic glasses beside a valley stands beneath an umbrella in the rain, smiling.",Make the man bald.
+857,415958-input,A woman looks around a very small kitchen.,A man looks around a very small kitchen.,Change the woman to a man.
+858,3661-input,A bunch of bananas sitting on top of a wooden table.,A bunch of oranges sitting on top of a wooden table.,Replace the bananas with oranges.
+859,3661-output1,A bunch of oranges sitting on top of a wooden table.,A bunch of oranges and a glass of water sitting on top of a wooden table.,Add a glass of water.
+860,438876-input,A senior tennis player prepares to backhand the ball.,"A senior tennis player holds a tennis ball, preparing to backhand it.",let the man hold a tennis ball
+861,438876-output1,"A senior tennis player holds a tennis ball, preparing to backhand it.","A senior tennis player sticks his tongue out while holding a tennis ball, preparing to backhand it.",let the man stick his tongue out
+862,438876-output2,"A senior tennis player sticks his tongue out while holding a tennis ball, preparing to backhand it.","A senior hockey player sticks his tongue out while holding a hockey ball, preparing to backhand it.",replace the tennis racquet into a stick
+863,172686-input,A table topped with oranges and a bowl of salad.,"A table topped with oranges, a bowl of salad, and a bowl of dessert.",let there be a bowl of dessert
+864,172686-output1,"A table topped with oranges, a bowl of salad, and a bowl of dessert.","A table topped with oranges, watermelons, a bowl of salad, and a bowl of dessert.",let there be water melons on the table
+865,172686-output2,"A table topped with oranges, watermelons, a bowl of salad, and a bowl of dessert.","A table topped with oranges, watermelons, a bowl of salad, and a bowl of dessert being sniffed by a curious rat.",let a rat sniff the bowl
+866,144269-input,People sitting on a train with one person looking up at a mirror and taking a photo of the reflection with a camera.,"People sitting on a train with one person looking up at a mirror and taking a photo of the reflection with a camera, featuring a man with longer hair.",give the man a longer hair
+867,144269-output1,"People sitting on a train with one person looking up at a mirror and taking a photo of the reflection with a camera, featuring a man with longer hair.",Man with longer hair taking a photo of his reflection on a train mirror.,remove the people from the background
+868,221212-input,some people riding the back of an elephant,An elephant in its natural habitat.,Remove the people.
+869,221212-output1,An elephant in its natural habitat.,An elephant with a shortened trunk in its natural habitat.,Make its trunk smaller.
+870,127648-input,A picture of a dessert that is on the table.,A picture of a dessert with a single cherry on top.,leave only one charry on top
+871,485234-input,A sliced loaf of lemon almond tea cake.,A sliced loaf of bread on the board.,It should be bread on the board.
+872,485234-output1,A sliced loaf of bread on the board.,A sliced loaf of bread on the board with a cup of coffee in the background.,put a cup of coffee on the background.
+873,485234-output2,A sliced loaf of bread on the board with a cup of coffee in the background.,A sliced loaf of bread with a knife on the board and a cup of coffee in the background.,Put a knife on the bread.
+874,510955-input,A very pretty lady with a oven mitt in a kitchen.,A very pretty lady with glasses and an oven mitt in a kitchen.,Let the woman wear glasses.
+875,475169-input,Several pigeons eating food off of the sidewalk.,Cat watching several pigeons eating food off of the sidewalk.,Have a cat watch the pigeons.
+876,276055-input,A woman holding up a large carrot in a backyard.,A woman wearing a mask holding up a large carrot in a backyard.,make the woman wear a mask
+877,280490-input,A meal is nicely laid out on a table.,A meal with a pancake nicely laid out on a table.,Can we have a pancake on the tray?
+878,280490-output1,A meal with a pancake nicely laid out on a table.,A meal with pancakes and fries nicely laid out on a table.,Put some fries next to the pancakes.
+879,329737-input,a very old computer on a black background,A very old yellow keyboard computer on a black background,let the keyboard be yellow
+880,329737-output1,A very old yellow keyboard computer on a black background,A very old yellow keyboard computer with a blue webpage on a black background,let the computer have a blue webpage
+881,329737-output2,A very old yellow keyboard computer with a blue webpage on a black background,A very old yellow keyboard computer with a blue webpage on a black background and a hamster instead of a mouse,replace the mouse with a hamster
+882,466567-input,A tree with a donut as an ornament,A tree with an apple as an ornament,Make the donut an apple.
+883,139653-input,The patio umbrella is standing erect in the sun.,Flock of birds fly by as the patio umbrella stands erect in the sun.,Have there be a flock of birds flying by
+884,539143-input,A train traveling under a rusted bridge on top of tracks.,A happy train traveling under a rusted bridge on top of tracks.,Make the train smile with eyes and a mouth.
+885,539143-output1,A happy train traveling under a rusted bridge on top of tracks.,A happy train stopped in front of a train station building.,Have the train stopped in front of a train station building.
+886,529266-input,a horse stands on a beach as a light house over looks it,A white horse stands on a beach as a light house over looks it,change the brown horse to white
+887,529266-output1,A white horse stands on a beach as a light house over looks it,A white horse stands on a beach as a light house over looks it with a boat in the distance,add a boat
+888,529266-output2,A white horse stands on a beach as a light house over looks it with a boat in the distance,A white horse stands on a beach surrounded by tall shrubs as a lighthouse overlooks it with a boat in the distance.,add tall shrubs
+889,376773-input,Three people with a baseball equipment standing in an open area.,Three people with a baseball equipment and an alien standing in an open area.,Have there be an alien next to the kids
+890,376773-output1,Three people with a baseball equipment and an alien standing in an open area.,Three people with a baseball equipment and an alien standing in an open area with a swimming pool by the kids.,Have there be a swimming pool by the kids
+891,148508-input,"A black and white picture of a busy street, only red is in color, a red double decker bus drives down the road.","A black and white picture of a busy street, only red is in color, a yellow double decker bus drives down the road.",The bus is yellow.
+892,446917-input,A person riding a racing bicycle with a banana and sunscreen in their back pocket.,A person riding a racing motorcycle with a banana and sunscreen in their back pocket.,let the bike be replaced by a motorcycle
+893,446917-output1,A person riding a racing motorcycle with a banana and sunscreen in their back pocket.,A person riding a racing motorcycle with a carrot and sunscreen in their back pocket.,let there be a carrot instead of the banana
+894,446917-output2,A person riding a racing motorcycle with a carrot and sunscreen in their back pocket.,"A person riding a racing motorcycle with a carrot, sunscreen, and a traffic cone in their back pocket.",let there be a traffic cone
+895,271402-input,two little girls in tennis uniforms standing next to a scooter,Little girl in tennis uniform standing next to a scooter.,Remove one of the girls.
+896,271402-output1,Little girl in tennis uniform standing next to a scooter.,Little girl in tennis uniform standing next to a scooter with a cat.,Add a cat.
+897,161047-input,A great shot of a full kitchen and partially a table.,A great shot of a full kitchen and a table with a birthday cake.,Have there be a birthday cake on the table
+898,161047-output1,A great shot of a full kitchen and a table with a birthday cake.,A child celebrates their birthday at a fully stocked kitchen table.,Have there be a child sitting at the table
+899,161047-output2,A child celebrates their birthday at a fully stocked kitchen table.,A child wearing a birthday hat celebrates their special day at a fully stocked kitchen table.,Have the child be wearing a birthday hat
+900,32778-input,a guy skating on a skate board course,Man in Yellow Sweatshirt Skating on a Skateboard Course,Have the man be wearing a yellow sweatshirt
+901,283638-input,"A plate with broccoli, guacamole along with an orange stir fried vegetable on the side.","Hand holding a plate with broccoli, guacamole along with an orange stir fried vegetable on the side.",What there is a hand holding the plate?
+902,21404-input,A very tall clock that is by the ocean.,A very tall clock with English numbers by the ocean.,let the clock have English numbers
+903,21404-output1,A very tall clock with English numbers by the ocean.,A very tall clock with English numbers surrounded by palm trees by the ocean.,let there be palm trees
+904,21404-output2,A very tall clock with English numbers surrounded by palm trees by the ocean.,A flock of birds fly across a very tall clock with English numbers surrounded by palm trees by the ocean.,let a flock of birds fly across
+905,544615-input,A baby playing with a Wii controller,A baby playing with a banana instead of a Wii controller,The child should be holding a banana.
+906,391388-input,"A bowl of broccoli, onions, white rice and brown rice.","A bowl of white rice, brown rice, and an apple.",remove the broccoli and onions and add an apple
+907,163852-input,a square plate with all kinds of vegetables on the plate,A square plate with all kinds of vegetables and a tomato slice on the plate.,Let the fried food be replaced by a tomato slice.
+908,171757-input,a couple of people that are standing up in a room,Woman holding a bottle of wine while standing with a man in a room,What if the woman was holding a bottle of wine?
+909,434217-input,A couple of people playing frisbee in the grass.,A couple of people enjoying soda in the grass.,Make the frisbee a bottle of soda
+910,410366-input,Two little boys who are standing in the dirt.,Two little boys playing with a ball in the dirt.,If it was a ball they are playing?
+911,410366-output1,Two little boys playing with a ball in the dirt.,Two little boys playing with a ball by the lake.,Put a lake on the background.
+912,410366-output2,Two little boys playing with a ball by the lake.,Two little boys and a girl playing with a ball by the lake.,We could put a girl on it.
+913,118209-input,a couple of horse that are next to a fence,Horses with saddles standing next to a fence,put saddles on the horses
+914,118209-output1,Horses with saddles standing next to a fence,Horses with saddles and shoes standing next to a fence,give the horses shoes
+915,118209-output2,Horses with saddles and shoes standing next to a fence,Horses with saddles and shoes standing next to a fence with a hill in the background,make a hill in the background
+916,439602-input,Hot dogs are wrapped in a bacon and topped with melted cheese.,"Bacon-wrapped hot dogs topped with melted cheese, no buns.",let the hot dogs have no buns
+917,439602-output1,"Bacon-wrapped hot dogs topped with melted cheese, no buns.","Bacon-wrapped hot dogs topped with melted cheese, no buns, on a transparent plate.",let the plate be transparent
+918,439602-output2,"Bacon-wrapped hot dogs topped with melted cheese, no buns, on a transparent plate.","Hand holding a bacon-wrapped hot dog topped with melted cheese, no buns, on a transparent plate.",let a hand touch the hot dog
+919,77444-input,An assortment of colorful baked goods on a table.,An assortment of colorful canapes and baked goods on a table.,replace donuts with canapes
+920,77444-output1,An assortment of colorful canapes and baked goods on a table.,An assortment of colorful canapes and baked goods with a cup of tea on a table.,add a cup of tea
+921,77444-output2,An assortment of colorful canapes and baked goods with a cup of tea on a table.,An assortment of colorful canapes and baked goods with a cup of tea on a table next to an open laptop.,add an open laptop
+922,398157-input,"A bathroom with mirror, sink, toilet and bathtub.","A bathroom with mirror, sink, toilet, bathtub, and a vase of flowers on the counter.",Let's add a vase of flowers to the counter.
+923,339634-input,A blue and white plate with food on it.,A blue and white plate with lobster and other food on it.,let there be lobster on the plate
+924,339634-output1,A blue and white plate with lobster and other food on it.,"A blue and white plate with lobster, other food, and dipping sauce on it.",let there be dipping sauce
+925,158702-input,a plant and a white toilet in a bathroom,An open white toilet and a plant in a bathroom,let the toilet be open
+926,158702-output1,An open white toilet and a plant in a bathroom,An open white toilet and a bathroom plant with blue flowers,let the plant have blue flowers
+927,158702-output2,An open white toilet and a bathroom plant with blue flowers,An open white toilet and a bathroom plant with blue flowers behind open shower curtains,open the shower curtains
+928,277020-input,A man sitting at a bar being served by a woman,A happy man sitting at a bar being served by a woman,Make the man smile.
+929,277020-output1,A happy man sitting at a bar being served by a woman,A happy blonde man sitting at a bar being served by a woman,Make the man blonde.
+930,277020-output2,A happy blonde man sitting at a bar being served by a woman,"A happy blonde man sitting at a bar being served by a woman, with a plain tie.",Remove the stripes from the man's tie.
+931,425609-input,Three mini cupcakes are displayed with two forks.,Three mini cupcakes are displayed with two spoons.,Change the forks to spoons
+932,425609-output1,Three mini cupcakes are displayed with two spoons.,"Three mini cupcakes are displayed with two spoons, one with strawberry frosting.",Add strawberry frosting to one of the cupcakes
+933,425609-output2,"Three mini cupcakes are displayed with two spoons, one with strawberry frosting.","Three mini cupcakes with a strawberry on top of the one with strawberry frosting, displayed with two spoons.",Add a strawberry on top of the cupcake with frosting
+934,228435-input,"A bathroom sink topped with soap, cosmetics and a hairbrush.","A bathroom sink topped with soap, cosmetics and a hairbrush.",get rid of the towel
+935,392991-input,A white cake with chocolate being poured over the top of it.,A white cake waiting to be topped at the bakery.,remove the chocolate from the cake
+936,392991-output1,A white cake waiting to be topped at the bakery.,A white cake topped with a fresh strawberry at the bakery.,put strawberry on top of the cake
+937,392991-output2,A white cake topped with a fresh strawberry at the bakery.,A white cake topped with a fresh strawberry at the bakery.,remove the chocolate spoon
+938,360762-input,A basket with a stuffed teddy bear hangs outside.,A basket with a stuffed rabbit hangs outside.,put a rabbit in the basket instead of the bear
+939,360762-output1,A basket with a stuffed rabbit hangs outside.,A basket with a stuffed rabbit and an egg hangs outside.,add an egg to the photo
+940,25528-input,A young child at bat during a baseball game.,A young child at bat during a baseball game with the pitcher wearing gloves.,let the pitcher wear gloves
+941,25528-output1,A young child at bat during a baseball game with the pitcher wearing gloves.,A young child in military uniform at bat during a baseball game with the pitcher wearing gloves.,change the baseball outfit of the batter into a military uniform
+942,25528-output2,A young child in military uniform at bat during a baseball game with the pitcher wearing gloves.,"A young child in military uniform at bat during a baseball game with the pitcher wearing gloves, surrounded by conifers.",remove the buildings at the back and change them to conifers
+943,466945-input,A picture of a person walking down the road.,A person walking down the road with a spaceship in the sky.,Have there be a spaceship in the sky
+944,466945-output1,A person walking down the road with a spaceship in the sky.,A person and an alien walking down the road with a spaceship in the sky.,Have there be an alien walking on the sidewalk
+945,485083-input,A black and white cat sitting on top of a bag of luggage.,A black and white cat sitting on top of a bag of luggage with a rat on the floor.,Let's add a rat on the floor.
+946,12766-input,There is a plate of sushi and a bowl of soup and drinks on a tray,There is a plate of sushi and a bowl of soup and a glass of wine on the table,Could it be a glass of wine on the table?
+947,12766-output1,There is a plate of sushi and a bowl of soup and a glass of wine on the table,"There is a plate of sushi, a bowl of soup, a bowl of eggs, and a glass of wine on the table.",Put a bowl of eggs on the table.
+948,12766-output2,"There is a plate of sushi, a bowl of soup, a bowl of eggs, and a glass of wine on the table.","There is a plate of sushi, a bowl of soup, a bowl of eggs, and a bottle of wine next to a glass on the table.",It should be a bottle of wine next to the glass.
+949,127517-input,A row of surfboards sticking out of the sand sitting next to each other.,A row of surfboards sticking out of the sand sitting next to each other with the legs of a lifeguard stand.,Add the legs of a lifeguard stand.
+950,127517-output1,A row of surfboards sticking out of the sand sitting next to each other with the legs of a lifeguard stand.,A seagull watches over a row of surfboards sticking out of the sand next to a lifeguard stand.,Put a seagull on the beach.
+951,127517-output2,A seagull watches over a row of surfboards sticking out of the sand next to a lifeguard stand.,A seagull watches over a row of surfboards sticking out of the sand next to a lifeguard stand and a beach umbrella.,Put a beach umbrella by the seagull.
+952,409050-input,An open and airy sitting room that leads to a patio.,An open and airy sitting room that leads to a patio with no table.,delete the table
+953,409050-output1,An open and airy sitting room that leads to a patio with no table.,An open and airy sitting room with an aquarium door that leads to a patio with no table.,turn the glass door in an aquarium
+954,327702-input,Woman and infant son hand feeding giraffe at zoo,Woman hand feeding giraffe at zoo with a bag,replace the child with a bag
+955,327702-output1,Woman hand feeding giraffe at zoo with a bag,Woman hand feeding tiger at zoo with a bag,let the woman feed a tiger
+956,153669-input,a batter after he has hit a pitched ball before he is going to run,"A batter after he has hit a pitched ball before he is going to run, wearing a top hat.",Replace his helmet with a top hat.
+957,297426-input,Four photographs of the portions of a keyboard and a mouse.,Four photographs of the portions of a keyboard and a mouse with a lizard next to the mouse.,add a lizard next to the mouse
+958,297426-output1,Four photographs of the portions of a keyboard and a mouse with a lizard next to the mouse.,Four photographs of a keyboard and a mouse with a lizard next to the mouse.,remove the black panels
+959,297426-output2,Four photographs of a keyboard and a mouse with a lizard next to the mouse.,"Five gadgets on a desk: keyboard, mouse, cellphone, and a lizard.",add a cellphone
+960,52603-input,A young man reaching  to catch a frisbee,A young man reaching to catch a football,Change the frisbee to a football
+961,52603-output1,A young man reaching to catch a football,A young man in a blue jersey reaching to catch a football,Have the man be wearing a blue jersey
+962,52603-output2,A young man in a blue jersey reaching to catch a football,A young man in a blue jersey reaching to catch a football with a dog running towards him,Have there be a dog running towards the man
+963,258674-input,A parking meter lies askew on a street.,A white car parked next to a askew parking meter on a street.,Let the car be painted white.
+964,382559-input,A white table inside of a kitchen next to a window.,An empty white table inside of a kitchen next to a window.,empty the table
+965,154597-input,A dining room has a booth with green seats.,A dining room has a booth with chairs.,change the green seats into chairs
+966,154597-output1,A dining room has a booth with chairs.,A dining room with a round table and booth with chairs.,let the table be round
+967,154597-output2,A dining room with a round table and booth with chairs.,A dining room with a round table and booth with chairs and a brown door.,let the room have a brown door
+968,407650-input,A man flying through the air while riding a snowboard.,A man flying through the air on a snowboard with a helicopter in the sky.,Have there be a helicopter in the sky
+969,573764-input,A group of people sitting around a table with food.,A group of people sitting around a cafeteria table with food.,change the classroom into a cafeteria
+970,573764-output1,A group of people sitting around a cafeteria table with food.,A group of people sitting around a cafeteria table with school lunches.,change the pizza into school lunches.
+971,349302-input,The two giraffes are standing in the dirt.,A giraffe and a monkey standing in the dirt.,Change one of the giraffes to a monkey
+972,349302-output1,A giraffe and a monkey standing in the dirt.,A giraffe and a monkey standing in the dirt near a parked car.,Have there be a parked car nearby
+973,56896-input,A window sitting above a white heater air conditioner.,A window sitting above a white heater air conditioner while a television shows yoga.,let the television show yoga
+974,56896-output1,A window sitting above a white heater air conditioner while a television shows yoga.,A plain red curtain hanging above a white heater air conditioner while a television shows yoga.,let the curtains be plain red
+975,56896-output2,A plain red curtain hanging above a white heater air conditioner while a television shows yoga.,A plain red curtain hanging above a white heater air conditioner while a television shows yoga with a view of an airport runway.,let the window show a view of an airport runway
+976,144534-input,"Skillet filled with salami, broccoli and other vegetables.",Skillet filled with vegan vegetables and plant-based salami.,let the skillet have vegan food
+977,144534-output1,Skillet filled with vegan vegetables and plant-based salami.,Woman holding a skillet filled with vegan vegetables and plant-based salami.,make a woman hold the skillet
+978,144534-output2,Woman holding a skillet filled with vegan vegetables and plant-based salami.,"Woman holding a skillet filled with vegan vegetables and plant-based salami, drizzled with soy sauce.",change the bottle of olive oil into soy sauce
+979,476335-input,a group of men working the kitchen behind a counter top,A group of men and a woman working the kitchen behind a counter top,swap one of the man for a woman
+980,476335-output1,A group of men and a woman working the kitchen behind a counter top,A group of women working the kitchen behind a counter top,change the man for a woman
+981,149-input,People gathered outside in a big field on a cloudy day,People gathered outside in a big field next to a river on a cloudy day,Can we have a river next to the field.
+982,149-output1,People gathered outside in a big field next to a river on a cloudy day,People gathered in a field next to a river with a forest in the background on a cloudy day,Can we have a forest on the background?
+983,92212-input,a group of cars parked on a street nest to street signs,A group of limousines parked on a street next to street signs,let limousines be parked
+984,92212-output1,A group of limousines parked on a street next to street signs,A group of limousines parked on a street next to a Stop sign and other street signs,Change the Pay Here sign to Stop Sign
+985,92212-output2,A group of limousines parked on a street next to a Stop sign and other street signs,Pedestrians walking on the side as a group of limousines parked on a street next to a Stop sign and other street signs,add pedestrians walking on the side
+986,561514-input,A violet table in the middle of a white themed kitchen,A violet table in the middle of a white themed kitchen with tiled floor,let the floor be tiled
+987,561514-output1,A violet table in the middle of a white themed kitchen with tiled floor,A violet table in the middle of a white themed kitchen with tiled floor and a curious raccoon on the island,add a raccoon on the island
+988,561514-output2,A violet table in the middle of a white themed kitchen with tiled floor and a curious raccoon on the island,"A violet table in the middle of a white themed kitchen with tiled floor and a curious raccoon on the island, illuminated by a sparkling chandelier on the ceiling.",add a chandelier on the ceiling
+989,294943-input,A cat sitting on a bathroom sink in front of it's owner.,A cat wearing a hat sitting on a bathroom sink in front of its owner.,What if the cat have a hat?
+990,294943-output1,A cat wearing a hat sitting on a bathroom sink in front of its owner.,"A cat wearing a hat sitting on a bathroom sink in front of its owner, who is also wearing a hat.",Let's add a hat to the man's head.
+991,146457-input,two children being entertained by preparing pizza at home.,Boy wearing a hat helps prepare pizza with his sister at home.,Let's add a hat to the boy.
+992,146457-output1,Boy wearing a hat helps prepare pizza with his sister at home.,Boy wearing a hat helps prepare pizza with his sister at home while she adds ketchup.,What if the girl is holding ketchup?
+993,399547-input,A green glass mug filled with tooth paste and toothbrushes.,A green glass mug filled with toothpaste and forks.,Change the toothbrushes to forks
+994,551701-input,"A young girl standing on a raised utility cover in a grass yard, with a trash can behind her on the sidewalk.","A young girl standing on the grass in a yard, with a trash can behind her on the sidewalk.",Get rid of the stone so it looks like she's just on the grass.
+995,551701-output1,"A young girl standing on the grass in a yard, with a trash can behind her on the sidewalk.","A young, chubby girl standing on the grass in a yard, with a trash can behind her on the sidewalk.",Make her fatter.
+996,551701-output2,"A young, chubby girl standing on the grass in a yard, with a trash can behind her on the sidewalk.","A young, chubby girl standing on the grass in a yard, with a trash can behind her on the sidewalk.",Remove the frisbee.
+997,67027-input,A pizza sitting on a pan covered in cheese and toppings.,A pizza sitting on a pan covered in cheese and toppings with a glass of milk.,Add a glass of milk.
+998,272876-input,A person in grey sweater doing a trick on skateboard.,A person in grey sweater standing on skateboard and doing a trick.,let the boy stand on the skateboard
+999,272876-output1,A person in grey sweater standing on skateboard and doing a trick.,A person in grey sweater standing on skateboard and doing a trick.,remove the door
+1000,272876-output2,A person in grey sweater standing on skateboard and doing a trick.,A person in grey sweater standing on skateboard and doing a trick while being watched by a cop.,let a cop stare at the boy
+1001,443320-input,A bunch of apples and oranges next to a banana.,A bunch of green apples and oranges next to a banana.,Make the apple green.
+1002,443320-output1,A bunch of green apples and oranges next to a banana.,A bunch of green apples and oranges next to a banana with a pesky fly on one of the oranges.,Put a fly on one of the oranges.
+1003,189461-input,an assortment of donuts in front of a coffee cup,Assortment of donuts with a coffee cup and a straw,Have a straw coming out of the cup.
+1004,148634-input,A cat sleeping on top of the hood of a car.,"A cat sleeping on top of the hood of a car, hugging a stuffed teddy bear.",let the cat hug a stuffed teddy bear
+1005,148634-output1,"A cat sleeping on top of the hood of a car, hugging a stuffed teddy bear.","A cat sleeping on top of the hood of an open car, hugging a stuffed teddy bear.",let the car doors be open
+1006,500270-input,A woman in black shirt riding a skateboard.,A woman in black shirt riding a skateboard with a UFO in the sky.,Add a UFO to the sky.
+1007,500270-output1,A woman in black shirt riding a skateboard with a UFO in the sky.,A woman in black shirt riding a skateboard with a UFO in the sky and clear blue sky.,Remove the palm trees.
+1008,294920-input,A glass of wine and a candle are on the table.,"A glass of wine, a candle, and a book are on the table.",Let a book sit next to the wine glass.
+1009,454209-input,A type of oven in an unfinished room.,A microwave in an unfinished room.,put a microwave instead of the stove
+1010,454209-output1,A microwave in an unfinished room.,A microwave and bottles on a shelf in an unfinished room.,put bottles on the shelf
+1011,572765-input,A harbor full of boats on a rainy day,A harbor full of boats and a submarine on a rainy day,Have there be a submarine in the water
+1012,204871-input,A red fire hydrant with a sticker of several animals on it,A red fire hydrant with a smiley face sticker on it.,Replace the animal stickers with a smiley face sticker.
+1013,47294-input,"There is a demonstration taking place in the downtown area, closely observed by the police.","""No Demonstration"" sign at downtown area closely observed by police.","Change one of the signs to say ""NO"""
+1014,265145-input,A woman standing next to a bar filled with bottles.,A woman laughing next to a bar filled with bottles.,make the woman laugh
+1015,265145-output1,A woman laughing next to a bar filled with bottles.,A woman in an expensive ball gown laughing next to a bar filled with bottles.,let the woman wear an expensive ball gown
+1016,265145-output2,A woman in an expensive ball gown laughing next to a bar filled with bottles.,A woman in an expensive ball gown laughing next to a bar filled with barbeque food.,change the bottles into barbeque food
+1017,457268-input,A bathroom with lots of toys hanging around a shelf.,A bathroom with a gorilla hanging from a shelf surrounded by toys.,Let a gorilla be hung from the shelf.
+1018,197656-input,Several train tracks with a train on one of them.,Several train tracks with a black bullet train on one of them.,turn the train into a black bullet train
+1019,197656-output1,Several train tracks with a black bullet train on one of them.,Black bullet train passing by buildings on several train tracks.,put buildings in the background of the image
+1020,44080-input,"An orange bowl with oranges, bananas, and lemons","A salad bowl with mixed greens, tomatoes, and cucumbers",change the fruit bowl to a salad bowl
+1021,44080-output1,"A salad bowl with mixed greens, tomatoes, and cucumbers","A salad bowl with mixed greens, tomatoes, and cucumbers and a cup of cola",change the orange drink to a cup of cola
+1022,44080-output2,"A salad bowl with mixed greens, tomatoes, and cucumbers and a cup of cola","Salad bowl with mixed greens, tomatoes, and cucumbers, a cup of cola, and a clipboard",add a clipboard
+1023,324012-input,Two laptops are next to a monitor on a cluttered desk.,A woman and child on the monitor watch as two laptops sit on a cluttered desk.,What if there was a woman and a child on the monitor.
+1024,434485-input,Local fresh fruits and vegetables displayed for sale in a market,Sliced watermelon and other fresh fruits and vegetables displayed for sale in a local market,slice the watermelon
+1025,573483-input,A statue of a cherub standing next to a clock on a wall.,A statue of a monkey standing next to a clock on a wall.,Replace the cherub with a monkey.
+1026,573483-output1,A statue of a monkey standing next to a clock on a wall.,A statue of a monkey standing next to a large bell on a wall.,"Instead of the clock, a large bell should be there."
+1027,573483-output2,A statue of a monkey standing next to a large bell on a wall.,A statue of a monkey and an owl standing next to a large bell on a wall.,An owl should be next to the monkey.
+1028,360449-input,A stoplight on a busy city street in the evening,A stoplight on an empty city street at night,make the street empty
+1029,360449-output1,A stoplight on an empty city street at night,A stoplight on an empty city street at night with a car parking garage in the background,add a car parking garage
+1030,360449-output2,A stoplight on an empty city street at night with a car parking garage in the background,A stoplight and toll booth on an empty city street at night with a car parking garage in the background,Add a toll booth
+1031,455219-input,Some people in a field working with some big animals.,Some people in a field working with some big animals and a snake in front of the oxen.,Add a snake to the road in front of the oxen.
+1032,468203-input,"A table with teddy bears, sandwiches and other items.","A table with a crowned teddy bear, sandwiches and other items.",Have one of the teddy bears be wearing a crown
+1033,364549-input,A person standing on a street with many birds.,A woman in a designer gown standing on a street with many birds.,let the woman wear a designer gown
+1034,364549-output1,A woman in a designer gown standing on a street with many birds.,A woman in a designer gown standing on a bird-filled street.,remove the shrubs
+1035,364549-output2,A woman in a designer gown standing on a bird-filled street.,A woman in a designer gown standing next to a park filled with birds.,let the woman be next to a park
+1036,416125-input,A stop sign and fire hydrant on the side of the road.,A yield sign and fire hydrant on the side of the road.,Let the sign become a yield sign.
+1037,109921-input,A white kitchen filled with appliances and dishes.,A bright white kitchen with a view of the outdoors and appliances and dishes.,Let the blind of the window be taken away.
+1038,169763-input,A police motorcycle parked on the side of the road.,A monkey riding a police motorcycle parked on the side of the road.,put a monkey on top of the bike
+1039,279994-input,Dog resting it's head on the arm of a couch.,Dog with butterfly resting on its head on the arm of a couch.,Put a butterfly on the dog.
+1040,95061-input,A bus parked in front of a house.,A woman standing next to a bus parked in front of a house.,What if there is a woman next to the bus?
+1041,116746-input,A parking meter sitting next to a patch of grass.,A parking meter sitting next to a parking lot.,change the fence to a parking lot.
+1042,116746-output1,A parking meter sitting next to a parking lot.,A person leaning on a parking meter in a parking lot.,have a person lean on  the machine
+1043,116746-output2,A person leaning on a parking meter in a parking lot.,A person leaning on a parking meter in an indoor parking lot.,change the parking lot to an indoor lot.
+1044,47074-input,A woman putting sticky notes on a wall near a kitchen and a computer.,A woman in a party gown putting sticky notes on a wall near a kitchen and a computer.,let the woman wear a party gown
+1045,47074-output1,A woman in a party gown putting sticky notes on a wall near a kitchen and a computer.,"A woman in a party gown putting sticky notes on a wall near a kitchen, a computer, and a bowl of roast chicken.",let there be a bowl with roast chicken
+1046,47074-output2,"A woman in a party gown putting sticky notes on a wall near a kitchen, a computer, and a bowl of roast chicken.","A woman in a party gown painting on a wall near a kitchen, a computer, and a bowl of roast chicken.",let the woman paint on the wall
+1047,147545-input,Large sized kitchen with a dining room section.,Large sized kitchen with a dining room section and a baby.,Put a baby in the kitchen.
+1048,147545-output1,Large sized kitchen with a dining room section and a baby.,Large sized kitchen with a dining room section and a baby wearing a hat.,Put a hat on the baby.
+1049,211118-input,A crazy bunny toy sitting on top of a tree trunk in a field next to sheep.,A crazy bunny toy sitting on top of a planet in space next to sheep.,place the rabbit on top of a planet instead of the tree trunk.
+1050,211118-output1,A crazy bunny toy sitting on top of a planet in space next to sheep.,A crazy bunny toy sitting on top of a planet in space.,erase the sheeps
+1051,131075-input,Open laptop on table with laptop screen projected on overhead screen.,Open laptop on table with a girl's face projected on overhead screen.,What if there is a girl in the screen of the laptop?
+1052,131075-output1,Open laptop on table with a girl's face projected on overhead screen.,Open laptop on table with a flower projected on overhead screen.,What if there was a picture of a flower on the projected image?

@@ -1,0 +1,1054 @@
+idx,source_prompt,target_prompt,real_image,category
+242679-input,a seat,a cat sitting on a seat,1,add
+368667-input,field,a stream runs through a field,1,add
+368667-output1,field,a giraffe in the field,0,add
+368667-output2,sky,supernova in the sky,0,add
+385042-input,black and white hydrant,white hydrant,1,change
+385042-output2,a hydrant,a dog leashed to a hydrant,0,add
+483348-input,toilet,toilet with seat down,1,add
+483348-output1,toilet,a frog in a toilet,0,add
+483348-output2,bathroom,bathroom with wooden floor,0,change
+141946-input,a laptop,a laptop with black screen,1,change
+141946-output1,chair,red chair,0,change
+141946-output2,a desktop ,a black desktop,0,change
+408425-input,lime green curtains,white curtains,1,change
+408425-output1,bed,bean bag,0,change
+408425-output2,table,wooden table,0,change
+352290-input,horse,horse wearing a hat,1,add
+352290-output1,sky,bird flying in the sky,0,add
+385037-input,a man and a woman,a woman,1,remove
+385037-output1,a woman,an obese woman,0,change
+385037-output2,a woman,a woman and a helmet,0,add
+578213-input,candles in a candle holder,banana shaped candle in a candle holder,1,add
+127515-input,a baseball player,a baseball player is catching a ball,1,change
+308332-input,ocean painting,mermaid in the ocean painting,1,add
+308332-output1,mermaid,mermaid reading a book,0,add
+308332-output2,bedsheet,bedsheet with a lobster,0,add
+284725-input,a car and a bus,a bus,1,remove
+284725-output1,a bus,a cat on top of a bus,0,add
+560472-input,sausages in a pan,patties in a pan,1,add
+560472-output1,bread in a pan,pancakes in a pan,0,add
+560472-output2,a bottle,a wine bottle,0,add
+441483-input,a toilet,a toilet with a lid,1,add
+116518-input,teddy bear,black teddy bear,1,change
+116518-output1,a dog and and a teddy bear,a dog licking a teddy bear,0,change
+116518-output2,a dog,a dragonfly and a dog,0,add
+103966-input,a tennis racket,a shovel,1,change
+103966-output1,bench, wooden pew,0,change
+103966-output2,floor ,a bucket of dirt,0,add
+258155-input,blanket,long blanket,1,change
+495146-input,sky,helicopter,1,add
+70491-input,remote,VR headset,1,change
+70491-output1,wall,movie poster on a wall,0,add
+70491-output2,a table,a credit card on a table,0,add
+296012-input,car,red sports car,1,change
+221187-input,a banana,a microphone,1,change
+160864-input,baseball bats,swords,1,change
+160864-output1,the catcher,the catcher laughing,0,change
+160864-output2,catcher,clown,0,change
+51746-input,white couch,brown couch,1,change
+51746-output1,screen,blank screen,0,change
+51746-output2,the couch,the puppy near the couch,0,add
+171328-input,brick wall,tower,1,change
+171328-output1,oranges,berries,0,change
+171328-output2,leaves,yellow leaves,0,change
+398772-input,a chair,a wheelchair,1,change
+398772-output1,bed,hospital bed,0,change
+118246-input,peanuts,shelled peanuts,1,change
+114697-input,baseball players,baseball players and the coach,1,add
+3259-input,phone,table lamp,1,change
+3259-output1,a laptop,a laptop with a red webpage,0,change
+3259-output2,laptop,white laptop,0,change
+519688-input,woman,woman with scar on her face,1,add
+554145-input,brushes,an orange sticky note to some brushes,1,add
+296724-input,a bed,grandma on a bed,1,add
+417043-input,the bench,a clown on the bench,1,add
+5253-input,"\""STOP\"" sign","\""GO\"" sign",1,change
+335874-input,polar bear,zebra-striped polar bear,1,change
+335874-output1,polar bear,polar bear and a pizza,0,add
+335874-output2,bear,bear with a top hat,0,add
+169365-input,cat,meowing cat,1,change
+440336-input,man,man firing a fireball,1,change
+440336-output1,man,man and a bird,0,add
+330790-input,elephant,elephant with a red bow,1,add
+237587-input,fire hydrant,bald eagle on fire hydrant,1,add
+25485-input,dove,owl,1,change
+25485-output1,floor ,kitten on the floor,0,add
+495312-input,man holding a dog,man holding a laptop,1,change
+495312-output1,man,man wearing glasses,0,add
+331816-input,a field,a field with trees,1,remove
+115037-input,scissors,plastic scissors,1,change
+376843-input,man,man wearing brown pants,1,change
+54464-input,laptops,a heart pillow next to a laptop,1,add
+54464-output1,a heart pillow next to a laptop,a heart pillow,0,remove
+54464-output2,a bed with items on it,a bed with only heart pillows,0,remove
+151050-input,stop sign,no entry sign,1,change
+151050-output1,sign,craved pumpkin next to the sign,0,add
+151050-output2,an empty street,a woman jogging,0,add
+222015-input,a clock,an eye,1,change
+491098-input,the table,a wine bottle on the table,1,add
+491098-output1,the wall,drawing of a girl on the wall,0,add
+461252-input,cereal bowl,blow of broccoli and bell peppers,1,change
+461252-output1,sandwich,bun,0,add
+461252-output2,plate,transparent glass plate,0,change
+294330-input,books,leather bound books,1,change
+294330-output1,computer screen,computer displaying codes,0,add
+294330-output2,office with chairs,office,0,remove
+65307-input,a woman,a woman wears a hat,1,add
+373776-input,teardrop-shaped cutouts,star-shaped cutouts,1,change
+163866-input,woman,dog on the left side of woman,1,add
+393403-input,bus,train,1,change
+459898-input,zebra,wolf,1,change
+459898-output1,zebra,a bird of a zebra,0,add
+161062-input,an airplane on a runway,an empty runway,1,remove
+246924-input,hand,hairless hand,1,remove
+246924-output1,green peppers on chopping board,chopping board,0,remove
+482545-input,a cat,an iguana,1,change
+32818-input,a beach,person flying kite at a beach,1,add
+32818-output1,bench,wooden bench,0,change
+32818-output2,a beach,ducks and a bag of popcorn on a beach,0,add
+534041-input,the boy,the boy with sunglasses,1,add
+536595-input,white and blue hydrant,red hydrant,1,change
+536595-output1,crowd,mascot and a crowd,0,add
+536595-output2,a hydrant,a roadblock near a hydrant,0,add
+279939-input,toilet,closed-lid toilet,1,change
+358653-input,refrigerator,refrigerator with a drawing,1,add
+358653-output1,the freezer,a cat on the freezer,0,add
+348966-input,the drinks,the blue drinks,1,change
+338924-input,basil plant,geranium plant,1,change
+338924-output1,vegetable pizza,meat pizza,0,change
+338924-output2,wooden tray,round white plate,0,change
+286724-input,the woods,the woods with no trees,1,remove
+88759-input,kitchen,kitchen with oven,1,add
+88759-output1,kitchen,kitchen with watermelon,0,add
+360510-input,car,truck,1,change
+360510-output1,the building,sunshine on the building,0,add
+360510-output2,truck,fishing poles on truck,0,add
+208469-input,square pizza,round pizza,1,change
+208469-output1,the pizza,a glass close to the pizza,0,add
+8238-input,man,man wearing a red tie,1,add
+543833-input,glass vase,blue vase,1,change
+543833-output1,a pot next to a vase,a blue pot next to a vase,0,change
+543833-output2,a pot,a candle near a pot,0,add
+262710-input,cap,cowboy hat,1,change
+104081-input,cows in the forest,a tractor and cows in the forest,1,add
+104081-output1,forest,log cabin in the forest,0,add
+156195-input,trees,trees with red leaves,1,change
+156195-output1,the sheep,model posing next to the sheep,0,add
+161128-input,no cursing sign,parking sign,1,change
+161128-output1,the sky,lightning bolt in the sky,0,add
+161128-output2,cars on street,a cop car on street,0,add
+376839-input,people,people and a dog,1,add
+376839-output1,a woman,a woman wearing a cowboy hot,0,add
+475425-input,a food plate,an empty plate,1,remove
+475425-output1,milk grass,soda can,0,change
+446522-input,dog in a room,dog in a dining room,1,add
+446522-output1,a dog,a dog and a cat,0,add
+446522-output2,a chair,a floor lamp next to a chair,0,add
+32777-input,man with the backpack,man with the backpack wears a hat,1,add
+383220-input,snowman,squirrel,1,change
+383220-output1,sky,night sky and moon,0,change
+385190-input,painting,painting of flowers,1,change
+319522-input,horses,white horses,1,change
+67616-input,the front cat,lamborghini car,1,add
+71409-input,a car,a new car,1,add
+71409-output1,a sidewalk,a fire hydrant on the sidewalk,0,add
+125109-input,wooden floor,red-tiled floor,1,change
+125109-output1,flowers,blue flowers,0,change
+125109-output2,the stove,big chimney over the stove,0,add
+248403-input,woman,woman with open mouth,1,change
+248403-output1,woman,blindfolded woman,0,change
+318657-input,the sky,a spaceship in the sky,1,add
+89648-input,people on the phones and laptop,people on the phones,1,remove
+323789-input,man,laughing man,1,change
+323789-output1,the wall,world map on the wall,0,add
+323789-output2,man,man with curly blonde hair,0,change
+278555-input,man,man wearing backpack,1,add
+528266-input,man,man covers his mouth with his hand,1,change
+528266-output1,pizza box,open pizza box,0,change
+528266-output2,man,man has crew cut hair,0,change
+376990-input,hotdog,sandwich,1,change
+376990-output1,beanie,helmet,0,change
+60892-input,bed,dog on a bed,1,add
+60892-output1,phone on nightstand,nightstand,0,remove
+532482-input,red fire hydrant,green fire hydrant,1,change
+532482-output1,a fire hydrant,a fire hydrant and a dog,0,add
+532482-output2,a bus,a fire truck,0,change
+494413-input,the hot dog,a fork sticking out of the hot dog,1,add
+75216-input,cow,mooing cow,1,change
+75216-output1,cows,cows and a duck,0,add
+75216-output2,cows,cows and a hut,0,add
+328802-input,zebra,zebra drinks from a bucket,1,change
+328802-output1,the tree,the tree has dense green leaves,0,change
+328802-output2,zebra,thin and lanky zebra,0,change
+324104-input,field,field and river,1,add
+324104-output1,field,field and mountains,0,add
+324104-output2,field,a horse in the field,0,add
+137100-input,food plate with fork,food plate,1,remove
+137100-output1,"food plate, glass, and bottle",food plate,0,remove
+137100-output2,pizza,sandwich,0,change
+229419-input,cows,cows and a tractor,1,add
+229419-output1,cows,horses,0,change
+229419-output2,field,cornfield,0,change
+188148-input,man,man with glasses,1,add
+402802-input,girl,crying girl,1,change
+402802-output1,vase contains a flower,vase contains a tulip,0,change
+402802-output2,a girl,a man sit next to a girl,0,add
+396260-input,backpack,trash can,1,change
+396260-output1,suitcase,soda cans in the suitcase,0,add
+396260-output2,floor ,tile floor,0,change
+197658-input,a baseball player,a ball coming towards the player,1,add
+102174-input,cockatiel,cockatiel with open mouth,1,change
+102174-output1,computer screen,computer screen showing a video webpage,0,change
+102174-output2,computer,black computer,0,add
+550000-input,boys,a girl,1,change
+483357-input,the sink,a vase of flowers on the sink,1,add
+326408-input,the sandwiches,a rat near the sandwiches,1,add
+257558-input,the stuffed bear,a grizzly bear near the stuffed bear,1,add
+257558-output1,the xmas tree,a big star on the xmas tree,0,add
+257558-output2,the bears,gift boxes near the bears,0,add
+377056-input,a room,a flamingo in a room,1,add
+45071-input,cat,shocked cat,1,change
+45071-output1,a bag,cat food next to a bag,0,add
+45071-output2,ball,white ball,0,change
+106172-input,computer and speakers,speakers,1,add
+106172-output1,man,man wearing sunglasses,0,add
+106172-output2,man,man with party hat,0,add
+517548-input,toilet,toilet with open lid,1,change
+517548-output1,cabinet,mirror,0,add
+517548-output2,sink,white sink,0,change
+297154-input,blue and yellow plane,red and white plane,1,change
+297154-output1,sky,bird flying in the sky,0,add
+297154-output2,a photo of a plane with text,a photo of a plane,0,remove
+134689-input,a giraffe,a giraffe and a zebra,1,add
+232025-input,the pitcher,the pitcher is jumping,1,change
+232025-output1,the pitcher,a motorcycle behind the pitcher,0,add
+232025-output2,a baseball field,a baseball field and a car,0,add
+276552-input,a man,a man looking at the camera,1,change
+528488-input,a frisbee,a bone,1,change
+528488-output1,dog,dog waring boots,0,add
+401433-input,an elephant,a leopard,1,change
+401433-output1,woman,crying woman,0,change
+401433-output2,man wearing cap,man wearing cowboy hat,0,add
+246184-input,surfboards,an old man looks at surfboards,1,change
+246184-output1,surfboards,an earthworm on the surfboard,0,add
+246184-output2,a surfboard,a surfboard with a face painted on it,0,add
+55241-input,a cow,a cow wearing a hat,1,add
+170908-input,a room,a room with low ceiling,1,change
+170908-output1,a room with a window,a room,0,remove
+276703-input,car,"car with text \""CAR\""",1,change
+276703-output1,the car,a bunch of flowers by the car,0,add
+227117-input,the counter,a bottle of wine on the counter,1,add
+67373-input,city view,sea view,1,change
+67373-output1,a cup of coffee,a bottle of wine,0,change
+223154-input,traffic light with green light on,traffic light,1,change
+223154-output1,a road,a deer in the road,0,add
+253538-input,a frisbee,a volleyball,1,change
+253538-output1,a house,a mosque,0,add
+253538-output2,players,players and a mascot,0,add
+53423-input,the ocean,a boat in the ocean,1,add
+53423-output1,the beach,a turtle on the beach,0,add
+532501-input,a sink,a man in front of a sinl,1,add
+532501-output1,mirror,clown face in the mirror,0,add
+151761-input,baby elephant,baby elephant holding up its trunk,1,change
+43917-input,food plate,beef on the plate,1,add
+43917-output1,food plate,food plate with french fries,0,add
+207932-input,a train,a horse and a train,1,add
+360535-input,flowers,television,1,change
+360535-output1,wall,a clock on the wall,0,add
+360535-output2,ceiling,a ceiling fan,0,add
+429227-input,a zebra,a tiger,1,change
+429227-output1,a zebra,a bird on the back of the zebra,0,add
+429227-output2,grass,a bed of flowers,0,add
+174896-input,laptop,microwave,1,change
+174896-output1,salad,tomato soup,0,add
+174896-output2,a table,an orchid on a table,0,add
+473420-input,traffic light,traffic light shows green,1,change
+389986-input,the racket,a woman holding the racket,1,add
+389986-output1,the racket,the racket with striped strings,0,change
+389986-output2,the racket,a dog sit under the racket and look up at the camera,0,change
+292991-input,the wall,a drawing on the wall,1,add
+318189-input,American flag,Canadian flag,1,change
+318189-output1,surfboard,person,0,change
+318189-output2,car,sports car,0,change
+273808-input,things on the floor,floor,1,remove
+221213-input,the train,a railroad crossing by the train,1,add
+221213-output1,the train,a mountain behind the train,0,add
+312334-input,the palm trees,the palm trees on fire,1,change
+313880-input,table with pizza,table with pizza and a menu,1,add
+232489-input,plate,ceramic plate,1,change
+232489-output1,pizza,sandwich,0,change
+555495-input,the field,some flowers in the field,1,add
+478407-input,man,man biting the pizza,1,change
+478407-output1,man,man with ginger curly hair,0,change
+478407-output2,man,man wears sunglasses,0,add
+553735-input,a bus,a truck,1,add
+419312-input,plate of food,cereal bowl,1,change
+419312-output1,the drink,cereal box,0,change
+27616-input,a bag,a brown leather luggage,1,change
+459058-input,license plate,license plate with graffiti on it,1,add
+459058-output1,backlight,red backlight,0,change
+459058-output2,the scooter,a woman sit on the scooter,0,add
+376891-input,sign,neon sign,1,change
+376891-output1,doughnuts,person look towards the doughnuts,0,change
+376891-output2,store,store with a lot of people,0,add
+476119-input,man,man wearing a paper bag,1,add
+476119-output1,a car ,a range rover,0,add
+476119-output2,a man ,a cafe behind a man,0,add
+542147-input,cows in a field,a field,1,remove
+542147-output1,the sky,a UFO in the sky,0,add
+542147-output2,a field,a lighthouse by a field,0,add
+274629-input,stop sign,parking sign,1,change
+274629-output1,Time megazine,Vogue megazine,0,change
+274629-output2,the street,a tank on the street,0,add
+534555-input,27,15,1,change
+534555-output1,helmet,red helmet,0,change
+534555-output2,the batter,the batter wearing pants with stripes,0,change
+350054-input,cat,raccoon,1,change
+350054-output1,tv,TV with the sports on,0,add
+350054-output2,carpet,wooden floor,0,change
+131015-input,clothes,meat,1,change
+131015-output1,clothes,tie,0,change
+120874-input,dog,howling dog,1,change
+120874-output1,window,dog peering through the window,0,add
+120874-output2,trees,lighthouse,0,add
+353221-input,middle image,apples,1,change
+208963-input,umbrella,blue umbrella,1,change
+340971-input,television,gaming pc,1,add
+196876-input,beans,milk,1,change
+196876-output1,food ,fruits,0,change
+282238-input,trees,one large tree,1,change
+282238-output1,traffic light,a bird on the traffic light,0,add
+282238-output2,crossroad,train coming to a crossroad,0,add
+300994-input,4,5,1,change
+300994-output1,candles,litted candles,0,change
+300994-output2,the cake,a cat eating the cake,0,add
+294353-input,the fork,a piece of meat on the fork,1,add
+294353-output1,vase,small vase with a rose,0,change
+376269-input,giraffe,giraffe with big ears,1,change
+376269-output1,giraffe,giraffe big googly eyes,0,change
+242543-input,the refrigerator,closed refrigerator,1,change
+78468-input,truck,tractor,1,change
+78468-output1,tractor,a bear cub near tractor,0,add
+78468-output2,trailer with bag,trailer,0,remove
+457986-input,the table,a potted plant on the table,1,add
+457986-output1,sofa,a cat on the sofa,0,add
+315702-input,the counter,folded towels under the counter,1,add
+315702-output1,the sink,the sink be rectangle in shape,0,change
+315702-output2,the sink,a rubber ducky by the sink,0,add
+159791-input,refrigerator with magnets and stickers,refrigerator,1,remove
+309753-input,the bananas,unripe bananas,1,change
+354306-input,the shelf,a bottle of poison on the shelf,1,add
+330084-input,bear,bear stick out its tongue,1,change
+330084-output1,a bear,a bear and a cat,0,add
+47916-input,a dog,a forest next to a dog,1,add
+47916-output1,a dog,a dog with a bone,0,add
+47916-output2,forest,a pond next to the forest,0,add
+286753-input,the baseball player,the baseball player be wearing a skirt,1,change
+229139-input,cat in a luggage,luggage,1,remove
+229139-output1,suitcase,a cat next to the suitcase,0,add
+99645-input,sony,TV,1,change
+99645-output1,birds,a helicopter,0,change
+99645-output2,the helicopter,a person falling out of the helicopter,0,add
+502808-input,bathtub and a shower curtain,a shower curtain,1,change
+63866-input,the table,cake on the table,1,add
+63866-output1,people,dogs,0,change
+104669-input,a plate of food,a plate of food and a glass of juice,1,add
+581632-input,a bar,a laboratory,1,change
+581632-output1,the clock,a chalkboard by the clock,0,add
+163431-input,shoes,stilettos,1,change
+163431-output2,the bag,a loaf of bread in the bag,0,add
+343849-input,laptop,laptop showing a green web page,1,change
+343849-output1,notebook,binder,0,change
+343849-output2,table,a wine bottle on a table,0,add
+24207-input,a sheep,a black sheep,1,change
+139-input,window,window with shades closed,1,change
+139-output1,woman,woman sit in a chair,0,change
+139-output2,the table,a cat sleep on the floor by the table,0,add
+113857-input,women shaking hands,women holding a trophy,1,change
+113857-output1,women,women with red and blonde hair,0,change
+113857-output2,tennis players,tennis players and a coach,0,add
+122913-input,a suitcase,a racoon inside a suitcase,1,add
+272953-input,a brown goat,a brown goat and a white goat,1,add
+377368-input,4th,30th,1,change
+377368-output1,cake with candles,cake ,0,remove
+377368-output2,bear with blue nose,bear with red nose,0,change
+163897-input,car with broken fender,car,1,change
+163897-output1,car,car with smashed headlights,0,change
+163897-output2,car in a field,car on dirt,0,change
+465335-input,ball,tennis ball,1,change
+357941-input,cat on a TV,cat hanging on a TV,1,change
+357941-output1,cat on a TV,a mouse sit on the tv set by the cat,0,add
+357941-output2,cat on a TV,a bird flies by the window in front of the cat,0,add
+384346-input,man wearing hat,man wearing blue hat,1,change
+456610-input,salad,hotdog,1,change
+335913-input,a framed picture,a framed picture of a girl,1,change
+25551-input,ambulance,food truck,1,change
+25551-output1,man,man in police uniform,0,change
+25551-output2,trees,building,0,add
+262686-input,men,man point to another man,1,change
+262686-output1,man,the man look at the camera,0,change
+262686-output2,sitting man,the sitting man is smiling,0,change
+221190-input,sign,yellow sign,1,change
+200003-input,man,man carrying surfboard,1,change
+360805-input,the cat,the cat looks at the camera,1,change
+360805-output1,laptop,laptop with blue screen,0,change
+360805-output2,cat,cat and cat food,0,add
+478184-input,giraffe,sitting giraffe,1,change
+418726-input,floor,wooden floor,1,change
+62740-input,car,blue car,1,change
+298318-input,rubber boat,galley,1,change
+298318-output1,the galley,a dolphin jump into the galley,0,add
+298318-output2,the building at the back,skyscrapers at the back,0,add
+1401-input,lemon,orange,1,change
+74583-input,cat,parrot,1,change
+74583-output1,room with bicycle,room,0,remove
+74583-output2,room,room with one floating ballon,0,add
+294974-input,plane,plane with a pig logo,1,add
+291004-input,remote control and iphone,remote control,1,remove
+291004-output1,blue cloth,geometric-patterned cloth,0,change
+291004-output2,the remote control,the remote control with an LCD display,0,change
+403028-input,the counter,a pizza on the counter,1,add
+403028-output1,the counter,a bottle of soda on the counter,0,add
+407083-input,dog,the dog with a tennis ball on his mouth,1,add
+407083-output1,man,man with shades,0,add
+322829-input,the bench,a dog under the bench,1,add
+322829-output1,the bench,a flower vase on the bench,0,add
+393286-input,a partially peeled banana,a apple and a partially peeled banana,1,add
+262283-input,flowers,red roses,1,change
+490443-input,rocks,ocean,1,change
+490443-output1,beach umbrella and chair,car,0,add
+513712-input,food,food on a plate,1,add
+513712-output1,tomatoes,oranges,0,change
+498463-input,refrigerator,white refrigerator,1,change
+498463-output1,refrigerator,refrigerator with stickers,0,add
+498463-output2,refrigerator,a dispenser behind the refrigerator,0,add
+488132-input,sheep,tiger looking at sheep,1,change
+401822-input,wooden floor,tile floor,1,change
+401822-output1,the stove,bowl on the stove,0,add
+557067-input,bed,fruit on the bed,1,add
+445397-input,the lady,the gasping lady,1,change
+445397-output1,the lady,the lady wearing vintage clothes,0,change
+445397-output2,wall,tv on the wall,0,add
+448177-input,water tank,water tank have a lid,1,add
+212834-input,the umbrella,a chair under the umbrella,1,add
+45596-input,plant life along the building,building,1,remove
+182673-input,gray chairs,upright piano,1,change
+182673-output1,the piano,person playing the piano,0,add
+182673-output2,person,person with a red shirt,0,change
+367107-input,stop sign,painting,1,change
+501864-input,men on horses,horses,1,remove
+501864-output1,a photo with text,a photo,0,remove
+501864-output2,the sky,a zeppelin float in the sky,0,add
+492489-input,baseball bat,baseball bat made of wood,1,change
+110327-input,food in styrofoam tray,carrots in styrofoam tray,1,add
+110327-output1,food in styrofoam tray,money in styrofoam tray,0,add
+110327-output2,hotdog and carrot in styrofoam tray,carrot in styrofoam tray,0,remove
+531277-input,plate of food,plate of cake,1,change
+531277-output1,plate,blue plate,0,change
+531277-output2,plate,a glass of soda next to the plate,0,add
+126182-input,refrigerator,blue refrigerator,1,change
+126182-output1,the freezer,a microwave next to the freezer,0,add
+126182-output2,kitchen,kitchen with an oven,0,add
+195715-input,glove,a tennis ball in the glove,1,add
+196878-input,flower,a glass of wine,1,change
+196878-output1,dinning table with a candle stick,dining table,0,remove
+303257-input,elephant,elephant curling its trunk,1,change
+303257-output1,elephant,elephant with smiley face,0,add
+303257-output2,elephant and rock,elephant,0,remove
+516000-input,noodels,rice,1,change
+516000-output1,food plate,food plate with sauce,0,add
+516000-output2,veggies,chicken,0,change
+536798-input,the boy,the boy is crying,1,change
+377212-input,dog,dog wearing a backwards baseball cap,1,add
+377212-output1,baseball cap,"baseball cap has the letter \""A\"" on it",0,change
+377212-output2,dog,dog smoking a pipe,0,add
+87017-input,woman and horse,horse,1,remove
+87017-output1,horse,horse with a horn,0,add
+87135-input,road signs,stop sign,1,change
+87135-output1,road signs,sheep walk near the road signs,0,add
+458763-input,wall,a painting of Santa Claus,1,add
+538116-input,water,soda can,1,change
+286656-input,bottle,syringe,1,change
+286656-output1,bucket,blue bucket,0,change
+355677-input,the beach,sandcastle on the beach,1,add
+342387-input,hats,chef hats,1,change
+554364-input,kitchen,ninja in a kitchen,1,add
+188439-input,truck driving on a road,truck driving on a dirt road,1,change
+407574-input,the bananas,a person to the left of the bananas,1,add
+407574-output1,the unripe bananas on the top,the ripe bananas on the top,0,change
+407574-output2,wooden pole,metal pole,0,change
+97579-input,man,man looking at the camera,1,change
+97579-output1,woman,woman holds a banana,0,change
+97579-output2,woman,woman looking at the camera,0,change
+556775-input,laptop on the table,the table,1,remove
+556775-output1,the couch,the dog on the couch,0,add
+229171-input,a laptop,a laptop showing a picture of an elephant,1,change
+229171-output1,a laptop,a laptop showing a picture of an elephant,0,change
+191193-input,dog,brown dog,1,change
+442414-input,horse,lion,1,change
+442414-output1,woman,little boy,0,change
+442414-output2,people,people and a train,0,add
+513484-input,bear,bear wears a shirt,1,add
+513484-output1,bear,bear with a hat,0,add
+507918-input,goats,person taking pictures of the goats,1,add
+62398-input,a cat,a cat standing,1,change
+62398-output1,cats,one white cat,0,remove
+540100-input,"chicken, broccoli and cheese",rice,1,change
+540100-output1,bowl,yellow bowl,0,change
+540100-output2,bowl,salt next to the bowl,0,add
+108649-input,a cap and sunglasses,a cap,1,remove
+108649-output1,cap on glove,cap on wooden block,0,change
+108649-output2,block,a small action figure next to the block,0,add
+377772-input,bunk bed,single bed,1,change
+377772-output1,vase,vase with red flowers,0,add
+482775-input,a plate,a cake on the plate,1,add
+482775-output1,a plate,a glass of juice next to the plate,0,add
+482775-output2,a plate,a jar of juice next to the plate,0,add
+499730-input,stop sign,go sign,1,change
+499730-output1,the bottom sign,a clock,0,change
+499730-output2,the go sign,a parrot on top of the go sign,0,add
+509028-input,people,people faceing the building,1,change
+509028-output1,the building,the building with a balcony,0,add
+433605-input,bananas,dark bananas,1,change
+433605-output1,laptop,laptop is showing some fruits,0,change
+433605-output2,a laptop and a mouse,a mouse,0,remove
+558538-input,stop sign,exit sign,1,change
+558538-output1,the garage,a car driving out of the garage,0,add
+558538-output2,the two houses,kids playing in front of the two houses,0,add
+204804-input,the chair,a king sitting on the chair,1,add
+449125-input,frisbee,beach ball,1,change
+139306-input,a knife,a dull knife,1,change
+139306-output1,sandwich,hotdog,0,change
+507958-input,cabinets,painted cabinets,1,change
+507958-output1,kitchen,kitchen with butterflies,0,add
+507958-output2,wall,flower wallpaper,0,add
+78689-input,dog,panting dog,1,change
+78689-output1,a laptop,a laptop showing an error message,0,change
+78689-output2,two laptops on a bed,a laptop on a bed,0,remove
+115146-input,wall,a drawing of a girl on the wall,1,add
+359687-input,a boat,a man sitting in a boat,1,add
+359687-output1,the wooden dock,a dog on the wooden dock,0,add
+359687-output2,sky,fireworks in the sky,0,add
+436284-input,wood,a volcano,1,change
+436284-output1,a volcano,a volcano with lava flowing,0,add
+436284-output2,a volcano,a volcano and smoke,0,add
+455879-input,military hats,sombrero hats,1,change
+455879-output1,blood on white block,white block,0,remove
+448409-input,chair,chair  made by black leather,1,change
+204777-input,man,man putting a sandwich in his mouth,1,change
+204777-output1,the old man,the old man be dressed in a military uniform,0,change
+204777-output2,the man,the man has a curly afro,0,change
+528875-input,lunch box,lunch box and a tennis ball,1,add
+172406-input,a horse wearing blinders,a horse,1,remove
+524311-input,a man,a man wearing a tuxedo,1,change
+524311-output1,a man,a blonde man,0,change
+524311-output2,Wii remote,carrot,0,change
+246787-input,a sign,a painting,1,change
+246787-output1,wall,painted wall,0,change
+246787-output2,table,glasses of champagne on the table,0,add
+229779-input,surfboard,ski,1,change
+229779-output1,the ocean,a yacht in the ocean,0,add
+229779-output2,the ocean,the ocean with an island at the back,0,add
+262162-input,a chair,a person on a chair,1,add
+442242-input,a lighthouse,two lighthouses,1,add
+460929-input,a bottle,a beer,1,change
+460929-output1,a hotdog with mustard,a hotdog,0,remove
+229383-input,a woman,a woman reading a book,1,change
+255010-input,hats,white hats,1,change
+432216-input,a person,a brown bear,1,change
+369675-input,a train,a white train,1,change
+369675-output1,passengers on a train,a train,0,remove
+369675-output2,a train,a small dog next to a train,0,add
+522782-input,monitors,one monitor,1,remove
+522782-output1,monitor screen,a picture of a car on the monitor screen,0,change
+547637-input,a baseball,an orange,1,change
+164224-input,bedroom with chairs,bedroom,1,remove
+164224-output1,the wall,an abstract painting on the wall,0,add
+164224-output2,pillows,a big teddy bear on the pillows,0,add
+317424-input,graffiti,the face of a panda,1,change
+392850-input,a clear bowl,a bowl of rice,1,add
+392850-output1,the fruit,a measuring cup by the fruit,0,add
+392850-output2,the cutting board,a stick of butter on the cutting board,0,add
+308793-input,the mountain,a fox running up the mountain,1,add
+91080-input,a kettle,a pen,1,change
+91080-output1,a kitchen,a kitchen with a fruit basket,0,add
+168784-input,a tie,a bow tie,1,change
+466965-input,a parrot,a parrot with a hat,1,add
+484074-input,a zebra,a man sitting on a zebra,1,add
+182496-input,hotdogs,hotdogs topped with ice cream,1,add
+182496-output1,ice cream,ice cream with cherry,0,add
+41846-input,pizza,pizza with pepperoni,1,add
+524459-input,man,man looking at laptop,1,change
+524459-output1,man,man in a striped shirt,0,change
+524459-output2,man,man with pencil,0,change
+237041-input,snow,gorilla in snow,1,add
+237041-output1,the sky,lightning bolts in the sky,0,add
+237041-output2,lightning,helicopter being struck by lightning,0,add
+50306-input,pizza,crystal ball,1,change
+50306-output1,the utensils and drinks,chessboard,0,change
+319494-input,the boat,a big whale jump over the boat,1,add
+62745-input,angry birds,flowers,1,change
+168690-input,computer,computer with blank screen,1,change
+168690-output1,keyboard,black keyboard,0,change
+168690-output2,bed,green pillow on bed,0,add
+40471-input,two windows,one window,1,change
+74964-input,a plate,a plate of roast chicken,1,add
+74964-output1,a bowl,a bowl of berries,0,add
+74964-output2,a table,a tub of ice cream on a table,0,add
+421476-input,a food plate,a food plate with some Portbella,1,add
+140021-input,scissor,blue scissor,1,change
+26221-input,the couch,a lion laying on the couch,1,add
+94751-input,seaside,seaside with a lighthouse,1,add
+15272-input,a tree,a green bird perched on a tree,1,add
+15272-output1,a tree,a monkey sit on a tree,0,add
+57377-input,the stream,a black bear in the stream,1,add
+499037-input,a banner,a banner with no text,1,remove
+499037-output1,man,man wearing a ski mask,1,add
+321394-input,bed,blue bed,1,change
+321394-output1,a bedroom,a bedroom with a red dresser on the left,0,add
+321394-output2,a window,a large window,0,change
+1330-input,a guy,a guy wearing long pants,1,change
+411530-input,people on snow mountain,snow mountain,1,remove
+411530-output1,snow mountain,a polar bear on snow mountain,0,add
+411530-output2,the sky,a bunch of birds,0,add
+30-input,the vase,a squirrel be looking at the vase,1,change
+523599-input,a plane,a superhero,1,change
+523599-output1,a superhero,a dog next to the hero,0,add
+269038-input,man ,man riding scooter,1,add
+410110-input,purses and umbrella,purses,1,remove
+410110-output1,a purse,a open purse with a cellphone,0,change
+410110-output2,purses,a woman looks at purses,0,change
+380097-input,counter,white counter,1,change
+189017-input,a street,lots of baby ducklings in a street,1,add
+434222-input,computer screen,computer screen showing cat pictures,1,add
+434222-output1,cat,cat eating a donut,0,change
+434222-output2,computer screen,a glass of water next to computer screen,0,add
+183672-input,man,man wearing orange shirt,1,change
+183672-output1,man,man holding a banana,0,add
+107168-input,giraffe,standing giraffe,1,change
+100547-input,cheeseburgers,donuts,1,change
+100547-output1,donuts,donuts on a wooden table,0,add
+483389-input,the mashed potatoes,a fork in the mashed potatoes,1,add
+340184-input,a room,a room with one rabbit,1,add
+340184-output1,a room with one rabbit,a room with two rabbits,0,add
+318815-input,a surfboard,a skateboard,1,change
+318815-output1,towel,sandcastle,0,change
+318815-output2,sandcastle,a kid crouch next to sandcastle,0,add
+410152-input,the train,a person riding a bicycle next to the train,1,add
+410152-output1,subway train,street bus,0,change
+315219-input,cord,pendulum,1,change
+147501-input,fridge,metallic fridge,1,change
+123336-input,donuts,donuts with e strawberry glaze,1,change
+123336-output1,alcohol shelf,bookshelf,0,change
+123336-output2,donuts,a smiling man standing nearby donuts,0,add
+335912-input,man,man wearing shirt,1,change
+214028-input,bed,blue bed,1,change
+214028-output1,bedroom,bedroom with a television,0,add
+214028-output2,bedroom,bedroom with a large window,0,add
+426052-input,a baseball game,a baseball game with flying drone,1,add
+460460-input,a couch,a pillow on a couch,1,add
+405249-input,table with a cake with toys,table,1,remove
+405249-output1,a chocolate cake,two chocolate cakes,0,add
+405249-output2,table,a balloon on the table,0,add
+151480-input,the stands,a mascot in the stands,1,add
+151480-output1,players,players line up,0,change
+231682-input,motorcycle,bicycle,1,change
+231682-output1,officer,officer looking at the camera,0,change
+243361-input,a chair at the table,a man sit on a chair at the table,1,add
+243361-output1,laptop,closed laptop,0,change
+243361-output1,computer,computer with a butterfly wallpaper,0,change
+95828-input,computers,books,1,add
+95828-output1,a room,a room with a turtle,0,add
+350132-input,the frisbee,a dog leaps to catch the frisbee,1,add
+350132-output1,the field,mountains bordering the field,0,add
+350132-output2,the field,the field has water sprinklers,0,add
+147471-input,a man,a bald man,1,change
+147471-output1,a woman,a blonde woman,0,change
+147471-output2,a dog,a dog with a hat,0,add
+519432-input,laptop,laptop is turn off,1,change
+519432-output1,the wall,a smiley face on the wall,0,add
+457572-input,glasses,sunglasses,1,change
+457572-output1,the bed,a champagne bottle on the bed,0,add
+457572-output2,the girl,the girl has blonde hair,0,change
+23355-input,a plate of pizza ,a plate of roast chicken,1,change
+23355-output1,waiter,laughing waiter,0,change
+23355-output2,waiter,waiter and a bunch of people,0,add
+419974-input,man,man cutting a pineapple,1,change
+419974-output1,dog,howling dog,0,change
+419974-output2,kitchen,kitchen with dog food and treats,0,add
+205069-input,pink hat,red hat,1,change
+205069-output1,woman,woman in a red skirt,0,change
+205069-output2,woman,blonde woman,0,change
+555012-input,a toilet,a toilet with the lid up,1,change
+417804-input,mouse,rodent mouse,1,change
+294918-input,store,a wild pig in a store,1,add
+243066-input,ski,ski and a snowmobile,1,add
+373184-input,a giraffe,a white giraffe,1,change
+373184-output1,the tree,yellow flowers on the tree,0,add
+373184-output2,a giraffe,a kangaroo and a giraffe,0,add
+180141-input,a girl,a girl holding a microphone,1,add
+127028-input,orange,banana,1,change
+127028-output1,apple,a phone next to the apple,0,add
+127028-output2,fruit,fruit and a cup of coffee,0,add
+189472-input,a chair,a stool,1,change
+223734-input,elephant,white elephant,1,change
+352295-input,a box,a box with a picture of a panda,1,add
+391509-input,bus station,bus station with a ducati superbike parked,1,add
+391509-output1,the woman,the woman dressed in a military uniform,0,change
+391509-output2,bus station,train station,0,add
+523978-input,window,small window,1,add
+276124-input,baby,baby smiles,1,change
+276124-output1,baby, baby looks at the camera,0,change
+276124-output2,baby,baby with curly ginger hair,0,change
+573448-input,red bowl,red bowl contains dessert,1,change
+573448-output1,blender,blender contains vegetables,0,change
+573448-output2,the blender,a spider next to the blender,0,add
+231822-input,glasses,cans of beer,1,change
+231822-output1,fruits,soup,0,change
+231822-output2,veggies,mac and cheese,0,add
+167529-input,the sink,a mug on the sink,1,add
+167529-output1,the sink,a glass bottle on the sink,0,add
+167529-output2,mirror,small mirror,0,change
+131388-input,animals,kids,1,change
+396338-input,the buildings,the buildings on fire,1,add
+499598-input,man,superman,1,change
+499598-output1,people,reporters,0,change
+499598-output2,dinner table,desk,0,change
+429762-input,the elephants,a rock next to the elephants,1,add
+429762-output1,an elephant ,an elephant digging the ground,0,change
+429762-output2,elephant,elephant next to a lake,0,add
+304627-input,a surfboard,a fan,1,change
+304627-output1,stairs and door,an exit door,0,change
+458772-input,traffic light,traffic light shows red,1,change
+458772-output1,the street,a large dog in the street,0,add
+458772-output2,the sky,an exotic planet in the sky,0,add
+136699-input,the purse,a gold brand label on the purse,1,add
+92187-input,a wooden figure,a barbie doll,1,change
+229525-input,bathroom with a door,bathroom,1,remove
+229525-output1,bathroom,bathroom with a laptop,0,add
+229525-output2,bathroom,bathroom with a cat,0,add
+137118-input,stool,wooden stool,1,change
+181947-input,a lime green cup,a red cup,1,change
+81930-input,red fire hydrant,yellow fire hydrant,1,change
+174423-input,bird,yellow bird,1,change
+78085-input,a laptop,a microwave,1,change
+78085-output1,table,coffee cup on a table,0,add
+78085-output2,computer screen,white computer screen,0,add
+540697-input,sky,sunny sky,1,change
+540697-output1,a scissor lift,a crew,0,change
+540697-output2,a plane,a rocket,0,change
+236243-input,a painting on the wall,a clock on the wall,1,change
+236243-output1,a bed,a cat on a bed,0,add
+318924-input,the statue of zebra,the zebra,1,change
+318924-output1,a zebra,a zebra and a water bowl,0,add
+459440-input,the sheet of paper,the sheet of paper showing a picture of a person\'s face,1,change
+428152-input,the oven,a chicken in a pot on top of the oven,1,add
+360540-input,a scooter,a penguin,1,change
+570951-input,a man,a man wearing a cowboy hat,1,add
+570951-output1,a woman,a woman wearing a witch hat,0,add
+433334-input,a man ,an angry man,1,change
+433334-output1,a plate,an empty plate,0,remove
+411727-input,the laptop,the laptop showing a media player,1,change
+411727-output1,glasses,eye shadow kit,0,change
+411727-output2,the table,a person's hand on the table,0,add
+415461-input,the child,the child eating an ice cream,1,change
+415461-output1,a child,a bald child,0,change
+415461-output2,a child,another child reach for the ice cream,0,change
+401307-input,three people,two people,1,remove
+390565-input,the motorcycles,a lake next to the motorcycles,1,add
+390565-output1,to the lake,a green field next to the lake,0,add
+390565-output2,the field,a car on the field,0,add
+220031-input,surfer ,surfer falling,1,change
+84031-input,baseball bat,tennis racquet,1,change
+84031-output1,baseball,tennis ball,0,change
+84031-output2,a catcher,a bucket of balls,0,change
+434496-input,food,fruit,1,add
+434496-output1,food,donuts,0,change
+28288-input,hotdog,mustard on hotdog,1,add
+108244-input,a cat,a mouse near a cat,1,add
+156405-input,a sidewalk,a marble sidewalk,1,change
+156405-output1,a seat,a cat on a seat,0,add
+156405-output2,the lake,a boat in the lake,0,add
+518182-input,frisbee,ball,1,change
+518182-output1,shoes,brown shoes,0,change
+518182-output2,the water,a boat in the water,0,add
+115260-input,the tray,a pizza on the tray,1,change
+115260-output1,the tray,a glass of soda next to the tray,0,add
+561137-input,a face,a happy face,1,change
+393254-input,a photo with text, a photo,1,remove
+393254-output1,an RV,a luxury car,0,change
+393254-output2,tent,log cabin,0,change
+81964-input,meat,cereal,1,change
+81964-output1,a plate,a plate filled with cookies,0,change
+171199-input,fork,spoon,1,change
+171199-output1,pizza,pizza with basil leaves,0,add
+527656-input,the wall,a skateboard on the wall,1,add
+476810-input,the cat, a phone next to the cat,1,add
+476810-output1,the cat,the white cat,0,change
+476810-output2,cat,a television behind a cat,0,add
+379977-input,a brown horse,a pink unicorn,1,change
+379977-output1,a field,a river near a field,0,add
+508582-input,the pizzas,the peperoni pizzas,1,change
+2886-input,fork,knife,1,change
+2886-output1,veggies and french fries,less veggies and more french fries,0,change
+498988-input,screen,blue screen,1,change
+498988-output1,table with bottle ,table,0,remove
+322574-input,food,food a soda can in the back,1,add
+322574-output1,hotdog,hotdog with mustard,0,add
+322574-output2,food,food with a salad on the right side,0,add
+400922-input,logo on the sign,smiley face on the sign,1,change
+400922-output1,the clock with hour hand,the clock,0,remove
+173401-input,cow,leaping cow,1,change
+173401-output1,road,dirt road,0,change
+173401-output2,cow,parking lot near cow,0,add
+385026-input,the view,the ocean,1,change
+385026-output1,trees,buildings,0,add
+512442-input,woman holding bowl,woman,1,remove
+512442-output1,the elephant,a baby giraffe,0,change
+92661-input,the couch,the couch made of leather,1,change
+92661-output1,laptop,laptop showing animals,0,change
+92661-output2,door,red door,0,change
+132847-input,British flag,Canadian flag,1,change
+132847-output1,plane with number,plane,0,remove
+132847-output2,the plane,a man crouch under the plane,0,add
+513200-input,the giraffes,the baby giraffe under its mother,1,add
+536103-input,potatoes,baked beans,1,change
+536103-output1,toast,a single slice of toast,0,change
+536103-output2,the plate,kid holds the plate,0,change
+37662-input,cap and other stuff,cap,1,remove
+37662-output1,cap,cap with japanese flag,0,add
+241319-input,a sink,a sink and a rubber duck,1,add
+254004-input,luggage,crate,1,change
+254004-output1,people,people and men in suits,0,add
+254004-output2,people,people and a golf cart,0,add
+367375-input,passengers,singing passengers,1,change
+367375-output1,horse,horse with a long mane,0,change
+367375-output2,horse,neighing horse,0,change
+396330-input,guys,guys raising hands,1,change
+396330-output1,basketball court with a basketball hoop,basketball court,0,remove
+396330-output2,basketball court,indoor swimming pool,0,add
+208868-input,a plate,a pizza on a plate,1,add
+208868-output1,a pizza,a glass of wine and a pizza,0,add
+208868-output2,candle on a table,a table,0,remove
+326174-input,people carrying surfbords,people,1,remove
+326174-output1,the ocean,a boat in the ocean,0,add
+326174-output2,the sky,birds in the sky,0,add
+489358-input,truck,school bus,1,change
+489358-output1,cars behind the bus,bicycles behind the bus,0,change
+512854-input,man,man holding a trophy,1,change
+512854-output1,man,man in halloween costume,0,change
+512854-output2,couch,fluffy bed,0,change
+213547-input,a woman,a woman sitting in a chair,1,change
+130586-input,a kite,a bird,1,change
+130586-output1,a boy,a girl,0,change
+130586-output2,a girl,a dog next to a girl,0,add
+274460-input,people and surfboards,people,1,remove
+274460-output1,people,people and dog,0,add
+499733-input,guy,guy wearing futuristic glasses,1,change
+499733-output1,guy,smiling guy,0,change
+499733-output2,guy,bald guy,0,change
+415958-input,a woman,a man,1,change
+3661-input,bananas,oranges,1,change
+3661-output1,oranges,oranges and a glass of water,0,add
+438876-input,man ,man holds a tennis ball,1,add
+438876-output1,man,man sticking his tongue out,0,change
+438876-output2,tennis racquet,stick,0,change
+172686-input,a bowl,a bowl of dessert,1,add
+172686-output1,the table,a watermelons on the table,0,add
+172686-output2,the bowl,a rat sniffs the bowl,0,add
+144269-input,man,man with long hair,1,change
+144269-output1,people on the bus,the bus,0,remove
+221212-input,people on an elephant,an elephant,1,remove
+221212-output1,an elephant,an elephant with small trunk,0,change
+127648-input,dessert with two cherries on top,dessert with one cherry on top,1,change
+485234-input,the board,bread on the board,1,change
+485234-output1,the bread,a cup of coffee behind the bread,0,add
+485234-output2,the bread,a knife on a bread,0,add
+510955-input,a woman,a woman with glasses,1,add
+475169-input,the pigeons,a cat watching the pigeons,1,add
+276055-input,the woman,the woman wearing a mask,1,change
+280490-input,the tray,a pancake on the tray,1,add
+280490-output1,the pancakes,some fries next to the pancakes,0,add
+329737-input,keyboard,yellow keyboard,1,change
+329737-output1,computer,computer with a blue webpage,0,add
+329737-output2,a mouse,a hamster,0,change
+466567-input,a donut,an apple,1,change
+139653-input,sky,a flock of birds flying by,1,add
+539143-input,a train,a train smiles with eyes and a mouth,1,change
+539143-output1,a train,a train stops in front of a train station building,0,add
+529266-input,brown horse,white horse,1,change
+529266-output1,lake,a boat in a lake,0,add
+529266-output2,lawn,tall shrubs in a lawn,0,add
+376773-input,kids,an alien next to the kids,1,add
+376773-output1,the kids,a swimming pool by the kids,0,add
+148508-input,the bus,the yellow bus,1,change
+446917-input,a bike,a motorcycle,1,change
+446917-output1,a banana,a carrot,0,add
+446917-output2,a street,a traffic cone,0,add
+271402-input,two girls,one girl,1,remove
+271402-output1,a girl,a girl and a cat,0,add
+161047-input,the table,a birthday cake on the table,1,add
+161047-output1,the table,a child sitting at the table,0,add
+161047-output2,a child,a child wearing a birthday hat,0,add
+32778-input,man,man in a yellow sweatshirt,1,change
+283638-input,a plate,a hand holds a plate,1,add
+21404-input,a clock,a clock with English numbers,1,change
+21404-output1,a clock,palm trees and a clock,0,add
+21404-output2,sky,a flock of birds flying across,0,add
+544615-input,a child,a child holding a banana,1,change
+391388-input,broccoli and onions,an apple,1,change
+163852-input,fried food,a tomato slice,1,change
+171757-input,a woman,a woman holds a bottle of wine,1,add
+434217-input,a frisbee,a soda bottle,1,change
+410366-input,boys,boys playing a ball,1,change
+410366-output1,boys,a lake behind buys,0,add
+410366-output2,boys,boys and a girl,0,add
+118209-input,horses,horses with saddles,1,add
+118209-output1,horses,horses wearing shoes,0,add
+118209-output2,horses,a hill behind horses,0,change
+439602-input,hotdog,hotdog with no buns,1,remove
+439602-output1,plate,transparent plae,0,change
+439602-output2,hotdog,a hand touching hotdog,0,add
+77444-input,donuts,canapes,1,change
+77444-output1,table,a cup of tea on a table,0,add
+77444-output2,table,an open laptop on a table,0,add
+398157-input,the counter,a vase of flowers to the counter,1,add
+339634-input,food plate,food plate with a lobster,1,add
+339634-output1,food plate,food plate with a dipping sauce,0,add
+158702-input,toilet,open toilet,1,change
+158702-output1,plant,plant with blue flowers,0,change
+158702-output2,the shower curtains,the shower curtains are open,0,change
+277020-input,a man,a smiling man,1,change
+277020-output1,a man,a blonde man,0,change
+277020-output2,a tie with stripes,a tie,0,remove
+425609-input,forks,spoons,1,change
+425609-output1,a cupcake,a cupcake with strawberry frosting,0,add
+425609-output2,a cupcake with frosting,a strawberry on top of a cupcake with frosting,0,add
+228435-input,a sink with a towel,a sink ,1,remove
+392991-input,chocolate on cake,cake,1,remove
+392991-output1,the cake,strawberry on top of the cake,0,add
+392991-output2,a cake and the chocolate spoon,a cake,0,remove
+360762-input,a bear in a basket,a rabbit in a basket,1,change
+360762-output1,a rabbit,a rabbit and an egg,0,add
+25528-input,the pitcher,the pitcher wearing gloves,1,change
+25528-output1,baseball outfit,military uniform,0,change
+25528-output2,the buildings at the back,the conifers at the back,0,change
+466945-input, the sky,a spaceship in the sky,1,add
+466945-output1,the sidewalk,an alien walking on the sidewalk,0,add
+485083-input,floor,a rat on the floor,1,add
+12766-input,the table, a glass of wine on the table,1,add
+12766-output1,the table,a bowl of eggs on the table,0,add
+12766-output2,the glass,a bottle of wine next to the glass,0,add
+127517-input,surfboards,surfboards and legs of a lifeguard stand,1,add
+127517-output1,the beach,a seagull on the beach,0,add
+127517-output2,a seagull,a beach umbrella by a seagull,0,add
+409050-input,a living room with a table,a living room,1,remove
+409050-output1,glass door,aquarium,0,change
+327702-input,a child,a bag,1,change
+327702-output1,woman,woman feeding a tiger,0,change
+153669-input,a helmet,a top hat,1,change
+297426-input,a mouse,a lizard next to a mouse,1,add
+297426-output1,a photo with black panels,a photo,0,remove
+297426-output2,a photo,a photo with a cellphone,0,add
+52603-input,frisbee,football,1,change
+52603-output1,man,man wearing a blue jersey,0,change
+52603-output2,man,a dog running toward a man,0,add
+258674-input,a car,a white car,1,change
+382559-input,a table,an empty table,1,remove
+154597-input,green seats,chairs,1,change
+154597-output1,table,round table,0,change
+154597-output2,a room,a room with a brown door,0,add
+407650-input,the sky,a helicopter in the sky,1,add
+573764-input,a classroom,a cafeteria,1,change
+573764-output1,pizza,school lunches,0,change
+349302-input,a giraffe,a monkey,1,change
+349302-output1,animals,a parked car near animals,0,add
+56896-input,the television,the television showing yaga,1,change
+56896-output1,the curtains,the red curtains,0,change
+56896-output2,window,window shows a view of an airport runway,0,change
+144534-input,skillet,skillet with vegan food,1,change
+144534-output1,the skillet,a woman holding the skillet,0,add
+144534-output2,bottle of olive oil,soy sauce,0,change
+476335-input,a man,a woman,1,change
+476335-output1,a man,a woman,0,change
+149-input,the field,a river next to the field,1,add
+149-output1,the field,a forest behind the field,0,add
+92212-input,parked cars,parked limousines,1,change
+92212-output1,Pay Here sign,Stop sign,0,change
+92212-output2,cars,cars with pedestrians walking on the side,0,add
+561514-input,floor,tiled floor,1,change
+561514-output1,the island,a raccoon on the island,0,add
+561514-output2,the ceiling,a chandelier on the ceiling,0,add
+294943-input,cat,cat with a hat,1,add
+294943-output1,man,man with a hat,0,add
+146457-input,a boy,a boy wearing a hat,1,add
+146457-output1,a girl,a girl holding a ketchup,0,add
+399547-input,toothbrushes,forks,1,change
+551701-input,a girl standing on a stone,a girl standing on grass,1,change
+551701-output1,a girl,a fat girl,0,change
+551701-output2,a girl playing with a frisbee,a girl,0,remove
+67027-input,food,food with a glass of milk,1,add
+272876-input,the boy on the skateboard,the boy standing on the skateboard,1,change
+272876-output1,a door,a wall,0,remove
+272876-output2,the boy,a cop staring at the boy,0,add
+443320-input,apple,green apple,1,change
+443320-output1,an orange,a fly on an orange,0,add
+189461-input,a cup,a straw coming out of the cup,1,add
+148634-input,the cat,the cat hugs a stuffed teddy bear,1,add
+148634-output1,car door,car door is open,0,change
+500270-input,the sky,a UFO to the sky,1,add
+500270-output1,park and palm trees,park,0,remove
+294920-input,a book and a glass of water,a book and a glass of wine,1,change
+454209-input,the stove,the microwave,1,change
+454209-output1,the shelf,bottles on the shelf,0,add
+572765-input,the water,a submarine in the water,1,add
+204871-input,the animal stickers,a smiley face sticker,1,change
+47294-input,a sign,"a \""NO\"" sign",1,change
+265145-input,a woman,a woman laughs,1,change
+265145-output1,a woman,a woman wears an expensive ball gown,0,change
+265145-output2,the bottles,barbeque food,0,change
+457268-input,a monkey hanging from the shelf,a gorilla hanging from the shelf,1,change
+197656-input,a train,a black bullet train,1,change
+197656-output1,a train,buildings behind a train,0,add
+44080-input,a fruit bowl,a salad bowl,1,change
+44080-output1,orange drink,a cup of cola,0,change
+44080-output2,food,food and a clipboard,0,add
+324012-input,the monitor,a woman and a child on the monitor,1,change
+434485-input,a watermelon,a sliced watermelon,1,change
+573483-input,a cherub,a monkey,1,change
+573483-output1,a clock,a large bell,0,change
+573483-output2,the monkey,an owl next to the monkey,0,add
+360449-input,a street,an empty street,1,change
+360449-output1,a street,a street and a car parking garage,0,add
+360449-output2,a street,a street and a toll booth,0,add
+455219-input,the oxen,a snake on the road in front of the oxen,1,add
+468203-input,a teddy bear,a teddy bear wearing a crown,1,add
+364549-input,the woman,the woman wears a designer gown,1,change
+364549-output1,shrubs near the woman,the woman,0,remove
+364549-output2,the woman,the woman is next to a park,0,change
+416125-input,a sign ,a yield sign,1,change
+109921-input,a window with blind,a window,1,remove
+169763-input,a bike,a monkey on top of a bike,1,add
+279994-input, the dog,a butterfly on the dog,1,add
+95061-input,a bus ,a woman next to a bus,1,add
+116746-input,fence,parking lot,1,change
+116746-output1,the machine,a person leaning on the machine,1,add
+116746-output2,a parking lot,an indoor lot,0,change
+47074-input,woman,woman wearing a party gown,1,change
+47074-output1,kitchen,kitchen with a bowl with roast chicken,0,add
+47074-output2,woman,woman painting the wall,0,change
+147545-input,the kitchen,a baby in the kitchen,1,add
+147545-output1,a baby,a hat on a baby,0,add
+211118-input,a rabbit on top of a tree trunk,a rabbit on top of a planet,1,change
+211118-output1,sheeps behind a rabbit,a rabbit,0,remove
+131075-input,the screen of the laptop,a girl in the screen of the laptop,1,change
+131075-output1,the projected image,a picture of a flower on the projected image,0,change
+385042-output1,brick sidewalk,asphalt street,0,change
+464144-input,man,boy,1,change
+65135-input,large passenger sitting,large passenger parking,1,change
+188148-output1,laptop,computer,0,change
+163431-output1,large bags,pillows,0,change
+494056-input,containers,containers with flowers,1,add
+500207-input,white plane,colored plane,1,change
+167863-input,cheese,sauce,1,change
